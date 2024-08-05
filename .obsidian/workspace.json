@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adasd.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adasd.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adasd.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adasd.md"
+                "file": "Sem título.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "bcc3992d792482cb",
   "lastOpenFiles": [
-    "adasd.md"
+    "Sem título.md",
+    "adasd.md",
+    "Teste"
   ]
 }
