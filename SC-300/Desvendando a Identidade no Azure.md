@@ -3,3 +3,4 @@
 	- Necessário manter a identidade **on-prem** sincronizada com a cloud Azure, de modo a **oferecer SSO aos utilizadores**. Não é aceitável **downtime** neste recurso. Existe uma peça que tem que estar em alta disponibilidade.
 	-  **Importante é pensar na arquitetura e não na ferramenta em si**.
 	- Os dispositivos dos utilizadores devem estar protegidos com sistemas que substitua o uso de senhas por autenticação forte de dois fatores nos dispositivos  e possua uma política de compliance estabelecida.
+	- O ambinente cl
