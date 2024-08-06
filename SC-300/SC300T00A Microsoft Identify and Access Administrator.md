@@ -77,5 +77,8 @@
 		- Can a user access the resource and what can they do when they access it?
 	- **Administration**
 		- Single view management
-		- Application 
+		- Application of Business rules
+		- Automated requests, approvals, and access assignment
+		- Entitlement management
 	- **Auditing**
+		- Track who does what, when, where
