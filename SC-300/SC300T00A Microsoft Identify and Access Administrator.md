@@ -33,8 +33,10 @@
 				- **Identity** -> **Secure IDENTIFY with Zero Trust** (basicamente do Azure AD)
 					- Identities
 				- **Endpoints** -> (Intune)
-				- **Data** -> (defender for cloud, defen)
+				- **Data** -> (defender for cloud, defender for workload, Information Protection)
 				- **Apps** -> 
+				- **Infrastructure** ->()
+				- **Network** -> 
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
