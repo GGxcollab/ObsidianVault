@@ -30,7 +30,7 @@
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
 			- **Deploying Zero Trust solutions**
-				- **Secure IDENTIFY with Zero Trust**
+				- Identity**Secure IDENTIFY with Zero Trust**
 					- Identities
 		- 2) Identify:
 			-  Descentralize Providers
