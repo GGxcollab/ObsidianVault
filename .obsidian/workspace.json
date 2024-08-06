@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mudei o SSC300.md",
+                "file": "Desvendando a Identidade no Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mudei o SSC300.md",
+                "file": "Desvendando a Identidade no Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mudei o SSC300.md",
+                "file": "Desvendando a Identidade no Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mudei o SSC300.md"
+                "file": "Desvendando a Identidade no Azure.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "bcc3992d792482cb",
   "lastOpenFiles": [
-    "mudei o SSC300.md",
+    "Desvendando a Identidade no Azure.md",
     "adasd.md",
-    "Teste"
+    "SC-300"
   ]
 }
