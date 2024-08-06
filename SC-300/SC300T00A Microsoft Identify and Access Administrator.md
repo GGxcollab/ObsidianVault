@@ -4,7 +4,7 @@
 	-  **Importante é pensar na arquitetura e não na ferramenta em si**.
 	- Os dispositivos dos utilizadores devem estar protegidos com sistemas que substitua o uso de senhas por autenticação forte de dois fatores nos dispositivos  e possua uma política de compliance estabelecida.
 	- O ambiente cloud Azure deve possuir um sistema que bloqueia o acesso de dispositivos que não estejam em compliance.
-##### - **Explore Identify in Azure AD**
+#### - **Explore Identify in Azure AD**
 - *Identify Landscape:*
 		- 1) Zero Trust
 			- **Princípios:** 
@@ -29,8 +29,9 @@
 			- **Proteja os ativos onde eles estão com Zero Trust:**
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
-			- **Deploynf Zero Trust solutions**
-				- 
+			- **Deploying Zero Trust solutions**
+				- **Secure IDENTIFY with Zero Trust**
+					- 
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
