@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "93507c5607a68e54",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
+                "file": "SC-300/Desvendando a Identidade no Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
+                "file": "SC-300/Desvendando a Identidade no Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md"
+                "file": "SC-300/Desvendando a Identidade no Azure.md"
               }
             }
           }
@@ -158,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93507c5607a68e54",
+  "active": "bcc3992d792482cb",
   "lastOpenFiles": [
-    "SC-300/Desvendando a Identidade no Azure.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
+    "SC-300/Desvendando a Identidade no Azure.md",
     "Excalidraw",
     "adasd.md",
     "SC-300"
