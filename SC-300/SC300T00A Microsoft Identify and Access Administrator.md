@@ -34,7 +34,7 @@
 				- **Identity** -> **Secure IDENTIFY with Zero Trust** (basicamente do Azure AD)
 					- Identities
 				- **Endpoints** -> (Intune, Microsoft Endpoint Manager)
-				- **Data** -> (defender for cloud, defender for workload, Information Protection)
+				- **Data** -> (Microsoft Information Protection, defender for cloud)
 				- **Apps** -> 
 				- **Infrastructure** -> (Microsoft Defender for Cloud Apps, Defender for Server, Azure Firewall, WAF)
 				- **Network** -> (Azure Networking)
