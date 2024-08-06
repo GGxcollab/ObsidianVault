@@ -85,4 +85,4 @@
 		- Focused alerting
 		- In-depth collated reporting
 		- Governance & Compliance
-- #### **What  identify?**
+- #### **What is an identify Provider (IdP)**
