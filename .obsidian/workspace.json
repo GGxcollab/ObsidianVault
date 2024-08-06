@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desvendando a Identidade no Azure.md",
+                "file": "SC-300/Desvendando a Identidade no Azure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desvendando a Identidade no Azure.md",
+                "file": "SC-300/Desvendando a Identidade no Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desvendando a Identidade no Azure.md",
+                "file": "SC-300/Desvendando a Identidade no Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desvendando a Identidade no Azure.md"
+                "file": "SC-300/Desvendando a Identidade no Azure.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bcc3992d792482cb",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
-    "Desvendando a Identidade no Azure.md",
+    "SC-300/Desvendando a Identidade no Azure.md",
     "adasd.md",
     "SC-300"
   ]
