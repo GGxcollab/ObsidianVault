@@ -9,5 +9,5 @@
 		- 1) Zero Trust
 			- Princípios: 
 				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede;
-				- Use Least Privilege: Trabalhar com menor privile
+				- Use Least Privilege: Trabalhar com menor privilegio possivel
 				- Assume breach:
