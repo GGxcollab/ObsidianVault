@@ -17,3 +17,5 @@
 				- B2C
 				- Verifiable Credencials
 				- ambiente AD ou on-premiss
+		- 3) Actions:
+			- 
