@@ -9,7 +9,11 @@
 		- 1) Zero Trust
 			- Princípios: 
 				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede / ambiente;
-					- Always valida
+					- Always validate all avaliable data points including
+						- User identify and location
+						- Device health
+						- Service ou workload context
+						- 
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 				- Assume breach: assumir riscos;
 			- Proteja os ativos onde eles estão com Zero Trust:
