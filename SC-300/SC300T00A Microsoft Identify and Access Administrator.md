@@ -62,4 +62,4 @@
 			- Olhar para o CAF quando vc pensar em migrar para nuvem e levar os workloads para la
 		- Build for cloud: Well Architected Framework (WAF)
 			- Visa melhorar a qualidade dos meus Worloads
-			- Ou seja, significa que voce ja migrou para nuvem, mas precisa de ajudar para melh
+			- Ou seja, significa que voce ja migrou para nuvem, mas precisa de ajudar para melhorar como o ambiente esta configurado la dentro, modernizando e melhorando-o
