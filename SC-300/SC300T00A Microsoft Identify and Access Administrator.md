@@ -7,7 +7,7 @@
 ##### - **Explore Identify in Azure AD**
 - *Identify Landscape:*
 		- 1) Zero Trust
-			- Princípios: 
+			- **Princípios:** 
 				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede / ambiente;
 					- Always validate all avaliable data points including
 						- User identify and location
@@ -26,9 +26,11 @@
 						- **Segmenting access** by network, user, devices and app awareness
 						- **Encrypting** all sesseions end to end
 						- **Use analytics** for threat detection, posture visibility and improving defenses
-			- Proteja os ativos onde eles estão com Zero Trust:
+			- **Proteja os ativos onde eles estão com Zero Trust:**
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
+			- **Deploynf Zero Trust solutions**
+				- 
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
