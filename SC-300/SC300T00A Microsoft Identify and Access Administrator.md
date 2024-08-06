@@ -35,7 +35,7 @@
 				- **Endpoints** -> (Intune)
 				- **Data** -> (defender for cloud, defender for workload, Information Protection)
 				- **Apps** -> 
-				- **Infrastructure** ->()
+				- **Infrastructure** -> (Defender for Server, Azure Firewall,WAF)
 				- **Network** -> 
 		- 2) Identify:
 			-  Descentralize Providers
