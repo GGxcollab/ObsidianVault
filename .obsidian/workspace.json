@@ -11,11 +11,9 @@
             "id": "bcc3992d792482cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
-                "mode": "source",
-                "source": false
+                "file": "SC-300/Pasted image 20240806144559.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
+                "file": "SC-300/Pasted image 20240806144559.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
+                "file": "SC-300/Pasted image 20240806144559.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md"
+                "file": "SC-300/Pasted image 20240806144559.png"
               }
             }
           }
@@ -147,12 +145,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "bcc3992d792482cb",
   "lastOpenFiles": [
     "SC-300/Pasted image 20240806144605.png",
+    "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
     "SC-300/Pasted image 20240806144559.png",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
-    "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
     "Excalidraw",
     "adasd.md",
     "SC-300"
