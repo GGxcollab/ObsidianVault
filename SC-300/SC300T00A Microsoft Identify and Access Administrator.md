@@ -58,5 +58,5 @@
 - #### **Architecture Frameworks**
 	- Identify is an important pular in Azure architecture Frameworks
 		- Adopting the cloud: Cloud Adoption Framework
-			- 
+			- Documentação virado para componente de implementação, melhores práticas, ferramentas que ajuda na jornada 
 		- Build for cloud: Well Architected Framework
