@@ -68,7 +68,11 @@
 			- 
 - #### **Why use an identify?**
 	- **Autentication**
-		- User 
+		- User sign-on experience
+		- Trusted source(s)
+		- Federative protocols
+		- Level of assurance
 	- **Authorization**
+		- How and where are authorizations handled
 	- **Administration**
-	- **Auditing**
+	- **Auditi
