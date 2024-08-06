@@ -17,7 +17,7 @@
 				- B2C
 				- Verifiable Credencials
 				- ambiente AD ou on-premiss
-		- 3) Actions:
+		- 3) Actions: (ações que eu posso fazer)
 			-  Authenticate - Prove - AuthN
 			- Authorize - Get - AuthZ
 			- Administer - Configure
@@ -25,5 +25,5 @@
 		- 4) Usage: (como irei usar de forma segura)
 			- Secure -> Cryptography
 			- Service are paid -> Licenses
-		- 5) Maintain
+		- 5) Maintain: (como que ira manter isso)
 			- Protect - Detect - Respond
