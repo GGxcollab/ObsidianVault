@@ -17,8 +17,8 @@
 						- Data classification
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 					- To help secure both data and productivity, limit user access using
-						- Just-in-**time** (JIT) -> Por quanto tempo ****
-						- Just-**Enough**-Access (JEA) -> Por
+						- Just-in-**time** (JIT) -> Por quanto tempo (**PROVA**)
+						- Just-**Enough**-Access (JEA) -> Somente aquele acesso (**Prova**)
 						- Risk-based **adaptive** polices
 						- Data protection against **out of band** vectors
 				- Assume breach: assumir riscos;
