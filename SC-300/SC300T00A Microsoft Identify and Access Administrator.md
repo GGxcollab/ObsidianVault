@@ -30,12 +30,13 @@
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
 			- **Deploying Zero Trust solutions**
+			- ![[Pasted image 20240806161459.png]]
 				- **Identity** -> **Secure IDENTIFY with Zero Trust** (basicamente do Azure AD)
 					- Identities
 				- **Endpoints** -> (Intune)
 				- **Data** -> (defender for cloud, defender for workload, Information Protection)
 				- **Apps** -> 
-				- **Infrastructure** -> (Defender for Server, Azure Firewall,WAF)
+				- **Infrastructure** -> (Defender for Server, Azure Firewall, WAF)
 				- **Network** -> 
 		- 2) Identify:
 			-  Descentralize Providers
