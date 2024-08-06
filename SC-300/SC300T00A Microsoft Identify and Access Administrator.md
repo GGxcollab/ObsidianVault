@@ -23,7 +23,8 @@
 						- Data protection against **out of band** vectors
 				- Assume breach: assumir riscos;
 					- Minimize blast radius for breaches and prevent lateral movement by
-					- 
+						- **Segmenting access** by network, user, devices and app awareness
+						- **Encrypting** 
 			- Proteja os ativos onde eles estão com Zero Trust:
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
