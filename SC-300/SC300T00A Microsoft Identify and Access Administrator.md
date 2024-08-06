@@ -11,7 +11,9 @@
 				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede;
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 				- Assume breach: assumir riscos;
-			- Secure assets where they are with Zero Trust
+			- Secure assets where they are with Zero Trust:
+				- Classic approach - Restrict everything to a "secure" network;
+				- Zero Trust - 
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
