@@ -12,4 +12,8 @@
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 				- Assume breach: assumir riscos;
 		- 2) Identify:
-			- 
+			-  Descentralize Providers
+				- B2B
+				- B2C
+				- Verifiable Credencials
+				- ambiente AD ou on-premiss
