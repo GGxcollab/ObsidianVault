@@ -27,5 +27,5 @@
 			- Service are paid -> Licenses
 		- 5) Maintain: (como que ira manter isso)
 			- Protect - Detect - Respond
-		- ![[Pasted image 20240806144605.png]]
-	- 
+		- ![[Pasted image 20240806144559.png]]
+- 
