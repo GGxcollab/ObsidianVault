@@ -16,6 +16,8 @@
 						- Anomalies
 						- Data classification
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
+					- To help secure both data and productivity, limit user access using
+						- Just-in-time
 				- Assume breach: assumir riscos;
 			- Proteja os ativos onde eles estão com Zero Trust:
 				- Classic approach - Restrinja tudo a uma rede "segura";
