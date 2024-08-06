@@ -19,7 +19,8 @@
 					- To help secure both data and productivity, limit user access using
 						- Just-in-**time** (JIT)
 						- Just-**Enough**-Access (JEA)
-						- Risj-based **adapt**
+						- Risk-based **adaptive** polices
+						- Data protection against **out of band** vectors
 				- Assume breach: assumir riscos;
 			- Proteja os ativos onde eles estão com Zero Trust:
 				- Classic approach - Restrinja tudo a uma rede "segura";
