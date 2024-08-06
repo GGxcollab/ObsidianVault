@@ -12,8 +12,8 @@
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 				- Assume breach: assumir riscos;
 			- Secure assets where they are with Zero Trust:
-				- Classic approach - Restrict everything to a "secure" network;
-				- Zero Trust - Protect assests anywhere with central policy
+				- Classic approach - Restrinja tudo a uma rede "segura";
+				- Zero Trust - Proteja os ativos em qualquer lugar com a política central
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
