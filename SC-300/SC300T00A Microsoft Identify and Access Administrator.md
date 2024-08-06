@@ -90,4 +90,5 @@
 		- A repository of user identities
 		- An authentication system
 		- Security protocols that defenf against instrusion
-		- 
+		- Someone we trust
+	- Algum sistema vai identificar a identidades dos utilizadores e esse sistema ira garantir 
