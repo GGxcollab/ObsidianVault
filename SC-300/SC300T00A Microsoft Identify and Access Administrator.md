@@ -18,4 +18,6 @@
 				- Verifiable Credencials
 				- ambiente AD ou on-premiss
 		- 3) Actions:
-			- 
+			-  Authenticate - Prove - AuthN
+			- Authorize - Get - AuthZ
+			- Administrer
