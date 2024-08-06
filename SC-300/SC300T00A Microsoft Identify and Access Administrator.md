@@ -65,3 +65,5 @@
 			- Visa melhorar a qualidade dos meus Worloads
 			- Ou seja, significa que voce ja migrou para nuvem, mas precisa de ajudar para melhorar como o ambiente esta configurado la dentro, modernizando e melhorando-o
 			- ![[Pasted image 20240806163731.png]]
+			- 
+- #####
