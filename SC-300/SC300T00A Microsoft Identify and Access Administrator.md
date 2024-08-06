@@ -74,5 +74,8 @@
 		- Level of assurance
 	- **Authorization**
 		- How and where are authorizations handled
+		- Can a user access the resource and what can they do when they access it?
 	- **Administration**
-	- **Auditi
+		- Single view management
+		- Application 
+	- **Auditing**
