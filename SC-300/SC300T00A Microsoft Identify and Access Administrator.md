@@ -13,7 +13,7 @@
 				- Assume breach: assumir riscos;
 			- Proteja os ativos onde eles estão com Zero Trust:
 				- Classic approach - Restrinja tudo a uma rede "segura";
-				- Zero Trust - Proteja os ativos em qualquer lugar com a política central
+				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
