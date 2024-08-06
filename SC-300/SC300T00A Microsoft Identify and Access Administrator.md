@@ -18,10 +18,12 @@
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 					- To help secure both data and productivity, limit user access using
 						- Just-in-**time** (JIT) -> Por quanto tempo (**PROVA**)
-						- Just-**Enough**-Access (JEA) -> Somente aquele acesso (**Prova**)
+						- Just-**Enough**-Access (JEA) -> Somente aquele acesso (**PROVA**)
 						- Risk-based **adaptive** polices
 						- Data protection against **out of band** vectors
 				- Assume breach: assumir riscos;
+					- Minimize blast radius for breaches and prevent lateral movement by
+					- 
 			- Proteja os ativos onde eles estão com Zero Trust:
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
