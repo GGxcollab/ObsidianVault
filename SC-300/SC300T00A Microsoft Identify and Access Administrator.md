@@ -75,12 +75,12 @@
 	- **Authorization** -> to get permission to do something
 		- How and where are authorizations handled
 		- Can a user access the resource and what can they do when they access it?
-	- **Administration**
+	- **Administration** -> to be able to (self) administer an identify
 		- Single view management
 		- Application of Business rules
 		- Automated requests, approvals, and access assignment
 		- Entitlement management
-	- **Auditing** -> to be able to (self) 
+	- **Auditing** -> to report on what was done
 		- Track who does what, when, where and how
 		- Focused alerting
 		- In-depth collated reporting
