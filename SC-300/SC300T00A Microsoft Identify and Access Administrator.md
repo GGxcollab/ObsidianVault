@@ -20,4 +20,7 @@
 		- 3) Actions:
 			-  Authenticate - Prove - AuthN
 			- Authorize - Get - AuthZ
-			- Administrer
+			- Administer - Configure
+			- Audit - Report
+		- 4) Usage: (como irei usar de forma segura)
+			- 
