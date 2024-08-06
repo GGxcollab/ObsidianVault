@@ -67,12 +67,12 @@
 			- ![[Pasted image 20240806163731.png]]
 			- 
 - #### **Why use an identify?**
-	- **Autentication**
+	- **Autentication** -> to be able to prove what we are
 		- User sign-on experience
 		- Trusted source(s)
 		- Federative protocols
 		- Level of assurance
-	- **Authorization**
+	- **Authorization** -> to get permission to do something
 		- How and where are authorizations handled
 		- Can a user access the resource and what can they do when they access it?
 	- **Administration**
@@ -80,7 +80,7 @@
 		- Application of Business rules
 		- Automated requests, approvals, and access assignment
 		- Entitlement management
-	- **Auditing**
+	- **Auditing** -> to be able to (self) 
 		- Track who does what, when, where and how
 		- Focused alerting
 		- In-depth collated reporting
