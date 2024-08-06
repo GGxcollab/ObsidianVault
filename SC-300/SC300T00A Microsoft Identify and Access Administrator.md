@@ -57,4 +57,5 @@
 		- ![[Pasted image 20240806144559.png]]
 - #### **Architecture Frameworks**
 	- Identify is an important pular in Azure architecture Frameworks
-		- Adoptin
+		- Adopting the cloud: Cloud Adoption Framework
+		- Build for cloud: Well Architected Framework
