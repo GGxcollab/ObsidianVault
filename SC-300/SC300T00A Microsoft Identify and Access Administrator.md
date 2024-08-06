@@ -67,21 +67,22 @@
 			- ![[Pasted image 20240806163731.png]]
 			- 
 - #### **Why use an identify?**
-	- **Autentication** -> to be able to prove what we are
+	- **Autentication** -> para poder provar o que somos
 		- User sign-on experience
 		- Trusted source(s)
 		- Federative protocols
 		- Level of assurance
-	- **Authorization** -> to get permission to do something
+	- **Authorization** -> para obter permissão para fazer algo
 		- How and where are authorizations handled
 		- Can a user access the resource and what can they do when they access it?
-	- **Administration** -> to be able to (self) administer an identify
+	- **Administration** -> ser capaz de (auto) administrar uma identidade
 		- Single view management
 		- Application of Business rules
 		- Automated requests, approvals, and access assignment
 		- Entitlement management
-	- **Auditing** -> to report on what was done
+	- **Auditing** -> para relatar o que foi feito
 		- Track who does what, when, where and how
 		- Focused alerting
 		- In-depth collated reporting
 		- Governance & Compliance
+- #### **What  identify?**
