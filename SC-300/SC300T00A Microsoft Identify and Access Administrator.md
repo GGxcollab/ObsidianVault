@@ -67,4 +67,8 @@
 			- ![[Pasted image 20240806163731.png]]
 			- 
 - #### **Why use an identify?**
-	- 
+	- **Autentication**
+		- User 
+	- **Authorization**
+	- **Administration**
+	- **Auditing**
