@@ -24,7 +24,8 @@
 				- Assume breach: assumir riscos;
 					- Minimize blast radius for breaches and prevent lateral movement by
 						- **Segmenting access** by network, user, devices and app awareness
-						- **Encrypting** 
+						- **Encrypting** all sesseions end to end
+						- **Use analytics** for threat detection, posture visibility and improving defenses
 			- Proteja os ativos onde eles estão com Zero Trust:
 				- Classic approach - Restrinja tudo a uma rede "segura";
 				- Zero Trust - Proteja os ativos em qualquer lugar com a política central;
