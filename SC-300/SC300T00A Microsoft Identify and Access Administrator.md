@@ -81,4 +81,7 @@
 		- Automated requests, approvals, and access assignment
 		- Entitlement management
 	- **Auditing**
-		- Track who does what, when, where
+		- Track who does what, when, where and how
+		- Focused alerting
+		- In-depth collated reporting
+		- Governance & Compliance
