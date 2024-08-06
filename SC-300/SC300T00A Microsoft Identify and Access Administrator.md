@@ -59,5 +59,5 @@
 	- Identify is an important pular in Azure architecture Frameworks
 		- Adopting the cloud: Cloud Adoption Framework (CAF)
 			- Documentação virado para componente de implementação, melhores práticas, ferramentas que ajuda na jornada adoção de nuvem
-			- Olhar para o CAF quando vc pensar em migrar para nuvem
-		- Build for cloud: Well Architected Framework
+			- Olhar para o CAF quando vc pensar em migrar para nuvem e levar os workloads para la
+		- Build for cloud: Well Architected Framework ()
