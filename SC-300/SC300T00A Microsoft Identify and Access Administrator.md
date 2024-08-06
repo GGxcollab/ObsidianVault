@@ -7,5 +7,7 @@
 - **Explore Identify in Azure AD**
 	- *Identify Landscape:
 		- 1) Zero Trust
-			- principios: 
-				- 
+			- Princípios: 
+				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede;
+				- Use Least Privilege: Trabalhar com menor privile
+				- Assume breach:
