@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/Desvendando a Identidade no Azure.md",
+                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Desvendando a Identidade no Azure.md",
+                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Desvendando a Identidade no Azure.md",
+                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Desvendando a Identidade no Azure.md"
+                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "bcc3992d792482cb",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
-    "SC-300/Desvendando a Identidade no Azure.md",
+    "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
     "Excalidraw",
     "adasd.md",
     "SC-300"
