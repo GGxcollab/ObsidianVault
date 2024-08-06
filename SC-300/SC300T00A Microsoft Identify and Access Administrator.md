@@ -13,7 +13,7 @@
 				- Assume breach: assumir riscos;
 			- Secure assets where they are with Zero Trust:
 				- Classic approach - Restrict everything to a "secure" network;
-				- Zero Trust - 
+				- Zero Trust - Protect assests anywhere with central policy
 		- 2) Identify:
 			-  Descentralize Providers
 				- B2B
