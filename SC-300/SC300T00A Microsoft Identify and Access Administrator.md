@@ -13,7 +13,8 @@
 						- User identify and location
 						- Device health
 						- Service ou workload context
-						- 
+						- Anomalies
+						- Data classification
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 				- Assume breach: assumir riscos;
 			- Proteja os ativos onde eles estão com Zero Trust:
