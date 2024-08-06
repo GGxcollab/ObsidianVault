@@ -6,7 +6,7 @@
 	- O ambiente cloud Azure deve possuir um sistema que bloqueia o acesso de dispositivos que não estejam em compliance.
 #### - **Explore Identify in Azure AD**
 - #### *Identify Landscape:*
-		- 1) ZERO TRUST
+		- 1) **ZERO TRUST**
 			- **Princípios:** 
 				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede / ambiente;
 					- Always validate all avaliable data points including
@@ -38,13 +38,13 @@
 				- **Apps** -> 
 				- **Infrastructure** -> (Microsoft Defender for Cloud Apps, Defender for Server, Azure Firewall, WAF)
 				- **Network** -> (Azure Networking)
-		- 2) Identify:
+		- 2) **IDENTIFY**:
 			-  Descentralize Providers
 				- B2B
 				- B2C
 				- Verifiable Credencials
 				- ambiente AD ou on-premiss
-		- 3) Actions: (ações que eu posso fazer)
+		- 3) **ACTIONS**: (ações que eu posso fazer)
 			-  Authenticate - Prove - AuthN
 			- Authorize - Get - AuthZ
 			- Administer - Configure
