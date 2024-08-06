@@ -23,4 +23,7 @@
 			- Administer - Configure
 			- Audit - Report
 		- 4) Usage: (como irei usar de forma segura)
-			- 
+			- Secure -> Cryptography
+			- Service are paid -> Licenses
+		- 5) Maintain
+			- Protect - Detect - Respond
