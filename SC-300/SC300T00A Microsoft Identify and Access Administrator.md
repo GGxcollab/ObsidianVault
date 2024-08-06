@@ -8,7 +8,8 @@
 - *Identify Landscape:*
 		- 1) Zero Trust
 			- Princípios: 
-				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede;
+				- Verify Explicitly: Verificar explicitamente tudo que acontece na minha rede / ambiente;
+					- Always valida
 				- Use Least Privilege: Trabalhar com menor privilegio possivel;
 				- Assume breach: assumir riscos;
 			- Proteja os ativos onde eles estão com Zero Trust:
