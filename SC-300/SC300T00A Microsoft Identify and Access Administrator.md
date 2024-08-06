@@ -86,3 +86,4 @@
 		- In-depth collated reporting
 		- Governance & Compliance
 - #### **What is an identify Provider (IdP)**
+	- An identify provider (IdP) is a system that creates, manage
