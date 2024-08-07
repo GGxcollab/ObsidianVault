@@ -37,6 +37,8 @@
 		- **Novo Grupo**
 			- Tipos de grupo (Novo grupo): (**PROVA**)
 				- Segurança e Microsoft365;
-				- Diferença: sempre que eu criar um grupo e colocar pessoas nela e da permissão a elas para criar vm, ter acesso a storage account e etc, é um grupo de Segurança (usado 99% das vezes). Já o Microsoft365 ele vai servir somente para certo um grupo de pessoas que estao dentro de um "bloco" que vao podem ter  as permissoes de storage account, para criar VM, add maquinas dentro do azure, porem tambem sera criado uma caixa de email para esse grupo, diante disso todas as pessoas que estao dentro desse grupo vao ter a permissão de acordo com o que voce decidir, mas vai ser criado uma caixa de email para esse grupo, logo se alguem disparar um email para esse grupo (grupo@organização.com.br), todos as pessoas que tiverem dentro iram recebe a msg
-			- Sempre colocar a Descrição
-			- Recomendado colocar as funções do Microsoft Azure AD depois
+				- Diferença: sempre que eu criar um grupo e colocar pessoas nela e da permissão a elas para criar vm, ter acesso a storage account e etc, é um grupo de Segurança (usado 99% das vezes). Já o Microsoft365 ele vai servir somente para certo um grupo de pessoas que estao dentro de um "bloco" que vao podem ter  as permissoes de storage account, para criar VM, add maquinas dentro do azure, porem tambem sera criado uma caixa de email para esse grupo, diante disso todas as pessoas que estao dentro desse grupo vao ter a permissão de acordo com o que voce decidir, mas vai ser criado uma caixa de email para esse grupo, logo se alguem disparar um email para esse grupo (grupo@organização.com.br), todos as pessoas que tiverem dentro iram recebe a msg.
+			- Sempre colocar a Descrição;
+			- Recomendado colocar as funções do Microsoft Azure AD depois;
+			- Tipos de associação:
+				- 
