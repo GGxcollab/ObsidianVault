@@ -6,4 +6,4 @@
 	- **Unified identify management**
 		- Manage all yours identities and access to all your application in a central location, whether they're in the cloud or on-premises, to improve visibility and control 
 	- **Simplified identify governance**
-		- Control access to apps and da
+		- Control access to apps and data for all users and admins efficiently with automated identify governance to ensure anly authorized have access
