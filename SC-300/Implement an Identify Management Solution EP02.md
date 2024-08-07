@@ -17,7 +17,7 @@
 	- **Subscription**:
 		- como a sua propria conta, a subscrição
 		- É oq eu vc vai utilizar para consumir recursos dentro da Microsoft
-	- **Identify**
+	- **Identity**
 		- Um objeto que pode ser autenticado
 		- Pode ser uma pessoa, um dispositivo, aplicação
 	- **Account**
