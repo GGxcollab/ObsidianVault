@@ -30,5 +30,5 @@
 - ####**Microsoft Entra Verified ID**
 	- Microsoft Azure AD implementation of Descentralized Identify
 		- Aligns To the W3C Descentralized Identifiers (DIDs) spec using JSON documents
-		- S
+		- ![[Pasted image 20240807152129.png]]
 		- 
