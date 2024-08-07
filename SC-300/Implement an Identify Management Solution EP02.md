@@ -37,4 +37,4 @@
 		- Tipos de grupo (Novo grupo): (**PROVA**)
 			- Segurança:
 			- Microsoft365:
-			- Diferença: sempre que eu criar um grupo  e colocar pessoas nela com uma permissão
+			- Diferença: sempre que eu criar um grupo  e colocar pessoas nela e da permissão a elas para criar vm, ter acesso a storage account
