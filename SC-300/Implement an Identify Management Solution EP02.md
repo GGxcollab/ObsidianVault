@@ -2,6 +2,7 @@
 	- **Secure adaptive access**
 		- Protect access to resources and data using strond authentication and risk-based adaptive access policiues without compromising user experience
 	- **Seamless user experiences**
-		- Provide an easy, fast sign-in experience across your multicloud environment to keep yours
+		- Provide an easy, fast sign-in experience across your multicloud environment to keep your users productive,reduce time managing passwords, and increase productivity
 	- **Unified identify management**
+		- Manage all yours identities and access to all your application in a central location, whether they
 	- **Simplified identify governance**
