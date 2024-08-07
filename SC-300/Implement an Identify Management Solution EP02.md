@@ -24,5 +24,5 @@
 		- Quando uma identidade passa a ter dados associados a ela
 	- **User**
 		- Uma identidade unica dentro do Azure AD que pode ser verificada
-		- Contas que podem ser verificadas pelo Azu
+		- Contas que podem ser verificadas pelo Azure AD
 	- 
