@@ -12,4 +12,5 @@
 	- ![[Pasted image 20240807142257.png]]
 	- **Tenant**: 
 		- locatario/conta, basicamente é uma conta na microsoft, vender uma conta na microsoft com uma instancia,
+		- Voce cria uma conta (tenant) na nuvem e todos os recursos vao estar la dentro
 		- 
