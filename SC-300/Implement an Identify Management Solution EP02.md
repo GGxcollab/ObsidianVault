@@ -25,4 +25,5 @@
 	- **User**
 		- Uma identidade unica dentro do Azure AD que pode ser verificada
 		- Contas que podem ser verificadas pelo Azure AD
-	- Credencia
+	- Credenciais Verificaveis
+		- 
