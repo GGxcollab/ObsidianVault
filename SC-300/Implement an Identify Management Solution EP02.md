@@ -41,6 +41,6 @@
 			- Sempre colocar a Descrição;
 			- Recomendado colocar as funções do Microsoft Azure AD depois;
 			- Tipos de associação: (**PROVA**)
-				- Atribuído: significa que eu como proprietario, s
+				- Atribuído: significa que eu como proprietario, sera um grupo fechado e restrito, o dono que terá que colocar ou retirar pessoas
 				- Usuário Dinâmico:
 				- Dispositivo Dinâmico
