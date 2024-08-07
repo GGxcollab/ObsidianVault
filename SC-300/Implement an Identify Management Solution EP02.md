@@ -1,9 +1,10 @@
 - #### **Azure Active Directory**
 	- **Secure adaptive access**
-		- Proteja o acesso a recursos e dados usando autenticação strond e políticas de acesso adaptativo baseadas em risco sem comprometer a experiência do usuário
+		- Proteja o acesso a recursos e dados usando autenticação forte e políticas de acesso adaptativo baseadas em risco sem comprometer a experiência do usuário
 	- **Seamless user experiences**
 		- Forneça uma experiência de login fácil e rápida em seu ambiente multicloud para manter seus usuários produtivos, reduzir o tempo de gerenciamento de senhas e aumentar a produtividade
 	- **Unified identify management**
 		- Gerencie todas as suas identidades e acesse todos os seus aplicativos em um local central, estejam eles na nuvem ou no local, para melhorar a visibilidade e o controle 
 	- **Simplified identify governance**
 		- Controle o acesso a aplicativos e dados para todos os usuários e administradores de forma eficiente com governança de identificação automatizada para garantir que todos os autorizados tenham acesso
+- #### **Azure **
