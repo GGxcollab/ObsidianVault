@@ -16,10 +16,12 @@
 		- em primeira instancia vc vai ter todo o AD la dentro so que free
 	- **Subscription**:
 		- como a sua propria conta, a subscrição
+		- É oq eu vc vai utilizar para 
 	- **Identify**
 		- Um objeto que pode ser autenticado
 		- Pode ser uma pessoa, um dispositivo, aplicação
 	- **Account**
 		- Quando uma identidade passa a ter dados associados a ela
 	- **User**
-		- 
+		- Uma identidade unica dentro do Azure AD que pode ser verificada
+	- 
