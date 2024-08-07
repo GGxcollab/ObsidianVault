@@ -15,4 +15,5 @@
 		- Voce cria uma conta (tenant) na nuvem e todos os recursos vao estar la dentro 
 		- em primeira instancia vc vai ter todo o AD la dentro so que free
 	- **Subscription**:
+		- como a sua propria conta, a subscrição
 		- 
