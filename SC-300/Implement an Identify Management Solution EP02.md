@@ -43,4 +43,4 @@
 			- Tipos de associação: (**PROVA**)
 				- Atribuído: significa que eu como proprietario, sera um grupo fechado e restrito, o dono que terá que colocar ou retirar pessoas
 				- Usuário Dinâmico e Dispositivo Dinâmico
-					- Todas as vezes que o grupo for dinamico, alguma coisa ira entrar e tambem sair
+					- Todas as vezes que o grupo for dinamico, alguma coisa ira entrar e tambem sair, seja Utilizadores ou Dispositivos, dependendo de uma regra.					- 
