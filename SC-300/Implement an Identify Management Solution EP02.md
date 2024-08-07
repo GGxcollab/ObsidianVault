@@ -17,4 +17,6 @@
 	- **Subscription**:
 		- como a sua propria conta, a subscrição
 	- **Identify**
-		- 
+		- Um objeto que pode ser autenticado
+		- Pode ser uma pessoa, um dispositivo, aplicação
+		- Quando uma 
