@@ -31,4 +31,4 @@
 	- Microsoft Azure AD implementation of Descentralized Identify
 		- Aligns To the W3C Descentralized Identifiers (DIDs) spec using JSON documents
 		- ![[Pasted image 20240807152129.png]]
-		- 
+		-  
