@@ -92,3 +92,4 @@
 		- Security protocols that defenf against instrusion
 		- Someone we trust
 	- Algum sistema vai identificar a identidades dos utilizadores e esse sistema ira garantir que essa pessoa é quem ela diz que é.
+#### -
