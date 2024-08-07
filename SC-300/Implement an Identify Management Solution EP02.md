@@ -7,4 +7,5 @@
 		- Gerencie todas as suas identidades e acesse todos os seus aplicativos em um local central, estejam eles na nuvem ou no local, para melhorar a visibilidade e o controle 
 	- **Simplified identify governance**
 		- Controle o acesso a aplicativos e dados para todos os usuários e administradores de forma eficiente com governança de identificação automatizada para garantir que todos os autorizados tenham acesso
-- #### **Azure **
+- #### **Azure AD architecture and terms**
+	- Azure AD is a cloud-based identify and access management solution, with ont
