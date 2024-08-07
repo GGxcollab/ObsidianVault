@@ -1,5 +1,6 @@
 - #### **Azure Active Directory**
 	- **Secure adaptive access**
+		- Protect access to resources and data using strond authentication and risk-basef
 	- **Seamless user experiences**
 	- **Unified identify management**
 	- **Simplified identify governance**
