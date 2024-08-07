@@ -10,4 +10,6 @@
 - #### **Azure AD architecture and terms**  (PROVA)
 	- Azure AD is a cloud-based identify and access management solution, with ontegrated security with a flat architectural design
 	- ![[Pasted image 20240807142257.png]]
-	- Tenant: locatario/conta, basicamente é uma conta na microsoft, vender 
+	- **Tenant**: 
+		- locatario/conta, basicamente é uma conta na microsoft, vender uma conta na microsoft com uma instancia,
+		- 
