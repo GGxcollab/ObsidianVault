@@ -26,6 +26,9 @@
 		- Uma identidade unica dentro do Azure AD que pode ser verificada
 		- Contas que podem ser verificadas pelo Azure AD
 	- Credenciais Verificaveis
+		- Certificado digital
 - ####**Microsoft Entra Verified ID**
 	- Microsoft Azure AD implementation of Descentralized Identify
 		- Aligns To the W3C Descentralized Identifiers (DIDs) spec using JSON documents
+		- S
+		- 
