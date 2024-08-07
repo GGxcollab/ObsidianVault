@@ -34,5 +34,6 @@
 - #### Componentes Azure AD
 	- Users
 	- Grupo:
-		- Tipos de grupo:
-			- Seguran
+		- Tipos de grupo (Novo grupo): (**PROVA**)
+			- Segurança:
+			- Microsoft365:
