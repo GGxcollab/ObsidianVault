@@ -41,4 +41,5 @@
 			- Sempre colocar a Descrição;
 			- Recomendado colocar as funções do Microsoft Azure AD depois;
 			- Tipos de associação:
+				- Atribuido:
 				- 
