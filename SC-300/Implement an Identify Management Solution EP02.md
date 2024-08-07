@@ -2,4 +2,4 @@
 	- **Secure adaptive access**
 	- **Seamless user experiences**
 	- **Unified identify management**
-	- **Simplified identify governace**
+	- **Simplified identify governance**
