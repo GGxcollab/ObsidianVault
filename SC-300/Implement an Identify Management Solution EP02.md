@@ -28,4 +28,4 @@
 	- Credenciais Verificaveis
 - ####**Microsoft Entra Verified ID**
 	- Microsoft Azure AD implementation of Descentralized Identify
-	- Ali
+		- Aligns To the W3C Descentralized Identifiers (DIDs) spec using JSON documents
