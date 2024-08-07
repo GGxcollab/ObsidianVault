@@ -19,4 +19,7 @@
 	- **Identify**
 		- Um objeto que pode ser autenticado
 		- Pode ser uma pessoa, um dispositivo, aplicação
-		- Quando uma 
+	- **Account**
+		- Quando uma identidade passa a ter dados associados a ela
+	- **User**
+		- 
