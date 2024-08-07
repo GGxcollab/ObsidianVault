@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
+                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator EP01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "031306366b38f210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SC-300/Sem título.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
+                "file": "SC-300/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
+                "file": "SC-300/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/SC300T00A Microsoft Identify and Access Administrator.md"
+                "file": "SC-300/Sem título.md"
               }
             }
           }
@@ -149,11 +162,12 @@
   },
   "active": "b17778aabb903a9d",
   "lastOpenFiles": [
+    "SC-300/SC300T00A Microsoft Identify and Access Administrator EP01.md",
+    "SC-300/Sem título.md",
     "SC-300/Pasted image 20240806163731.png",
     "SC-300/Pasted image 20240806163713.png",
     "SC-300/Pasted image 20240806161459.png",
     "SC-300/Pasted image 20240806144559.png",
-    "SC-300/SC300T00A Microsoft Identify and Access Administrator.md",
     "SC-300/Pasted image 20240806144605.png",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
     "Excalidraw",
