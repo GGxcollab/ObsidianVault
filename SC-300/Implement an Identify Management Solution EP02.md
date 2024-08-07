@@ -16,7 +16,7 @@
 		- em primeira instancia vc vai ter todo o AD la dentro so que free
 	- **Subscription**:
 		- como a sua propria conta, a subscrição
-		- É oq eu vc vai utilizar para 
+		- É oq eu vc vai utilizar para consumir recursos dentro da Microsoft
 	- **Identify**
 		- Um objeto que pode ser autenticado
 		- Pode ser uma pessoa, um dispositivo, aplicação
