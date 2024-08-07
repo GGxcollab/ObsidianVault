@@ -4,5 +4,6 @@
 	- **Seamless user experiences**
 		- Provide an easy, fast sign-in experience across your multicloud environment to keep your users productive,reduce time managing passwords, and increase productivity
 	- **Unified identify management**
-		- Manage all yours identities and access to all your application in a central location, whether they
+		- Manage all yours identities and access to all your application in a central location, whether they're in the cloud or on-premises, to improve visibility and control 
 	- **Simplified identify governance**
+		- Control access to apps and da
