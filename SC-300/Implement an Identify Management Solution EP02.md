@@ -16,4 +16,5 @@
 		- em primeira instancia vc vai ter todo o AD la dentro so que free
 	- **Subscription**:
 		- como a sua propria conta, a subscrição
-	- 
+	- **Identify**
+		- 
