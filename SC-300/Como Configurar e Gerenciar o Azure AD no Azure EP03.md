@@ -13,3 +13,4 @@
 	- O que é um Locatário? (TENANT)
 		- O Azure AD organiza objetos como usuários e aplicativos em grupos chamados locatários.
 		- Os Locatários permitem que um administrador defina políticas para os usuários dentro da organização e os aplicativos que a organização tem para atender às políticas de segurança e operacionais.
+- ### ****
