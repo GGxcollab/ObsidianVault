@@ -10,4 +10,4 @@
 	- Entra e vai em "**Editar**"
 	- La dentro voce podera fazer as configurações da pagina de login
 - ### **Funções do Azure AD**
-	- 
+	- O que é um Locatário? (TENANT)
