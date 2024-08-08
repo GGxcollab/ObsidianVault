@@ -45,7 +45,7 @@
 				- Verifiable Credencials
 				- ambiente AD ou on-premiss
 		- 3) **ACTIONS**: (ações que eu posso fazer)
-			-  Authenticate - Prove - AuthN
+			- Authenticate - Prove - AuthN
 			- Authorize - Get - AuthZ
 			- Administer - Configure
 			- Audit - Report
@@ -56,7 +56,7 @@
 			- Protect - Detect - Respond
 		- ![[Pasted image 20240806144559.png]]
 - #### **Architecture Frameworks**
-	- Identify is an important pular in Azure architecture Frameworks
+	- Identity is an important pular in Azure architecture Frameworks
 		- Adopting the cloud: Cloud Adoption Framework (CAF)
 			- Documentação virado para componente de implementação, melhores práticas, ferramentas que ajuda na jornada adoção de nuvem
 			- Olhar para o CAF quando vc pensar em migrar para nuvem e levar os workloads para la
