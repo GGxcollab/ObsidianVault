@@ -8,4 +8,5 @@
 	- Pesquisar / Navegar ate o Azure Active Directory (AD).
 	- No Navegador da direita irá ate Identidade visual da empresa.
 	- Entra e vai em "**Editar**"
-		- 
+	- La dentro voce podera fazer as configurações da pagina de login
+	- 
