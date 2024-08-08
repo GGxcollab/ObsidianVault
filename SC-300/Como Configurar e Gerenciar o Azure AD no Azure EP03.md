@@ -5,4 +5,6 @@
 		- Office 365 (para aplicativos do Office).
 - ### **Como fazer para alterar a tela de login**
 	- Portal azure.
-	- Pesquisar 
+	- Pesquisar / Navegar ate o Azure Active Directory (AD).
+	- No Navegador da direita irá ate Identidade 
+	- 
