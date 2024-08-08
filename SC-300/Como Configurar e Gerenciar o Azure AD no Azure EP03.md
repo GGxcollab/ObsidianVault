@@ -15,4 +15,4 @@
 		- Os Locatários permitem que um administrador defina políticas para os usuários dentro da organização e os aplicativos que a organização tem para atender às políticas de segurança e operacionais.
 - ### **Zero Trust no Azure AD**
 	- A Confiança Zero é uma estratégia de segurança ´moderna baseada no princípio: nunca confie, sempre verifique.
-	- Em vez de supor que tudo atrás do firewall, sistema operacional, WAF e qualquer sistema corporativo está seguro, o modelo de Confiança Z
+	- Em vez de supor que tudo atrás do firewall, sistema operacional, WAF e qualquer sistema corporativo está seguro, o modelo de Confiança Zero supõe a existencia de violações e verifica cada solicitação como se fosse originária de forma não segura. Resumindo, como o nome diz: N
