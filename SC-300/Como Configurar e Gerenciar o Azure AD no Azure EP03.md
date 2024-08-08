@@ -18,4 +18,4 @@
 		- Em vez de supor que tudo atrás do firewall, sistema operacional, WAF e qualquer sistema corporativo está seguro, o modelo de Confiança Zero supõe a existência de violações e verifica cada solicitação como se fosse originária de forma não segura. Resumindo, como o nome diz: Não confie me nada.
 		- Utilizar o conceito de Zero Trust ao Administrador é fundamental.
 	- #### **O que é RBAC?**
-		-  RBAC é uma sigla para "Role-Based AccessContro"
+		-  RBAC é uma sigla para "Role-Based Access Control" (Controle de Acesso Baseado em Funções, em tradução livre). No contexto da Microsoft, especialmente em relação a serviços como o Azure, RBAC
