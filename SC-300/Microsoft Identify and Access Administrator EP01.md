@@ -85,8 +85,8 @@
 		- Focused alerting
 		- In-depth collated reporting
 		- Governance & Compliance
-- #### **What is an identify Provider (IdP)**
-	- An identify provider (IdP) is a system that creates, manages and stores digital identities. Microsoft Azure Active Directory is a example. The capabilities and features of identify providers can vary. The most common components are:
+- #### **What is an identity Provider (IdP)**
+	- An identity provider (IdP) is a system that creates, manages and stores digital identities. Microsoft Azure Active Directory is a example. The capabilities and features of identify providers can vary. The most common components are:
 		- A repository of user identities
 		- An authentication system
 		- Security protocols that defenf against instrusion
