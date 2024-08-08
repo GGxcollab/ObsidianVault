@@ -2,4 +2,4 @@
 	- Adicionar a identidade visual personalizada requer uma das seguintes licenças:
 		- Azure AD Premium 1.
 		- Azure AD Premium 2.
-		- Office 365 (para aplicativos do Office)
+		- Office 365 (para aplicativos do Office).
