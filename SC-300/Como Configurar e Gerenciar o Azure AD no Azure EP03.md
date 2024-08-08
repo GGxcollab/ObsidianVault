@@ -6,5 +6,6 @@
 - ### **Como fazer para alterar a tela de login**
 	- Portal azure.
 	- Pesquisar / Navegar ate o Azure Active Directory (AD).
-	- No Navegador da direita irá ate Identidade 
-	- 
+	- No Navegador da direita irá ate Identidade visual da empresa.
+	- Entra e vai em "**Editar**"
+		- 
