@@ -6,3 +6,4 @@
 			- **Gerenciamento de identidade externa**: A organização que convida um usuário externo pode gerenciar a identidade desse usuário externo no Azure AD ou em seu próprio sistema de identidade. Isso permite que a organização controle quem tem acesso aos seus recursos.
 			- **Colaboração Segura**: o Azure AD fornece recursos de segurança para proteger dados e recursos da organização contra ameaças externas, mesmo quando o usuários convidados estão envolvidos.
 			- **Autenticação segura**: os usuários convidados precisam autenticar-se para acessar os recursos métodos como senhas, autenticação de dois fatores ou outras opções de autenticação configuradas pela organização que os convidou.
+			- **Gerenciamento de acesso**: A organização que en
