@@ -13,4 +13,4 @@
 - ## **Usuários B2B**
 	- #### O que são usuários B2B?
 		- O termo B2B, no contexto do Azure AD, refere-se a "Business-to-Business", ou seja, quando uma organização colabora com outra organização.
-		- Quando falamos de usuários de B2B no Azure Active Directory, estamos nos referindo a um conjunto especí
+		- Quando falamos de usuários de B2B no Azure Active Directory, estamos nos referindo a um conjunto específico de capacidades que permite a uma organização compartilhar seus recursos e aplicativos com usuários externos sem precisar criar uma conta ou identidade separada para seus usuários em seu próprio diretório
