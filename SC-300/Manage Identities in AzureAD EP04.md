@@ -17,4 +17,4 @@
 	- #### Como convidar?
 		- Entre no portal azure e vai em Azure Active Directory.
 		- Após entrar, nos campos da esquerda, vai em "**Identidades Externas**"
-		- Antes de configurar, se caso nao tiver o usuário, terá que ir em "usuários", depois em Novo usuário, dai ai vai em "Convidar usuário "
+		- Antes de configurar, se caso nao tiver o usuário, terá que ir em "usuários", depois em Novo usuário, dai ai vai em "Convidar usuário externo"
