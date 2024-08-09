@@ -30,4 +30,5 @@
 		- No menu na lateral esquerda, procure por "**funções e administradores**"
 		
 - ## Domínio Personalizado
-	- O que é um dom
+	- O que é um domínio no Azure AD?
+		- O Azure AD é o serviço de identidade baseado em nuvem da Microsoft que ajuda as organizações a gerenciar
