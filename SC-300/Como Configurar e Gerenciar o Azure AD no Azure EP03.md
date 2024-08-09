@@ -20,4 +20,5 @@
 	- #### **O que é RBAC?**
 		- RBAC é uma sigla para "Role-Based Access Control" (Controle de Acesso Baseado em Funções, em tradução livre). No contexto da Microsoft, especialmente em relação a serviços como o Azure, RBAC é uma forma de gerir quem tem acesso a mais recursos em um ambiente de serviço em nuvem ou sistema operacional, e o que eles podem fazer com esses recursos.
 		- Por exemplo, em um ambiente empresarial usando o Microsoft Azure, voce pode ter diversas máquinas virtuais, bancos de dados, redes virtuais, etc. Ao utilizar RBAC, você pode designar funções específicas para diferentes usuários ou grupo. Cada função tem um conjunto específico de permissões ou proíbem ações sobre recursos.
-	- #### ****
+		
+	- No A a
