@@ -25,4 +25,4 @@
 		- Por exemplo, voce atribuir funções para permitir a adição ou alteração de usuários, a redefinição de senhas de usuários, o gerenciamento de licenças de usuários ou o gerenciamento de nomes de domínios.
 	- ![[Pasted image 20240809104238.png]]
 	- #### **Como navegar pelas Funções no Portal Azure**
-		- 
+		- Ao entrar no portaoazure.com, voce entrará na 
