@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "780f7a7fefc4240c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md"
+                "file": "Sem título.md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c28a6bef2ffa14a5",
+  "active": "780f7a7fefc4240c",
   "lastOpenFiles": [
+    "SC-300/Manage Identities in AzureAD EP04.md",
+    "Sem título.md",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
-    "SC-300/Manage Identities in AzureAD EP04.md",
     "SC-300/Pasted image 20240807152129.png",
     "SC-300/Pasted image 20240807142257.png",
     "SC-300/Pasted image 20240809104238.png",
