@@ -21,5 +21,6 @@
 		- RBAC é uma sigla para "Role-Based Access Control" (Controle de Acesso Baseado em Funções, em tradução livre). No contexto da Microsoft, especialmente em relação a serviços como o Azure, RBAC é uma forma de gerir quem tem acesso a mais recursos em um ambiente de serviço em nuvem ou sistema operacional, e o que eles podem fazer com esses recursos.
 		- Por exemplo, em um ambiente empresarial usando o Microsoft Azure, voce pode ter diversas máquinas virtuais, bancos de dados, redes virtuais, etc. Ao utilizar RBAC, você pode designar funções específicas para diferentes usuários ou grupo. Cada função tem um conjunto específico de permissões ou proíbem ações sobre recursos.
 		
-	- No Azure AD (Azure Active Directory), se outro administrador ou não administrador gerenciar recursos do Azure AD, atribua a ele uma função do Azure AD que forneça as premissões
-		- Por exemplo, voce atribuir funções para permitir a adição ou alteração de usuários, a redefinição de senhas de usuários, o gerenciamento de licenças de usuários ou o gerenciamento de nomes de dominios
+	- No Azure AD (Azure Active Directory), se outro administrador ou não administrador gerenciar recursos do Azure AD, atribua a ele uma função do Azure AD que forneça as permissões.
+		- Por exemplo, voce atribuir funções para permitir a adição ou alteração de usuários, a redefinição de senhas de usuários, o gerenciamento de licenças de usuários ou o gerenciamento de nomes de domínios.
+	- 
