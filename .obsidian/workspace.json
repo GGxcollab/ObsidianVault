@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP=05.md",
+                "file": "SC-300/Manage Identities in AzureAD EP04.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP=05.md",
+                "file": "SC-300/Manage Identities in AzureAD EP04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP=05.md",
+                "file": "SC-300/Manage Identities in AzureAD EP04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP=05.md"
+                "file": "SC-300/Manage Identities in AzureAD EP04.md"
               }
             }
           }
@@ -164,7 +164,7 @@
   "lastOpenFiles": [
     "SC-300/Pasted image 20240807152129.png",
     "SC-300/Pasted image 20240807142257.png",
-    "SC-300/Manage Identities in AzureAD EP=05.md",
+    "SC-300/Manage Identities in AzureAD EP04.md",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "SC-300/Pasted image 20240809104238.png",
     "SC-300/Implement an Identify Management Solution EP02.md",
