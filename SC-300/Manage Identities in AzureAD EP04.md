@@ -9,4 +9,5 @@
 			- **Gerenciamento de acesso**: A organização que envia o convite pode controlar as permissões e o nível de acesso concedido aos usuários convidados. Isso permite que eles restrinjam ou ampliem o acesso conforme o necessário.
 			- **Colaboração eficiente**
 		- Os usuários convidados são mais comuns em cenários de colaboração empresarial, onde equipes de diferentes organizações precisam trabalhar em conjunto de forma eficaz e segura.
-		- O A
+		- O Azure AD oferece ferramentas para gerencias, controlar e auditar o acesso de usuários, ajudando as organizações a colaborar de maneira segura na nuvem.
+	- 
