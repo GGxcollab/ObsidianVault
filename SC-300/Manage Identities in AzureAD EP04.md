@@ -11,5 +11,5 @@
 		- Os usuários convidados são mais comuns em cenários de colaboração empresarial, onde equipes de diferentes organizações precisam trabalhar em conjunto de forma eficaz e segura.
 		- O Azure AD oferece ferramentas para gerencias, controlar e auditar o acesso de usuários, ajudando as organizações a colaborar de maneira segura na nuvem.
 - ## **Usuários B2B**
-	- #### O que são Usuários B2B?
-		- 
+	- #### O que são usuários B2B?
+		- O termo B2B, no contexto do Azure AD, refere-se 
