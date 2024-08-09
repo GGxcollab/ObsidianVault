@@ -7,4 +7,5 @@
 			- **Colaboração Segura**: o Azure AD fornece recursos de segurança para proteger dados e recursos da organização contra ameaças externas, mesmo quando o usuários convidados estão envolvidos.
 			- **Autenticação segura**: os usuários convidados precisam autenticar-se para acessar os recursos métodos como senhas, autenticação de dois fatores ou outras opções de autenticação configuradas pela organização que os convidou.
 			- **Gerenciamento de acesso**: A organização que envia o convite pode controlar as permissões e o nível de acesso concedido aos usuários convidados. Isso permite que eles restrinjam ou ampliem o acesso conforme o necessário.
-			- **Colabora**
+			- **Colaboração eficiente**
+		- Os usuários convidados sç
