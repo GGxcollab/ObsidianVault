@@ -16,4 +16,5 @@
 		- Quando falamos de usuários de B2B no Azure Active Directory, estamos nos referindo a um conjunto específico de capacidades que permite a uma organização compartilhar seus recursos e aplicativos com usuários externos sem precisar criar uma conta ou identidade separada para seus usuários em seu próprio diretório. Em vez disso, os usuários externos podem acessar os recursos da organização usando suas próprias credenciais, seja do Azure AD, de um provedor de identidade social como Google ou Facebook, ou até mesmo de um provedor de email como Gmail ou Yahoo.
 	- #### Como convidar?
 		- Entre no portal azure e vai em Azure Active Directory.
-		- Após entrar, nos campos da esquerda, vai em "**Identidades Extrenas**"
+		- Após entrar, nos campos da esquerda, vai em "**Identidades Externas**"
+		- 
