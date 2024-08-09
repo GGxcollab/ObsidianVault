@@ -25,5 +25,5 @@
 		- **As configurações de acesso de SAÍDA** controlam se os usuários podem acessar recurso sem uma organização externa. É possível aplicar essas configurações a todos ou especificar usuários, grupos e aplicativos individuais.
 		- **As configurações de acesso de ENTRADA** controlam se os usuários de organizações externas do Azure AD podem acessar recursos em sua organização. É possível aplicar configurações a todos ou especificar usuários, grupos e aplicativos individuais.
 		- **As configurações de confiança (entrada)** determinam se suas políticas de acesso condicional confiarão no MFA, no dispositivo de conformidade e nas declarações de dispositivos ingressados no Azure AD híbrido de uma organização externa se os usuários já atenderam a esses requisitos em seus locatários de residência.
-- ## Como valida esse acesso externo de outra organização?
-- 
+- ## Como valida a config de acesso externo de outra organização?
+	- Navegue para dentro do Azure
