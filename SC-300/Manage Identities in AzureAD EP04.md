@@ -17,4 +17,4 @@
 	- #### Como convidar?
 		- Entre no portal azure e vai em Azure Active Directory.
 		- Após entrar, nos campos da esquerda, vai em "**Identidades Externas**"
-		- 
+		-]
