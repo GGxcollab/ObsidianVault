@@ -20,4 +20,4 @@
 		- Antes de configurar, se caso nao tiver o usuário, terá que ir em "usuários", depois em Novo usuário, dai ai vai em "Convidar usuário externo"
 - ## Acesso entre Locatários
 	- São as configurações organizacionais, que é aplicada dentro do seu Tenant.
-	- As configurações de acesso entre Locatários de identidades externas gerenciam a colaboração com outras organizações do Azure AD. Essas configurações determinam o nível de acesso de entrada que os usuparios nas organizações externas do Azure AD tem aos seus recur
+	- As configurações de acesso entre Locatários de identidades externas gerenciam a colaboração com outras organizações do Azure AD. Essas configurações determinam o nível de acesso de entrada que os usuparios nas organizações externas do Azure AD tem aos seus recursos, bem como o nível de acesso de saída que os usuários tem nas organizações externas.
