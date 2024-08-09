@@ -1,2 +1,3 @@
 - ### **Usuários Convidados**
-	- #### 
+	- #### O que são usuários convidados?
+		- No Azure AD, os usuários convidados são usuários que não fazem parte da organização que hospeda o 
