@@ -31,4 +31,4 @@
 		
 - ## Domínio Personalizado
 	- O que é um domínio no Azure AD?
-		- O Azure AD é o serviço de identidade baseado em nuvem da Microsoft que ajuda as organizações a gerenciar
+		- O Azure AD é o serviço de identidade baseado em nuvem da Microsoft que ajuda as organizações a gerenciar usuários, grupos e aplicativos. Dentro do contexto do Azure AD, um "domínio" refere-se a um espaço de nome que 
