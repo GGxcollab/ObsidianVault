@@ -4,6 +4,7 @@
 	-  **Importante é pensar na arquitetura e não na ferramenta em si**.
 	- Os dispositivos dos utilizadores devem estar protegidos com sistemas que substitua o uso de senhas por autenticação forte de dois fatores nos dispositivos  e possua uma política de compliance estabelecida.
 	- O ambiente cloud Azure deve possuir um sistema que bloqueia o acesso de dispositivos que não estejam em compliance.
+	- Azure AD é a maneira que eu tenho para criar e gerenciar todos os meus Utilizado
 #### - **Explore Identify in Azure AD**
 - #### *Identify Landscape:*
 		- 1) **ZERO TRUST**
