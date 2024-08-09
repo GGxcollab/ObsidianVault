@@ -35,4 +35,5 @@
 		- **Domínio Personalizado**: Quando você cria um diretório  no Azure AD, ele vem com um domínio padrão no formato "<nome_do_diretório>.onmicrosoft.com". No entanto, a maioria das organizações quer usar seus próprios domínios, com empresa.com.br. O Azure AD permite que você adicione seus próprios domínios personalizados e configure-os para o uso com Azure AD.
 	- Como configurar/administrar seu Domínio:
 		- Ao entrar no portal azure, no lado direito, vá ate "Nomes de domínio personalizados"
-		- 
+- ## Unidades Administrativas 
+	- 
