@@ -28,4 +28,6 @@
 	- #### **Como navegar pelas Funções no Portal Azure**
 		- Ao entrar no portaoazure.com, voce entrará na sessao do Azure Active Directory (AD).
 		- No menu na lateral esquerda, procure por "**funções e administradores**"
-- ## ****
+		
+- ## Domínio Personalizado
+	- O que é um dom
