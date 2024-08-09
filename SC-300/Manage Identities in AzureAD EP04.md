@@ -22,4 +22,4 @@
 	- São as configurações organizacionais, que é aplicada dentro do seu Tenant.
 	- As configurações de acesso entre Locatários de identidades externas gerenciam a colaboração com outras organizações do Azure AD. Essas configurações determinam o nível de acesso de entrada que os usuários nas organizações externas do Azure AD tem aos seus recursos, bem como o nível de acesso de saída que os usuários tem nas organizações externas.
 	- Por padrão, a colaboração B2B com outras organizações do Azure AD é habilitada e a conexão direta de B2B é bloqueada. Mas as seguintes configurações abrangentes de administrador permitem que voce gerencie esses dois recursos.
-		- 
+		- **As configurações de acesso de saída** controlam se os usuários podem acessar recursosem uma organi
