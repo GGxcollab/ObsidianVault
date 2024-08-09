@@ -12,4 +12,4 @@
 		- O Azure AD oferece ferramentas para gerencias, controlar e auditar o acesso de usuários, ajudando as organizações a colaborar de maneira segura na nuvem.
 - ## **Usuários B2B**
 	- #### O que são usuários B2B?
-		- O termo B2B, no contexto do Azure AD, refere-se 
+		- O termo B2B, no contexto do Azure AD, refere-se a "Business-to-Business", ou seja
