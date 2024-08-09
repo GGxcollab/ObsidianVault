@@ -8,43 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcc3992d792482cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC-300/Microsoft Identify and Access Administrator EP01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "031306366b38f210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC-300/Microsoft Identify and Access Administrator EP01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b28415739b818fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SC-300/Microsoft Identify and Access Administrator EP01.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240809104928.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Microsoft Identify and Access Administrator EP01.md",
+                "file": "Pasted image 20240809104928.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Microsoft Identify and Access Administrator EP01.md",
+                "file": "Pasted image 20240809104928.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Microsoft Identify and Access Administrator EP01.md"
+                "file": "Pasted image 20240809104928.png"
               }
             }
           }
@@ -174,11 +147,11 @@
   },
   "active": "5b28415739b818fa",
   "lastOpenFiles": [
-    "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
-    "Pasted image 20240809104928.png",
     "SC-300/Pasted image 20240809104238.png",
+    "Pasted image 20240809104928.png",
+    "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
+    "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
-    "SC-300/Microsoft Identify and Access Administrator EP01.md",
     "SC-300/Pasted image 20240807152129.png",
     "SC-300/Pasted image 20240807142257.png",
     "SC-300/Pasted image 20240806163731.png",
