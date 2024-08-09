@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure AD Connect EP05.md",
+                "file": "Azure AD Connect - Guia passo a passo EP05.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure AD Connect EP05.md",
+                "file": "Azure AD Connect - Guia passo a passo EP05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure AD Connect EP05.md",
+                "file": "Azure AD Connect - Guia passo a passo EP05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure AD Connect EP05.md"
+                "file": "Azure AD Connect - Guia passo a passo EP05.md"
               }
             }
           }
@@ -175,7 +175,7 @@
   "active": "780f7a7fefc4240c",
   "lastOpenFiles": [
     "SC-300/Manage Identities in AzureAD EP04.md",
-    "Azure AD Connect EP05.md",
+    "Azure AD Connect - Guia passo a passo EP05.md",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
     "SC-300/Pasted image 20240807152129.png",
