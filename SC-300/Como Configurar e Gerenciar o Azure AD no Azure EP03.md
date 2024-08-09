@@ -10,7 +10,7 @@
 	- Entra e vai em "**Editar**"
 	- La dentro voce podera fazer as configurações da pagina de login
 	
-- ## ==**Funções do Azure AD**==
+- ## **Funções do Azure AD**
 	- #### O que é um Locatário? (TENANT)
 		- O Azure AD organiza objetos como usuários e aplicativos em grupos chamados locatários.
 		- Os Locatários permitem que um administrador defina políticas para os usuários dentro da organização e os aplicativos que a organização tem para atender às políticas de segurança e operacionais.
@@ -28,3 +28,4 @@
 	- #### **Como navegar pelas Funções no Portal Azure**
 		- Ao entrar no portaoazure.com, voce entrará na sessao do Azure Active Directory (AD).
 		- No menu na lateral esquerda, procure por "**funções e administradores**"
+- ## ****
