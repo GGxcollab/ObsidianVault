@@ -11,9 +11,11 @@
             "id": "5b28415739b818fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240809104928.png"
+                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240809104928.png",
+                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240809104928.png",
+                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240809104928.png"
+                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md"
               }
             }
           }
