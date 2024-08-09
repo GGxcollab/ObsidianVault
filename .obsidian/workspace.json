@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c28a6bef2ffa14a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SC-300/Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
+                "file": "SC-300/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
+                "file": "SC-300/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md"
+                "file": "SC-300/Sem título.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b28415739b818fa",
+  "active": "c28a6bef2ffa14a5",
   "lastOpenFiles": [
-    "SC-300/Pasted image 20240809104238.png",
-    "SC-300/Implement an Identify Management Solution EP02.md",
-    "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
-    "Pasted image 20240809104928.png",
-    "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Pasted image 20240807152129.png",
     "SC-300/Pasted image 20240807142257.png",
+    "SC-300/Sem título.md",
+    "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
+    "SC-300/Pasted image 20240809104238.png",
+    "SC-300/Implement an Identify Management Solution EP02.md",
+    "Pasted image 20240809104928.png",
+    "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Pasted image 20240806163731.png",
     "SC-300/Pasted image 20240806163713.png",
     "SC-300/Pasted image 20240806161459.png",
