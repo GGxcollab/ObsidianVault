@@ -2,4 +2,5 @@
 	- #### O que são usuários convidados?
 		- No Azure AD, os usuários convidados são usuários que não fazem parte da organização que hospeda o Azure AD, mas que foram convidados a acessar recursos compartilhados ou aplicativos pertencentes a essa organização. Esses usuários podem ser colaboradores externos, parceiros de negócios, clientes ou qualquer pessoa que não seja funcionário da organização, mas que precise de acesso a recursos específicos.
 		- Aqui estão algumas características-chave dos usuários convidados no Azure AD:
-			- **Acesso a recursos específicos**: os usuários convidados tem acesso apenas aos recuros ou aplicativos para os quais foram convidados, limitando o acesso somente ao que é necessário oara colaborar ou interagir com a organização 
+			- **Acesso a recursos específicos**: os usuários convidados tem acesso apenas aos recuros ou aplicativos para os quais foram convidados, limitando o acesso somente ao que é necessário oara colaborar ou interagir com a organização que os convidou.
+			- 
