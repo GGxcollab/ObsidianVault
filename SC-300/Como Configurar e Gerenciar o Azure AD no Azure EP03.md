@@ -25,4 +25,5 @@
 		- Por exemplo, voce atribuir funções para permitir a adição ou alteração de usuários, a redefinição de senhas de usuários, o gerenciamento de licenças de usuários ou o gerenciamento de nomes de domínios.
 	- ![[Pasted image 20240809104238.png]]
 	- #### **Como navegar pelas Funções no Portal Azure**
-		- Ao entrar no portaoazure.com, voce entrará na 
+		- Ao entrar no portaoazure.com, voce entrará na sessao do Azure Active Directory (AD).
+		- No menu na lateral esquerda, procure por funções e administradores
