@@ -8,4 +8,5 @@
 			- **Autenticação segura**: os usuários convidados precisam autenticar-se para acessar os recursos métodos como senhas, autenticação de dois fatores ou outras opções de autenticação configuradas pela organização que os convidou.
 			- **Gerenciamento de acesso**: A organização que envia o convite pode controlar as permissões e o nível de acesso concedido aos usuários convidados. Isso permite que eles restrinjam ou ampliem o acesso conforme o necessário.
 			- **Colaboração eficiente**
-		- Os usuários convidados sç
+		- Os usuários convidados são mais comuns em cenários de colaboração empresarial, onde equipes de diferentes organizações precisam trabalhar em conjunto de forma eficaz e segura.
+		- O A
