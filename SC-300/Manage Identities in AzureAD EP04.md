@@ -4,4 +4,5 @@
 		- Aqui estão algumas características-chave dos usuários convidados no Azure AD:
 			- **Acesso a recursos específicos**: os usuários convidados tem acesso apenas aos recuros ou aplicativos para os quais foram convidados, limitando o acesso somente ao que é necessário oara colaborar ou interagir com a organização que os convidou.
 			- **Gerenciamento de identidade externa**: A organização que convida um usuário externo pode gerenciar a identidade desse usuário externo no Azure AD ou em seu próprio sistema de identidade. Isso permite que a organização controle quem tem acesso aos seus recursos.
-			- **Colaboração Segura**: o Azure AD fornece recursos de segurança para proteger dados e recursos da organ
+			- **Colaboração Segura**: o Azure AD fornece recursos de segurança para proteger dados e recursos da organização contra ameaças externas, mesmo quando o usuários convidados estão envolvidos.
+			- **Autenticação segura**: os usuários convidados precisam 
