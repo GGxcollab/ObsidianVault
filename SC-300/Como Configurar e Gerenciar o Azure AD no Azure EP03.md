@@ -38,4 +38,5 @@
 - ## Unidades Administrativas 
 	- O que são unidades administrativas?
 		- Uma Unidade Administrativa é um recurso do Azure AD que pode ser um contêiner para outros recursos do Azure AD. Um unidade administrativa pode conter apenas usuários, grupos ou dispositivos.
-		-  As unidades administrativas restringem as permissões de uma função a qualquer parte da organização que voce definir. Você pode, por exemplo, usar unidades administrativas para delegar a função de Administrador da assistencia técnica a especialistas de suporte regional, para que eles possam gerenciar usuários somente na região 
+		-  As unidades administrativas restringem as permissões de uma função a qualquer parte da organização que voce definir. Você pode, por exemplo, usar unidades administrativas para delegar a função de Administrador da assistencia técnica a especialistas de suporte regional, para que eles possam gerenciar usuários somente na região à qual dão suporte.
+		- Osusuários podem ser membros de várias unidades administrativas. Por exemplo, você pode adicionar usuarios a unidades admini
