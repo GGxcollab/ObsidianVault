@@ -36,4 +36,5 @@
 	- Como configurar/administrar seu Domínio:
 		- Ao entrar no portal azure, no lado direito, vá ate "Nomes de domínio personalizados"
 - ## Unidades Administrativas 
-	- O que são unidades administrativas
+	- O que são unidades administrativas?
+		- Uma Unidade Administrativa é um recurso do Azure AD que pode ser um contêiner para outros recursos do Azure AD. Um unidade administrativa 
