@@ -19,4 +19,4 @@
 		- Após entrar, nos campos da esquerda, vai em "**Identidades Externas**"
 		- Antes de configurar, se caso nao tiver o usuário, terá que ir em "usuários", depois em Novo usuário, dai ai vai em "Convidar usuário externo"
 - ## Acesso entre Locatários
-	- 
+	- São as configurações organizacionais, que é aplicada dentro do seu Tenant
