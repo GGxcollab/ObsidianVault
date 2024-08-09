@@ -22,4 +22,4 @@
 		- Por exemplo, em um ambiente empresarial usando o Microsoft Azure, voce pode ter diversas máquinas virtuais, bancos de dados, redes virtuais, etc. Ao utilizar RBAC, você pode designar funções específicas para diferentes usuários ou grupo. Cada função tem um conjunto específico de permissões ou proíbem ações sobre recursos.
 		
 	- No Azure AD (Azure Active Directory), se outro administrador ou não administrador gerenciar recursos do Azure AD, atribua a ele uma função do Azure AD que forneça as premissões
-		- Por exemplo, 
+		- Por exemplo, voce atribuir funções para permitir a adição ou alteração de usuários, a redefinição de senhas de usuários, o gerenciamento de licenças de usuários ou o gerenciamento de nomes de dominios
