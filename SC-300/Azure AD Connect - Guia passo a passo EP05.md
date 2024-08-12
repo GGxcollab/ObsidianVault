@@ -1,2 +1,3 @@
-- ## User sign-in
+- ## User sign-in (prova)
+	- Existe dos ambientes, on-premisse e nuvem, nisso o ad
 	- Password Hash Synchronization:
