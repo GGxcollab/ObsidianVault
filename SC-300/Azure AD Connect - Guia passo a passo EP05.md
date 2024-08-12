@@ -23,5 +23,5 @@
 			- 
 			- ![[Pasted image 20240812150854.png]]
 	- **Federation with PingFederate**
-		- 
+		- A diferença desse para o AD FS é que ao inves de usar um serviço da microsoft que é o AD FS, utiliza
 		
