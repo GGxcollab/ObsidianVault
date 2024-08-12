@@ -39,5 +39,6 @@
 		- É recomendado por boas práticas deixar configurado como "UserPrincipalName".
 	- **Identifying user**
 		- Deixar as configurações default que ja mostra, mais recomendado.
-	- 
+	- Optional Features
+		- O Password writeback so ira funcionar se tiver 
 		
