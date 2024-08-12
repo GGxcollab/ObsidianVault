@@ -15,7 +15,7 @@
 	- **Federation with AD FS (Federation Server)** / **Federation with PingFederate**
 		- É basicamente a mesma coisa.
 		- Tem comunicação direta com o Active Directory, onde ter que ter conhecimento do user e pass nessa comunicação, logo deve tambem deixar o FS junto com o AD em um rede privada/isolada e separada e segura, sem acesso a internet e se cria uma replica do FS em um ambiente publico.
-		- isso é uma forma de privar ainda mais o AD (loca) para que nao seja qualquer um que chegue la dentro, pq uma vez derrubado
+		- isso é uma forma de privar ainda mais o AD (local/on-premisses) (controlador de dominio) para que nao seja qualquer um que chegue la dentro, pq uma vez derrubado acabara com a rede inteira
 		- Como funciona:
 			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração colocado que quem ira fazer esse fluxo é o FS, e a partir disso o AD connect ira se comunicar com o Federation Server 
 			- É replica do azure AD que vira o Federaton Server que ira esse FS ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz, e o AD e o Federation Server seram utilizados somente para validar.
