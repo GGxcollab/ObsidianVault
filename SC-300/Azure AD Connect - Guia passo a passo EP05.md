@@ -1,4 +1,5 @@
-- Pode-se ter o 
+- Pode-se ter o AD Connect 
+- pode ter um ad conect para olhe par a forest
 - ## User sign-in (prova)
 	- Existe dos ambientes, on-premisse e nuvem, nisso o ad connect esta no meio do caminho sincronizando tudo que tem no seu on-premisse com a nuvem, podem sincronizar tudo ou o que voce quiser que ele sincroniza.
 	- **Password Hash Synchronization (PHS):** 
