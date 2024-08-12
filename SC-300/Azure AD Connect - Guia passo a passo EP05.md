@@ -13,5 +13,5 @@
 		- Parte ruim:
 			- Se o data center parar, ninguem mais consegue se conectar e utilizado em lugar nenhum.
 	- **Federation with AD FS**
-	- **Federation with AD FS**
+	- **Federation with Ping** 
 		
