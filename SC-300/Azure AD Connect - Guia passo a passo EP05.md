@@ -23,7 +23,7 @@
 			- ![[Pasted image 20240812150854.png]]
 	- **Federation with PingFederate**
 		- A diferença desse para o AD FS é que ao inves de usar um serviço da microsoft que é o AD FS, estará comprando uma aplicação de Terceiros chamado "PingFederate" que pertence a uma empresa chamada "Ping Identity" onde tera essa solução de serviço de autenticação .
-- ### É questao de prova saber quais sao as permi
+- ##### É questao de prova saber quais sao as permissões que são necessarias para conectar o Azure AD Connect com o Azure AD e o Azure AD Connect com o on-premisses
 - ## Connect to Azure AD
 	- Para que voce consiga fazer o login no Azure AD Connect, o utilizar no qual você ira logar, necessita necessariamente de uma role dentro dentro do Azure Active Directory de "Global Admin" para se conectar com o ambiente azure.
 - ## Sync
