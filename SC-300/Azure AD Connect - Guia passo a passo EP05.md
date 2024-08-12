@@ -15,15 +15,14 @@
 	- **Federation with AD FS (Federation Server)**
 		- É basicamente a mesma coisa.
 		- Tem comunicação direta com o Active Directory, onde tem que ter conhecimento do user e pass nessa comunicação com o AD, logo deve deixar o AD FS junto com o AD em um rede privada/isolada e separada e segura, sem acesso a internet e se cria uma replica do FS em um ambiente publico.
-		- isso é uma forma de privar ainda mais o AD (local/on-premisses) (controlador de dominio) para que nao seja qualquer um que chegue la dentro, pq uma vez derrubado acabara com a rede inteira
+		- isso é uma forma de privar ainda mais o AD (local/on-premisses) (controlador de dominio) para que nao seja qualquer um que chegue la dentro, pq uma vez derrubado acabara com a rede inteira.
 		- Como funciona:
 			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração colocado que quem ira fazer a autenticação desse fluxo é o AD FS, e a partir disso o AD connect ira se comunicar com o Federation Server proxy .
 			- O azure AD connect se comunica com o Federation proxy que se comunica com o Federation Server que fala com o AD que volta que retornará um token (que pode ter prazo de validade) e que ira voltar para a configuração novamente ate chegar no Azure AD e dizer que pode ou nao autenticar o utilizador.
 			- o Federaton Server é replica do azure AD que vira que ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz se comunica com o mesmo, que mandara uma solicitação para o AD e o Federation Server (que estao isolados) que serão utilizados somente para validar.
-			- 
 			- ![[Pasted image 20240812150854.png]]
 	- **Federation with PingFederate**
-		- A diferença desse para o AD FS é que ao inves de usar um serviço da microsoft que é o AD FS, estará comprando uma aplicação de Terceiros chamado "PingFederate" que pertence a uma empresa chamada "Ping Identity" onde tera essa solução de serviço de autenticação 
+		- A diferença desse para o AD FS é que ao inves de usar um serviço da microsoft que é o AD FS, estará comprando uma aplicação de Terceiros chamado "PingFederate" que pertence a uma empresa chamada "Ping Identity" onde tera essa solução de serviço de autenticação .
 - ## Connect to Azure AD
 	- Para que voce consiga fazer o login no Azure AD Connect, o utilizar no qual você ira logar, necessita necessariamente de uma role dentro dentro do Azure Active Directory de "Global Admin" para se conectar com o ambiente azure.
 - ## Sync
@@ -32,5 +31,5 @@
 		- Add Directory
 			- É recomendado fortemente que seja criado uma nova conta no AD forest account, para evitar erros de permissões e configurações.
 			- **ENTERPRISE ADMIN USERNAME**
-				- esse utilizador tem que ter permissoes/role de "entreprise admin" no ambiente local para se conectar com o ambiente on-premisses, com uma role de 
+				- esse utilizador tem que ter permissoes/role de "entreprise admin" no ambiente local para se conectar com o ambiente on-premisses.
 		
