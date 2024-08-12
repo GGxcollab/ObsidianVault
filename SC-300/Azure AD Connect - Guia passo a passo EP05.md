@@ -35,6 +35,6 @@
 			- É recomendado fortemente que seja criado uma nova conta no AD forest account, para evitar erros de permissões e configurações.
 			- **ENTERPRISE ADMIN USERNAME**
 				- esse utilizador tem que ter permissoes/role de "entreprise admin" no ambiente local para se conectar com o ambiente on-premisses.
-	- **Azure AD sign-in**
-		- 
+	- **Azure AD sign-in configuration**
+		- É recomendado por boas práticas deixar configurado como 
 		
