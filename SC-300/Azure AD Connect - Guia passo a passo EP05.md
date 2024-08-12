@@ -3,4 +3,4 @@
 	- Password Hash Synchronization (PHS): 
 		- recomendação oficial da microsoft
 		- Como funciona: 
-			- Existe um utilizador local chamado "Andre" com uma password "123", e o ad connect não sabe que senha é essa, mas ira fazer um calculo matematico e vai gerar um resultado, esse resultado é chamado de "hash", esse hash que foi criptografado durante esse processo, o ad co
+			- Existe um utilizador local chamado "Andre" com uma password "123", e o ad connect não sabe que senha é essa, mas ira fazer um calculo matematico e vai gerar um resultado, esse resultado é chamado de "hash", esse hash que foi criptografado durante esse processo, o ad conect ira mandar isso para o azure e deixara gravado la e essa criptografia nao é passiva de ser descriptografada
