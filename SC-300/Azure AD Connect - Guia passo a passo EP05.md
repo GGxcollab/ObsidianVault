@@ -40,5 +40,6 @@
 	- **Identifying user**
 		- Deixar as configurações default que ja mostra, mais recomendado.
 	- Optional Features
-		- O Password writeback so ira funcionar se tiver 
+		- O Password writeback so ira funcionar se tiver a licença Azure AD Premium P2
+			- Que é fazer a troca de password atraves de uma
 		
