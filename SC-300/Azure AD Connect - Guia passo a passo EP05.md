@@ -9,5 +9,5 @@
 			- diante disso,  um belo dia o utilizador vai no portal azure e decidiu logar com seu user e sua password, na hora que o azure receber essas informações, ira gerar um hash por meio de um calculo matematico e ira comparar para ver se o hash bate com o o do azure que foi cadastrado, e nisso ele nunca ira saber qual realmente é minha password sera somente uam comparação de hashs  
 	- **Pass-through authentication (PTA)**:
 		- Como funciona:
-			- É o contrario do PHS, significa que meu hash não funciona la dentro
+			- É o contrario do PHS, significa que meu hash não existe la dentro do azure e toda vez que o utilizador colocar seu user e passowrd
 		
