@@ -14,5 +14,7 @@
 			- Se o data center parar, ninguem mais consegue se conectar e utilizado em lugar nenhum.
 	- **Federation with AD FS (Federation Service)** / **Federation with PingFederate**
 		- É basicamente a mesma coisa.
-		-  
+		-  replica do azure AD
+		- ![[Pasted image 20240812150854.png]]
+		- 
 		
