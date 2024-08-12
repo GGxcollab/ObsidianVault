@@ -25,11 +25,12 @@
 	- **Federation with PingFederate**
 		- A diferença desse para o AD FS é que ao inves de usar um serviço da microsoft que é o AD FS, estará comprando uma aplicação de Terceiros chamado "PingFederate" que pertence a uma empresa chamada "Ping Identity" onde tera essa solução de serviço de autenticação 
 - ## Connect to Azure AD
-	- Para que voce consiga fazer o login no Azure AD Connect, o utilizar no qual você ira logar, necessita necessariamente de uma role dentro dentro do Azure Active Directory de "Global Admin".
+	- Para que voce consiga fazer o login no Azure AD Connect, o utilizar no qual você ira logar, necessita necessariamente de uma role dentro dentro do Azure Active Directory de "Global Admin" para se conectar com o ambiente azure.
 - ## Sync
 	- **Connect Directories**
+		- Ira se conectar com o ambiente on-premisses
 		- Add Directory
 			- É recomendado fortemente que seja criado uma nova conta no AD forest account, para evitar erros de permissões e configurações.
 			- **ENTERPRISE ADMIN USERNAME**
-				- esse utilizador tem que ter permissoes de entreprise admin
+				- esse utilizador tem que ter permissoes de entreprise admin para se concec
 		
