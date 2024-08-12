@@ -1,4 +1,4 @@
-- Pode-se ter o AD Connect 
+- Pode-se ter um  AD Connect ligado no meu Tenant falando com varios dominios, porem
 - pode ter um ad conect para olhe para toda floresta, mas nao se pode ter um AD connect para cada floresta falando com o meu tenant no azure
 - ## User sign-in (prova)
 	- Existe dos ambientes, on-premisse e nuvem, nisso o ad connect esta no meio do caminho sincronizando tudo que tem no seu on-premisse com a nuvem, podem sincronizar tudo ou o que voce quiser que ele sincroniza.
