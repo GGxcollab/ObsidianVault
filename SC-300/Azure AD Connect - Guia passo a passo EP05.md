@@ -42,5 +42,5 @@
 	- Optional Features
 		- O Password writeback so ira funcionar se tiver a licença Azure AD Premium P2
 			- Que é fazer a troca de password dos utilizadores atraves de um portal
-			- Então vou criar um portal dentro azure, os utilizadores terao acesso a uma página que é o SSPR, que permite que meus utilizadores dentro do azure
+			- Então vou criar um portal dentro azure, os utilizadores terao acesso a uma página que é o SSPR, que permite que meus utilizadores dentro do azure vao trocar sua password e essa informação volta para ser gravada dentro do meu Azure AD local
 		
