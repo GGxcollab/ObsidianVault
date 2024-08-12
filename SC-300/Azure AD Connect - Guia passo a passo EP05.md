@@ -14,7 +14,7 @@
 			- Se o data center parar, ninguem mais consegue se conectar e utilizado em lugar nenhum.
 	- **Federation with AD FS (Federation Server)** / **Federation with PingFederate**
 		- É basicamente a mesma coisa.
-		-  É replica do azure AD que vira o Federaton Server
+		-  É replica do azure AD que vira o Federaton Server que ira esse FS ira se replicar novamente para um ambiente exposto publicamente, ai sim o AD connect 
 		- ![[Pasted image 20240812150854.png]]
 		- 
 		
