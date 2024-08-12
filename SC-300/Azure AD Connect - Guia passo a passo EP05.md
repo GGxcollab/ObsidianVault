@@ -3,4 +3,4 @@
 	- Password Hash Synchronization (PHS): 
 		- recomendação oficial da microsoft
 		- Como funciona: 
-			- Existe um utilizador local chamado "Andre" com uma password "123", e o ad connect nç
+			- Existe um utilizador local chamado "Andre" com uma password "123", e o ad connect não sabe que senha é essa, mas ira fazer um calculo matematico 
