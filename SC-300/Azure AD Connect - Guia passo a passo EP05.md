@@ -9,5 +9,6 @@
 			- diante disso,  um belo dia o utilizador vai no portal azure e decidiu logar com seu user e sua password, na hora que o azure receber essas informações, ira gerar um hash por meio de um calculo matematico e ira comparar para ver se o hash bate com o o do azure que foi cadastrado, e nisso ele nunca ira saber qual realmente é minha password sera somente uam comparação de hashs  
 	- **Pass-through authentication (PTA)**:
 		- Como funciona:
-			- É o contrario do PHS, significa que meu hash não existe la dentro do azure e toda vez que o utilizador colocar seu user e password, o portal do azure vai se comunicar com AD connect "perguntando" e conferindo se existe esse user e a passowrd dele, o AD connect falando com o AD local para ver se é mesmo isso conferindo se é verdadeiro ou falso, ai ele devolvera a resposta para o AD Connect que devolvera para
+			- É o contrario do PHS, significa que meu hash não existe la dentro do azure e toda vez que o utilizador colocar seu user e password, o portal do azure vai se comunicar com AD connect "perguntando" e conferindo se existe esse user e a passowrd dele, o AD connect falando com o AD local para ver se é mesmo isso conferindo se é verdadeiro ou falso, ai ele devolvera a resposta para o AD Connect que devolvera a informação para o azure ai consegue convesar.
+		- Parte rui
 		
