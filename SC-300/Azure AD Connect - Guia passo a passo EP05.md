@@ -37,5 +37,6 @@
 				- esse utilizador tem que ter permissoes/role de "entreprise admin" no ambiente local para se conectar com o ambiente on-premisses.
 	- **Azure AD sign-in configuration**
 		- É recomendado por boas práticas deixar configurado como "UserPrincipalName".
-	- **Identifying us**
+	- **Identifying user**
+		- Deixar as configurações default que ja mostra.
 		
