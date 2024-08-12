@@ -1,3 +1,3 @@
 - ## User sign-in (prova)
-	- Existe dos ambientes, on-premisse e nuvem, nisso o ad
+	- Existe dos ambientes, on-premisse e nuvem, nisso o ad connect esta no meio do caminho sincronizando tudo que tem no seu on-premisse com a nuvem
 	- Password Hash Synchronization:
