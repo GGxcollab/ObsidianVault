@@ -30,5 +30,6 @@
 	- **Connect Directories**
 		- Add Directory
 			- É recomendado fortemente que seja criado uma nova conta no AD forest account, para evitar erros de permissões e configurações.
-			- 
+			- **ENTERPRISE ADMIN USERNAME**
+				- esse utilizador tem que ter permissoes de entreprise admin
 		
