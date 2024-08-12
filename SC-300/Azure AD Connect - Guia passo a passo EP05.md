@@ -1,4 +1,4 @@
-- Pode-se ter um  AD Connect ligado no meu Tenant falando com varios dominios, porem
+- Pode-se ter um  AD Connect ligado no meu Tenant falando com varios dominios, porem nao pode ter um AD Connect para cada dominio falando com meu Tenant
 - pode ter um ad conect para olhe para toda floresta, mas nao se pode ter um AD connect para cada floresta falando com o meu tenant no azure
 - ## User sign-in (prova)
 	- Existe dos ambientes, on-premisse e nuvem, nisso o ad connect esta no meio do caminho sincronizando tudo que tem no seu on-premisse com a nuvem, podem sincronizar tudo ou o que voce quiser que ele sincroniza.
@@ -35,4 +35,5 @@
 			- É recomendado fortemente que seja criado uma nova conta no AD forest account, para evitar erros de permissões e configurações.
 			- **ENTERPRISE ADMIN USERNAME**
 				- esse utilizador tem que ter permissoes/role de "entreprise admin" no ambiente local para se conectar com o ambiente on-premisses.
+	- 
 		
