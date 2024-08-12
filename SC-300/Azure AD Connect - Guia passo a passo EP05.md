@@ -14,6 +14,7 @@
 			- Se o data center parar, ninguem mais consegue se conectar e utilizado em lugar nenhum.
 	- **Federation with AD FS (Federation Server)** / **Federation with PingFederate**
 		- É basicamente a mesma coisa.
+		- Tem comunicação direta com o Active Directory, onde ter que ter conhecimento do 
 		- Como funciona:
 			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração colocado que quem ira fazer esse fluxo é o FS, e a partir disso o AD connect ira se comunicar com o Federation Server 
 			- É replica do azure AD que vira o Federaton Server que ira esse FS ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz, e o AD e o Federation Server seram utilizados somente para validar.
