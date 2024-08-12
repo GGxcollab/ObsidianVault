@@ -15,7 +15,8 @@
 	- **Federation with AD FS (Federation Server)** / **Federation with PingFederate**
 		- É basicamente a mesma coisa.
 		- Como funciona:
-			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração coloque que quem ira fazer isso é o FS É replica do azure AD que vira o Federaton Server que ira esse FS ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz, e o AD e o Federation Server seram utilizados somente para validar.
+			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração coloque que quem ira fazer isso é o FS, e a partir disso  
+			- É replica do azure AD que vira o Federaton Server que ira esse FS ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz, e o AD e o Federation Server seram utilizados somente para validar.
 		- 
 		- ![[Pasted image 20240812150854.png]]
 		- 
