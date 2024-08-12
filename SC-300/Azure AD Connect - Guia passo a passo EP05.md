@@ -4,4 +4,4 @@
 		- recomendação oficial da microsoft
 		- Como funciona: 
 			- Existe um utilizador local chamado "Andre" com uma password "123", e o ad connect não sabe que senha é essa, mas ira fazer um calculo matematico e vai gerar um resultado, esse resultado é chamado de "hash", esse hash que foi criptografado durante esse processo, o ad conect ira mandar isso para o azure e deixara gravado la e essa criptografia nao é passiva de ser descriptografada e voltada para a original.
-			- diante disso,  um belo dia o utilizador vai no portal azure e decidiu logar com seu user e sua password, na hora que o azure receber essas informações, ira gerar um hash por meio de um calculo matematico e ira comparar 
+			- diante disso,  um belo dia o utilizador vai no portal azure e decidiu logar com seu user e sua password, na hora que o azure receber essas informações, ira gerar um hash por meio de um calculo matematico e ira comparar para ver se o hash bate com o o do azure que foi cadastrado 
