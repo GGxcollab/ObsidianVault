@@ -18,7 +18,7 @@
 		- Como funciona:
 			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração colocado que quem ira fazer esse fluxo é o FS, e a partir disso o AD connect ira se comunicar com o Federation Server 
 			- É replica do azure AD que vira o Federaton Server que ira esse FS ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz, e o AD e o Federation Server seram utilizados somente para validar.
-			- O azure AD connect se comunica com o Federation pro
+			- O azure AD connect se comunica com o Federation proxy que se comunica com o Federation Server que fala com o AD 
 		- 
 		- ![[Pasted image 20240812150854.png]]
 		- 
