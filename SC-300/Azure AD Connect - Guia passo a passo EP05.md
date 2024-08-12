@@ -38,5 +38,6 @@
 	- **Azure AD sign-in configuration**
 		- É recomendado por boas práticas deixar configurado como "UserPrincipalName".
 	- **Identifying user**
-		- Deixar as configurações default que ja mostra.
+		- Deixar as configurações default que ja mostra, mais recomendado.
+	- 
 		
