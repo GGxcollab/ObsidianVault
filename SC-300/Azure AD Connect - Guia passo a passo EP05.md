@@ -18,7 +18,7 @@
 		- isso é uma forma de privar ainda mais o AD (local/on-premisses) (controlador de dominio) para que nao seja qualquer um que chegue la dentro, pq uma vez derrubado acabara com a rede inteira
 		- Como funciona:
 			- O User/Utilizador tenta logar em alguma aplicação ou no Portal do azure e o Azure AD nao reconhece esse usuário, nem a senha nem o hash, então ira mandar a solicitação para o AD connect, so que na minha configuração colocado que quem ira fazer a autenticação desse fluxo é o AD FS, e a partir disso o AD connect ira se comunicar com o Federation Server proxy .
-			- O azure AD connect se comunica com o Federation proxy que se comunica com o Federation Server que fala com o AD que volta a configuração novamente ate chegar no Azure AD e dizer que pode ou nao autenticar o utilizador.
+			- O azure AD connect se comunica com o Federation proxy que se comunica com o Federation Server que fala com o AD que volta que retornará um token e que ira voltar para a configuração novamente ate chegar no Azure AD e dizer que pode ou nao autenticar o utilizador.
 			- o Federaton Server é replica do azure AD que vira que ira se replicar novamente (FS Proxy) para um ambiente exposto publicamente, ai sim o AD connect, azure e talz se comunica com o mesmo, que mandara uma solicitação para o AD e o Federation Server (que estao isolados) que serão utilizados somente para validar.
 			- 
 			- ![[Pasted image 20240812150854.png]]
