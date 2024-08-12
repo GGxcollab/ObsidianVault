@@ -32,5 +32,5 @@
 		- Add Directory
 			- É recomendado fortemente que seja criado uma nova conta no AD forest account, para evitar erros de permissões e configurações.
 			- **ENTERPRISE ADMIN USERNAME**
-				- esse utilizador tem que ter permissoes de entreprise admin para se concec
+				- esse utilizador tem que ter permissoes/role de "entreprise admin" no ambiente local para se conectar com o ambiente on-premisses, com uma role de 
 		
