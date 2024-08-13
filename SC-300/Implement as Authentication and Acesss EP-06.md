@@ -32,4 +32,4 @@
 			- Cloud Only setup - Nothing additional required to set up Microsoft Entra MFA.
 			- Hybrid Identity - Microsoft Entra Connect must be deployed and synchronized/federated with your on-premises AD DS.
 			- Need on-premises legacy apps - Microsoft Entra Application Proxy must be deployed.
-			- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server 
+				- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server (NPS) must be set upan configured..
