@@ -20,5 +20,5 @@
 			- Stronger security;
 			- Often support compliance goals;
 			- Many different types Authentication methods, with different levels of security;
-	- ## Plan implement Azure Multifactor Authentication ( 1)
+	- ## Plan implement Azure Multifactor Authentication (P1)
 		- 
