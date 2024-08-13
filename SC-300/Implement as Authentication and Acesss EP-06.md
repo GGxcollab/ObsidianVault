@@ -25,4 +25,5 @@
 		- **Azure MFA Settings**
 	- ## Categories of authentication factors
 		- ![[Pasted image 20240813161605.png]]
-		- 
+	- ## Enabling MFA WITH cONDICIONAL aCCESS
+	- 
