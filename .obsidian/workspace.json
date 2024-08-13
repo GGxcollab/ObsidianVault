@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b28415739b818fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c28a6bef2ffa14a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "780f7a7fefc4240c",
             "type": "leaf",
             "state": {
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
