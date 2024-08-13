@@ -27,4 +27,5 @@
 		- ![[Pasted image 20240813161605.png]]
 	- ## Enabling MFA with Condicional Access
 		- Configure uma política de Acesso Condicional que exija que um usuário/grupo tenha a MFA necessária para acessar recursos específicos.
-	- 
+	- ## Considerations for Microsoft Entra MFA based on the infrastructure
+		- Situações que devem ser analisadas ant
