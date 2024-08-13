@@ -6,4 +6,7 @@
 			- Self-service password reset (SSPR);
 			- Microsoft  Entra Identify Protection;
 			- Microsoft Entra password protection;
-			- Mixeo
+			- Microsoft Entra smart lockout;
+			- Microsoft Entra Application Proxy;
+			- Single sign-on (SSO
+			- )
