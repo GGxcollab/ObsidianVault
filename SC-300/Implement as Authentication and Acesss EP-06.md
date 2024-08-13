@@ -24,4 +24,5 @@
 		- **Azure MFA deployment**
 		- **Azure MFA Settings**
 	- ## Categories of authentication factors
-		- ![[Pasted image 20240813161557.png]]
+		- ![[Pasted image 20240813161605.png]]
+		- 
