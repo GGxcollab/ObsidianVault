@@ -47,5 +47,6 @@
 		- Ready to configure
 			- Opções para se marcar
 				- Start the synchronization process when configuration completes
-					- significa que quando 
+					- significa que quando terminar a instalação ja colocará o AD Connect para funcionar e ira sincronixar
+				- 
 		
