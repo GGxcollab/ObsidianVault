@@ -12,24 +12,24 @@
 			- Microsoft Entra Connect;
 			- Microsoft Entra MFA & Condicional Access;
 			- ![[Pasted image 20240813135735.png]]
-	- ## Value and Capabilities of Microsoft Entra MFA
-		- **Valor**
-			- More secure than passwords;
-			- Quick and easy to setup and manage;
-			- Strong Identity verification;
-			- Stronger security;
-			- Often support compliance goals;
-			- Many different types Authentication methods, with different levels of security;
-	- ## Plan implement Azure Multifactor Authentication (P1)
-		- **Azure MFA deployment**
-		- **Azure MFA Settings**
-	- ## Categories of authentication factors
-		- ![[Pasted image 20240813161605.png]]
-	- ## Enabling MFA with Condicional Access
-		- Configure uma política de Acesso Condicional que exija que um usuário/grupo tenha a MFA necessária para acessar recursos específicos.
-	- ## Considerations for Microsoft Entra MFA based on the infrastructure
-		- Situações que devem ser analisadas antes das configurações de implementação:
-			- Cloud Only setup - Nada adicional necessário para configurar Microsoft Entra MFA.
-			- Hybrid Identity - Microsoft Entra Connect deve ser implantado e sincronizado/federado com seu on-premises AD DS.
-			- Need on-premises legacy apps - Microsoft Entra Application Proxy devem ser implantados.
-			- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server (NPS) deve ser instalado e configurado.
+		- ### Value and Capabilities of Microsoft Entra MFA
+			- **Valor**
+				- More secure than passwords;
+				- Quick and easy to setup and manage;
+				- Strong Identity verification;
+				- Stronger security;
+				- Often support compliance goals;
+				- Many different types Authentication methods, with different levels of security;
+		- ### Plan implement Azure Multifactor Authentication (P1)
+			- **Azure MFA deployment**
+			- **Azure MFA Settings**
+		- ### Categories of authentication factors
+			- ![[Pasted image 20240813161605.png]]
+		- ### Enabling MFA with Condicional Access
+			- Configure uma política de Acesso Condicional que exija que um usuário/grupo tenha a MFA necessária para acessar recursos específicos.
+		- ### Considerations for Microsoft Entra MFA based on the infrastructure
+			- Situações que devem ser analisadas antes das configurações de implementação:
+				- Cloud Only setup - Nada adicional necessário para configurar Microsoft Entra MFA.
+				- Hybrid Identity - Microsoft Entra Connect deve ser implantado e sincronizado/federado com seu on-premises AD DS.
+				- Need on-premises legacy apps - Microsoft Entra Application Proxy devem ser implantados.
+				- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server (NPS) deve ser instalado e configurado.
