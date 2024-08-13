@@ -53,5 +53,6 @@
 - # **Azure Active Directory Connect Health**
 	- é um portal responsavel por apresentar os erros de sincronização do AD Connect, a Sincronização de serviços do AD connect
 	- Apresenta tambem os serviços do AD FS tambem, ou seja, serviço de Federação do Active
+	- Apresentam tambem o agente se for instalar do Active Directory Domain Services, com serviços de AD DS
 	- 
 		
