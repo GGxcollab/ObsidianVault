@@ -46,5 +46,6 @@
 	- **Configure** (Prova)
 		- Ready to configure
 			- Opções para se marcar
-				- Start 
+				- Start the synchronization process when configuration completes
+					- significa que quando 
 		
