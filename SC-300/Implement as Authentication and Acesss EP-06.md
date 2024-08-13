@@ -36,8 +36,11 @@
 	- ## Plan your multifactor authentication deployment
 		- ### Deployment consideration
 			- Get employee buy-in
-				- User Communications (posters, emails, and other support items)
+				- User Communications (posters, emails, and other support items).
 			- Consider rolling MFA out in waves
 			- Create a full communications plan
 			- Tie your MFA roll-out with Condicional Access compliance
-				- Specific devices, Working location, Applicati
+				- Specific devices, Working location, Application or Data Access.
+			- Select your Authentication methods
+			- Plan MFA Registration process
+			- Add on-premises sustems after MFA is es
