@@ -16,4 +16,7 @@
 		- **Value**
 			- More secure than passwords;
 			- Quick and easy to setup and manage;
-			- Strong Identity verification
+			- Strong Identity verification;
+			- Stronger security;
+			- Often support compliance goals;
+			- Many different types Authentication methods, with 
