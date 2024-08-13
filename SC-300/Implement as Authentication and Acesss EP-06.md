@@ -11,4 +11,4 @@
 			- Single sign-on (SSO);
 			- Microsoft Entra Connect;
 			- Microsoft Entra MFA & Condicional Access;
-			- 
+			- ![[Pasted image 20240813135735.png]]
