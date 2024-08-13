@@ -33,3 +33,5 @@
 				- Hybrid Identity - Microsoft Entra Connect deve ser implantado e sincronizado/federado com seu on-premises AD DS.
 				- Need on-premises legacy apps - Microsoft Entra Application Proxy devem ser implantados.
 				- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server (NPS) deve ser instalado e configurado.
+	- ## Plan your multifactor authentication deployment
+		- ### Deployment consideration
