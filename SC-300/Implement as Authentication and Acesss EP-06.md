@@ -9,7 +9,7 @@
 			- Microsoft Entra smart lockout;
 			- Microsoft Entra Application Proxy;
 			- Single sign-on (SSO);
-			- amanda oihfeobcoc oit
+			- 
 			- Microsoft Entra Connect;
 			- Microsoft Entra MFA & Condicional Access;
 			- ![[Pasted image 20240813135735.png]]
