@@ -12,4 +12,5 @@
 			- Microsoft Entra Connect;
 			- Microsoft Entra MFA & Condicional Access;
 			- ![[Pasted image 20240813135735.png]]
-			- 
+	- ## Value and Capabilities of Microsoft Entra MFA
+		- ****
