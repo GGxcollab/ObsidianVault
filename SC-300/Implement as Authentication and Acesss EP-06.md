@@ -38,3 +38,6 @@
 			- Get employee buy-in
 				- User Communications (posters, emails, and other support items)
 			- Consider rolling MFA out in waves
+			- Create a full communications plan
+			- Tie your MFA roll-out with Condicional Access compliance
+				- Specific devices, Working location, Applicati
