@@ -49,5 +49,5 @@
 				- Start the synchronization process when configuration completes
 					- significa que quando terminar a instalação ja colocará o AD Connect para funcionar e ira sincronixar
 				- Enable staging mode: When selected, synchronization ....
-					- significa que esse AD Connet fosse um segundo servidor
+					- significa que se esse AD Connet fosse um segundo servidor poderia deixar habilitado, e se habilitado
 		
