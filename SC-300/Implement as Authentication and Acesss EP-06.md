@@ -35,3 +35,5 @@
 				- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server (NPS) deve ser instalado e configurado.
 	- ## Plan your multifactor authentication deployment
 		- ### Deployment consideration
+			- Get employee buy-in
+				- User Communications (posters, emails, and other)
