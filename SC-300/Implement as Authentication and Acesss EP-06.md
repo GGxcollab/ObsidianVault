@@ -36,4 +36,5 @@
 	- ## Plan your multifactor authentication deployment
 		- ### Deployment consideration
 			- Get employee buy-in
-				- User Communications (posters, emails, and other)
+				- User Communications (posters, emails, and other support items)
+			- Consider rolling MFA out in waves
