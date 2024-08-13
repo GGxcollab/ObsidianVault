@@ -21,4 +21,5 @@
 			- Often support compliance goals;
 			- Many different types Authentication methods, with different levels of security;
 	- ## Plan implement Azure Multifactor Authentication (P1)
-		- **Azure MFA**
+		- **Azure MFA deployment**
+		- **Azure MFA Settings**
