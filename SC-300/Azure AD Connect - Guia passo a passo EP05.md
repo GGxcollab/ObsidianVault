@@ -51,5 +51,7 @@
 				- Enable staging mode: When selected, synchronization ....
 					- significa que se esse AD Connet fosse um segundo servidor poderia deixar habilitado, e se habilitado, estaria vendo todo o fluxo presente mas nao estaria fazendo nada, porem se o servidor primario cair, entra na configs desse desmarca essa opção e esse passaria a ser o servidor primario.
 - # **Azure Active Directory Connect Health**
-	- é um portal responsavel por apresentar os erros de sincronização do AD Connect, a Sincronização de serviços do D
+	- é um portal responsavel por apresentar os erros de sincronização do AD Connect, a Sincronização de serviços do AD connect
+	- Apresenta tambem os serviços do AD FS tambem, ou seja, serviço de Federação do Active
+	- 
 		
