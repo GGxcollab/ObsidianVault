@@ -43,4 +43,4 @@
 				- Specific devices, Working location, Application or Data Access.
 			- Select your Authentication methods
 			- Plan MFA Registration process
-			- Add on-premises sustems after MFA is es
+			- Add on-premises sustems after MFA is established
