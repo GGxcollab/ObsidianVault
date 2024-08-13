@@ -3,4 +3,7 @@
 		- ### Microsoft Entra Features to protect cloud assets
 			- Password complexity rules;
 			- Password expiration rules;
-			- Self-service password reset ()
+			- Self-service password reset (SSPR);
+			- Microsoft  Entra Identify Protection;
+			- Microsoft Entra password protection;
+			- Mixeo
