@@ -23,3 +23,5 @@
 	- ## Plan implement Azure Multifactor Authentication (P1)
 		- **Azure MFA deployment**
 		- **Azure MFA Settings**
+	- ## Categories of authentication factors
+		- ![[Pasted image 20240813161557.png]]
