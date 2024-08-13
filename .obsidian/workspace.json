@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure AD Multi-Factor Authentication EP-06.md",
+                "file": "Implement as Authentication and Acesss EP-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure AD Multi-Factor Authentication EP-06.md",
+                "file": "Implement as Authentication and Acesss EP-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure AD Multi-Factor Authentication EP-06.md",
+                "file": "Implement as Authentication and Acesss EP-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure AD Multi-Factor Authentication EP-06.md"
+                "file": "Implement as Authentication and Acesss EP-06.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "992035dca6c4f0c2",
   "lastOpenFiles": [
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
-    "Azure AD Multi-Factor Authentication EP-06.md",
+    "Implement as Authentication and Acesss EP-06.md",
     "SC-300/Pasted image 20240812150854.png",
     "SC-300/Pasted image 20240812150845.png",
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
