@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "992035dca6c4f0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AD Multi-Factor Authentication EP-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
+                "file": "Azure AD Multi-Factor Authentication EP-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
+                "file": "Azure AD Multi-Factor Authentication EP-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Azure AD Connect - Guia passo a passo EP05.md"
+                "file": "Azure AD Multi-Factor Authentication EP-06.md"
               }
             }
           }
@@ -172,13 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "780f7a7fefc4240c",
+  "active": "992035dca6c4f0c2",
   "lastOpenFiles": [
-    "Pasted image 20240812150854.png",
-    "Pasted image 20240812150845.png",
+    "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
+    "Azure AD Multi-Factor Authentication EP-06.md",
+    "SC-300/Pasted image 20240812150854.png",
+    "SC-300/Pasted image 20240812150845.png",
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
-    "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
     "SC-300/Pasted image 20240807152129.png",
@@ -190,7 +203,6 @@
     "SC-300/Pasted image 20240806163713.png",
     "SC-300/Pasted image 20240806161459.png",
     "SC-300/Pasted image 20240806144559.png",
-    "SC-300/Pasted image 20240806144605.png",
     "Excalidraw",
     "adasd.md",
     "SC-300"
