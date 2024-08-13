@@ -25,5 +25,5 @@
 		- **Azure MFA Settings**
 	- ## Categories of authentication factors
 		- ![[Pasted image 20240813161605.png]]
-	- ## Enabling MFA WITH cONDICIONAL aCCESS
-	- 
+	- ## Enabling MFA with Condicional Access
+		- Set up a Condicional Access policy that requires a user/group to have MFA required for access to specific 
