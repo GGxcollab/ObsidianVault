@@ -13,7 +13,7 @@
 			- Microsoft Entra MFA & Condicional Access;
 			- ![[Pasted image 20240813135735.png]]
 	- ## Value and Capabilities of Microsoft Entra MFA
-		- **Value**
+		- **Valor**
 			- More secure than passwords;
 			- Quick and easy to setup and manage;
 			- Strong Identity verification;
@@ -27,3 +27,4 @@
 		- ![[Pasted image 20240813161605.png]]
 	- ## Enabling MFA with Condicional Access
 		- Configure uma política de Acesso Condicional que exija que um usuário/grupo tenha a MFA necessária para acessar recursos específicos.
+	- 
