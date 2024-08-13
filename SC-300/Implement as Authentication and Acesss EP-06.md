@@ -26,4 +26,4 @@
 	- ## Categories of authentication factors
 		- ![[Pasted image 20240813161605.png]]
 	- ## Enabling MFA with Condicional Access
-		- Set up a Condicional Access policy that requires a user/group to have MFA required for access to specific 
+		- Configure uma política de Acesso Condicional que exija que um usuário/grupo tenha a MFA necessária para acessar recursos específicos.
