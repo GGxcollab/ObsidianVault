@@ -8,5 +8,7 @@
 			- Microsoft Entra password protection;
 			- Microsoft Entra smart lockout;
 			- Microsoft Entra Application Proxy;
-			- Single sign-on (SSO
-			- )
+			- Single sign-on (SSO);
+			- Microsoft Entra Connect;
+			- Microsoft Entra MFA & Condicional Access;
+			- 
