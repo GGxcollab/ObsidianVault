@@ -48,5 +48,6 @@
 			- Opções para se marcar
 				- Start the synchronization process when configuration completes
 					- significa que quando terminar a instalação ja colocará o AD Connect para funcionar e ira sincronixar
-				- 
+				- Enable staging mode: When selected, synchronization ....
+					- 
 		
