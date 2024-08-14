@@ -82,5 +82,6 @@
 		- ### Monitor the device
 			- Device registration and Microsoft Entra ID join
 			- Non-compliant devices accessing applications
-			- BitLo
+			- BitLocker key retrieval
+			- Device adm
 		- 
