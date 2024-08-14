@@ -88,4 +88,8 @@
 		- ### Logs with device data:
 			- Microsoft Entra ID Audit logs 
 			- Sign-in logs
-			- Microso
+			- Microsoft 365 Audit logs
+			- Azure Key Vault logs
+		- ### Tools to use:
+			- Microsoft Sentinal
+			- Azure Mo
