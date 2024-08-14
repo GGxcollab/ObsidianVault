@@ -83,5 +83,6 @@
 			- Device registration and Microsoft Entra ID join
 			- Non-compliant devices accessing applications
 			- BitLocker key retrieval
-			- Device adm
-		- 
+			- Device administrator roles 
+			- Sign-ins to virtual machines
+		- ### Logs with device data
