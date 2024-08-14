@@ -75,5 +75,7 @@
 		- ### Require MFA for devices
 			- **Use condicional Access rules to extend MFA to devices and device enrollment**
 			- **Two methods**:
-				- 1) Policy for Windows Intune or Windows Intune Enrollment (seen in picture)
-				- 2) Policy with in Intune de
+				- 1) Policy for Windows Intune or Windows Intune Enrollment (seen in picture).
+				- 2) Policy with in Intune device setting.
+			- ![[Pasted image 20240814113735.png]]
+			- S
