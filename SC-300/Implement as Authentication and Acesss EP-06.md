@@ -100,4 +100,6 @@
 			- Was the sign-in challenged with MFA?
 			- How did the user complete MFA?
 			- Which authentication methods were used during a sigin-in?
-			- Why was the user 
+			- Why was the user unable to complete MFA?
+			- How many users are challenged for MFA?
+			- What are the common MFA issues end users are running into?
