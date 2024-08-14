@@ -44,3 +44,4 @@
 			- Select your Authentication methods
 			- Plan MFA Registration process
 			- Add on-premises sustems after MFA is established
+	- ## Configure multifactor authentication methods
