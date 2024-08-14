@@ -46,7 +46,7 @@
 			- Add on-premises sustems after MFA is established
 	- ## Configure multifactor authentication methods
 		- ### Azure authentication methods
-			- #### AuthN Methods when deploying MFA
+			- #### Métodos AuthN ao implantar MFA
 				- Micrososft Authenticator app
 				- Windows hello for Business
 				- FIDO2 security key
@@ -54,4 +54,9 @@
 				- OATH software token
 				- SMS
 				- Voice call
-			- #### Supplemental AuthN for niche use
+			- #### AuthN suplementar para uso de nicho
+				- Security questions
+					- -Non-admins only
+				- Email Address
+					- Part of SSPR if enabled
+				- 
