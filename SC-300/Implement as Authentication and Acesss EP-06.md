@@ -95,4 +95,4 @@
 			- Azure Monitor 
 			- Azure Events Hubs
 	- ## Monitor Microsoft Entra IDMFA activity
-		- 
+		- Use the Microsoft Entra sigin-in report to review MFA US
