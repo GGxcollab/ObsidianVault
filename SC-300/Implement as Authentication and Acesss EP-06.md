@@ -69,4 +69,6 @@
 				- Reduz os esforços de helpdesk;
 				- Os usuários devem ser inscritos primeiro;
 				- Requer uma licença atribuída;
-			- #### SS
+			- #### SSPR Licensing options
+				- ![[Pasted image 20240814112037.png]]
+				- 
