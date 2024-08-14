@@ -59,4 +59,5 @@
 					- -Non-admins only
 				- Email Address
 					- Part of SSPR if enabled
-				- 
+				- App passwords
+						- for legacy apps that don't directly support Azure MFA
