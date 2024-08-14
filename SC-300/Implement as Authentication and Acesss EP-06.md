@@ -90,6 +90,7 @@
 			- Sign-in logs
 			- Microsoft 365 Audit logs
 			- Azure Key Vault logs
+			- Retenção de logs: Min - 30dias, Max - 270dias 
 		- ### Tools to use:
 			- Microsoft Sentinal
 			- Azure Monitor 
