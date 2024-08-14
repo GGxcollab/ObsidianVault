@@ -50,5 +50,8 @@
 				- Micrososft Authenticator app
 				- Windows hello for Business
 				- FIDO2 security key
-				- OATH harware
+				- OATH harware token (preview)
+				- OATH software token
+				- SMS
+				- Voice call
 			- #### Supplemental AuthN for niche use
