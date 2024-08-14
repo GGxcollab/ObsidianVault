@@ -1,3 +1,4 @@
 - # Authentication Methods
 	- ![[Pasted image 20240814160604.png]]
-	- 
+	- **What is FIDO2**
+		- FIDO2 
