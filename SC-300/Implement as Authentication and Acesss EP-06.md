@@ -92,4 +92,5 @@
 			- Azure Key Vault logs
 		- ### Tools to use:
 			- Microsoft Sentinal
-			- Azure Mo
+			- Azure Monitor 
+			- Azure Events Hubs
