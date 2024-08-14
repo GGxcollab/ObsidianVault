@@ -97,9 +97,9 @@
 	- ## Monitor Microsoft Entra IDMFA activity
 		- Use the Microsoft Entra sigin-in report to review MFA usage.
 		- Data available in the report:
-			- Was the sign-in challenged with MFA?
-			- How did the user complete MFA?
-			- Which authentication methods were used during a sigin-in?
-			- Why was the user unable to complete MFA?
-			- How many users are challenged for MFA?
-			- What are the common MFA issues end users are running into?
+			- A entrada foi contestada com MFA?
+			- Como o usuário concluiu a MFA?
+			- Quais métodos de autenticação foram usados durante um login?
+			- Por que o usuário não conseguiu concluir a MFA?
+			- Quantos usuários são desafiados para MFA?
+			- Quais são os problemas comuns de MFA que os usuários finais estão enfrentando?
