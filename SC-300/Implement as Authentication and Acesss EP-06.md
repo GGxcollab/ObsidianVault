@@ -104,4 +104,4 @@
 			- Quantos usuários são desafiados para MFA?
 			- Quais são os problemas comuns de MFA que os usuários finais estão enfrentando?
 	- ## User - Sigin-in report
-		- The **Authentication Details** or **Condicional Access** tab of the event detail
+		- The **Authentication Details** or **Condicional Access** tab of the event details shows you the status code or which policy triggered the MFA prompt.
