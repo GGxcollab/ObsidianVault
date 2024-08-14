@@ -56,8 +56,8 @@
 				- Voice call
 			- #### AuthN suplementar para uso de nicho
 				- Security questions
-					- -Non-admins only
+					- Non-admins only
 				- Email Address
 					- Part of SSPR if enabled
 				- App passwords
-						- for legacy apps that don't directly support Azure MFA
+					- para aplicativos herdados que não dão suporte diretamente ao Azure MFA
