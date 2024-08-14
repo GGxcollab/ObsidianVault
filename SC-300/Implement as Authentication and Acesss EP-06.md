@@ -78,4 +78,4 @@
 				- 1) Policy for Windows Intune or Windows Intune Enrollment (seen in picture).
 				- 2) Policy with in Intune device setting.
 			- ![[Pasted image 20240814113735.png]]
-			- S
+			-  
