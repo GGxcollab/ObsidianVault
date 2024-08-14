@@ -46,3 +46,5 @@
 			- Add on-premises sustems after MFA is established
 	- ## Configure multifactor authentication methods
 		- 
+			- #### AuthN Methods when deploying MFA
+			- 
