@@ -45,6 +45,7 @@
 			- Plan MFA Registration process
 			- Add on-premises sustems after MFA is established
 	- ## Configure multifactor authentication methods
-		- 
+		- ### Azure authentication methods
 			- #### AuthN Methods when deploying MFA
-			- 
+				- M
+			- #### Supplemental AuthN for niche use
