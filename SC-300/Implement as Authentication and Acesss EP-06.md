@@ -61,3 +61,6 @@
 					- Part of SSPR if enabled
 				- App passwords
 					- para aplicativos herdados que não dão suporte diretamente ao Azure MFA
+		- ### Microsoft Entra Self-Service Password Reset (SSPR)
+			- VANTAGENS
+				- User
