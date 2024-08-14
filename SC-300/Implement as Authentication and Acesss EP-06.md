@@ -106,4 +106,4 @@
 			- Quais são os problemas comuns de MFA que os usuários finais estão enfrentando?
 	- ## User - Sigin-in report
 		- The **Authentication Details** or **Condicional Access** dos detalhes do evento mostra o código de status ou qual política acionou o prompt de MFA.
-		- o
+		- 
