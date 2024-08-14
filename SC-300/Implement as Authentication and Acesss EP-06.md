@@ -47,5 +47,8 @@
 	- ## Configure multifactor authentication methods
 		- ### Azure authentication methods
 			- #### AuthN Methods when deploying MFA
-				- M
+				- Micrososft Authenticator app
+				- Windows hello for Business
+				- FIDO2 security key
+				- OATH harware
 			- #### Supplemental AuthN for niche use
