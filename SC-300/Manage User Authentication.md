@@ -1,4 +1,5 @@
 - # Authentication Methods
 	- ![[Pasted image 20240814160604.png]]
 	- **What is FIDO2**
-		- FIDO2 
+		- FIDO2 security keys are an unphishable specification-based passwordless authentication method that can come in any form factor.
+		- Fast 
