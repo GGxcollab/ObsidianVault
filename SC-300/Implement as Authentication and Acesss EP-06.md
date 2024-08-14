@@ -63,4 +63,7 @@
 					- para aplicativos herdados que não dão suporte diretamente ao Azure MFA
 		- ### Microsoft Entra Self-Service Password Reset (SSPR)
 			- VANTAGENS
-				- User
+				- Users can reset their own password
+				- No admin / IT intervention
+				- Reducer the loss of user productivity
+				- Reduces help
