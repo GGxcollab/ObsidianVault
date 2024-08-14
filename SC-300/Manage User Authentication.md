@@ -2,4 +2,5 @@
 	- ![[Pasted image 20240814160604.png]]
 	- **What is FIDO2**
 		- FIDO2 security keys are an unphishable specification-based passwordless authentication method that can come in any form factor.
-		- Fast Identity Online (FIDO) is an open specification for passwordless authenticat
+		- Fast Identity Online (FIDO) is an open specification for passwordless authentication
+		- FIDO allows users and organizations to leverage the specification to sign in to their resources without a username or password using
