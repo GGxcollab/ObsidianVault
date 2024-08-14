@@ -69,3 +69,4 @@
 				- Reduz os esforços de helpdesk;
 				- Os usuários devem ser inscritos primeiro;
 				- Requer uma licença atribuída;
+			- #### SS
