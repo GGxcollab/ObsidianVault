@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manage User Authentication.md",
+                "file": "SC-300/Manage User Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manage User Authentication.md",
+                "file": "SC-300/Manage User Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manage User Authentication.md",
+                "file": "SC-300/Manage User Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manage User Authentication.md"
+                "file": "SC-300/Manage User Authentication.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "182550873977770b",
   "lastOpenFiles": [
+    "Pasted image 20240814160604.png",
     "SC-300/Implement as Authentication and Acesss EP-06.md",
-    "Manage User Authentication.md",
+    "SC-300/Manage User Authentication.md",
     "SC-300/Pasted image 20240814113735.png",
     "SC-300/Pasted image 20240814112037.png",
     "SC-300/Pasted image 20240813161605.png",
