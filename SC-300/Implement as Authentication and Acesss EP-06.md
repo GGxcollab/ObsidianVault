@@ -79,10 +79,13 @@
 				- 2) Policy with in Intune device setting.
 			- ![[Pasted image 20240814113735.png]]
 	- ## Protecting Microsoft Entra ID from device attacks
-		- ### Monitor the device
+		- ### Monitor the device:
 			- Device registration and Microsoft Entra ID join
 			- Non-compliant devices accessing applications
 			- BitLocker key retrieval
 			- Device administrator roles 
 			- Sign-ins to virtual machines
-		- ### Logs with device data
+		- ### Logs with device data:
+			- Microsoft Entra ID Audit logs 
+			- Sign-in logs
+			- Microso
