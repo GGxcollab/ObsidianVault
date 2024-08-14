@@ -94,7 +94,7 @@
 			- Microsoft Sentinal
 			- Azure Monitor 
 			- Azure Events Hubs
-	- ## Monitor Microsoft Entra IDMFA activity
+	- ## Monitor Microsoft Entra ID MFA activity
 		- Use the Microsoft Entra sigin-in report to review MFA usage.
 		- Data available in the report:
 			- A entrada foi contestada com MFA?
