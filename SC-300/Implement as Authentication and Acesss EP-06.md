@@ -1,0 +1,103 @@
+- # Azure AD Muti-Factor Authentication 
+	- ## Secure Microsoft Entra users with multifactor Authentication
+		- ### Microsoft Entra Features to protect cloud assets
+			- Password complexity rules;
+			- Password expiration rules;
+			- Self-service password reset (SSPR);
+			- Microsoft  Entra Identify Protection;
+			- Microsoft Entra password protection;
+			- Microsoft Entra smart lockout;
+			- Microsoft Entra Application Proxy;
+			- Single sign-on (SSO);
+			- Microsoft Entra Connect;
+			- Microsoft Entra MFA & Condicional Access;
+			- ![[Pasted image 20240813135735.png]]
+		- ### Value and Capabilities of Microsoft Entra MFA
+			- **Valor**
+				- More secure than passwords;
+				- Quick and easy to setup and manage;
+				- Strong Identity verification;
+				- Stronger security;
+				- Often support compliance goals;
+				- Many different types Authentication methods, with different levels of security;
+		- ### Plan implement Azure Multifactor Authentication (P1)
+			- **Azure MFA deployment**
+			- **Azure MFA Settings**
+		- ### Categories of authentication factors
+			- ![[Pasted image 20240813161605.png]]
+		- ### Enabling MFA with Condicional Access
+			- Configure uma política de Acesso Condicional que exija que um usuário/grupo tenha a MFA necessária para acessar recursos específicos.
+		- ### Considerations for Microsoft Entra MFA based on the infrastructure
+			- Situações que devem ser analisadas antes das configurações de implementação:
+				- Cloud Only setup - Nada adicional necessário para configurar Microsoft Entra MFA.
+				- Hybrid Identity - Microsoft Entra Connect deve ser implantado e sincronizado/federado com seu on-premises AD DS.
+				- Need on-premises legacy apps - Microsoft Entra Application Proxy devem ser implantados.
+				- Use Microsoft Entra MFA with a RADIUS Authentication - A Network Policy Server (NPS) deve ser instalado e configurado.
+	- ## Plan your multifactor authentication deployment
+		- ### Deployment consideration
+			- Get employee buy-in
+				- User Communications (posters, emails, and other support items).
+			- Consider rolling MFA out in waves
+			- Create a full communications plan
+			- Tie your MFA roll-out with Condicional Access compliance
+				- Specific devices, Working location, Application or Data Access.
+			- Select your Authentication methods
+			- Plan MFA Registration process
+			- Add on-premises sustems after MFA is established
+	- ## Configure multifactor authentication methods
+		- ### Azure authentication methods
+			- #### Métodos AuthN ao implantar MFA
+				- Micrososft Authenticator app
+				- Windows hello for Business
+				- FIDO2 security key
+				- OATH harware token (preview)
+				- OATH software token
+				- SMS
+				- Voice call
+			- #### AuthN suplementar para uso de nicho
+				- Security questions
+					- Non-admins only
+				- Email Address
+					- Part of SSPR if enabled
+				- App passwords
+					- para aplicativos herdados que não dão suporte diretamente ao Azure MFA
+		- ### Microsoft Entra Self-Service Password Reset (SSPR)
+			- **VANTAGENS**
+				- Users can reset their own password;
+				- No admin / IT intervention;
+				- Reduza a perda de produtividade do usuário;
+				- Reduz os esforços de helpdesk;
+				- Os usuários devem ser inscritos primeiro;
+				- Requer uma licença atribuída;
+			- #### SSPR Licensing options
+				- ![[Pasted image 20240814112037.png]]
+	- ## Extend MFA to devices
+		- ### Require MFA for devices
+			- **Use condicional Access rules to extend MFA to devices and device enrollment**
+			- **Two methods**:
+				- 1) Policy for Windows Intune or Windows Intune Enrollment (seen in picture).
+				- 2) Policy with in Intune device setting.
+			- ![[Pasted image 20240814113735.png]]
+	- ## Protecting Microsoft Entra ID from device attacks
+		- ### Monitor the device:
+			- Device registration and Microsoft Entra ID join
+			- Non-compliant devices accessing applications
+			- BitLocker key retrieval
+			- Device administrator roles 
+			- Sign-ins to virtual machines
+		- ### Logs with device data:
+			- Microsoft Entra ID Audit logs 
+			- Sign-in logs
+			- Microsoft 365 Audit logs
+			- Azure Key Vault logs
+		- ### Tools to use:
+			- Microsoft Sentinal
+			- Azure Monitor 
+			- Azure Events Hubs
+	- ## Monitor Microsoft Entra IDMFA activity
+		- Use the Microsoft Entra sigin-in report to review MFA usage.
+		- Data available in the report:
+			- Was the sign-in challenged with MFA?
+			- How did the user complete MFA?
+			- Which authentication methods were used during a sigin-in?
+			- Why was the user 
