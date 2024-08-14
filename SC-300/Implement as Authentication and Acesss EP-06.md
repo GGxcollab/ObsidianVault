@@ -71,4 +71,5 @@
 				- Requer uma licença atribuída;
 			- #### SSPR Licensing options
 				- ![[Pasted image 20240814112037.png]]
-				- 
+	- ## Extend MFA to devices
+		- 
