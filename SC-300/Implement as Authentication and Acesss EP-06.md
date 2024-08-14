@@ -94,3 +94,5 @@
 			- Microsoft Sentinal
 			- Azure Monitor 
 			- Azure Events Hubs
+	- ## Monitor Microsoft Entra IDMFA activity
+		- 
