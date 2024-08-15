@@ -11,4 +11,6 @@
 	- ## Describe how to disable accounts and revoke user sessions
 		- **There are accasions when you need to disable an account and/or revoke an existing user session **
 			- Access tokens and refresh token
-				- When a user authenticates, they are issues and Access (Valid for 1)
+				- When a user authenticates, they are issues and Access (Valid for 1hour) and Refresh tokens
+		- **Primary steps that you need to take**
+			1. 
