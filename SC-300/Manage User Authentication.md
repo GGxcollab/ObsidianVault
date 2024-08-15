@@ -6,5 +6,5 @@
 		- FIDO allows users and organizations to leverage the specification to sign in to their resources without a username or password using an external security key or a plataform key built into a device
 - # Implement an authentication solution based on Windows Hello for Business
 	- ## Authentication in Windows Hello 
-		- ![[Pasted image 20240815113434.png]]l
+		- ![[Pasted image 20240815113434.png]]
 		- 
