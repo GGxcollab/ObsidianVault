@@ -4,29 +4,29 @@
 		- FIDO2 security keys are an unphishable specification-based passwordless authentication method that can come in any form factor.
 		- Fast Identity Online (FIDO) is an open specification for passwordless authentication
 		- FIDO allows users and organizations to leverage the specification to sign in to their resources without a username or password using an external security key or a plataform key built into a device
-- # Implement an authentication solution based on Windows Hello for Business
-	- ## Authentication in Windows Hello 
-		- ![[Pasted image 20240815113434.png]]
-- # Disable accounts and revoke user sessions
-	- ## Describe how to disable accounts and revoke user sessions
-		- **There are accasions when you need to disable an account and/or revoke an existing user session **
-			- Access tokens and refresh token
-				- When a user authenticates, they are issues and Access (Valid for 1hour) and Refresh tokens
-		- **Primary steps that you need to take**
-			1. Disable the account
-			2. Reset the password
-			3. Disable any devices, tokens, or other references
-		- **Disable accounts: On-premises and Microsoft Entra users**
-			- Disabling anda Revoking access (PowerShell)
-				- ![[Pasted image 20240815164434.png]]
-- # Deploy and manage password protection
-	- ## Microsoft Entra Password Protection 
-		- Users often create easy to guess passwords that are weak against dictionary-based attacks. To help you enforce strong passwords, Microsoft Entra Password Protection provides a global and custom banned password list. Beneficts include:
-			- Domain controllers (DCs) neve have to communicate directly with the internet;
-			- No new network ports;
-			- No AD DS schema changes required;
-			- No minimum AD DS domain or forest functional level (DFL/FFL) required;
-			- The software doesn't create or require accounts in the AD DS domains that it protects;
-			- User clear-text passwords never leave the DC;
-			- The software isn't dependent on ther Microsoft Entra features;
-			- Incremental deployment is supported;
+	- ## Implement an authentication solution based on Windows Hello for Business
+		- ### Authentication in Windows Hello 
+			- ![[Pasted image 20240815113434.png]]
+	- ## Disable accounts and revoke user sessions
+		- ### Describe how to disable accounts and revoke user sessions
+			- **There are accasions when you need to disable an account and/or revoke an existing user session **
+				- Access tokens and refresh token
+					- When a user authenticates, they are issues and Access (Valid for 1hour) and Refresh tokens
+			- **Primary steps that you need to take**
+				1. Disable the account
+				2. Reset the password
+				3. Disable any devices, tokens, or other references
+			- **Disable accounts: On-premises and Microsoft Entra users**
+				- Disabling anda Revoking access (PowerShell)
+					- ![[Pasted image 20240815164434.png]]
+	- ## Deploy and manage password protection
+		- ### Microsoft Entra Password Protection 
+			- Users often create easy to guess passwords that are weak against dictionary-based attacks. To help you enforce strong passwords, Microsoft Entra Password Protection provides a global and custom banned password list. Beneficts include:
+				- Domain controllers (DCs) neve have to communicate directly with the internet;
+				- No new network ports;
+				- No AD DS schema changes required;
+				- No minimum AD DS domain or forest functional level (DFL/FFL) required;
+				- The software doesn't create or require accounts in the AD DS domains that it protects;
+				- User clear-text passwords never leave the DC;
+				- The software isn't dependent on ther Microsoft Entra features;
+				- Incremental deployment is supported;
