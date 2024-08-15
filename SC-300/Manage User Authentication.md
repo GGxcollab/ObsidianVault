@@ -30,3 +30,4 @@
 				- User clear-text passwords never leave the DC;
 				- The software isn't dependent on ther Microsoft Entra features;
 				- Incremental deployment is supported;
+			- **Deplo**
