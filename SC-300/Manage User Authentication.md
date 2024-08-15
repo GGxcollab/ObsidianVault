@@ -26,4 +26,5 @@
 			- No new network ports;
 			- No AD DS schema changes required;
 			- No minimum AD DS domain or forest functional level (DFL/FFL) required;
-			- The software
+			- The software doesn't create or require accounts in the AD DS domains that it protects;
+			- User clear-text passwo
