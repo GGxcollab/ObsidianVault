@@ -21,4 +21,5 @@
 				- ![[Pasted image 20240815164434.png]]
 - # Deploy and manage password protection
 	- ## Microsoft Entra Password Protection
-		- Users often create easy to guess passwords that are weak against dictionary-based attacks. To help you enforce strong passwords, Microsoft Entra
+		- Users often create easy to guess passwords that are weak against dictionary-based attacks. To help you enforce strong passwords, Microsoft Entra Password Protection provides a global and custom banned password list. Beneficts include:
+			- 
