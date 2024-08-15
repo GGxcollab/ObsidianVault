@@ -19,4 +19,5 @@
 		- **Disable accounts: On-premises and Microsoft Entra users**
 			- Disabling anda Revoking access (PowerShell)
 				- ![[Pasted image 20240815164434.png]]
-- # Deploy 
+- # Deploy and manage password protection
+	- 
