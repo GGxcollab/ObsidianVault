@@ -13,4 +13,7 @@
 			- Access tokens and refresh token
 				- When a user authenticates, they are issues and Access (Valid for 1hour) and Refresh tokens
 		- **Primary steps that you need to take**
-			1. 
+			1. Disable the account
+			2. Reset the password
+			3. Disable any devices, tokens, or other references
+		- 
