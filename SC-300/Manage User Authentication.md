@@ -7,4 +7,4 @@
 - # Implement an authentication solution based on Windows Hello for Business
 	- ## Authentication in Windows Hello 
 		- ![[Pasted image 20240815113434.png]]
-		- 
+- # Dosabel accounts and revoke user sessions
