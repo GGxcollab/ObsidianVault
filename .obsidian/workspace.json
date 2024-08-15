@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Implement as Authentication and Acesss EP-06.md",
+                "file": "SC-300/Manage User Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Implement as Authentication and Acesss EP-06.md",
+                "file": "SC-300/Manage User Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Implement as Authentication and Acesss EP-06.md"
+                "file": "SC-300/Manage User Authentication.md"
               }
             }
           }
@@ -172,11 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "992035dca6c4f0c2",
+  "active": "182550873977770b",
   "lastOpenFiles": [
+    "SC-300/Implement as Authentication and Acesss EP-06.md",
     "SC-300/Manage User Authentication.md",
     "Pasted image 20240814160604.png",
-    "SC-300/Implement as Authentication and Acesss EP-06.md",
     "SC-300/Pasted image 20240814113735.png",
     "SC-300/Pasted image 20240814112037.png",
     "SC-300/Pasted image 20240813161605.png",
