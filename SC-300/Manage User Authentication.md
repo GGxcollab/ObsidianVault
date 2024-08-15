@@ -16,4 +16,7 @@
 			1. Disable the account
 			2. Reset the password
 			3. Disable any devices, tokens, or other references
-		- **Disable accounts: On-premises and Microso**
+		- **Disable accounts: On-premises and Microsoft Entra users**
+			- Disabling anda Revoking access (PowerShell)
+				- ![[Pasted image 20240815164434.png]]
+			- 
