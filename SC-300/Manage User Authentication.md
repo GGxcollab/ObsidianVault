@@ -8,4 +8,4 @@
 	- ## Authentication in Windows Hello 
 		- ![[Pasted image 20240815113434.png]]
 - # Disable accounts and revoke user sessions
-	- 
+	- ## Describe how to disable accounts and revoke user se
