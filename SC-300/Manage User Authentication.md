@@ -45,4 +45,6 @@
 					- High availability considerations;
 			- # Configure smart lockout thresholds
 				- ### How smart lockout works
-					- By default, smart lockout locks the account for one minute after 10 failed
+					- By default, smart lockout locks the account for one minute after 10 failed attempts.
+					- The account is locked again after subsequent attempts, for increasing periods
+					- Smartlockout
