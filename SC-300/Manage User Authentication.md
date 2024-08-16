@@ -41,5 +41,6 @@
 						- They need to inform users about the uncoming change in security enforcement, possible impact on them, and how to choose more secure passwords.
 				- Considerations
 					- Multiple forest considerations;
-					- Read-only domain controller considerations
-					- High availability considerations
+					- Read-only domain controller considerations;
+					- High availability considerations;
+			- 
