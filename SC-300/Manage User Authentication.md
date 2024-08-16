@@ -35,4 +35,6 @@
 				- **Audit mode**
 					- is the default initial setting, where passwords can continue to be set. Passwords that would be recorded in the event log. After you deploy the proxy servers and DC agentes in audit mode, monitor the impact tha the passwords policy will have on users when the policy is enforced.
 				- **Common findings**
-					- During the audit
+					- During the audit stage, many organization fing:
+						- They need to improve existing operational processes to use more secure passwords.
+						- Users 
