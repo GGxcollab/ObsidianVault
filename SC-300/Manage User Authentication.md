@@ -55,5 +55,6 @@
 				- ### Configure Kerberos for use in Microsoft Entra ID
 					- **Environment setup needed**
 						- Integrated Windows  Authentication enable on web apps
-						- All apps must have a Service 
+						- All apps must have a Service Principal
+						- Server running the Kerberos connector must be in domain joined
 						- 
