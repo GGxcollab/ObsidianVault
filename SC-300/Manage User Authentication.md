@@ -45,4 +45,4 @@
 					- High availability considerations;
 			- # Configure smart lockout thresholds
 				- ### How smart lockout works
-					- 
+					- By default, smart lockout locks the account for one minute after 10 failed
