@@ -49,4 +49,5 @@
 					- The account is locked again after subsequent attempts, for increasing periods
 					- Smartlockout is always on for all Microsoft Entra ID customers
 					- The defaults configuration can be customized
-					- Smart lockout doesn't' guarantee that
+					- Smart lockout doesn't' guarantee that a genuine user is never locked out, but it is tailored to resisting bad actors
+					- Smart lockout can be integrated with hybrig deployments
