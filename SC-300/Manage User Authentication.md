@@ -39,4 +39,7 @@
 						- They need to improve existing operational processes to use more secure passwords.
 						- Users often use unsecure passwords.
 						- They need to inform users about the uncoming change in security enforcement, possible impact on them, and how to choose more secure passwords.
-						- 
+				- Considerations
+					- Multiple forest considerations;
+					- Read-only domain controller considerations
+					- High availability considerations
