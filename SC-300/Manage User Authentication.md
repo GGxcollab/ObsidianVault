@@ -53,4 +53,5 @@
 					- Smart lockout can be integrated with hybrig deployments
 			- ## Kerberos in Microsoft Entra ID
 				- ### Configure Kerberos for use in Microsoft Entra ID
-					- 
+					- **Environment setup needed**
+						- Intedra
