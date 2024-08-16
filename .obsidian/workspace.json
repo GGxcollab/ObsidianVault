@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/Manage User Authentication.md",
+                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Manage User Authentication.md",
+                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Manage User Authentication.md",
+                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Manage User Authentication.md"
+                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "182550873977770b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "SC-300/Manage User Authentication.md",
+    "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "Excalidraw",
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "Pasted image 20240816154247.png",
