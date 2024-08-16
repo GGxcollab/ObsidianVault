@@ -31,4 +31,6 @@
 				- The software isn't dependent on ther Microsoft Entra features;
 				- Incremental deployment is supported;
 			- **Deployment approach**
-				- **Strategy for rolling out Password Protection - Don't **
+				- **Strategy for rolling out Password Protection - Don't just turn it on**
+				- **Audit mode**
+					- is the default initial setting, where passwords can continue to be set. 
