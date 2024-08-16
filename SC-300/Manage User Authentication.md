@@ -43,7 +43,7 @@
 					- Multiple forest considerations;
 					- Read-only domain controller considerations;
 					- High availability considerations;
-			- # Configure smart lockout thresholds
+			- ## Configure smart lockout thresholds
 				- ### How smart lockout works
 					- By default, smart lockout locks the account for one minute after 10 failed attempts.
 					- The account is locked again after subsequent attempts, for increasing periods
@@ -51,3 +51,5 @@
 					- The defaults configuration can be customized
 					- Smart lockout doesn't' guarantee that a genuine user is never locked out, but it is tailored to resisting bad actors
 					- Smart lockout can be integrated with hybrig deployments
+			- ## Kerberos in Microsoft Entra ID
+				- 
