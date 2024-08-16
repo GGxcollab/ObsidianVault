@@ -54,4 +54,6 @@
 			- ## Kerberos in Microsoft Entra ID
 				- ### Configure Kerberos for use in Microsoft Entra ID
 					- **Environment setup needed**
-						- Intedra
+						- Integrated Windows  Authentication enable on web apps
+						- All apps must have a Service 
+						- 
