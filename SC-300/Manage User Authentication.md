@@ -47,4 +47,6 @@
 				- ### How smart lockout works
 					- By default, smart lockout locks the account for one minute after 10 failed attempts.
 					- The account is locked again after subsequent attempts, for increasing periods
-					- Smartlockout
+					- Smartlockout is always on for all Microsoft Entra ID customers
+					- The defaults configuration can be customized
+					- Smart lockout doesn't' guarantee that
