@@ -53,8 +53,9 @@
 					- Smart lockout can be integrated with hybrig deployments
 			- ## Kerberos in Microsoft Entra ID
 				- ### Configure Kerberos for use in Microsoft Entra ID
+					- ![[Pasted image 20240816154247.png]]
 					- **Environment setup needed**
 						- Integrated Windows  Authentication enable on web apps
 						- All apps must have a Service Principal
 						- Server running the Kerberos connector must be in domain joined
-						- 
+					- 
