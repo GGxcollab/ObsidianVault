@@ -41,10 +41,10 @@
 						- They need to inform users about the uncoming change in security enforcement, possible impact on them, and how to choose more secure passwords.
 				- Considerations
 					- Multiple forest considerations;
-					- Read-only domain controller considerations;
+					- Read-only domain controller considerations;2
 					- High availability considerations;
 			- ## Configure smart lockout thresholds
-				- ### How smart lockout works
+				- #### How smart lockout works
 					- By default, smart lockout locks the account for one minute after 10 failed attempts.
 					- The account is locked again after subsequent attempts, for increasing periods
 					- Smartlockout is always on for all Microsoft Entra ID customers
@@ -52,4 +52,5 @@
 					- Smart lockout doesn't' guarantee that a genuine user is never locked out, but it is tailored to resisting bad actors
 					- Smart lockout can be integrated with hybrig deployments
 			- ## Kerberos in Microsoft Entra ID
-				- 
+				- ### Configure Kerberos for use in Microsoft Entra ID
+					- 
