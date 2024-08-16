@@ -43,4 +43,6 @@
 					- Multiple forest considerations;
 					- Read-only domain controller considerations;
 					- High availability considerations;
-			- 
+			- # Configure smart lockout thresholds
+				- ### How smart lockout works
+					- 
