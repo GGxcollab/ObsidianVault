@@ -11,11 +11,14 @@
             "id": "182550873977770b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md",
-                "mode": "source",
-                "source": false
+                "file": "SC-300/Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md",
+                "file": "SC-300/Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md",
+                "file": "SC-300/Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Manage Identities in AzureAD EP04.md"
+                "file": "SC-300/Sem título.canvas"
               }
             }
           }
@@ -149,6 +152,10 @@
   },
   "active": "182550873977770b",
   "lastOpenFiles": [
+    "SC-300/Pasted image 20240814160604.png",
+    "SC-300/Sem título.canvas",
+    "SC-300/Manage Identities in AzureAD EP04.md",
+    "Sem título",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/Pasted image 20240806163731.png",
@@ -161,13 +168,11 @@
     "SC-300/Pasted image 20240815113434.png",
     "SC-300/Pasted image 20240815113428.png",
     "SC-300/Implement as Authentication and Acesss EP-06.md",
-    "SC-300/Pasted image 20240814160604.png",
     "SC-300/Pasted image 20240814113735.png",
     "SC-300/Pasted image 20240814112037.png",
     "SC-300/Pasted image 20240813161605.png",
     "SC-300/Pasted image 20240813161557.png",
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
-    "SC-300/Manage Identities in AzureAD EP04.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
     "adasd.md",
     "SC-300"
