@@ -73,3 +73,6 @@
 						- Reduce reliance on local administrador accounts.
 						- Passwords complexity and password lifetime policies configured for your Microsoft Entra ID.
 						- Configure Condicional Access policies to require multifactor authentication and other signals such as risky-user or sign-in risk.
+					- **Supported operation systems**:
+						- Windows Server 2019 Datacenter edition and later.
+						- Windows 10 
