@@ -65,4 +65,4 @@
 						- User sign-ins to web browser-based applicationon all platforms
 						- User sign-ins on mobile native browsers.
 						- Support for granular authentication rules for MFA by using the certification issuer **Subject** and **policy OIDs**.
-						- Configuring certificate-to-user account bindings 
+						- Configuring certificate-to-user account bindings by using the certificate Subject Alternate Name (SAN) principal name and SAN RFC 
