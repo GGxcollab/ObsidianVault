@@ -64,4 +64,5 @@
 					- **The following scenarios are supported**:
 						- User sign-ins to web browser-based applicationon all platforms
 						- User sign-ins on mobile native browsers.
-						- Support for granular authentication rules for MFA by using 
+						- Support for granular authentication rules for MFA by using the certification issuer **Subject** and **policy OIDs**.
+						- Configuring certificate-to-user account bindings 
