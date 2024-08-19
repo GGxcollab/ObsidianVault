@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0dce495560be30d9",
+        "id": "b131a58a03d21a94",
         "type": "tabs",
         "children": [
           {
-            "id": "182550873977770b",
+            "id": "779c80c16705424b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "SC-300/Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "SC-300/Pasted image 20240807152129.png"
               }
             }
           }
@@ -88,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Sem título.canvas",
+                "file": "SC-300/Pasted image 20240807152129.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Sem título.canvas",
+                "file": "SC-300/Pasted image 20240807152129.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Sem título.canvas"
+                "file": "SC-300/Pasted image 20240807152129.png"
               }
             }
           }
@@ -150,15 +145,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "182550873977770b",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
+    "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/Pasted image 20240814160604.png",
+    "SC-300/images",
     "SC-300/Sem título.canvas",
     "SC-300/Manage Identities in AzureAD EP04.md",
     "Sem título",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
-    "SC-300/Implement an Identify Management Solution EP02.md",
-    "SC-300/Pasted image 20240806163731.png",
+    "SC-300/images/Pasted image 20240806163731.png",
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Manage User Authentication.md",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
