@@ -70,4 +70,6 @@
 				- ### Beneficts of Microsoft ID user authentication in VMs
 					- **Benefits**:
 						- Use Microsoft Entra credentials to sign into Windows VMs in Azure.
-						- Reduce reliance on local administrador 
+						- Reduce reliance on local administrador accounts.
+						- Paaswords complexity and password lifetime policies configured for your Microsoft Entra ID.
+						- 
