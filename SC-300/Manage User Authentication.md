@@ -62,7 +62,7 @@
 				- ### Implement certificate-based authentication in Microsoft Entra ID
 					- ![[Pasted image 20240819160921.png]]
 					- **The following scenarios are supported**:
-						- User sign-ins to web browser-based applicationon all platforms.
-						- User sign-ins on mobile native browsers.
-						- Support for granular authentication rules for MFA by using the certification issuer **Subject** and **policy OIDs**.
-						- Configuring certificate-to-user account bindings by using the certificate Subject Alternate Name (SAN) principal name and SAN RFC 822 name.
+						- O usuário faz login no aplicativo baseado em navegador da Web em todas as plataformas.
+						- Entradas de usuários em navegadores nativos para dispositivos móveis.
+						- Suporte para regras de autenticação granulares para MFA usando o emissor de certificação **Subject** e **policy OIDs**.
+						- Configurando associações de conta de certificado para usuário usando o certificado Subject Alternate Name (SAN) principal name and SAN RFC 822 name.
