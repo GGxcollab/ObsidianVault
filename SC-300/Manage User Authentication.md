@@ -80,5 +80,6 @@
 						- Linux virtual machine.
 				- ### Configure Windows VMs 
 					- ![[Pasted image 20240819162926.png]]
-					- To use Microsoft Entra sign-in for Windows VM in Azure, you must:
-						- 
+					- **To use Microsoft Entra sign-in for Windows VM in Azure, you must:**
+						- First enable the Microsoft Entra sign-in option for your Windows VM.
+						- Then configure Azure role assi
