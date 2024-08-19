@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md",
+                "file": "SC-300/Implement an Identify Management Solution EP02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md",
+                "file": "SC-300/Implement an Identify Management Solution EP02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md",
+                "file": "SC-300/Implement an Identify Management Solution EP02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Microsoft Identity and Access Administrator EP01.md"
+                "file": "SC-300/Implement an Identify Management Solution EP02.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "182550873977770b",
   "lastOpenFiles": [
+    "SC-300/Pasted image 20240806163731.png",
+    "SC-300/Implement an Identify Management Solution EP02.md",
+    "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Manage User Authentication.md",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "Excalidraw",
-    "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "Pasted image 20240816154247.png",
     "Pasted image 20240815164434.png",
     "SC-300/Pasted image 20240815113434.png",
@@ -163,8 +165,6 @@
     "SC-300/Pasted image 20240814112037.png",
     "SC-300/Pasted image 20240813161605.png",
     "SC-300/Pasted image 20240813161557.png",
-    "SC-300/Pasted image 20240813135735.png",
-    "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
