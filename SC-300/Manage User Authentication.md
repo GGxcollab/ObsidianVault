@@ -75,4 +75,6 @@
 						- Configure Condicional Access policies to require multifactor authentication and other signals such as risky-user or sign-in risk.
 					- **Supported operation systems**:
 						- Windows Server 2019 Datacenter edition and later.
-						- Windows 10 
+						- Windows 10 1809 and later.
+						- Windows 11.
+						- Linux virtual machine.
