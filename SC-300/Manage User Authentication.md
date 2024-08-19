@@ -62,4 +62,6 @@
 				- ### Implement certificate-based authentication in Microsoft Entra ID
 					- ![[Pasted image 20240819160921.png]]
 					- **The following scenarios are supported**:
-						- User sign-ins to web browser-based application
+						- User sign-ins to web browser-based applicationon all platforms
+						- User sign-ins on mobile native browsers.
+						- Support for granular authentication rules for MFA by using 
