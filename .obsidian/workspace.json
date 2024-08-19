@@ -11,9 +11,11 @@
             "id": "779c80c16705424b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SC-300/Pasted image 20240807152129.png"
+                "file": "SC-300/Manage User Authentication.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Pasted image 20240807152129.png",
+                "file": "SC-300/Manage User Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Pasted image 20240807152129.png",
+                "file": "SC-300/Manage User Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Pasted image 20240807152129.png"
+                "file": "SC-300/Manage User Authentication.md"
               }
             }
           }
@@ -145,10 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "779c80c16705424b",
   "lastOpenFiles": [
+    "SC-300/images/Pasted image 20240816154247.png",
+    "SC-300/images/Pasted image 20240815164434.png",
+    "SC-300/images/Pasted image 20240807152129.png",
     "SC-300/Implement an Identify Management Solution EP02.md",
-    "SC-300/Pasted image 20240814160604.png",
+    "SC-300/images/Pasted image 20240814160604.png",
     "SC-300/images",
     "SC-300/Sem título.canvas",
     "SC-300/Manage Identities in AzureAD EP04.md",
@@ -159,15 +164,13 @@
     "SC-300/Manage User Authentication.md",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20240816154247.png",
-    "Pasted image 20240815164434.png",
-    "SC-300/Pasted image 20240815113434.png",
-    "SC-300/Pasted image 20240815113428.png",
+    "SC-300/images/Pasted image 20240815113434.png",
+    "SC-300/images/Pasted image 20240815113428.png",
     "SC-300/Implement as Authentication and Acesss EP-06.md",
-    "SC-300/Pasted image 20240814113735.png",
-    "SC-300/Pasted image 20240814112037.png",
-    "SC-300/Pasted image 20240813161605.png",
-    "SC-300/Pasted image 20240813161557.png",
+    "SC-300/images/Pasted image 20240814113735.png",
+    "SC-300/images/Pasted image 20240814112037.png",
+    "SC-300/images/Pasted image 20240813161605.png",
+    "SC-300/images/Pasted image 20240813161557.png",
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
     "adasd.md",
