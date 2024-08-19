@@ -67,4 +67,7 @@
 						- Suporte para regras de autenticação granulares para MFA usando o emissor de certificação **Subject** e **policy OIDs**.
 						- Configurando associações de conta de certificado para usuário usando o certificado Subject Alternate Name (SAN) principal name and SAN RFC 822 name.
 			- ## Microsoft Entra ID user auth for VMs
-				- ### Beneficts of Microsoft ID user authentication in 
+				- ### Beneficts of Microsoft ID user authentication in VMs
+					- **Benefits**:
+						- Use Microsoft Entra credentials to sign into Windows VMs in Azure.
+						- Reduce reliance on local administrador 
