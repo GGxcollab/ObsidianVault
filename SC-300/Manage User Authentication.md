@@ -58,4 +58,6 @@
 						- Integrated Windows  Authentication enable on web apps
 						- All apps must have a Service Principal
 						- Server running the Kerberos connector must be in domain joined
-			- ## Certificate based aut
+			- ## Certificate based authentication
+				- ### Implement certificate-based authentication in Microsoft Entra ID
+					- P
