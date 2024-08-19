@@ -78,3 +78,7 @@
 						- Windows 10 1809 and later.
 						- Windows 11.
 						- Linux virtual machine.
+				- ### Configure Windows VMs 
+					- ![[Pasted image 20240819162926.png]]
+					- To use Microsoft Entra sign-in for Windows VM in Azure, you must:
+						- 
