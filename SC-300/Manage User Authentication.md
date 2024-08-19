@@ -61,8 +61,10 @@
 			- ## Certificate based authentication
 				- ### Implement certificate-based authentication in Microsoft Entra ID
 					- ![[Pasted image 20240819160921.png]]
-					- **The following scenarios are supported**:
+					- **Os seguintes cenários são suportados**:
 						- O usuário faz login no aplicativo baseado em navegador da Web em todas as plataformas.
 						- Entradas de usuários em navegadores nativos para dispositivos móveis.
 						- Suporte para regras de autenticação granulares para MFA usando o emissor de certificação **Subject** e **policy OIDs**.
 						- Configurando associações de conta de certificado para usuário usando o certificado Subject Alternate Name (SAN) principal name and SAN RFC 822 name.
+			- ## Microsoft Entra ID user auth for VMs
+				- ### Beneficts of Microsoft ID user authentication in 
