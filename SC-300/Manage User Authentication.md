@@ -60,4 +60,6 @@
 						- Server running the Kerberos connector must be in domain joined
 			- ## Certificate based authentication
 				- ### Implement certificate-based authentication in Microsoft Entra ID
-					- P
+					- ![[Pasted image 20240819160921.png]]
+					- **The following scenarios are supported**:
+						- User sign-ins to web browser-based application
