@@ -71,5 +71,5 @@
 					- **Benefits**:
 						- Use Microsoft Entra credentials to sign into Windows VMs in Azure.
 						- Reduce reliance on local administrador accounts.
-						- Paaswords complexity and password lifetime policies configured for your Microsoft Entra ID.
-						- 
+						- Passwords complexity and password lifetime policies configured for your Microsoft Entra ID.
+						- Configure Condicional Access policies to require multifactor authentication and other signals such as risky-user or sign-in risk.
