@@ -11,4 +11,6 @@
 - ## **Security Defaults**
 	- ![[Pasted image 20240820134847.png]]
 	- **Who's it for?**
-		- **Who should use security defaults**
+		- **Who should use security defaults?**
+			- Organizarions that want to increase their security posture but don't know how oe where to start
+			- Organizations utilizing the free tier 
