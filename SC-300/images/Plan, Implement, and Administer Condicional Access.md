@@ -27,3 +27,6 @@
 	- Address compliance and governance.
 	- Manage cost.
 	- Zero Trust.
+- ## **Understanding Condicional Access policy components**
+	- ![[Pasted image 20240820144059.png]]
+	- 
