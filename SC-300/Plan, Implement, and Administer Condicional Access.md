@@ -35,5 +35,5 @@
 - ## **Setting up Condicional Access**
 	- Uma boa prática, sempre antes de criar uma política de condicional access, na parte do "Estado da política", primeiramente crie como "Somente relatório"
 	- ![[Pasted image 20240820162223.png]]
-	- 
+	- ### Grant/Block 
 
