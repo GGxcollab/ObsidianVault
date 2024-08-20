@@ -40,5 +40,6 @@
 			- Use carefully or your could block your system.
 			- Always test with What-if and Report-Only mode.
 		- **Grant Access**
-			- Enforce several different controls befor allowin
+			- Enforce several different controls befor allowing access.
+		- **NOTE - Require All/Require One**
 
