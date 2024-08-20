@@ -13,4 +13,6 @@
 	- **Who's it for?**
 		- **Who should use security defaults?**
 			- Organizarions that want to increase their security posture but don't know how oe where to start
-			- Organizations utilizing the free tier 
+			- Organizations utilizing the free tier of Microsoft Entra IDirectory
+		- **Who shouldn't use security defaults?**
+			- Oranizations currently usi
