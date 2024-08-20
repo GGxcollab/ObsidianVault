@@ -22,6 +22,8 @@
 - ## **About condicional Access policies**
 	- ![[Pasted image 20240820142917.png]]
 - ## **Benifits of Condicional Access**
-	- Increase productivity
-	- Manage risk
+	- Increase productivity.
+	- Manage risk.
 	- Address compliance and governance.
+	- Manage cost.
+	- Zero Trust.
