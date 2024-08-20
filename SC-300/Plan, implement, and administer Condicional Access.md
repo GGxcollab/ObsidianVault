@@ -19,4 +19,5 @@
 			- Organizations with Microsoft Entra ID Premium licenses
 			- Organizations with complex security requirements that warrant using Condicional Access
 # Plan Condicional Access policies
--  **About condicional **
+-  **About condicional Access policies**
+	- 
