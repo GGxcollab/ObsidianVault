@@ -17,4 +17,4 @@
 		- **Who shouldn't use security defaults?**
 			- Oranizations currently using Condicional Access policies to bring signals together, make decisions, and enforce organizational policies
 			- Organizations with Microsoft Entra ID Premium licenses
-			- Organizati
+			- Organizations with complex security requirements that warrant using Condicional Access
