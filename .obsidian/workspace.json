@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "5168abfb6cc3974e",
   "lastOpenFiles": [
     "SC-300/images/Pasted image 20240820134847.png",
     "SC-300/Manage User Authentication.md",
