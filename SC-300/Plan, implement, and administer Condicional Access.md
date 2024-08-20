@@ -20,4 +20,5 @@
 			- Organizations with complex security requirements that warrant using Condicional Access
 # Plan Condicional Access policies
 -  **About condicional Access policies**
+	- k
 	- 
