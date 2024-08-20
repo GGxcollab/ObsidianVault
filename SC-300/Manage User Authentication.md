@@ -81,5 +81,6 @@
 				- ### Configure Windows VMs 
 					- ![[Pasted image 20240819162926.png]]
 					- **To use Microsoft Entra sign-in for Windows VM in Azure, you must:**
-						- First enable the Microsoft Entra sign-in option for your Windows VM.
-						- Then configure Azure role assignments for users who are authorized to sign into the VM.
+						- Primeiro, habilite a opção de entrada do Microsoft Entra para sua VM do Windows.
+						- Em seguida, configure as atribuições de função do Azure para usuários autorizados a entrar na VM.
+					- 
