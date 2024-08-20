@@ -30,7 +30,5 @@
 - ## **Understanding Condicional Access policy components**
 	- ![[Pasted image 20240820144059.png]]
 - ## Access token inssuance
-	- k
-	- 
-
-
+	- ![[Pasted image 20240820161656.png]]
+- 
