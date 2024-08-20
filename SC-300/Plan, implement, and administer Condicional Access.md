@@ -8,4 +8,6 @@
 7. **Avaliação Contínua de Acesso**
 8. **Contexto de autenticação**
 # Explore Security Defaults
-- 
+- **Security Defaults**
+	- ![[Pasted image 20240820134847.png]]
+	- 
