@@ -38,5 +38,7 @@
 	- ### Grant/Block Access controls
 		- **Block Access**
 			- Use carefully or your could block your system.
-			- Al
+			- Always test with What-if and Report-Only mode.
+		- **Grant Access**
+			- Enforce several different controls befor allowin
 
