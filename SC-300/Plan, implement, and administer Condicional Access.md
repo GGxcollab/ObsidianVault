@@ -15,4 +15,6 @@
 			- Organizarions that want to increase their security posture but don't know how oe where to start
 			- Organizations utilizing the free tier of Microsoft Entra IDirectory
 		- **Who shouldn't use security defaults?**
-			- Oranizations currently usi
+			- Oranizations currently using Condicional Access policies to bring signals together, make decisions, and enforce organizational policies
+			- Organizations with Microsoft Entra ID Premium licenses
+			- Organizati
