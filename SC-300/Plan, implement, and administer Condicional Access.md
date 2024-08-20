@@ -1,8 +1,9 @@
 # Objectives:
-1. **Plan an Implement security defaults**
-2. **Plan condicional Access policies**
-3. **Implement condicional access policy controls and assignments (targeting, applications, and condicionals)**
-4. **Template based condicional access**
-5. Test and troubleshoot condicional access policies 
-6. Implement application controls and session management
-7. Continuous Access E
+1. **Planejar e implementar padrões de segurança**
+2. **Planeje políticas de acesso condicional**
+3. **Implemente controles e atribuições de política de acesso condicional (direcionamento, aplicativos e condicionais)**
+4. **Acesso condicional baseado em modelo**
+5. **Testar e solucionar problemas de políticas de acesso condicional** 
+6. **Implemente controles de aplicativos e gerenciamento de sessão**
+7. **Avaliação Contínua de Acesso**
+8. **Contexto de autenticação**
