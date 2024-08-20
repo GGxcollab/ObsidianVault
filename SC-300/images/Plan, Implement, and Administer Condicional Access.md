@@ -29,4 +29,8 @@
 	- Zero Trust.
 - ## **Understanding Condicional Access policy components**
 	- ![[Pasted image 20240820144059.png]]
+- ## Access token inssuance
+	- k
 	- 
+
+
