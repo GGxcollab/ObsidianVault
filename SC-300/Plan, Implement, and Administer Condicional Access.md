@@ -37,6 +37,7 @@
 	- ![[Pasted image 20240820162223.png]]
 	- ### Grant/Block Access controls
 		- **Block Access**
+			- Cuidado para não bloquear a si mesmo como admin.
 			- Use carefully or your could block your system.
 			- Always test with What-if and Report-Only mode.
 		- **Grant Access**
