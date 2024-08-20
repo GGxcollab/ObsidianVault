@@ -7,3 +7,5 @@
 6. **Implemente controles de aplicativos e gerenciamento de sessão**
 7. **Avaliação Contínua de Acesso**
 8. **Contexto de autenticação**
+# Explore Security Defaults
+- 
