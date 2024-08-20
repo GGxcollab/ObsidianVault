@@ -32,5 +32,5 @@
 - ## Access token inssuance
 	- ![[Pasted image 20240820161656.png]]
 # Implement Condicional Access policies and assignments
-- 
+- ##
 
