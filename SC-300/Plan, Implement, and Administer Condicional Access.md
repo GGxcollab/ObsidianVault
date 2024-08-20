@@ -43,4 +43,6 @@
 		- **Grant Access**
 			- Enforce several different controls befor allowing access.
 		- **NOTE - Require All/Require One**
+		- ![[Pasted image 20240820164813.png]]
+	- ### Session A
 
