@@ -95,5 +95,6 @@
 	- End-user productivity isn't affected, and policies don't apply when using the app in a personal context
 	- App protection policies ensure that the app-layer protections are in place
 	- MDM, in addition to MAM, ensures that the device is protected
-	- 
+- ## Validation
+	- Use the What-If tool to simulate a login from the user to the target application and 
 	
