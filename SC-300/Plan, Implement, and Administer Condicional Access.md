@@ -54,4 +54,9 @@
 
 # Template based Condicional Access
 - ## Condicional Access Templates
-	- **14 policy templates:**
+	- **14 policy templates**:
+		- Azure Portal
+		- Microsoft Entra ID
+		- Security
+		- Condicional Access
+		- Create new policy from template
