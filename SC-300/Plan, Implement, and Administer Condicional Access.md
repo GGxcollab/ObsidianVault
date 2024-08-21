@@ -101,5 +101,5 @@
 	- ![[Pasted image 20240821154951.png]]
 # Continuous Access Evaluation
 - ## Benefits
-	- thre
+	- There are several key benefits 
 	
