@@ -49,5 +49,6 @@
 		- Base the experience of specific condicions the user has met or failed to meet.
 		- ![[Pasted image 20240820165108.png]]
 	- ### Types of Condicional Access policies
-		- Sign-in risk-based Condicional
+		- Sign-in risk-based Condicional Access
+		- User risk-based Condicional Access
 
