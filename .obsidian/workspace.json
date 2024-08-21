@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/Sem título.md",
+                "file": "SC-300/Implement as Authentication and Acesss EP-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Sem título.md",
+                "file": "SC-300/Implement as Authentication and Acesss EP-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Sem título.md",
+                "file": "SC-300/Implement as Authentication and Acesss EP-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Sem título.md"
+                "file": "SC-300/Implement as Authentication and Acesss EP-06.md"
               }
             }
           }
@@ -150,9 +150,11 @@
   },
   "active": "779c80c16705424b",
   "lastOpenFiles": [
-    "SC-300/images/Pasted image 20240821160638.png",
+    "SC-300/Manage User Authentication - EP07.md",
+    "SC-300/Plan, Implement, and Administer Condicional Access - EP08.md",
     "SC-300/Sem título.md",
-    "SC-300/Plan, Implement, and Administer Condicional Access.md",
+    "SC-300/Implement as Authentication and Acesss EP-06.md",
+    "SC-300/images/Pasted image 20240821160638.png",
     "SC-300/images/Pasted image 20240821160014.png",
     "SC-300/images/Pasted image 20240821154951.png",
     "SC-300/images/Pasted image 20240821150732.png",
@@ -161,7 +163,6 @@
     "SC-300/images/Pasted image 20240820165108.png",
     "SC-300/images/Pasted image 20240820164813.png",
     "SC-300/images/Pasted image 20240820162223.png",
-    "SC-300/Manage User Authentication.md",
     "SC-300/images/Pasted image 20240820161656.png",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
@@ -172,7 +173,6 @@
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "Excalidraw",
-    "SC-300/Implement as Authentication and Acesss EP-06.md",
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
     "adasd.md",

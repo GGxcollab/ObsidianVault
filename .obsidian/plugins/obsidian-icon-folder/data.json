@@ -38,7 +38,6 @@
   "SC-300/Manage Identities in AzureAD EP04.md": "LiFile",
   "SC-300/Azure AD Connect - Guia passo a passo EP05.md": "LiFile",
   "SC-300/Implement as Authentication and Acesss EP-06.md": "LiFile",
-  "SC-300/Manage User Authentication.md": "LiFile",
   "SC-300/images/Pasted image 20240806144559.png": "LiImage",
   "SC-300/images/Pasted image 20240806161459.png": "LiImage",
   "SC-300/images/Pasted image 20240806163713.png": "LiImage",
@@ -53,6 +52,7 @@
   "SC-300/images/Pasted image 20240813161605.png": "LiImage",
   "SC-300/images/Pasted image 20240814112037.png": "LiImage",
   "SC-300/images/Pasted image 20240814113735.png": "LiImage",
-  "SC-300/Plan, Implement, and Administer Condicional Access.md": "LiFile",
-  "SC-300/Sem título.md": "LiFile"
+  "SC-300/Sem título.md": "LiFile",
+  "SC-300/Plan, Implement, and Administer Condicional Access - EP08.md": "LiFile",
+  "SC-300/Manage User Authentication - EP07.md": "LiFile"
 }
