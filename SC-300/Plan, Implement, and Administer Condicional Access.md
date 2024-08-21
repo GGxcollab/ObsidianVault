@@ -48,5 +48,6 @@
 		- Limit the experience of the user/application within specific cloud application.
 		- Base the experience of specific condicions the user has met or failed to meet.
 		- ![[Pasted image 20240820165108.png]]
-	- ###
+	- ### Types of Condicional Access policies
+		- Sign-in risk-based Condicional
 
