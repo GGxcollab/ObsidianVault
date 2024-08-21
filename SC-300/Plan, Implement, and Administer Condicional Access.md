@@ -68,7 +68,7 @@
 - ## Condicional Access Terms of Use (TOU)
 	- ![[Pasted image 20240821142755.png]]
 # Test and troubleshoot condicional access policies
-- ## Configure  to avoid
+- ## Configure to avoid
 	- **For all users, all cloud apps:**
 		- Block access;
 		- Require device to be marked as compliant;
@@ -76,3 +76,5 @@
 		- Require app protection policy;
 	- **For all users, all cloud apps, all platforms:**
 		- Block access;
+- ## Troubleshooting sign-in interrupts
+	- In this error, the message states that the application can 
