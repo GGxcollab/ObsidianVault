@@ -104,4 +104,4 @@
 	- There are several key benefits to continuous access evaluation.
 	- User termination or password change/restet: User session revocation will be enforced in near real time.
 	- Network location change: Condicional Access location policies will be enforced in near real time.
-	- Token export to a machine outside of a trusted net
+	- Token export to a machine outside of a trusted network can be prevented with Condicional Access location policies.
