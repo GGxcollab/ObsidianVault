@@ -97,5 +97,7 @@
 	- MDM, in addition to MAM, ensures that the device is protected
 - ## Validation
 	- Use the What-If tool to simulate a login from the user to the target application and other conditions based on how you configured your policy. 
-	- The authentication session management controls show up
+	- The authentication session management controls show up in the result of the tool
+	- ![[Pasted image 20240821154951.png]]
+	- 
 	
