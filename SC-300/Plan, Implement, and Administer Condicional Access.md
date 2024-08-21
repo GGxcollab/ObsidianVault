@@ -66,4 +66,5 @@
 	- Require compliant devices.
 	- Exclude access from emergency and service accounts.
 - ## Condicional Access Terms of Use (TOU)
-	- 
+	- ![[Pasted image 20240821142755.png]]
+- 
