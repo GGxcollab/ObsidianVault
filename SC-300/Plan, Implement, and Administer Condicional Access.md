@@ -52,4 +52,5 @@
 		- Sign-in risk-based Condicional Access
 		- User risk-based Condicional Access
 
-f
+# Template based Condicional Access
+	
