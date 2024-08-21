@@ -70,4 +70,7 @@
 # Test and troubleshoot condicional access policies
 - ## Configure  to avoid
 	- **For all users, all cloud apps:**
-		- Block access
+		- Block access;
+		- Require device to be marked as compliant;
+		- Require Hybrid Microsoft Entra ID domain joined device;
+		- Require app pr
