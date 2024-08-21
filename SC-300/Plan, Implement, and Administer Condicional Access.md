@@ -101,5 +101,6 @@
 	- ![[Pasted image 20240821154951.png]]
 # Continuous Access Evaluation
 - ## Benefits
-	- There are several key benefits 
+	- There are several key benefits to continuous access evaluation.
+	- User termination or password change/restet: User session revocation will be enforced in near 
 	
