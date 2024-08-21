@@ -55,11 +55,11 @@
 # Template based Condicional Access
 - ## Condicional Access Templates
 	- **14 policy templates**:
-		- Azure Portal
-		- Microsoft Entra ID
-		- Security
-		- Condicional Access
-		- Create new policy from template
+		- Azure Portal.
+		- Microsoft Entra ID.
+		- Security.
+		- Condicional Access.
+		- Create new policy from template.
 - ## Examples of Condicional Access scenarios
 	- Require registration from a trusted location.
 	- Block access bu location.
