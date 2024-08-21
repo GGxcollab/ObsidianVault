@@ -106,4 +106,5 @@
 	- Network location change: Condicional Access location policies will be enforced in near real time.
 	- Token export to a machine outside of a trusted network can be prevented with Condicional Access location policies.
 	- ![[Pasted image 20240821160014.png]]
-	- 
+# Authentication Context
+- ## Configure authen
