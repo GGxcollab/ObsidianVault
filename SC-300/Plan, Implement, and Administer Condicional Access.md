@@ -83,5 +83,8 @@
 # Implement application controls
 - ## Condicional Access - App Control
 	- Block download, cut, copy and print
-	-  En
+	-  Enforce document labeling with Azure Information Protection
+	- Prevent file uploads
+	- Monitor/Logs sessions for compliance
+	- Block app access based 
 	
