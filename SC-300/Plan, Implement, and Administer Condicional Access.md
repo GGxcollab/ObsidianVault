@@ -87,5 +87,7 @@
 	- Prevent file uploads
 	- Monitor/Logs sessions for compliance
 	- Block app access based on risk factors
-	- **CA - App Control works with Mi**
+	- **CA - App Control works with Microsoft Defender for Cloud Apps**
+	- ![[Pasted image 20240821150732.png]]
+	- 
 	
