@@ -61,4 +61,7 @@
 		- Condicional Access
 		- Create new policy from template
 - ## Examples of Condicional Access scenarios
-	- Required
+	- Require registration from a trusted location.
+	- Block access bu location.
+	- Require compliant devices.
+	- Exclude access from emergency and service accounts.
