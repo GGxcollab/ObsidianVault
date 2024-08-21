@@ -81,4 +81,7 @@
 	- Exemplo:
 	- ![[Pasted image 20240821144751.png]]
 # Implement application controls
-- ##
+- ## Condicional Access - App Control
+	- Block download, cut, copy and print
+	-  En
+	
