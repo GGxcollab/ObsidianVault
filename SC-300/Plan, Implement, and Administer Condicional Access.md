@@ -65,3 +65,5 @@
 	- Block access bu location.
 	- Require compliant devices.
 	- Exclude access from emergency and service accounts.
+- ## Condicional Access Terms of Use (TOU)
+	- 
