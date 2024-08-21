@@ -53,4 +53,4 @@
 		- User risk-based Condicional Access
 
 # Template based Condicional Access
-	
+- ## 
