@@ -73,4 +73,6 @@
 		- Block access;
 		- Require device to be marked as compliant;
 		- Require Hybrid Microsoft Entra ID domain joined device;
-		- Require app pr
+		- Require app protection policy;
+	- **For all users, all cloud apps, all platforms:**
+		- Block access;
