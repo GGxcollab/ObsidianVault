@@ -53,4 +53,5 @@
 		- User risk-based Condicional Access
 
 # Template based Condicional Access
-- ## 
+- ## Condicional Access Templates
+	- **14 policy templates:**
