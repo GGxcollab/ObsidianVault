@@ -77,4 +77,4 @@
 	- **For all users, all cloud apps, all platforms:**
 		- Block access;
 - ## Troubleshooting sign-in interrupts
-	- In this error, the message states that the application can 
+	- In this error, the message states that the application can only be accessed from devices or client applications that meet the company's mobile device management policy. In this
