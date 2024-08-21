@@ -68,3 +68,6 @@
 - ## Condicional Access Terms of Use (TOU)
 	- ![[Pasted image 20240821142755.png]]
 # Test and troubleshoot condicional access policies
+- ## Configure  to avoid
+	- **For all users, all cloud apps:**
+		- Block access
