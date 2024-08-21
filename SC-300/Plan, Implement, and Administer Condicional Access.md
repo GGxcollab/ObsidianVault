@@ -108,4 +108,4 @@
 	- ![[Pasted image 20240821160014.png]]
 # Authentication Context
 - ## Configure authentication context - condicional access
-	- Authentication context can be used to further secure data and actions in applications. These application can be your won custom applications, custm line of business (LOB) applications,Apliccations like SharePoint, or
+	- Authentication context can be used to further secure data and actions in applications. These application can be your won custom applications, custm line of business (LOB) applications, applications like SharePoint, or applications protectedby Microsoft Defender for Cloud Apps.
