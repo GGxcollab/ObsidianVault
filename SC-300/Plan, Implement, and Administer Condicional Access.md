@@ -89,5 +89,6 @@
 	- Block app access based on risk factors
 	- **CA - App Control works with Microsoft Defender for Cloud Apps**
 	- ![[Pasted image 20240821150732.png]]
-	- 
+- ## Benefits of using app protection policies (MDM/MAM)
+	- Protecting your company data at the app levell
 	
