@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC-300/Plan, Implement, and Administer Condicional Access.md",
+                "file": "SC-300/Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Plan, Implement, and Administer Condicional Access.md",
+                "file": "SC-300/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Plan, Implement, and Administer Condicional Access.md",
+                "file": "SC-300/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Plan, Implement, and Administer Condicional Access.md"
+                "file": "SC-300/Sem título.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   },
   "active": "779c80c16705424b",
   "lastOpenFiles": [
-    "Pasted image 20240821160638.png",
+    "SC-300/images/Pasted image 20240821160638.png",
+    "SC-300/Sem título.md",
+    "SC-300/Plan, Implement, and Administer Condicional Access.md",
     "SC-300/images/Pasted image 20240821160014.png",
     "SC-300/images/Pasted image 20240821154951.png",
-    "SC-300/Plan, Implement, and Administer Condicional Access.md",
     "SC-300/images/Pasted image 20240821150732.png",
     "SC-300/images/Pasted image 20240821144751.png",
     "SC-300/images/Pasted image 20240821142755.png",
@@ -162,7 +163,6 @@
     "SC-300/images/Pasted image 20240820162223.png",
     "SC-300/Manage User Authentication.md",
     "SC-300/images/Pasted image 20240820161656.png",
-    "SC-300/images/Pasted image 20240820144059.png",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/images",
