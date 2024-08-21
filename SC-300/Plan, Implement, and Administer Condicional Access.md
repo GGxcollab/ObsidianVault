@@ -60,3 +60,5 @@
 		- Security
 		- Condicional Access
 		- Create new policy from template
+- ## Examples of Condicional Access scenarios
+	- Required
