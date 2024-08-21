@@ -107,4 +107,5 @@
 	- Token export to a machine outside of a trusted network can be prevented with Condicional Access location policies.
 	- ![[Pasted image 20240821160014.png]]
 # Authentication Context
-- ## Configure authen
+- ## Configure authentication context - condicional access
+	- Authentication context can be used to further secure data and actions in applications. These application can be your won custom applicati
