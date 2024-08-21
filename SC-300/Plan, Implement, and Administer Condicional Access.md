@@ -92,5 +92,7 @@
 - ## Benefits of using app protection policies (MDM/MAM)
 	- Protecting your company data at the app levell
 	- End-user productivity isn't affected, and policies don't apply when using the app in a personal context
-	- App protection policies ensure that the 
+	- App protection policies ensure that the app-layer protections are in place
+	- MDM, in addition to MAM, ensures that the device is protected
+	- 
 	
