@@ -96,5 +96,5 @@
 	- App protection policies ensure that the app-layer protections are in place
 	- MDM, in addition to MAM, ensures that the device is protected
 - ## Validation
-	- Use the What-If tool to simulate a login from the user to the target application and 
+	- Use the What-If tool to simulate a login from the user to the target application and other conditions based on how you configured your policy. the
 	
