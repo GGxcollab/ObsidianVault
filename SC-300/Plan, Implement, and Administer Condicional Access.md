@@ -90,6 +90,7 @@
 	- **CA - App Control works with Microsoft Defender for Cloud Apps**
 	- ![[Pasted image 20240821150732.png]]
 - ## Benefits of using app protection policies (MDM/MAM)
+	- MDM - Mobile Device Manage
 	- Protecting your company data at the app levell
 	- End-user productivity isn't affected, and policies don't apply when using the app in a personal context
 	- App protection policies ensure that the app-layer protections are in place
