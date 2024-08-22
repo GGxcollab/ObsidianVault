@@ -11,11 +11,9 @@
             "id": "779c80c16705424b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
-                "mode": "source",
-                "source": false
+                "file": "SC-300/images/Pasted image 20240822173955.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
+                "file": "SC-300/images/Pasted image 20240822173955.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
+                "file": "SC-300/images/Pasted image 20240822173955.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md"
+                "file": "SC-300/images/Pasted image 20240822173955.png"
               }
             }
           }
@@ -148,10 +146,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "779c80c16705424b",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
-    "SC-300/images/Pasted image 20240821171529.png",
     "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
+    "SC-300/images/Pasted image 20240822173955.png",
+    "SC-300/images/Pasted image 20240821171529.png",
     "SC-300/Implement as Authentication and Acesss - EP-06.md",
     "SC-300/Manage User Authentication - EP07.md",
     "SC-300/Plan, Implement, and Administer Condicional Access - EP08.md",
@@ -163,7 +162,6 @@
     "SC-300/images/Pasted image 20240821142755.png",
     "SC-300/images/Pasted image 20240820165108.png",
     "SC-300/images/Pasted image 20240820164813.png",
-    "SC-300/images/Pasted image 20240820162223.png",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/images",
