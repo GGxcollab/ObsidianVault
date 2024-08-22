@@ -3,4 +3,4 @@
 - Each report allows for the addition or removal of columns based on administrator preference.
 - Administrator can shoose to download the data in .CSV or .JSON formt. Reports can be filtered using the filters across the top of the report.
 	- ![[Pasted image 20240821171529.png]]
-- 
+-  
