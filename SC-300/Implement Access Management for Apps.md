@@ -46,4 +46,9 @@
 				- Connect to API provided by the app creator
 				- Enables greater visibility into the apps
 				- All communication over secure HHTPS
+				- **Common connector API limitations:**
+					- Throttling
+					- API limits
+					- Dynamic time-shifting
+					- API windows
 				- 
