@@ -66,4 +66,5 @@
 			- **How app connectors work in MDCA**
 				- **Defender for Cloud Apps is deployed with system admin privileges to allow full access to all objects in your environment**
 				- The App Connector flow is as follows:
-					- 
+					- Defender for Cloud Apps scans and saves authentication permissions
+					- Defender for Cloud Apps requests the user list. The first time the request is done
