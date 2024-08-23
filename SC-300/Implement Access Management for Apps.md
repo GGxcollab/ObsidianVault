@@ -17,4 +17,6 @@
 		- **Policy Control**
 			- Define user behavior with apps
 	- ### Capabilities
-		- **Shadow IT **
+		- **Shadow IT Discovery** - Find an manage cloud apps
+		- **Information Protection** - Protect information as it travels
+		- **Threat Protection** - Look 
