@@ -19,4 +19,5 @@
 	- ### Capabilities
 		- **Shadow IT Discovery** - Find an manage cloud apps
 		- **Information Protection** - Protect information as it travels
-		- **Threat Protection** - Look 
+		- **Threat Protection** - Look for unusual behavior
+		- **Compliance Assessment** - Assess against regulatory requirements
