@@ -10,4 +10,8 @@
 	- **Sanctioning**
 		- Allow/Deny apps
 	- **Connectors**
-		- Extend protection into the app wi
+		- Extend protection into the app with APIs
+	- **Condicional Access**
+		- Set access requirements
+	- **Policy Control**
+		- Define user behavior with apps
