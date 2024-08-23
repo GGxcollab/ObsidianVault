@@ -63,3 +63,5 @@
 					- GitHub
 					- Google Workspace
 					- Many others
+			- **How app connectors work in MDCA**
+				- **Defender for Cloud Apps is deployed with sy**
