@@ -67,4 +67,5 @@
 				- **Defender for Cloud Apps is deployed with system admin privileges to allow full access to all objects in your environment**
 				- The App Connector flow is as follows:
 					- Defender for Cloud Apps scans and saves authentication permissions
-					- Defender for Cloud Apps requests the user list. The first time the request is done, it may take some time until the scan completes. After the user scan is over, Defender for Cloud Apps moves on to activities
+					- Defender for Cloud Apps requests the user list. The first time the request is done, it may take some time until the scan completes. After the user scan is over, Defender for Cloud Apps moves on to activities and files. As soon as the scan starts, somo activities will be available in Defender Cloud Apps.
+					- After completion of the user request, Defender for Cloud Apps 
