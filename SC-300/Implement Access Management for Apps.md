@@ -40,4 +40,6 @@
 			- SaaS applications - Procured by the organization
 			- Line-of-business application - Developed by the organization
 			- ![[Pasted image 20240823155307.png]]
-	- ### Configure connectors to apps in MD
+	- ### Configure connectors to apps in MDCA
+		- **What is an app connector in Defender for Cloud Apps**
+			- **Capabil**
