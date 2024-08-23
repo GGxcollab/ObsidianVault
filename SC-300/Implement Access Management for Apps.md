@@ -36,4 +36,6 @@
 		- To increase application security, your goalis to have a single set of access controls and policies across your on-premises and cloud environments.
 		- ![[Pasted image 20240823154936.png]]
 	- ### Discover apps that can be migrated
-		- **There are two types **
+		- **There are two types of applications to migrate**
+			- SaaS applications - Procured by the organization
+			- Line-of-business application - Develope 
