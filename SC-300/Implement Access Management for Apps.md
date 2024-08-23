@@ -31,4 +31,5 @@
 			- Data control
 			- Sophisticated analytics
 			- Identification of cyberthreats
-		- 
+	- ### AD Federation Services
+		- AD FS extends single sign-on (SSO) functionaly between trusted 
