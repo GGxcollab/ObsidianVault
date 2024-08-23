@@ -38,4 +38,5 @@
 	- ### Discover apps that can be migrated
 		- **There are two types of applications to migrate**
 			- SaaS applications - Procured by the organization
-			- Line-of-business application - Develope 
+			- Line-of-business application - Developed by the organization
+			- ![[Pasted image 20240823155307.png]]
