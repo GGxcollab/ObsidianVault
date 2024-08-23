@@ -1,4 +1,5 @@
 # Discover apps by using MDCA or ADFS app report
 - ## What is CASB and Microsoft Defender for Cloud Apps (MDCA)
 	- **CASB - Cloud Access Security Broker**
-		- A security tool placed between a cloud service (like an app)
+		- A security tool placed between a cloud service (like an app) and the user to interject enterprise security policies before the cloud-based resource is accessed.
+	- **MDCA - Microsoft Defender **
