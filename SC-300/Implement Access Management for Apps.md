@@ -64,4 +64,6 @@
 					- Google Workspace
 					- Many others
 			- **How app connectors work in MDCA**
-				- **Defender for Cloud Apps is deployed with sy**
+				- **Defender for Cloud Apps is deployed with system admin privileges to allow full access to all objects in your environment**
+				- The App Connector flow is as follows:
+					- 
