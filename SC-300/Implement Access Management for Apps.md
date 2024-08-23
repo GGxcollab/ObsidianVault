@@ -23,4 +23,7 @@
 		- **Compliance Assessment** - Assess against regulatory requirements
 	- ### Cloud Access Security Broker (CASB)
 		- **Several different deployment**
-			- 
+			- log collection
+			- API connectors
+			- Reverso proxy 
+		- **Providing admins with**
