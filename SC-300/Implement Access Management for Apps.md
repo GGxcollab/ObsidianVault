@@ -32,4 +32,5 @@
 			- Sophisticated analytics
 			- Identification of cyberthreats
 	- ### AD Federation Services
-		- AD FS extends single sign-on (SSO) functionaly between trusted 
+		- AD FS extends single sign-on (SSO) functionaly between trusted business partners without requiring users to sign in separately to each application
+		- To increase application security, your goalis 
