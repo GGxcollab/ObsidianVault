@@ -7,4 +7,7 @@
 - ## Microsoft Defender for Cloud Apps Architecture
 	- **Cloud Discovey**
 		- Find apps;
-	- ****
+	- **Sanctioning**
+		- Allow/Deny apps
+	- **Connectors**
+		- Extend protection into the app wi
