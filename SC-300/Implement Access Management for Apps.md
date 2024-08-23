@@ -42,4 +42,8 @@
 			- ![[Pasted image 20240823155307.png]]
 	- ### Configure connectors to apps in MDCA
 		- **What is an app connector in Defender for Cloud Apps**
-			- **Capabil**
+			- **Capability**
+				- Connect to API provided by the app creator
+				- Enables greater visibility into the apps
+				- All communication over secure HHTPS
+				- 
