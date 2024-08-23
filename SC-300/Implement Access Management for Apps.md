@@ -22,8 +22,13 @@
 		- **Threat Protection** - Look for unusual behavior
 		- **Compliance Assessment** - Assess against regulatory requirements
 	- ### Cloud Access Security Broker (CASB)
-		- **Several different deployment**
+		- **Several different deployment:**
 			- log collection
 			- API connectors
 			- Reverso proxy 
-		- **Providing admins with**
+		- **Providing admins with:**
+			- Rich visibility
+			- Data control
+			- Sophisticated analytics
+			- Identification of cyberthreats
+		- 
