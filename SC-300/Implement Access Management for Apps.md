@@ -5,7 +5,7 @@
 	- **MDCA - Microsoft Defender for Cloud Apps (formerly Cloud App Security)**
 		- Microsoft implementation of a CASB service to protect data, service, and applications wíth enterprise policies. It supplemental reporting and analytics services.
 - ## Microsoft Defender for Cloud Apps Architecture
-	- **Cloud Discovey**
+	- **Cloud Discovery**
 		- Find apps;
 	- **Sanctioning**
 		- Allow/Deny apps
