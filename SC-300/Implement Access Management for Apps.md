@@ -51,4 +51,7 @@
 					- API limits
 					- Dynamic time-shifting
 					- API windows
-				- 
+				- Service vary by app
+			- **Apps with MDCA connectors**
+				- Connectors:
+					- 
