@@ -34,3 +34,5 @@
 	- ### AD Federation Services
 		- AD FS extends single sign-on (SSO) functionaly between trusted business partners without requiring users to sign in separately to each application
 		- To increase application security, your goalis to have a single set of access controls and policies across your on-premises and cloud environments.
+		- ![[Pasted image 20240823154936.png]]
+	- ### Disco
