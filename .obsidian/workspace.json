@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240823154936.png"
+                "file": "SC-300/images/Pasted image 20240823154936.png"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240823164058.png"
+                "file": "SC-300/images/Pasted image 20240823164058.png"
               }
             }
           },
@@ -31,9 +31,11 @@
             "id": "292cb3d9a38c123f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240823154936.png"
+                "file": "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240823154936.png",
+                "file": "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240823154936.png",
+                "file": "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240823154936.png"
+                "file": "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md"
               }
             }
           }
@@ -167,11 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "292cb3d9a38c123f",
   "lastOpenFiles": [
-    "Pasted image 20240823164058.png",
-    "Pasted image 20240823154936.png",
-    "Pasted image 20240823155307.png",
+    "SC-300/images/Pasted image 20240823154936.png",
+    "SC-300/images/Pasted image 20240823164058.png",
+    "SC-300/images/Pasted image 20240823155307.png",
     "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
     "SC-300/Implement Access Management for Apps - EP10.md",
     "SC-300/images/Pasted image 20240822173955.png",
