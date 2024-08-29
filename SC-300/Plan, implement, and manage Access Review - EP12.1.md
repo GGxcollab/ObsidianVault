@@ -12,4 +12,5 @@
 # Who will create and manage access reviews??
 - ![[Pasted image 20240829115456.png]]
 # Components of an Access Review
-- Before implementing your access reviews, you should plan types of reviews relevant to to
+- Before implementing your access reviews, you should plan types of reviews relevant to your organization. To create an access revier policy, you must have the following information.
+	- What resource(s) must be 
