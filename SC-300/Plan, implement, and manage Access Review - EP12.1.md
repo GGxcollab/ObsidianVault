@@ -19,4 +19,5 @@
 	- Who will perform the review?
 	- How will they be notificid to review?
 	- What are the timelines to be enforced for reviwe?
-	- What automatic 
+	- What automatic actions should be enforced based on the review?
+	- What happens if the reviewer 
