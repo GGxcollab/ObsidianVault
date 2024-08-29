@@ -32,4 +32,4 @@
 	- La dentro navegue ate "Configuração de acesso entre locatários"
 	- ![[Pasted image 20240829154353.png]]
 	- ![[Pasted image 20240829154315.png]]
-	- 
+	- ![[Pasted image 20240829154427.png]]
