@@ -23,8 +23,8 @@
 	- acesso de cross-tenant, acesso que libera acesso para uma organização
 	- As configurações de acesso entre Locatários de identidades externas gerenciam a colaboração com outras organizações do Azure AD. Essas configurações determinam o nível de acesso de entrada que os usuários nas organizações externas do Azure AD tem aos seus recursos, bem como o nível de acesso de saída que os usuários tem nas organizações externas.
 	- Por padrão, a colaboração B2B com outras organizações do Azure AD é habilitada e a conexão direta de B2B é bloqueada. Mas as seguintes configurações abrangentes de administrador permitem que voce gerencie esses dois recursos.
-		- **As configurações de acesso de SAÍDA** controlam se os usuários podem acessar recurso sem uma organização externa. É possível aplicar essas configurações a todos ou especificar usuários, grupos e aplicativos individuais.
-		- **As configurações de acesso de ENTRADA** controlam se os usuários de organizações externas do Azure AD podem acessar recursos em sua organização. É possível aplicar configurações a todos ou especificar usuários, grupos e aplicativos individuais.
+		- **As configurações de acesso de SAÍDA** controlam se/o que os usuários podem acessar recurso sem uma organização externa. É possível aplicar essas configurações a todos ou especificar usuários, grupos e aplicativos individuais.
+		- **As configurações de acesso de ENTRADA** controlam se/o que os usuários de organizações externas do Azure AD podem acessar recursos em sua organização. É possível aplicar configurações a todos ou especificar usuários, grupos e aplicativos individuais.
 		- **As configurações de confiança (entrada)** determinam se suas políticas de acesso condicional confiarão no MFA, no dispositivo de conformidade e nas declarações de dispositivos ingressados no Azure AD híbrido de uma organização externa se os usuários já atenderam a esses requisitos em seus locatários de residência.
 - ## Como valida a config de acesso externo de outra organização?
 	- Navegue para dentro do Azure Active Directory, no portal azure.
