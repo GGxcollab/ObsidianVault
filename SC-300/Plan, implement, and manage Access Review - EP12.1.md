@@ -11,4 +11,4 @@
 	- Adjust, the test again 
 # Who will create and manage access reviews??
 - ![[Pasted image 20240829115456.png]]
-- 
+# Components of an Ace
