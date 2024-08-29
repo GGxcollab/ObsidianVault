@@ -3,4 +3,4 @@
 - They mitigate access risk by protecting, monitoring, and auditing access to critical assests-while ensuring employee and business partner productivity
 - Performed in Microsoft Entra Identity Governance.
 # Planning a pilot
-- Pilot access reviews with a small group and target non-ci
+- Pilot access reviews with a small group and target non-critical resouces. Piloting can help you adjust processes and increase users 'and reviewers' ability to meet security and compliance 
