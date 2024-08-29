@@ -20,4 +20,6 @@
 	- How will they be notificid to review?
 	- What are the timelines to be enforced for reviwe?
 	- What automatic actions should be enforced based on the review?
-	- What happens if the reviewer 
+	- What happens if the reviewer doesn't respond in the time?
+	- What manual action will be taken as s recult based on the review?
+	- What communications should be sent based on actions taken?
