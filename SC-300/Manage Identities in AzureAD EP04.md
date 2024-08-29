@@ -30,3 +30,4 @@
 	- Navegue para dentro do Azure Active Directory, no portal azure.
 	- No menu da esquerda, ir ate "**Identidades Externas**".
 	- La dentro navegue ate "Configuração de acesso entre locatários"
+	- ![[Pasted image 20240829154315.png]]
