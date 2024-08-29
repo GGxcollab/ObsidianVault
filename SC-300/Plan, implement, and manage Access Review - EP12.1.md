@@ -15,4 +15,8 @@
 - Before implementing your access reviews, you should plan types of reviews relevant to your organization. To create an access revier policy, you must have the following information.
 	- What resource(s) must be reviewed?
 	- whose access is being reviewed?
-	- How often should the review occur
+	- How often should the review occur?
+	- Who will perform the review?
+	- How will they be notificid to review?
+	- What are the timelines to be enforced for reviwe?
+	- What automatic 
