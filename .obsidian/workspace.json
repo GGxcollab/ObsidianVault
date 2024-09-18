@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -146,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "292cb3d9a38c123f",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
