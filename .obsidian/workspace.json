@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c2c4f6f5bfd1221",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170243.png"
-              }
-            }
-          },
-          {
-            "id": "840e7f5c8a60d3d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170548.png"
-              }
-            }
-          },
-          {
             "id": "0e5c6f2a65c17c85",
             "type": "leaf",
             "state": {
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,6 +150,9 @@
   },
   "active": "0e5c6f2a65c17c85",
   "lastOpenFiles": [
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170548.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170243.png",
+    "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md",
     "Pasted image 20241002140106.png",
     "Pasted image 20241002134043.png",
     "Pasted image 20241002115941.png",
@@ -178,11 +160,8 @@
     "Pasted image 20241002115033.png",
     "Pasted image 20241002114633.png",
     "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002112818.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170548.png",
     "Pasted image 20241001170537.png",
     "Pasted image 20241001170538.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001171414.png",
-    "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md",
     "AI-102 (Microsoft Reactor)/Imagens",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "SC-300/Plan, implement, and manage Access Review - EP12.1.md",

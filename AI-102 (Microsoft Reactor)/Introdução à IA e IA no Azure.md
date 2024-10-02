@@ -215,4 +215,6 @@
 	1. Criar um **Grupo de pessoas** para as pessoas que você decide identificar.
 	2. Adiciona um **Pessoa** para cada indivíduo
 	3. Adiciona vários **Rostos** detectados a cada pessoa
-		- Estes tornam-se
+		- Estes tornam-se rostos persistentes
+	4. Treinar o modelo
+- 
