@@ -225,4 +225,7 @@
 - ----------------------------------------------------
 # Modelos de visão personalizada com a Visão de IA do Azure
 ### Dois tipos de modelos de visão personalizada
-- **Visão Personalizad**
+- **Visão Personalizada de IA do Azure** (serviço anterior)
+	- Portal: customvision.ai
+	- Modelo base:
+		- CNN (Rede Neural Convolucional)
