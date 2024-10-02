@@ -229,3 +229,10 @@
 	- Portal: customvision.ai
 	- Modelo base:
 		- CNN (Rede Neural Convolucional)
+	- Tarefas:
+		- Classificação de imagens
+		- Detecção de objetos
+	- Rotulagem
+		- Customvision.ai
+	- Dados mínimos de treinamento necessário:
+		- 15 imagens p
