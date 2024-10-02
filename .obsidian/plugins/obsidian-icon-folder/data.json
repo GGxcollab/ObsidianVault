@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileImage",
       "LiImage",
       "LiFile",
       "LiFolder"
@@ -58,5 +59,7 @@
   "SC-300/Implement Access Management for Apps - EP10.md": "LiFile",
   "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md": "LiFile",
   "SC-300/Plan, implement, and manage Access Review - EP12.1.md": "LiFile",
-  "AI-102 (Microsoft Reactor)": "LiFolder"
+  "AI-102 (Microsoft Reactor)": "LiFolder",
+  "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md": "LiFile",
+  "AI-102 (Microsoft Reactor)/Imagens": "LiFileImage"
 }
