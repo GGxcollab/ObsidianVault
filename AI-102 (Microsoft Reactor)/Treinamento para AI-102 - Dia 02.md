@@ -4,7 +4,7 @@
 	- Recursos pré-configurados:
 		- Detecção de idioma
 			- Determinar o idioma em que o texto é escrito
-			- 
+			- Muitas vezes útil como um pré-cursor para análises adicionais que exigem uma linguagem conhecida
 		- Extração de frases-chave
 		- Análise de sentimento
 		- Reconhecimento de entidade nomeada
