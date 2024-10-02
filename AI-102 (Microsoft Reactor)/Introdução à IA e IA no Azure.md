@@ -195,4 +195,4 @@
 - **Segurança e privacidade de dados**
 	- Sistemas baseados em dados faciais devem proteger a privacidade individual, garatindo que os dados pessoais identificáveis não sejam acessados de forma inadequada.
 - **Transparência**
-	- Garanta que os usuários estejam informados sobre como a imagem deles será
+	- Garanta que os usuários estejam informados sobre como a imagem deles será usada e quem terá acesso a ela.
