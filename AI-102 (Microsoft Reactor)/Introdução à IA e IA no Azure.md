@@ -178,4 +178,5 @@
 - Resultados em JSON (REST) ou objeto (SDK) de estrutura semelhante
 - ![[Pasted image 20241002115941.png]]
 - ----------------------------------------------------
-# 
+# Detectar rostos com Visão de IA do Azure
+### Opções para detecção, análise e reconhecimento facial
