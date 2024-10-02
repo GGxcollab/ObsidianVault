@@ -268,4 +268,5 @@
 		1. Classificação de imagem: atribuir rótulo a cada imagem
 		2. Detecção de objetos: defina caixas delimitadoras apra objetos em cada imagem
 	4. Crie seu projeto do Azure ML e rotule suas imagens (se nenhum arquivo COCO existir)
-	5. 
+	5. Adicionar arquivo COCO (do projeto do Azure ML ou criado anteriormente)
+	6. Treinar o modelo
