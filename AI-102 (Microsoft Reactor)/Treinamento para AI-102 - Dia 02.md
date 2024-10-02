@@ -1,2 +1,3 @@
-### Desenvolver soluções de processamento de linguagem natural
-- Analisar T
+# Desenvolver soluções de processamento de linguagem natural
+### Analisar Texto
+- 
