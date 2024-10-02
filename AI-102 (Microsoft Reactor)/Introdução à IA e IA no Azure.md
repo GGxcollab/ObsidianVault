@@ -207,4 +207,5 @@
 - Reconhecimento e identificação facial (Exige aprovação de Acesso Limitado)
 - Vivacidade Facial (Exige aprovação de Acesso Limitado)
 - Pode ser usado como:
-	- Recurso de **Detecção Facial** autonom
+	- Recurso de **Detecção Facial** autônomo
+	- Recurso multisserviços dos **Serviços de IA do Azure**
