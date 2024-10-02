@@ -193,4 +193,6 @@
 ### Consideração para detecção facial e reconhecimento facial
 - Os princípios de IA responsável se aplicam a todos os tipos de aplicativos, mas sistemas que dependem de dados faciais podem ser particularmente problemático. Como uma proteçãeo para o uso de IA responsável, o reconhecimento facial, identificação, verificação e comparação esta por trás de uma política de Acesso Limitado, exigindo que os usuários sejam aprovados pela Microsoft antes de habilitar esses recursos.
 - **Segurança e privacidade de dados**
-	- Sistemas baseados em dados faciais devem proteger a privacidade individual, garatindo que os dados pessoais identificáveis não
+	- Sistemas baseados em dados faciais devem proteger a privacidade individual, garatindo que os dados pessoais identificáveis não sejam acessados de forma inadequada.
+- **Transparência**
+	- Garanta que os usuários estejam informados sobre como a imagem deles será
