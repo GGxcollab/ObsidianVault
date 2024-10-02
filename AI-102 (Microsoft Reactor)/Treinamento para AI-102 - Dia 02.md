@@ -13,6 +13,7 @@
 		- Vinculação de entidade
 			- ![[Pasted image 20241002171225.png]]
 		- Resumo 
+			- ![[Pasted image 20241002171611.png]]
 		- Detecção de PII
 	- Os recursos personalizáveis são abordados em outro seção
 	- ![[Pasted image 20241002170711.png]]
