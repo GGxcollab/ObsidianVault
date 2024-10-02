@@ -8,16 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "292cb3d9a38c123f",
+            "id": "6c2c4f6f5bfd1221",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md"
+                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170243.png"
+              }
+            }
+          },
+          {
+            "id": "840e7f5c8a60d3d3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170548.png"
+              }
+            }
+          },
+          {
+            "id": "0e5c6f2a65c17c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -84,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
+                "file": "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
+                "file": "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md"
+                "file": "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md"
               }
             }
           }
@@ -147,34 +169,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "0e5c6f2a65c17c85",
   "lastOpenFiles": [
+    "Pasted image 20241002115033.png",
+    "Pasted image 20241002114633.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002112818.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170548.png",
+    "Pasted image 20241001170537.png",
+    "Pasted image 20241001170538.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001171414.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001170243.png",
+    "AI-102 (Microsoft Reactor)/Introdução à IA e IA no Azure.md",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001154247.png",
+    "AI-102 (Microsoft Reactor)/Imagens",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001165746.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241001165147.png",
+    "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
+    "SC-300/Plan, implement, and manage Access Review - EP12.1.md",
+    "AI-102 (Microsoft Reactor)",
     "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/Sem título.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
-    "SC-300/Plan, implement, and manage Access Review - EP12.1.md",
-    "SC-300/images/Pasted image 20240829154427.png",
-    "SC-300/images/Pasted image 20240829154549.png",
-    "SC-300/images/Pasted image 20240829154353.png",
-    "SC-300/images/Pasted image 20240829154315.png",
-    "SC-300/images/Pasted image 20240829115456.png",
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
     "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
-    "SC-300/images/Pasted image 20240823164058.png",
-    "SC-300/images/Pasted image 20240823154936.png",
-    "SC-300/images/Pasted image 20240823155307.png",
     "SC-300/Implement Access Management for Apps - EP10.md",
-    "SC-300/images/Pasted image 20240822173955.png",
     "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
-    "SC-300/images/Pasted image 20240821171529.png",
     "SC-300/Implement as Authentication and Acesss - EP-06.md",
     "SC-300/Manage User Authentication - EP07.md",
     "SC-300/Plan, Implement, and Administer Condicional Access - EP08.md",
-    "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "SC-300/images",
     "SC-300/Sem título.canvas",
-    "Sem título",
     "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",

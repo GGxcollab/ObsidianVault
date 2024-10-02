@@ -4,7 +4,7 @@
 - Performed in Microsoft Entra Identity Governance.
 # Planning a pilot 
 - Não é valido somente para access review. 
-- Pilot access reviews with a small group and target non-critical resouces. Piloting can help you adjust processes and increase users 'and reviewers' ability to meet security and compliance requirements.
+- Revisões de acesso piloto com um pequeno grupo e recursos não críticos direcionados. O piloto pode ajudá-lo a ajustar processos e aumentar a capacidade dos usuários e revisores de atender aos requisitos de segurança e conformidade.
 	- What resources to review 
 	- Who will review
 	- Test access
