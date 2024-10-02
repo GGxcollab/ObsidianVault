@@ -174,6 +174,7 @@
 - Usar **Análise de imagem** com o recurso LEITURA
 - Visão OCR vs. Informação de Documentos:
 	- OCR: imagens gerais, não documentadas, com quantidades menores de texto. API síncrona.
-	- Informação de Documentos: ideial para documentos com muito texto: API assíncrona.
+	- Informação de Documentos: ideal para documentos com muito texto: API assíncrona.
 - Resultados em JSON (REST) ou objeto (SDK) de estrutura semelhante
 - ![[Pasted image 20241002115941.png]]
+### 
