@@ -1,1 +1,1 @@
-### Desenvolver soluções de processamento de lin
+### Desenvolver soluções de processamento de linguagem natural
