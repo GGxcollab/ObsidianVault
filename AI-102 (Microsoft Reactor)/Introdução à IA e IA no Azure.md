@@ -1,4 +1,4 @@
-# O que é inteligência artificial?
+### O que é inteligência artificial?
 - Software que exibe recursos semelhantes aos humanos, tais como:
 	- Percepção Visual
 	- Análise de texto 
