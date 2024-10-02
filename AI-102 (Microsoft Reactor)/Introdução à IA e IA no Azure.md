@@ -197,4 +197,6 @@
 - **Transparência**
 	- Garanta que os usuários estejam informados sobre como a imagem deles será usada e quem terá acesso a ela.
 - **Imparcialidade e inclusividade**
-	- O reconhecimento facial não deve ser usado de uma maneira prejudicial aos indivíduos com base na aparência deles e a certas pessoas como alvo de forma injusta
+	- O reconhecimento facial não deve ser usado de uma maneira prejudicial aos indivíduos com base na aparência deles e a certas pessoas como alvo de forma injusta.
+### O serviço de Detecção Facial
+- 
