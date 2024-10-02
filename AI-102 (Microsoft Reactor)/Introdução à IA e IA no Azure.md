@@ -173,4 +173,5 @@
 ### Visão de IA do Axure - OCR
 - Usar **Análise de imagem** com o recurso LEITURA
 - Visão OCR vs. Informação de Documentos:
-	- OCR: imagensgerais, não 
+	- OCR: imagensgerais, não documentadas, com quantidades menores de texto. API síncrona.
+	- Informaçãos de Documentos: ideial para documentos com muito texto: API assíncrona
