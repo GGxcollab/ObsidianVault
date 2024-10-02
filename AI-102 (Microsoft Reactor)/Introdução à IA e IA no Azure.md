@@ -196,3 +196,5 @@
 	- Sistemas baseados em dados faciais devem proteger a privacidade individual, garatindo que os dados pessoais identificáveis não sejam acessados de forma inadequada.
 - **Transparência**
 	- Garanta que os usuários estejam informados sobre como a imagem deles será usada e quem terá acesso a ela.
+- **Imparcialidade e inclusividade**
+	- O reconhecimento facial não deve ser usado de uma maneira prejudicial aos indivíduos com base na aparÊncia deles e a certas pessoas como alvo de forma injusta
