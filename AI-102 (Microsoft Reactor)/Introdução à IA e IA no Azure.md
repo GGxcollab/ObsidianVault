@@ -180,3 +180,4 @@
 - ----------------------------------------------------
 # Detectar rostos com Visão de IA do Azure
 ### Opções para detecção, análise e reconhecimento facial
+- An
