@@ -191,4 +191,4 @@
 	- * *Exige aprovação de Acesso Limitado*
 - ![[Pasted image 20241002134043.png]]
 ### Consideração para detecção facial e reconhecimento facial
-- Os prin
+- Os princípios de IA responsável se aplicam a todos os tipos de aplicativos, mas sistemas que dependem de dados faciais podem ser particularmente problemático. Como uma proteçãeo 
