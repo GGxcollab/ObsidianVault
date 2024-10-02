@@ -177,4 +177,5 @@
 	- Informação de Documentos: ideal para documentos com muito texto: API assíncrona.
 - Resultados em JSON (REST) ou objeto (SDK) de estrutura semelhante
 - ![[Pasted image 20241002115941.png]]
-### 
+- ----------------------------------------------------
+# 
