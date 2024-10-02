@@ -262,3 +262,6 @@
 - ![[Pasted image 20241002145539.png]]
 ### Treinar um modelo personalizado
 - **Usar o Azure Vision Studio**
+	1. Criar um projeto de modelo personalizado ou recuperar um existente
+	2. Selecione seu recurso, se necessário
+	3. Adicione os seus conjuntos de dados e especifique o tipo de mo
