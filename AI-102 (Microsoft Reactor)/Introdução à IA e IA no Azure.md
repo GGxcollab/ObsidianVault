@@ -252,3 +252,6 @@
 		- 2 a 5 imagens por categoria
 	- Armazenamento de dados de treinamento
 		- Na conta de armazenamento de blobs do usuário
+### O queé classificação de imagem?
+- **Treinar um modelo para prever o rótulo de classe para a imagem**
+- Em outras pa
