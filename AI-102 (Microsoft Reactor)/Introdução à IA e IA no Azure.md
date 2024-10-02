@@ -209,3 +209,4 @@
 - Pode ser usado como:
 	- Recurso de **Detecção Facial** autônomo
 	- Recurso multisserviços dos **Serviços de IA do Azure**
+- ![[Pasted image 20241002140106.png]]
