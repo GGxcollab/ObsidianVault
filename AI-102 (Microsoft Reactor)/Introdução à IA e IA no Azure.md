@@ -165,4 +165,7 @@
 	- Versão do modelo
 - ![[Pasted image 20241002115033.png]]
 ### Resultado de análise de imagem
-- A análise de imagem bem-sucedida
+- A análise de imagem bem-sucedida retorna JSON (REST) ou objeto (SDKs)
+- Os resultados podem ter uma ou várias camadas de profundidade
+	- Rótulos > valores[] > nome
+	- Texto: linhas > palavras
