@@ -9,7 +9,9 @@
 		- Análise de sentimento
 			- ![[Pasted image 20241002171143.png]]
 		- Reconhecimento de entidade nomeada
+			- ![[Pasted image 20241002171200.png]]
 		- Vinculação de entidade
+			- ![[Pasted image 20241002171225.png]]
 		- Resumo
 		- Detecção de PII
 	- Os recursos personalizáveis são abordados em outro seção
