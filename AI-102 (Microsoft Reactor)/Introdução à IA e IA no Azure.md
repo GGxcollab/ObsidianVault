@@ -289,3 +289,6 @@
 - **Criar seu próprio modelo para:**
 	- ![[Pasted image 20241002155907.png]]
 	- * O reconhecimento facial e a identificação de celebridades requerem aprovação de Acesso Limitado, de acordo com o nosso Padrão IA responsável
+### Widgets do Video Indexer e API
+- ![[Pasted image 20241002160915.png]]
+- 
