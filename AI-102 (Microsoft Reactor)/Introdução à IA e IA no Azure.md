@@ -171,4 +171,6 @@
 	- Texto > linhas > palavras
 - ![[Pasted image 20241002115612.png]]
 ### Visão de IA do Axure - OCR
-- Usar **An**
+- Usar **Análise de imagem** com o recurso LEITURA
+- Visão OCR vs. Informação de Documentos:
+	- OCR: imagensgerais, não 
