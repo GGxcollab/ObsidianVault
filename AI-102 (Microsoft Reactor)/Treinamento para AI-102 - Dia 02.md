@@ -21,4 +21,7 @@
 ### Traduzir texto
 - **O serviço Tradutor**
 	- API REST de tradução de texto multilíngue
-		- *Detecção*de 
+		- *Detecção* de idioma
+		- A *tradução* de um para muitos
+		- Transliteração de *script*
+	- ![[Pasted image 20241002172136.png]]
