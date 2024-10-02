@@ -27,5 +27,5 @@
 		- ![[Pasted image 20241002172136.png]]
 		- ![[Pasted image 20241002172334.png]]
 		- ![[Pasted image 20241002172352.png]]
-	-   **Tradução Personalizada**
-	- 
+-   **Tradução Personalizada**
+	- Cria um modelo de tradução personalizado
