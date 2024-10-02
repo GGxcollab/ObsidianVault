@@ -257,4 +257,7 @@
 - Em outras palavras, isso é uma imagem de que?
 - ![[Pasted image 20241002145318.png]]
 ### O que é a detecção de objetos?
-- **Treinar um modelo para detectar e localizar classes específicas de objeto  **
+- **Treinar um modelo para detectar e localizar classes específicas de objeto em imagens **
+- Em outras palavras, que objetos estão nessas imagem e onde
+- ![[Pasted image 20241002145539.png]]
+- 
