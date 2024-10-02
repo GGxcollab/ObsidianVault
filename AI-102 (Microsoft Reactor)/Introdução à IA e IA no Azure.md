@@ -221,3 +221,5 @@
 	- *Identificar* uma pessoa individual
 	- *Verificar* o rosto de uma pessoa individual
 	- *Encontrar* rostos semelhantes a um rosto persistente
+- ![[Pasted image 20241002143451.png]]
+- ----------------------------------------------------
