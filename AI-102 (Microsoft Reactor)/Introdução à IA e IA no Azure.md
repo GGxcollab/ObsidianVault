@@ -164,4 +164,5 @@
 	- idioma
 	- Versão do modelo
 - ![[Pasted image 20241002115033.png]]
-- 
+### Resultado de análise de imagem
+- A análise de imagem bem-sucedida
