@@ -203,4 +203,8 @@
 - Análise de atributos faciais
 - Localização do marco dacial
 	- Nariz, olhos, boca, ...
-- Comparação facial (Exige )
+- Comparação facial (Exige aprovação de Acesso Limitado)
+- Reconhecimento e identificação facial (Exige aprovação de Acesso Limitado)
+- Vivacidade Facial (Exige aprovação de Acesso Limitado)
+- Pode ser usado como:
+	- Recurso de **Detecção Facial** autonom
