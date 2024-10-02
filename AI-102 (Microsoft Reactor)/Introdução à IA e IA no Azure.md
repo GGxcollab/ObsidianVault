@@ -226,7 +226,7 @@
 # Modelos de visão personalizada com a Visão de IA do Azure
 ### Dois tipos de modelos de visão personalizada
 - **Visão Personalizada de IA do Azure** (serviço anterior)
-	- Portal: customvision.ai
+	- Portal: **customvision.ai**
 	- Modelo base:
 		- CNN (Rede Neural Convolucional)
 	- Tarefas:
@@ -238,4 +238,16 @@
 		- 15 imagens por categoria
 	- Armazenamento de dados de treinamento
 		- Carregado no serviço Visão Personalizada
-- **Modelos personalizados de Visão de IA**
+- **Modelos personalizados de Visão de IA** (novo modelo Florence)
+	- Portal: **Visual Studio**
+	- Modelo base:
+		- Transformador ()
+	- Tarefas:
+		- Classificação de imagens
+		- Detecção de objetos
+	- Rotulagem
+		- Customvision.ai
+	- Dados mínimos de treinamento necessário:
+		- 15 imagens por categoria
+	- Armazenamento de dados de treinamento
+		- Carregado no serviço Visão Personalizada
