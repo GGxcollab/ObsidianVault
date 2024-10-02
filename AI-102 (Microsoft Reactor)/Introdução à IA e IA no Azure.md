@@ -217,4 +217,6 @@
 	3. Adiciona vários **Rostos** detectados a cada pessoa
 		- Estes tornam-se rostos persistentes
 	4. Treinar o modelo
-- 
+- **Use o modelo para reconhecimento facial**
+	- *Identificar* uma pessoa individual
+	- *Verificar* o rosto de u
