@@ -273,5 +273,9 @@
 - ![[Pasted image 20241002150230.png]]
 - ----------------------------------------------------
 # Analisar vídeos
-### **Video Indexer**
-- 
+### Video Indexer
+- **Análise de vídeo:**
+	- Reconhecimento Facial (acesso limitado)
+	- Reconhecimento óptico de caracteres
+	- Transcrição de fala
+	- T
