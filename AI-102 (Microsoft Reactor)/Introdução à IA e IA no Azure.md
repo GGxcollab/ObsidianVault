@@ -190,4 +190,3 @@
 	- Reconhecimento Facial *
 	- * *Exige aprovação de Acesso Limitado*
 - ![[Pasted image 20241002134043.png]]
-- 
