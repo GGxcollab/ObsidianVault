@@ -212,4 +212,5 @@
 - ![[Pasted image 20241002140106.png]]
 ### Reconhecimento facial persistente
 - **Treinar um modelo de reconhecimento facial usando imagens de rosto**
-- 1-
+	1. Criar um **Grupo de pessoas** para as pessoas que você decide identificar.
+	2. Adiciona um **Pessoa** PARA CADA 
