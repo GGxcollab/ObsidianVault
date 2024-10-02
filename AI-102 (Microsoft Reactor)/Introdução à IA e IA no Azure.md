@@ -288,4 +288,4 @@
 - **Modelos pré-definidos para reconhecimento de linguagem, celebridades conhecidas, marcas, ...**
 - **Criar seu próprio modelo para:**
 	- ![[Pasted image 20241002155907.png]]
-	- [ ] * O reconhecimento facial e a identificação de celebridades requerem aprovação de Acesso Limitado, de acordo com o nosso Padrão de IA responsável
+	- * O reconhecimento facial e a identificação de celebridades requerem aprovação de Acesso Limitado, de acordo com o nosso Padrão IA responsável
