@@ -271,4 +271,6 @@
 	5. Adicionar arquivo COCO (do projeto do Azure ML ou criado anteriormente)
 	6. Treinar um novo modelo
 - ![[Pasted image 20241002150230.png]]
-- 
+- ----------------------------------------------------
+# Analisar vídeos
+#excalidraw DSdsd
