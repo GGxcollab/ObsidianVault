@@ -19,3 +19,6 @@
 	- Os recursos personalizáveis são abordados em outro seção
 	- ![[Pasted image 20241002170711.png]]
 ### Traduzir texto
+- **O serviço Tradutor**
+	- API REST de tradução de texto multilíngue
+		- *Detecção*de 
