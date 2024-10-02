@@ -241,13 +241,14 @@
 - **Modelos personalizados de Visão de IA** (novo modelo Florence)
 	- Portal: **Visual Studio**
 	- Modelo base:
-		- Transformador ()
+		- Transformador (multimodal)
 	- Tarefas:
 		- Classificação de imagens
 		- Detecção de objetos
+		- Reconhecimento de produtos
 	- Rotulagem
-		- Customvision.ai
+		- Arquivo do Estúdio do AML ou COCO
 	- Dados mínimos de treinamento necessário:
-		- 15 imagens por categoria
+		- 2 a 5 imagens por categoria
 	- Armazenamento de dados de treinamento
 		- Carregado no serviço Visão Personalizada
