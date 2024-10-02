@@ -223,3 +223,6 @@
 	- *Encontrar* rostos semelhantes a um rosto persistente
 - ![[Pasted image 20241002143451.png]]
 - ----------------------------------------------------
+# Modelos de visão personalizada com a Visão de IA do Azure
+### Dois tipos de modelos de visão personalizada
+- **Visão Personalizad**
