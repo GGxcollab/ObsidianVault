@@ -1,3 +1,4 @@
+# Introdução à IA e IA no Azure
 ### O que é inteligência artificial?
 - Software que exibe recursos semelhantes aos humanos, tais como:
 	- Percepção Visual
