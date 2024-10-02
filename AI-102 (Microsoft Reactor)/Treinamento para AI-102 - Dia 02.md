@@ -1,4 +1,9 @@
 # Desenvolver soluções de processamento de linguagem natural
 ### Analisar Texto
 - **Serviço de Linguagem de AI do Azure**
-	- Recurso
+	- Recursos pré-configurados:
+		- Detecção de idioma
+		- Extração de frases-chave
+		- Análise de sentimento
+		- Reconhecimento de entidade nomeada
+		- 
