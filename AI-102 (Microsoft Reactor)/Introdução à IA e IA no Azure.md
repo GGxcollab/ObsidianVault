@@ -256,3 +256,5 @@
 - **Treinar um modelo para prever o rótulo de classe para a imagem**
 - Em outras palavras, isso é uma imagem de que?
 - ![[Pasted image 20241002145318.png]]
+### O que é a detecção de objetos?
+- **Treinar um modelo para detectar e localizar classes específicas de objeto  **
