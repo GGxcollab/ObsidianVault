@@ -251,4 +251,4 @@
 	- Dados mínimos de treinamento necessário:
 		- 2 a 5 imagens por categoria
 	- Armazenamento de dados de treinamento
-		- Carregado no serviço Visão Personalizada
+		- Na conta de armazenamento de blobs do usuário
