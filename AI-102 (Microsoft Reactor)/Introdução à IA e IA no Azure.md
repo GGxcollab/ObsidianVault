@@ -168,4 +168,7 @@
 - A análise de imagem bem-sucedida retorna JSON (REST) ou objeto (SDKs)
 - Os resultados podem ter uma ou várias camadas de profundidade
 	- Rótulos > valores[] > nome
-	- Texto: linhas > palavras
+	- Texto > linhas > palavras
+- ![[Pasted image 20241002115612.png]]
+### Visão de IA do Axure - OCR
+- Usar **An**
