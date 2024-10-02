@@ -235,4 +235,7 @@
 	- Rotulagem
 		- Customvision.ai
 	- Dados mínimos de treinamento necessário:
-		- 15 imagens p
+		- 15 imagens por categoria
+	- Armazenamento de dados de treinamento
+		- Carregado no serviço Visão Personalizada
+- **Modelos personalizados de Visão de IA**
