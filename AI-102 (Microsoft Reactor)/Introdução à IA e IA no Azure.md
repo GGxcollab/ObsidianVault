@@ -190,3 +190,5 @@
 	- Reconhecimento Facial *
 	- * *Exige aprovação de Acesso Limitado*
 - ![[Pasted image 20241002134043.png]]
+### Consideração para detecção facial e reconhecimento facial
+- Os prin
