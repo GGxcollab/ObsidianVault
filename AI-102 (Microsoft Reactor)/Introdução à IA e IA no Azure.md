@@ -285,5 +285,6 @@
 	- Segmentação de cena
 - ![[Pasted image 20241002155705.png]]
 ### Insights personalizados
-- **Modelos pré-definidos para reconhecimento de linguagem, celebridades conhecidos, marcas, ...**
-- 
+- **Modelos pré-definidos para reconhecimento de linguagem, celebridades conhecidas, marcas, ...**
+- **Criar seu próprio modelo para:**
+	- ![[Pasted image 20241002155907.png]]
