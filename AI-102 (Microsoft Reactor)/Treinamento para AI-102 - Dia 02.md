@@ -24,7 +24,8 @@
 		- *Detecção* de idioma
 		- A *tradução* de um para muitos
 		- Transliteração de *script*
-	- ![[Pasted image 20241002172136.png]]
-	- ![[Pasted image 20241002172334.png]]
-	- ![[Pasted image 20241002172352.png]]
-	-   
+		- ![[Pasted image 20241002172136.png]]
+		- ![[Pasted image 20241002172334.png]]
+		- ![[Pasted image 20241002172352.png]]
+	-   **Tradução Personalizada**
+	- 
