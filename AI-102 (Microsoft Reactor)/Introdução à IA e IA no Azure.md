@@ -199,4 +199,8 @@
 - **Imparcialidade e inclusividade**
 	- O reconhecimento facial não deve ser usado de uma maneira prejudicial aos indivíduos com base na aparência deles e a certas pessoas como alvo de forma injusta.
 ### O serviço de Detecção Facial
-- 
+- Detecção facial
+- Análise de atributos faciais
+- Localização do marco dacial
+	- Nariz, olhos, boca, ...
+- Comparação facial (Exige )
