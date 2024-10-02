@@ -15,6 +15,7 @@
 		- Resumo 
 			- ![[Pasted image 20241002171611.png]]
 		- Detecção de PII
+			- ![[Pasted image 20241002171855.png]]
 	- Os recursos personalizáveis são abordados em outro seção
 	- ![[Pasted image 20241002170711.png]]
-	- 
+### Traduzir texto
