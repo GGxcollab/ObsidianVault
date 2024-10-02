@@ -273,4 +273,5 @@
 - ![[Pasted image 20241002150230.png]]
 - ----------------------------------------------------
 # Analisar vídeos
-#excalidraw DSdsd
+### **Video Indexer**
+- 
