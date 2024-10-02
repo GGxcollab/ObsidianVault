@@ -278,4 +278,8 @@
 	- Reconhecimento Facial (acesso limitado)
 	- Reconhecimento óptico de caracteres
 	- Transcrição de fala
-	- T
+	- Tópicos
+	- Sentimentos
+	- Rótulos
+	- Moderação de conteúdo
+	- Segmentação de cena
