@@ -260,4 +260,5 @@
 - **Treinar um modelo para detectar e localizar classes específicas de objeto em imagens **
 - Em outras palavras, que objetos estão nessas imagem e onde
 - ![[Pasted image 20241002145539.png]]
-- 
+### Treinar um modelo personalizado
+- **Usar o Azure Vision Studio**
