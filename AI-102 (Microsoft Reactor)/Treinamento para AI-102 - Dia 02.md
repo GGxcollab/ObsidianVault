@@ -3,8 +3,7 @@
 - **Serviço de Linguagem de AI do Azure**
 	- Recursos pré-configurados:
 		- Detecção de idioma
-			- Determinar o idioma em que o texto é escrito
-			- Muitas vezes útil como um pré-cursor para análises adicionais que exigem uma linguagem conhecida
+			- ![[Pasted image 20241002170957.png]]
 		- Extração de frases-chave
 		- Análise de sentimento
 		- Reconhecimento de entidade nomeada
