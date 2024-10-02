@@ -264,4 +264,6 @@
 - **Usar o Azure Vision Studio**
 	1. Criar um projeto de modelo personalizado ou recuperar um existente
 	2. Selecione seu recurso, se necessário
-	3. Adicione os seus conjuntos de dados e especifique o tipo de mo
+	3. Adicione os seus conjuntos de dados e especifique o tipo de modelo
+		1. Classificação de imagem: atribuir rótulo a cada imagem
+		2. Detecção de objetos: defina caixas delimitadoras
