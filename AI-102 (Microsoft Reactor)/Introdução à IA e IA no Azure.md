@@ -284,4 +284,5 @@
 	- Moderação de conteúdo
 	- Segmentação de cena
 - ![[Pasted image 20241002155705.png]]
-### 
+### Insights personalizados
+- **Modelos pré-definidos **
