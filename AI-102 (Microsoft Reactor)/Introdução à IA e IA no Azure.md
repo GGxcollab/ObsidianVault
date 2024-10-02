@@ -188,4 +188,6 @@
 	- Análise abrangente de características faciais
 	- Comparação e identificação Facial *
 	- Reconhecimento Facial *
-	- *
+	- * *Exige aprovação de Acesso Limitado*
+- ![[Pasted image 20241002134043.png]]
+- 
