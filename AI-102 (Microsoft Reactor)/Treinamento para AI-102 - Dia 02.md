@@ -84,4 +84,4 @@
 	- Criar sinônimos para termos com o mesmo significado
 		- Adicione sinônimos à base de dados de conhecimento por meio da interface da API ou do Language Studio.
 		- ![[Pasted image 20241003150643.png]]
-		- 
+### Criar um aplicativo de compreensão
