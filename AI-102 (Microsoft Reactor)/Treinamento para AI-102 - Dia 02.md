@@ -39,4 +39,6 @@
 	- ![[Pasted image 20241003111331.png]]
 ### Criar uma solução de respostas às perguntas
 - **Introdução a Respostas às perguntas**
-	- Base de dados de conheci
+	- Base de dados de conhecimento de pares de perguntas e respostas com reconhecimento de linguagem natural
+	- Publicado como um ponto de extremidade REST para aplicativos a serem consumidos
+	- D
