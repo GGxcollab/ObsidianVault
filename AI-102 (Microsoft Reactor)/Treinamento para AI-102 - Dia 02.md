@@ -44,4 +44,6 @@
 	- Disponível por meio de SDKs específicos de linguagem
 	- ![[Pasted image 20241003112144.png]]
 - **Respostas às perguntas versus Reconhecimento de linguagem**
-	- Respostas 
+	- Respostas às perguntas
+		- O usuário envia uma pergunta, esperando uma resposta
+		- O serviço usa o reconhecimento de linguagem natural para fazer a correspondência
