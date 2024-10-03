@@ -130,4 +130,5 @@
 - **Treinamento, Teste, Publicação e Revisão**
 	1. Treine um modelo para conhecer intenções e entidades a partir de exemplos de enunciado
 	2. Testar o modelo interativamente ou usando um conjunto de dados de teste com rótulos conhecidos
-	3. Impl
+	3. Implantar um modelo treinado em um ponto de extremidade público para que os aplicativos cliente possam usá-lo
+	4. Revisar previsões e iterar em enunciados para treinar seu modelo
