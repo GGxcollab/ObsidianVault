@@ -104,4 +104,5 @@
 		- ![[Pasted image 20241003165528.png]]
 	- Tipos de entidade:
 		- ![[Pasted image 20241003165551.png]]
-	- 
+- **Componentes de entidade predefinida**
+	- Os componentes predefinidos preveem automaticamente tipos comuns de enunciados:
