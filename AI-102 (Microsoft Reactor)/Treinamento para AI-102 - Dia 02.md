@@ -56,4 +56,5 @@
 		- O aplicativo cliente é responsável por executar a ação apropriada com base na intenção detectada
 - **Criação de uma base de dados de conhecimento**
 	- Usar o portal do Language Studio
-		1.
+		1. Crie um recurso de **Linguagem de IA do Azure** em sua assinatura do Azure
+		2. Bi Estúdio de LInguagem, selecione seu recurso de l
