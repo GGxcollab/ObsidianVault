@@ -109,4 +109,11 @@
 		- ![[Pasted image 20241003170340.png]]
 - **Funcionalidades do serviço de Linguagem de IA do Azure**
 	- Os recursos se enquadram em duas categorias:
-		- **Recursos pré-configurados**
+		- **Recursos pré-configurados** - podem ser usados sem rotulagem ou treinamento:
+			- Resumo
+			- Reconhecimento de entidade nomeada
+			- Detecção de PII
+			- Detecção de frases principais
+			- Análise de sentimento
+			- Detecção de idioma
+		- **Recursos **
