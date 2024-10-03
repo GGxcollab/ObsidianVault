@@ -92,4 +92,4 @@
 	 ![[Pasted image 20241003151919.png]]
 	- **O NPL (Processamento de Linguagem Natural) requer um modelo de linguagem para interpretar a entrada do usuário**
 		- Muitas vezes, essa atividade é chamada de NLU (reconhecimento de linguagem natural)
-		- A CLU (Compreensão da Linguagem Coloquial)
+		- A CLU (Compreensão da Linguagem Coloquial) é um serviço do Azure para permitir que você crie um componente de compreensão de linguagem natural a ser usado em um aplicativo de conversação de ponta a ponta.
