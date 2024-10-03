@@ -74,4 +74,5 @@
 		- Adicione frases alternativas para melhorar as pontuações confirme necessário
 	- Publicar a base de dados de conhecimento treinada
 		- Criar um ponto de extremidade baseado em HTTP REST para aplicativos cliente consumirem
-		- A base de dados de conhecimento
+		- A base de dados de conhecimento publicada pode ser usada com SDKs em seu aplicativo
+		- 
