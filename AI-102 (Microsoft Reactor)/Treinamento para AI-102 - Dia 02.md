@@ -77,4 +77,5 @@
 		- A base de dados de conhecimento publicada pode ser usada com SDKs em seu aplicativo
 - **Criação de aplicativos cliente**
 	- ![[Pasted image 20241003145852.png]]
-- 
+- **Aprimorar o desempenho de respostas às perguntas**
+	- Habilitar o *Aprendizado *
