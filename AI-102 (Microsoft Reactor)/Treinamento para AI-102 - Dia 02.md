@@ -54,3 +54,4 @@
 		- O serviço usa o reconhecimento de linguagem natural para interpretar o enunciado, correspondê-lo a uma intenção e identificar as entidades
 		- A resposta indica a intenção mais provável e entidades referenciadas
 		- O aplicativo cliente é responsável por executar a ação apropriada com base na intenção detectada
+- 
