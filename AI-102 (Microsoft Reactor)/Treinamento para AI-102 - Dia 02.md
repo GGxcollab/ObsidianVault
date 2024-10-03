@@ -78,4 +78,5 @@
 - **Criação de aplicativos cliente**
 	- ![[Pasted image 20241003145852.png]]
 - **Aprimorar o desempenho de respostas às perguntas**
-	- Habilitar o *Aprendizado *
+	- Habilitar o *Aprendizado Ativo* para sugerir alternativas quanto várias perguntas tiverem pontuação semelhantes para a entrada de usuários
+		- **Implícito**:
