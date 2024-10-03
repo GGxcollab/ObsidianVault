@@ -67,3 +67,5 @@
 	- Adicionar prompts de acompanhamento para definir trocas de várias rodadas
 		- Pode fazer referência a pares de perguntas e respostas existentes
 		- Pode ser restrito apenas a repostas de acompanhamento
+		- ![[Pasted image 20241003143628.png]]
+		- 
