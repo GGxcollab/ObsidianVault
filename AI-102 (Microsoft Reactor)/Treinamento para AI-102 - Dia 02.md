@@ -37,4 +37,4 @@
 	- Chame seu modelo por meio da API do Tradutor
 		- Especificar um parâmetro de **categoria** com o ID da categoria do projeto
 	- ![[Pasted image 20241003111331.png]]
-	- 
+### 
