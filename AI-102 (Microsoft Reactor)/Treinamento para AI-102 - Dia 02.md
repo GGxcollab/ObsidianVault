@@ -80,4 +80,5 @@
 - **Aprimorar o desempenho de respostas às perguntas**
 	- Habilitar o *Aprendizado Ativo* para sugerir alternativas quanto várias perguntas tiverem pontuação semelhantes para a entrada de usuários
 		- **Implícito**: o serviço identifica possíveis frases alternativas para perguntas e apresenta sugestões no Language Studio. Revisar periodicamente e aceitar/rejeitar as sugestões.
-		- **Explícito:** o serviço retorna várias correspondências de perguntas possíveis para o usuário e o usuário identifica a 
+		- **Explícito:** o serviço retorna várias correspondências de perguntas possíveis para o usuário e o usuário identifica a correta. Em seguida, o aplicativo cliente usa a API para enviar itens de feedback, identificando a resposta correta.
+	- Criar sinônimos 
