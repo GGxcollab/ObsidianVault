@@ -41,4 +41,6 @@
 - **Introdução a Respostas às perguntas**
 	- Base de dados de conhecimento de pares de perguntas e respostas com reconhecimento de linguagem natural
 	- Publicado como um ponto de extremidade REST para aplicativos a serem consumidos
-	- D
+	- Disponível por meio de SDKs específicos de linguagem
+	- ![[Pasted image 20241003112144.png]]
+- 
