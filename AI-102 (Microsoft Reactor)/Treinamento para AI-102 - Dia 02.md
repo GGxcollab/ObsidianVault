@@ -85,7 +85,7 @@
 		- Adicione sinônimos à base de dados de conhecimento por meio da interface da API ou do Language Studio.
 		- ![[Pasted image 20241003150643.png]]
 ### Criar um aplicativo de compreensão da linguagem coloquial 
-- (Language Studio)
+- (Language Studio) -> identificar texto
 - **Introdução ao conhecimento de linguagem**
 	1. Um aplicativo aceita a entrada de linguagem natural de um usuário
 	2. Um modelo de linguagem é usado para determinar o significado semântico (intenção do usuário)
@@ -94,3 +94,5 @@
 	- **O NPL (Processamento de Linguagem Natural) requer um modelo de linguagem para interpretar a entrada do usuário**
 		- Muitas vezes, essa atividade é chamada de NLU (reconhecimento de linguagem natural)
 		- A CLU (Compreensão da Linguagem Coloquial) é um serviço do Azure para permitir que você crie um componente de compreensão de linguagem natural a ser usado em um aplicativo de conversação de ponta a ponta.
+- **Intenções e enunciados**
+	- Para
