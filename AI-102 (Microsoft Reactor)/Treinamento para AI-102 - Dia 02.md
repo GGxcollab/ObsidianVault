@@ -69,4 +69,5 @@
 		- Pode ser restrito apenas a repostas de acompanhamento
 		- ![[Pasted image 20241003143628.png]]
 - **Testar e publicar uma base de dados de conhecimento**
-- 
+	- Testar interativamente a Language Studio
+		- Inspecionar
