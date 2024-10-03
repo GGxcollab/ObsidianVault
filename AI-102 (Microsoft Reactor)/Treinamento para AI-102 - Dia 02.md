@@ -97,4 +97,6 @@
 - **Intenções e enunciados**
 	- Para treinar um modelo de reconhecimento de linguagem:
 		- Especificar  *enunciados* que representam a entrada de linguagem natural esperada
-		- Mapear enunciados para *intenções* 
+		- Mapear enunciados para *intenções* que atribuem significados semântico
+		- ![[Pasted image 20241003165338.png]]
+		- 
