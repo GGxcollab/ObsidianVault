@@ -29,3 +29,4 @@
 		- ![[Pasted image 20241002172352.png]]
 -   **Tradução Personalizada**
 	- Cria um modelo de tradução personalizado
+		1. 
