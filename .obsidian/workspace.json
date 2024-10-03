@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b131a58a03d21a94",
+        "id": "565dcf6a0c457b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e5c6f2a65c17c85",
+            "id": "937220a8936a2100",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,22 +148,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e5c6f2a65c17c85",
+  "active": "937220a8936a2100",
   "lastOpenFiles": [
-    "Pasted image 20241003171935.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003171935.png",
     "Sem título.md",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002172136.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002172334.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002172352.png",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
-    "Pasted image 20241003171544.png",
-    "Pasted image 20241003170340.png",
-    "Pasted image 20241003165551.png",
-    "Pasted image 20241003165541.png",
-    "Pasted image 20241003165528.png",
-    "Pasted image 20241003165338.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003171544.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003170340.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165551.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165541.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165528.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165338.png",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
-    "Pasted image 20241003151919.png",
-    "Pasted image 20241003150643.png",
-    "Pasted image 20241003145852.png",
-    "Pasted image 20241003143628.png",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "AI-102 (Microsoft Reactor)/Imagens",
     "SC-300/Plan, implement, and manage Access Review - EP12.1.md",
