@@ -83,3 +83,5 @@
 		- **Explícito:** o serviço retorna várias correspondências de perguntas possíveis para o usuário e o usuário identifica a correta. Em seguida, o aplicativo cliente usa a API para enviar itens de feedback, identificando a resposta correta.
 	- Criar sinônimos para termos com o mesmo significado
 		- Adicione sinônimos à base de dados de conhecimento por meio da interface da API ou do Language Studio.
+		- ![[Pasted image 20241003150643.png]]
+		- 
