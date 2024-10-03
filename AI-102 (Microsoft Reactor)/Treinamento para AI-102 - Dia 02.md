@@ -51,6 +51,6 @@
 		- O aplicativo cliente apresenta a resposta para o usuário
 	- Reconhecimento Vocal
 		- O usuário envia um enunciado, esperando uma resposta ou uma ação apropriada
-		- O seviço usa o reconhecimento de linguagem natural para interpretar o enunciado, correspondê-lo a uma intenção e identificar as entidades
+		- O serviço usa o reconhecimento de linguagem natural para interpretar o enunciado, correspondê-lo a uma intenção e identificar as entidades
 		- A resposta indica a intenção mais provável e entidades referenciadas
-		- O aplica
+		- O aplicativo cliente é responsável por executar a ação apropriada com basae na intenção detectada
