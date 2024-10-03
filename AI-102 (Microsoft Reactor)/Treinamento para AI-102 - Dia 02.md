@@ -87,4 +87,6 @@
 ### Criar um aplicativo de compreensão da linguagem coloquial
 - **Introdução ao conhecimento de linguagem**
 	1. Um aplicativo aceita a entrada de linguagem natural de um usuário
-	2. Um modelo de linguagem éusado para determinar o significa
+	2. Um modelo de linguagem é usado para determinar o significado semântico (intenção do usuário)
+	3. O aplicativo realiza uma ação apropriada
+	4. ![[Pasted image 20241003151919.png]]
