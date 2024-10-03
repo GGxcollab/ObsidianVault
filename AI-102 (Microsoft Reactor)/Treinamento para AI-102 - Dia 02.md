@@ -90,5 +90,6 @@
 	2. Um modelo de linguagem é usado para determinar o significado semântico (intenção do usuário)
 	3. O aplicativo realiza uma ação apropriada
 	 ![[Pasted image 20241003151919.png]]
-	- O NPL (Processamento de Linguagem Natural) requer um modelo de linguagem para interpretar a entrada do usuário
-		- muitas
+	- **O NPL (Processamento de Linguagem Natural) requer um modelo de linguagem para interpretar a entrada do usuário**
+		- Muitas vezes, essa atividade é chamada de NLU (reconhecimento de linguagem natural)
+		- A CLU (Compreensão da Linguagem Coloquial)
