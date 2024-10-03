@@ -49,3 +49,6 @@
 		- O serviço usa o reconhecimento de linguagem natural para fazer a correspondência de a uma pergunta com uma resposta na base de dados de conhecimento
 		- A resposta é uma resposta estática a uma pergunta conhecida
 		- O aplicativo cliente apresenta a resposta para o usuário
+	- Reconhecimento Vocal
+		- O usuário envia um enunciado, esperando uma resposta ou uma ação apropriada
+		- O seviço usa o reconhecimento de linguagem natural para intere
