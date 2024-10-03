@@ -100,4 +100,8 @@
 		- Mapear enunciados para *intenções* que atribuem significados semântico
 		- ![[Pasted image 20241003165338.png]]
 - **Entities**
-	- Defina entidades para adicionar contexto especí
+	- Defina entidades para adicionar contexto específico a intenções
+		- ![[Pasted image 20241003165528.png]]
+	- Tipos de entidade:
+		- ![[Pasted image 20241003165551.png]]
+	- 
