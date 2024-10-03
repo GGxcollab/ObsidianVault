@@ -57,4 +57,5 @@
 - **Criação de uma base de dados de conhecimento**
 	- Usar o portal do Language Studio
 		1. Crie um recurso de **Linguagem de IA do Azure** em sua assinatura do Azure
-		2. Bi Estúdio de LInguagem, selecione seu recurso de l
+		2. No Estúdio de Linguagem, selecione seu recurso de Linguagem de IA do Azure e crie um projeto de **Resposta às perguntas personalizado.**
+		3. Preecha 
