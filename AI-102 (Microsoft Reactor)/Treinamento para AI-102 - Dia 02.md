@@ -106,3 +106,5 @@
 		- ![[Pasted image 20241003165551.png]]
 - **Componentes de entidade predefinida**
 	- Os componentes predefinidos preveem automaticamente tipos comuns de enunciados:
+		- ![[Pasted image 20241003170340.png]]
+- ****
