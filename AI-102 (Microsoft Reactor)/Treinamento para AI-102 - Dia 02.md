@@ -132,3 +132,5 @@
 	2. Testar o modelo interativamente ou usando um conjunto de dados de teste com rótulos conhecidos
 	3. Implantar um modelo treinado em um ponto de extremidade público para que os aplicativos cliente possam usá-lo
 	4. Revisar previsões e iterar em enunciados para treinar seu modelo
+	 ![[Pasted image 20241003171935.png]]
+- 
