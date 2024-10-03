@@ -118,4 +118,6 @@
 			- Detecção de idioma
 		- **Recursos aprendidos** - Exigem rotulagem, treinamento e implantação para utilização
 			- Compreensão do idioma da conversa
-			- Reconhecime
+			- Reconhecimento de Entidade Nomeada personalizado
+			- Classificação personalizada de textos
+			- Respostas às perguntas
