@@ -64,4 +64,6 @@
 			- Adicionar pares "bate-papo" predefinidos
 		4. Criar a base de dados de conhecimento e editar pares de perguntas e respostas
 - **Conversa com várias rodadas**
-	- Adicionar prompts de acompanhamento apra definir trocass
+	- Adicionar prompts de acompanhamento para definir trocas de várias rodadas
+		- Pode fazer referência a pares de perguntas e respostas existentes
+		- Pode ser restrito apenas a repostas de acompanhamento
