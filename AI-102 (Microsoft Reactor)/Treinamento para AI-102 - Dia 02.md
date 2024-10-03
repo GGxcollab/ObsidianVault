@@ -99,4 +99,5 @@
 		- Especificar  *enunciados* que representam a entrada de linguagem natural esperada
 		- Mapear enunciados para *intenções* que atribuem significados semântico
 		- ![[Pasted image 20241003165338.png]]
-		- 
+- **Entities**
+	- Defina entidades para adicionar contexto especí
