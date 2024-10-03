@@ -89,4 +89,6 @@
 	1. Um aplicativo aceita a entrada de linguagem natural de um usuário
 	2. Um modelo de linguagem é usado para determinar o significado semântico (intenção do usuário)
 	3. O aplicativo realiza uma ação apropriada
-	4. ![[Pasted image 20241003151919.png]]
+	 ![[Pasted image 20241003151919.png]]
+	- O NPL (Processamento de Linguagem Natural) requer um modelo de linguagem para interpretar a entrada do usuário
+		- muitas
