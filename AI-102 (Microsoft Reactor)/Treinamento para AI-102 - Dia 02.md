@@ -72,3 +72,4 @@
 	- Testar interativamente a Language Studio
 		- Inspecionar os resultados para ver as pontuações de confiança
 		- Adicione frases alternativas para melhorar as pontuações confirme necessário
+	- Publicar a base de dados de 
