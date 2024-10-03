@@ -95,4 +95,6 @@
 		- Muitas vezes, essa atividade é chamada de NLU (reconhecimento de linguagem natural)
 		- A CLU (Compreensão da Linguagem Coloquial) é um serviço do Azure para permitir que você crie um componente de compreensão de linguagem natural a ser usado em um aplicativo de conversação de ponta a ponta.
 - **Intenções e enunciados**
-	- Para
+	- Para treinar um modelo de reconhecimento de linguagem:
+		- Especificar  *enunciados* que representam a entrada de linguagem natural esperada
+		- Mapear enunciados para *intenções* 
