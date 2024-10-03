@@ -124,4 +124,5 @@
 - **Processar precisões**
 	- Envie uma solicitação para um slot publicado, especificando:
 		- **Variante** - indica qual recurso de linguagem está sendo solicitado. Por exemplo, a **variante** é definida como Conversa para a compreensão da linguagem coloquial ou *EntityRecognition* para detectar entidades
-		- **Parâmetros** - indica 
+		- **Parâmetros** - indica os valores para vários parâmetros de entrada. Esses parâmetros variam, dependendo do recurso.
+		- **Entrada de análise** - especifica os documentos de entrada ou cadeis
