@@ -43,4 +43,5 @@
 	- Publicado como um ponto de extremidade REST para aplicativos a serem consumidos
 	- Disponível por meio de SDKs específicos de linguagem
 	- ![[Pasted image 20241003112144.png]]
-- **Respostas às perguntas versus **
+- **Respostas às perguntas versus Reconhecimento de linguagem**
+	- Respostas 
