@@ -31,4 +31,8 @@
 	- Cria um modelo de tradução personalizado
 		1. Usar o portal do Tradutor Personalizado
 		2. Criar um espaço de trabalho vinculado ao seu recurso Tradutor de IA do Azure
-		3. Criar um
+		3. Criar um projeto
+		4. Carregar os arquivos de dados de treinamento
+		5. Treinar um modelo
+	- Chame seu modelo por meio da API do Tradutor
+		- Especificar um parâmetro de **categoria**
