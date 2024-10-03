@@ -84,7 +84,8 @@
 	- Criar sinônimos para termos com o mesmo significado
 		- Adicione sinônimos à base de dados de conhecimento por meio da interface da API ou do Language Studio.
 		- ![[Pasted image 20241003150643.png]]
-### Criar um aplicativo de compreensão da linguagem coloquial
+### Criar um aplicativo de compreensão da linguagem coloquial 
+- (Language Studio)
 - **Introdução ao conhecimento de linguagem**
 	1. Um aplicativo aceita a entrada de linguagem natural de um usuário
 	2. Um modelo de linguagem é usado para determinar o significado semântico (intenção do usuário)
