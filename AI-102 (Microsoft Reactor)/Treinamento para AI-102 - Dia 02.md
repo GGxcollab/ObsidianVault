@@ -63,4 +63,5 @@
 			- Carregar arquivos de documento
 			- Adicionar pares "bate-papo" predefinidos
 		4. Criar a base de dados de conhecimento e editar pares de perguntas e respostas
-		5. 
+- **Conversa com várias rodadas**
+	- Adicionar prompts de acompanhamento apra definir trocass
