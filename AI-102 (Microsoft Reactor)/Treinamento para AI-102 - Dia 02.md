@@ -116,4 +116,6 @@
 			- Detecção de frases principais
 			- Análise de sentimento
 			- Detecção de idioma
-		- **Recursos **
+		- **Recursos aprendidos** - Exigem rotulagem, treinamento e implantação para utilização
+			- Compreensão do idioma da conversa
+			- Reconhecime
