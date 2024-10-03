@@ -70,5 +70,5 @@
 		- ![[Pasted image 20241003143628.png]]
 - **Testar e publicar uma base de dados de conhecimento**
 	- Testar interativamente a Language Studio
-		- Inspecionar os resultados para ver as pontuações conforme necessário
-		- Adicione frases alternativas para melhorar as pontuações
+		- Inspecionar os resultados para ver as pontuações de confiança
+		- Adicione frases alternativas para melhorar as pontuações confirme necessário
