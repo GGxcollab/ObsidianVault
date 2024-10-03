@@ -46,4 +46,6 @@
 - **Respostas às perguntas versus Reconhecimento de linguagem**
 	- Respostas às perguntas
 		- O usuário envia uma pergunta, esperando uma resposta
-		- O serviço usa o reconhecimento de linguagem natural para fazer a correspondência
+		- O serviço usa o reconhecimento de linguagem natural para fazer a correspondência de a uma pergunta com uma resposta na base de dados de conhecimento
+		- A resposta é uma resposta estática a uma pergunta conhecida
+		- O aplicativo cliente apresenta a resposta para o usuário
