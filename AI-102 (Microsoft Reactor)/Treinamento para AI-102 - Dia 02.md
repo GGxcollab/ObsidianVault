@@ -85,4 +85,6 @@
 		- Adicione sinônimos à base de dados de conhecimento por meio da interface da API ou do Language Studio.
 		- ![[Pasted image 20241003150643.png]]
 ### Criar um aplicativo de compreensão da linguagem coloquial
-- **Introdução **
+- **Introdução ao conhecimento de linguagem**
+	1. Um aplicativo aceita a entrada de linguagem natural de um usuário
+	2. Um modelo de linguagem éusado para determinar o significa
