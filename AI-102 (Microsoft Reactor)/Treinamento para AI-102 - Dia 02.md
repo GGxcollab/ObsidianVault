@@ -127,4 +127,4 @@
 		- **Parâmetros** - indica os valores para vários parâmetros de entrada. Esses parâmetros variam, dependendo do recurso.
 		- **Entrada de análise** - especifica os documentos de entrada ou cadeias de caracteres de texto a serem analisados pelo serviço de Linguagem de IA do Azure.
 		- ![[Pasted image 20241003171544.png]]
-	- 
+- **Treinamento, Teste, Publicação e Revisão**
