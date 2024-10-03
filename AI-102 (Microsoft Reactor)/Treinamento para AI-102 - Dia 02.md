@@ -122,4 +122,5 @@
 			- Classificação personalizada de textos
 			- Respostas às perguntas
 - **Processar precisões**
-	- Envie uma solicitação para um slot publicado
+	- Envie uma solicitação para um slot publicado, especificando:
+		- **Variante** - indica qual recurso de linguagem está sendo solicitado. Por exemplo, a **variante** é definida como Conversa para a compreensão da ligua
