@@ -123,4 +123,5 @@
 			- Respostas às perguntas
 - **Processar precisões**
 	- Envie uma solicitação para um slot publicado, especificando:
-		- **Variante** - indica qual recurso de linguagem está sendo solicitado. Por exemplo, a **variante** é definida como Conversa para a compreensão da ligua
+		- **Variante** - indica qual recurso de linguagem está sendo solicitado. Por exemplo, a **variante** é definida como Conversa para a compreensão da linguagem coloquial ou *EntityRecognition* para detectar entidades
+		- **Parâmetros** - indica 
