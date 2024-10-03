@@ -121,3 +121,5 @@
 			- Reconhecimento de Entidade Nomeada personalizado
 			- Classificação personalizada de textos
 			- Respostas às perguntas
+- **Processar precisões**
+	- Envie uma solicitação para um slot publicado
