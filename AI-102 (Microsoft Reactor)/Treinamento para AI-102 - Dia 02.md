@@ -134,4 +134,6 @@
 	4. Revisar previsões e iterar em enunciados para treinar seu modelo
 	 ![[Pasted image 20241003171935.png]]
 ### Classificação personalizada e extração de entidade nomeada
-- 
+- **Classificação personalizada de textos**
+	- Atribuir etiquetas personalizadas a documentos
+	-
