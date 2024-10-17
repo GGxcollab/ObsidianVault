@@ -153,3 +153,5 @@
 	- Chame seu modelo por meio de API de linguagem
 		- Especificar o nome do projeto e da implantação
 		- ![[Pasted image 20241017153308.png]]
+- **Revisar e melhorar um modelo**
+	- Treinar um modelo para ensinar rótulos ou entidades
