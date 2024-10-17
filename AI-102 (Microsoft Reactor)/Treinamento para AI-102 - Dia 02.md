@@ -144,4 +144,4 @@
 		- Especificar o nome do projeto e da implantação
 	- Podem ser projetos de rótulos únicos ou de vários rótulos
 		- ![[Pasted image 20241017152910.png]]
-	- 
+- **Reconhecimento de Entida**
