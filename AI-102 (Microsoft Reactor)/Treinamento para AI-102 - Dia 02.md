@@ -160,4 +160,7 @@
 	4. Retreine o seu modelo com novos dados incluídos e repita conforme necessário
 		![[Pasted image 20241017153909.png]]
 ### Reconhecimento de fala, tradução e síntese
-- 
+- **O serviço de fala**
+	- APIs de Fala
+		- API de reconhecimento de fala (reconhecimento de fala)
+		- API de conversão de texto em fala (síntese )
