@@ -144,4 +144,8 @@
 		- Especificar o nome do projeto e da implantação
 	- Podem ser projetos de rótulos únicos ou de vários rótulos
 		- ![[Pasted image 20241017152910.png]]
-- **Reconhecimento de Entida**
+- **Reconhecimento de Entidade Nomeada personalizado**
+	- Atribuir etiquetas personalizadas a entidades no seus documentos
+		1. Conectar-se a documentos no Azure
+		2. Definir rótulos de classes para atribuir aos seus documentos
+		3. 
