@@ -163,4 +163,7 @@
 - **O serviço de fala**
 	- APIs de Fala
 		- API de reconhecimento de fala (reconhecimento de fala)
-		- API de conversão de texto em fala (síntese )
+		- API de conversão de texto em fala (síntese de fala)
+		- API de tradução de fala
+		- API de Reconhecimento de Locutor
+		- Reconhecimento de intenção (usa compreensão de lingau)
