@@ -154,4 +154,6 @@
 		- Especificar o nome do projeto e da implantação
 		- ![[Pasted image 20241017153308.png]]
 - **Revisar e melhorar um modelo**
-	- Treinar um modelo para ensinar rótulos ou entidades
+	1. Treinar um modelo para ensinar rótulos ou entidades
+	2. Revisar o desempenho do modelo para determinar como melhorar o desempenho, incluindo a matriz de confusão
+	3. 
