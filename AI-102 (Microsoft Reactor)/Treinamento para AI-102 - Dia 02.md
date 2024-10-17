@@ -151,4 +151,5 @@
 		3. Rotular documentos de forma completa e consistente
 		4. Treinar seu modelo
 	- Chame seu modelo por meio de API de linguagem
-		- Especificar o nome do projeto 
+		- Especificar o nome do projeto e da implantação
+		- ![[Pasted image 20241017153308.png]]
