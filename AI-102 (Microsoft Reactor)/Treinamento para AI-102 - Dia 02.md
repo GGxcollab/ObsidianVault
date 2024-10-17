@@ -138,4 +138,8 @@
 	- Atribuir etiquetas personalizadas a documentos
 		1. Conectar-se a documentos no Azure
 		2. Definir rótulos de classes para atribuir aos seus documentos
-		3. Documentos de rótul
+		3. Documentos de rótulos 
+		4. Treinar  seu modelo
+	- Chame seu modelo por meio da API de linguagem
+		- Especificar o nome do projeto e da implantação
+	- Podem ser projetos de rótul
