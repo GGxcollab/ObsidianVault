@@ -157,4 +157,6 @@
 	1. Treinar um modelo para ensinar rótulos ou entidades
 	2. Revisar o desempenho do modelo para determinar como melhorar o desempenho, incluindo a matriz de confusão
 	3. Determinar quais casos precisam ser adicionados aos seus dados de treinamento
-	4. Retreine o seu modelo com novos dados incluídos
+	4. Retreine o seu modelo com novos dados incluídos e repita conforme necessário
+		![[Pasted image 20241017153909.png]]
+- 
