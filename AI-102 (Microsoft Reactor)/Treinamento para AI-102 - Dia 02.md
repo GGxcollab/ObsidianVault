@@ -159,4 +159,5 @@
 	3. Determinar quais casos precisam ser adicionados aos seus dados de treinamento
 	4. Retreine o seu modelo com novos dados incluídos e repita conforme necessário
 		![[Pasted image 20241017153909.png]]
+### Reconhecimento de fala, tradução e síntese
 - 
