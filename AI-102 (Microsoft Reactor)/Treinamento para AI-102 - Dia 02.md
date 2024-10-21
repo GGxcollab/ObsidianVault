@@ -229,4 +229,5 @@
 		- **Inserções** - o modelo usa a entrada e retorna uma representação de vetor dessa entrada.
 		- **ChatCompletion** - o modelo recebe entrada na forma de uma conversa de chat (em que as funções são específicas com a mensagem enviada) e a próximo conclusão é gerada.
 	- **ChatCompletion** será o ponto de extremidade em que nos concentramos para este curso
-	- Use a **Conclusão** e **Inserções**
+	- Use a **Conclusão** e **Inserções** com modelos baseados em GPT-3
+	- Use o **ChatCompletion** com o GPT-35-Turbo e modelos p
