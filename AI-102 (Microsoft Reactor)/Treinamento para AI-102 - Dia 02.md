@@ -220,3 +220,5 @@
 	- ![[Pasted image 20241021150325.png]]
 	- ![[Pasted image 20241021150336.png]]
 - **Como testar modelos no playground do Estúdio do OpenAI**
+	- ![[Pasted image 20241021163832.png]]
+- 
