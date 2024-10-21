@@ -185,4 +185,7 @@
 	- Síntese de traduções como fala
 		- Síntese baseada em evento
 			- Compatível apenas com tradução 1:1 (idioma destino único)
-			- Espec
+			- Especifique a voz desejada no **TranslationConfig**
+			- Use o evento **Sintetização** para recuperar o fluxo de áudio
+			- Criar um manipulador de eventos
+			- Use Re
