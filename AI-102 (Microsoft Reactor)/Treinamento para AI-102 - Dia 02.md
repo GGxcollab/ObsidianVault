@@ -225,4 +225,6 @@
 - **Como integrar o OpenAI do Azure ao seu aplicativo**
 	- Os aplicativos enviam os prompts aos modelos implantados. As respostas são conclusões.
 	- Três pontos de extremidade de API REST:
-		- **Preenchimento** - o modelo usa um prompt de entrada e gera um ou mais preenchimentos previstos
+		- **Preenchimento** - o modelo usa um prompt de entrada e gera um ou mais preenchimentos previstos.
+		- **Inserções** - o modelo usa a entrada e retorna uma representação de vetor dessa entrada.
+		- **ChatCompletion** - o modelo recebe entrada na forma
