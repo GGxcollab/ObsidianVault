@@ -237,4 +237,5 @@
 	- ![[Pasted image 20241021170913.png]]
 - **Como usar os SDKs do OpenAI do Azure**
 	- ![[Pasted image 20241021171108.png]]
-###
+### Aplicar engenharia de prompts com o Serviço de OpenAI do Azure
+
