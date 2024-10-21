@@ -206,4 +206,6 @@
 		- ![[Pasted image 20241021144407.png]]
 	- ![[Pasted image 20241021144419.png]]
 - **Estúdio do OpenAI do Azure**
-	- Portal da Web para trabalhar com modelos do Open 
+	- Portal da Web para trabalhar com modelos do OpenAI do Azure: "https:// oai.azure.com/"
+	- Exibir e implantar modelos base
+	- Conectar suas próprias fonte de dad
