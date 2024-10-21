@@ -170,4 +170,6 @@
 		- API de Reconhecimento de Locutor
 		- Reconhecimento de intenção (usa compreensão de linguagem coloquial)
 			- ![[Pasted image 20241017155419.png]]
-	- 
+	- Formato de Áudio e Vozes
+		- Áudio
+			- Selecione um 
