@@ -1,5 +1,5 @@
 # Desenvolver soluções de processamento de linguagem natural
-### Analisar Texto
+### Analisar Texto (Language Studio)
 - **Serviço de Linguagem de AI do Azure**
 	- Recursos pré-configurados:
 		- Detecção de idioma
@@ -159,7 +159,7 @@
 	3. Determinar quais casos precisam ser adicionados aos seus dados de treinamento
 	4. Retreine o seu modelo com novos dados incluídos e repita conforme necessário
 		![[Pasted image 20241017153909.png]]
-### Reconhecimento de fala, tradução e síntese
+### Reconhecimento de fala, tradução e síntese (Speech Studio)
 - **O serviço de fala**
 	- APIs de Fala
 		- API de reconhecimento de fala (reconhecimento de fala)
@@ -182,4 +182,4 @@
 		- ![[Pasted image 20241021141801.png]]
 	- Linguagem de marcação de síntese de fala (SSML)
 		- ![[Pasted image 20241021141944.png]]
-		- 
+	- Síntese de traduções 
