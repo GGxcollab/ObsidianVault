@@ -172,4 +172,9 @@
 			- ![[Pasted image 20241017155419.png]]
 	- Formato de Áudio e Vozes
 		- Áudio
-			- Selecione um 
+			- Selecione um formato de áudio para especificar:
+				- Tipo de arquivo de áudio
+				- Taxa de amostragem
+				- Profundidade de bits
+		- Vozes
+			- 
