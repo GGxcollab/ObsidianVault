@@ -199,7 +199,7 @@
 - **O que é uma IA generativa?**
 	- ![[Pasted image 20241021143947.png]]
 - **Provisionar um recurso do OpenAI do Azure no Azure**
-	- Implantar um mosdelo no estúdio do OpenAI do Azure para úsa-lo
+	- Implantar um modelo no estúdio do OpenAI do Azure para úsa-lo
 		1. Solicite acesso ao serviço OpenAI do Azure
 		2. Crie um recurso do **OpenAI do Azure** no portal do Azure
 	- Como alternativa, use a CLI do Azure
