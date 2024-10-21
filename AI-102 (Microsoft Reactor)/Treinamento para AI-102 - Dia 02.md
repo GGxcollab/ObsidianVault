@@ -223,4 +223,6 @@
 	- ![[Pasted image 20241021163832.png]]
 ### Desenvolver aplicativos com o Serviço OpenAI do Azure
 - **Como integrar o OpenAI do Azure ao seu aplicativo**
-	- Os aplicativos enviam os prompts aos modelos implantados. As respostas são concl
+	- Os aplicativos enviam os prompts aos modelos implantados. As respostas são conclusões.
+	- Três pontos de extremidade de API REST:
+		- **Preenchimento** - o modelo usa um prompt de entrada e gera um ou mais preenchimentos previstos
