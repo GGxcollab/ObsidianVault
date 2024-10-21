@@ -196,4 +196,6 @@
 
 # Desenvolver soluções de IA generativa com Serviço OpenAI do Azure
 ### Introdução ao Serviço OpenAI do Azure
-	
+- O que é uma IA generativa?
+	- ![[Pasted image 20241021143947.png]]
+	- 
