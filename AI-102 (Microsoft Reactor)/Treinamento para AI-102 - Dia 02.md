@@ -180,4 +180,6 @@
 			- Vozes padrão: vozes sintéticas criadas com base em amostras de áudio
 			- Vozes neurais: vozes de som mais natural criadas usando redes neurais profundas
 		- ![[Pasted image 20241021141801.png]]
+	- Linguagem de marcação de síntese de fala (SSML)
+		- ![[Pasted image 20241021141944.png]]
 		- 
