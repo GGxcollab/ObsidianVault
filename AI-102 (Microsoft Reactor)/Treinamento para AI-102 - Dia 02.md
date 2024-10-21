@@ -192,3 +192,5 @@
 		- **Síntese manual**
 			- Uso para vários idiomas de destino
 			- Traduzir para texto e usar a API de Conversão de Texto em Fala para sintetizar cada tradução nos resultados
+### Desenvolver soluções de IA generativa com Serviço OpenAI do Azure
+- 
