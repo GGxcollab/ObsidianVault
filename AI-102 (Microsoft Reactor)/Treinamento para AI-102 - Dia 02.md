@@ -183,12 +183,12 @@
 	- Linguagem de marcação de síntese de fala (SSML)
 		- ![[Pasted image 20241021141944.png]]
 	- Síntese de traduções como fala
-		- Síntese baseada em evento
+		- **Síntese baseada em evento**
 			- Compatível apenas com tradução 1:1 (idioma destino único)
 			- Especifique a voz desejada no **TranslationConfig**
 			- Use o evento **Sintetização** para recuperar o fluxo de áudio
 			- Criar um manipulador de eventos
 			- Use ResultGetAudio() para recuperar o fluxo de bytes
-		- Síntese manual
+		- **Síntese manual**
 			- Uso para vários idiomas de destino
-			- Traduzir para texto e usar a AP
+			- Traduzir para texto e usar a API de Conversão de Texto em Fala para sintetizar cada tradução nos resultados
