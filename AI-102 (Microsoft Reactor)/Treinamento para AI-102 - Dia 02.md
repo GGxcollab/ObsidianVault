@@ -215,3 +215,4 @@
 		- **Preenchimentos** (GPT-3 e modelos anteriores)
 		- **DALL-E** (gerações de imagens)
 		- **Assistentes** (experiências personalizadas e semelhantes ao Copilot)
+	- ![[Pasted image 20241021145019.png]]
