@@ -165,6 +165,7 @@
 		- API de reconhecimento de fala (reconhecimento de fala)
 		- API de conversão de texto em fala (síntese de fala)
 			- ![[Pasted image 20241021120528.png]]
+			- ![[Pasted image 20241021140122.png]]
 		- API de tradução de fala
 		- API de Reconhecimento de Locutor
 		- Reconhecimento de intenção (usa compreensão de linguagem coloquial)
