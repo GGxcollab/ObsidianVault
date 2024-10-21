@@ -208,4 +208,7 @@
 - **Estúdio do OpenAI do Azure**
 	- Portal da Web para trabalhar com modelos do OpenAI do Azure: "https:// oai.azure.com/"
 	- Exibir e implantar modelos base
-	- Conectar suas próprias fonte de dad
+	- Conectar suas próprias fontes de dados
+	- Gerenciar arquivos de dados e ajuste para modelos personalizados
+	- Testar modelos em playgrounds visuais:
+		- **Chat** (GPT-3-)
