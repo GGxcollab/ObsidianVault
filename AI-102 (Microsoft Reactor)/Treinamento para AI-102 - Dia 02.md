@@ -182,4 +182,7 @@
 		- ![[Pasted image 20241021141801.png]]
 	- Linguagem de marcação de síntese de fala (SSML)
 		- ![[Pasted image 20241021141944.png]]
-	- Síntese de traduções 
+	- Síntese de traduções como fala
+		- Síntese baseada em evento
+			- Compatível apenas com tradução 1:1 (idioma destino único)
+			- Espec
