@@ -188,4 +188,7 @@
 			- Especifique a voz desejada no **TranslationConfig**
 			- Use o evento **Sintetização** para recuperar o fluxo de áudio
 			- Criar um manipulador de eventos
-			- Use Re
+			- Use ResultGetAudio() para recuperar o fluxo de bytes
+		- Síntese manual
+			- Uso para vários idiomas de destino
+			- Traduzir para texto e usar a AP
