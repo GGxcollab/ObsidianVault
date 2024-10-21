@@ -205,3 +205,5 @@
 	- Como alternativa, use a CLI do Azure
 		- ![[Pasted image 20241021144407.png]]
 	- ![[Pasted image 20241021144419.png]]
+- **Estúdio do OpenAI do Azure**
+	- Portal da Web para trabalhar com modelos do Open 
