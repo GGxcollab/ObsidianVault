@@ -241,5 +241,6 @@
 ### Implementar RAG (Geração Aumentada de Recuperação) com o Serviço OpenAI do Azure
 - **Como o OpenAI do Azure pode usar seus dados**
 	- Configurar as fontes de dados
-	- 
+	- Configurar o estúdio ou seu aplicativo para se conectar a essa fonte de dados
+	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para  
 
