@@ -198,4 +198,4 @@
 ### Introdução ao Serviço OpenAI do Azure
 - O que é uma IA generativa?
 	- ![[Pasted image 20241021143947.png]]
-	- 
+- Provisionar um recurso do OpenAI do Azure noA
