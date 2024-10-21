@@ -177,4 +177,5 @@
 				- Taxa de amostragem
 				- Profundidade de bits
 		- Vozes
-			- 
+			- Vozes padrão: vozes sintéticas criadas com base em amostras de áudio
+			- Vozes neurais: vozes de som mais natural criadas usando redes neurais profundas
