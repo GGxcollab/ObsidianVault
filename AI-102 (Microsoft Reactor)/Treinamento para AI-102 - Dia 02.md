@@ -231,3 +231,5 @@
 	- **ChatCompletion** será o ponto de extremidade em que nos concentramos para este curso
 	- Use a **Conclusão** e **Inserções** com modelos baseados em GPT-3
 	- Use o **ChatCompletion** com o GPT-35-Turbo e modelos posteriores
+- Usando API REST do OpenAI do Azure
+	- ![[Pasted image 20241021170448.png]]
