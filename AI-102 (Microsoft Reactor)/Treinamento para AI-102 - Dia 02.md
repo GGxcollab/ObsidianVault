@@ -223,4 +223,4 @@
 	- ![[Pasted image 20241021163832.png]]
 ### Desenvolver aplicativos com o Serviço OpenAI do Azure
 - **Como integrar o OpenAI do Azure ao seu aplicativo**
-	- 
+	- Os aplicativos enviam os prompts aos modelos implantados. As respostas são concl
