@@ -227,4 +227,5 @@
 	- Três pontos de extremidade de API REST:
 		- **Preenchimento** - o modelo usa um prompt de entrada e gera um ou mais preenchimentos previstos.
 		- **Inserções** - o modelo usa a entrada e retorna uma representação de vetor dessa entrada.
-		- **ChatCompletion** - o modelo recebe entrada na forma
+		- **ChatCompletion** - o modelo recebe entrada na forma de uma conversa de chat (em que as funções são específicas com a mensagem enviada) e a próximo conclusão é gerada.
+	- **C**
