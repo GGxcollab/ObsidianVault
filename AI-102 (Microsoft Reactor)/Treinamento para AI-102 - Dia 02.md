@@ -216,4 +216,7 @@
 		- **DALL-E** (gerações de imagens)
 		- **Assistentes** (experiências personalizadas e semelhantes ao Copilot)
 	- ![[Pasted image 20241021145019.png]]
-- 
+- **Tipos de modelos de IA generativa**
+	- ![[Pasted image 20241021150325.png]]
+	- ![[Pasted image 20241021150336.png]]
+	- 
