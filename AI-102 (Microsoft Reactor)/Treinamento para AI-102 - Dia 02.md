@@ -211,4 +211,6 @@
 	- Conectar suas próprias fontes de dados
 	- Gerenciar arquivos de dados e ajuste para modelos personalizados
 	- Testar modelos em playgrounds visuais:
-		- **Chat** (GPT-3-)
+		- **Chat** (GPT-3.5-Turbo e modelos anteriores)
+		- **Preenchimentos** (GPT-3 e modelos anteriores)
+		- **DALL-E** 
