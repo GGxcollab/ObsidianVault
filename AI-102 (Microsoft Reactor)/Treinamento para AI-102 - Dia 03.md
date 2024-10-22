@@ -51,4 +51,5 @@
 	- Armazenar saída em um novo cargo
 		- Opcionalmente, especificar um nome do cmapo de destino (caso contrário, o nome de saída será usado)
 	- ![[Pasted image 20241022160519.png]]
+### Criar um repositório de conhecimento
 - 
