@@ -269,5 +269,8 @@
 	- A estrutura do código segue um padrão semelhante para ambas as linguagens.
 	- As fontes de dados atualmente compatíveis são:
 		- Azure AI Search
-		- Azure Cosmos DB para o Mongo 
+		- Azure Cosmos DB para o Mongo DB vCore
+		- Al~em de outros em pré-visualização, em que breve serão lançados em GA
+	- ![[Pasted image 20241022142740.png]]
+	- 
 
