@@ -26,4 +26,4 @@
 		- Mapeia campos de fonte de dados e saídas de conjunto de habilidades para campos de índice
 			- A execução do indexador cria o índice
 	- **índice**
-		- Coleção pesquisável de documentos JSOn contendo campos
+		- Coleção pesquisável de documentos JSON contendo campos extraídos e enriquecidos
