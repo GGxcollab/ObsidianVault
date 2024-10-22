@@ -13,3 +13,8 @@
 	- ![[Pasted image 20241022145523.png]]
 - **Componentes principais de uma solução de pesquisa de IA**
 	- **Fonte de dados**
+		- O armazenamento de dados a ser pesquisado:
+			- Contêiner do armazenamento de Blobs
+			- Banco de Dados SQL
+			- Cosmo DB
+		- Voce tambem
