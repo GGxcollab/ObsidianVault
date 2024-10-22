@@ -38,5 +38,5 @@
 		- Qualquer outra lógica personalizada
 	- As habilidades personalizadas são implementadas como APIs da Web
 		- Normalmente Azure Functions
-	- ![[Pasted image 20241022155557.png]]
-	- 
+	- ![[Pasted image 20241022155846.png]]
+- **Interfaces de habilidades**
