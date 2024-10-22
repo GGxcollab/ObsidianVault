@@ -34,4 +34,7 @@
 	- Quando as habilidades incorporadas não fornecem o que você precisa...
 	- Crie uma habilidade personalizada:
 		- Integrar a inteligÊncia de documentos
-		- Consumir um modelo do Azure Machine
+		- Consumir um modelo do Azure Machine Learning
+		- Qualquer outra lógica personalizada
+	- As habilidades personalizadas são implementadas como APIs da Web
+		- Normalmente 
