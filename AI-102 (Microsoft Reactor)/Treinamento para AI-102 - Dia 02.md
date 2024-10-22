@@ -262,5 +262,6 @@
 	- Use uma fonte de dados existente ou use esse assistente para criar uma nova
 	- Uma vez conectado, uma nova sessão  de chat será iniciada. Converse normalmente e veja como o modelo de IA faz referência a esses dados
 	- ![[Pasted image 20241022142153.png]]
-- 
+- **Uso da API REST do OpenAI do Azure**
+	- 
 
