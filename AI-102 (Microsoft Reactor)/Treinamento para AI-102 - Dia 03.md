@@ -41,3 +41,4 @@
 	- ![[Pasted image 20241022155846.png]]
 - **Interfaces de habilidades personalizadas**
 	- ![[Pasted image 20241022160020.png]]
+	- 
