@@ -11,3 +11,5 @@
 		- **Serviços de IA do Azure** para enriquecimento de índice
 		- **Conta de armazenamento** para persistência de repositório conhecimento
 	- ![[Pasted image 20241022145523.png]]
+- **Componentes principais de uma solução de pesquisa de IA**
+	- **Fonte de dados**
