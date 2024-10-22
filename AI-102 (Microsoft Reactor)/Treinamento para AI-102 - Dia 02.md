@@ -247,7 +247,8 @@
 - **Como o OpenAI do Azure pode usar seus dados**
 	- Configurar as fontes de dados
 		- Usar uma fonte de dados existente, como um recurso de pesquisa do Azure
-		- Use o estúdio do O
+		- Use o estúdio do OpenAI do Azure para criar essa fonte de dados, se voce ainda não tiver una
+		- Ao criar uma fonte de dados, é possível
 	- Configurar o estúdio ou seu aplicativo para se conectar a essa fonte de dados
 	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para fundamentação 
 
