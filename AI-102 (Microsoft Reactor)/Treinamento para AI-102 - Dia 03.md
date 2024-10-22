@@ -69,4 +69,5 @@
 		- ![[Pasted image 20241022165104.png]]
 - **Implementar um repositório de conhecimento**
 	- ![[Pasted image 20241022165216.png]]
-	- 
+----------
+# Desenvolver soluções com a IA do Azure para informação de Documentos
