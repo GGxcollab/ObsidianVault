@@ -60,4 +60,4 @@
 		- **Arquivos**: imagens extraídas salvas no formato JPG
 	- Usado para análise ou integração em fluxos de trabalho de processamento de dados
 	- ![[Pasted image 20241022162951.png]]
-- 
+- **Uso da habilidade do Shaper para projeções**
