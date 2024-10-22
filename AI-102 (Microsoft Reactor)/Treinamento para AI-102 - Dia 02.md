@@ -250,6 +250,8 @@
 		- Use o estúdio do OpenAI do Azure para criar essa fonte de dados, se voce ainda não tiver uma
 		- Ao criar uma fonte de dados, é possível usar dados que já estão em sua conta, como armazenamento de blobs
 	- Configurar o estúdio ou seu aplicativo para se conectar a essa fonte de dados
-		- No estí
+		- No estúdio, configure a conexão apontando-a para a fonte de dados
+		- eM seu aplicativo, especifique a fonte de dados nos parâmetros de
+		  
 	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para fundamentação 
 
