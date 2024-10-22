@@ -29,4 +29,4 @@
 		- Coleção pesquisável de documentos JSON contendo campos extraídos e enriquecidos
 - **Como funciona um pipeline de enriquecimento**
 	- ![[Pasted image 20241022154841.png]]
-	- 
+### Criar uma habilidade personalizada para a Pesquisa de I
