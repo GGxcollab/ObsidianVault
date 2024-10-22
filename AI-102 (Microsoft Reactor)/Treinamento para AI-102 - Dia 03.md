@@ -1,6 +1,7 @@
 # Criar uma solução de mineração de conhecimento
 ### Implementar uma solução de pesquisa inteligente
 - **IA do Azure Search**
+	- É o motor principal que tem apara armazenamento e indexação do que for, seja documento, texto e etc
 	- Mineração de conhecimento alimentada por IA
 		- Indexe documentos e dados de uma variedade de fontes
 		- Usar habilidades para enriquecer dados de índice
