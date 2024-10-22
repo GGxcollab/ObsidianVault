@@ -65,4 +65,6 @@
 		- Criar um objeto JSON com os campos que você deseja persistir
 		- Usar sourceContext e entradas para mapear primitivos para objetos JSON bem formados
 		- ![[Pasted image 20241022165104.png]]
-- **i**
+- **Implementar um repositório de conhecimento**
+	- ![[Pasted image 20241022165216.png]]
+	- 
