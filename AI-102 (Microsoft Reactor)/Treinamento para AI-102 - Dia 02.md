@@ -258,5 +258,7 @@
 		- Se a fonte de dados tiver informações relevantes sobre o prompt, ela usará esses dados
 		- Você pode especificar se o modelo de IA está limitado apenas à sua fonte de dados
 - **Conecte-se a sua fonte de dados**
-	- 
+	- Adicione sua fonte de dados ao playground de chat, em Configuração de assistente
+	- Use uma fonte de dados existente ou use esse assistente para criar uma nova
+	- Uma vez conectado, uma nova sessão  de chat
 
