@@ -264,6 +264,7 @@
 	- ![[Pasted image 20241022142153.png]]
 - **Uso da API REST do OpenAI do Azure**
 	- ![[Pasted image 20241022142357.png]]
-- **Como usar os SDKs do OpenAI do Azure*
-	- *
+- **Como usar os SDKs do OpenAI do Azure**
+	- SDKs específicos de linguagem estão disponíveis para uso em seus aplicativos, tanto em C# quanto em Python.
+	- A estrutura do código segue um padr
 
