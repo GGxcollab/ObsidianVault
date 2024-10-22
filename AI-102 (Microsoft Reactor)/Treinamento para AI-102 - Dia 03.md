@@ -17,4 +17,6 @@
 			- Contêiner do armazenamento de Blobs
 			- Banco de Dados SQL
 			- Cosmo DB
-		- Voce tambem
+		- Você também pode enviar documentos JSON diretamente para um índice
+	- **Skillset**
+		- Define um pipeline de enriquecimento
