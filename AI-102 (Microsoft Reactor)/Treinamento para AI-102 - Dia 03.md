@@ -56,4 +56,6 @@
 	- Insights persistentes extraídos pelo processo de indexação
 	- Armazenado como projeções no Armazenamento do Azure
 		- **Tabela**: Tabelas relacionais com chaves para ingresso
-		- **Objeto**: estruturas JSON 
+		- **Objeto**: estruturas JSON de campos de documentos
+		- **Arquivos**: imagens extraídas salvas no formato JPG
+	- Usado para análise ou integração em fluxos de trabalho de processamento de dados
