@@ -37,4 +37,6 @@
 		- Consumir um modelo do Azure Machine Learning
 		- Qualquer outra lógica personalizada
 	- As habilidades personalizadas são implementadas como APIs da Web
-		- Normalmente 
+		- Normalmente Azure Functions
+	- ![[Pasted image 20241022155557.png]]
+	- 
