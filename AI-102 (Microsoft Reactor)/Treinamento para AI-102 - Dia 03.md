@@ -54,4 +54,6 @@
 ### Criar um repositório de conhecimento
 - **O que é um repositório de conhecimento?**
 	- Insights persistentes extraídos pelo processo de indexação
-	- Armazenado como projeções no A
+	- Armazenado como projeções no Armazenamento do Azure
+		- **Tabela**: Tabelas relacionais com chaves para ingresso
+		- **Objeto**: estruturas JSON 
