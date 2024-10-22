@@ -254,5 +254,7 @@
 		- Em seu aplicativo, especifique a fonte de dados nos parâmetros de prompt
 		- Ambas as configurações permitem que o recurso de pesquisa melhora o prompt
 	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para fundamentação 
-		- 
+		- Converse com os modelos de IA como normal
+		- Se a fonte de dados tiver informações relevantes sobre o prompt, ela usará esses dados
+		- Você pode especificar s
 
