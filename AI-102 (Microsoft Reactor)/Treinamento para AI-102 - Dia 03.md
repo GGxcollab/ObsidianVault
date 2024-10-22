@@ -8,4 +8,5 @@
 	- Recurso do Azure:
 		- **Pesquisa de IA do Azure** para indexação e consulta principais
 		- **Serviços de IA do Azure** para enriquecimento de índice
-		- **Conte**
+		- **Conta de armazenamento** para persistência de repositório conhecimento
+	- ![[Pasted image 20241022145523.png]]
