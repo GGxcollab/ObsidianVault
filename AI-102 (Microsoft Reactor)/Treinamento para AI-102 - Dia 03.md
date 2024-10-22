@@ -44,4 +44,8 @@
 - **Adicionar uma habilidade personalizada a um conjunto de habilidades**
 	- Adicionar "Custom.WebApiSkill" a um conjunto de habilidades
 	- Especificar o URI para o ponto de extremidade da API Web
-		- Opcionalmente, adicione parÂmetros e cabeçal
+		- Opcionalmente, adicione parâmetros e cabeçalho
+	- Definir o contexto para especificar em qual ponto da hierarquia de documentos a habilidade deve ser chamada
+	- Atribuir valores de entrada
+		- Geralmente de campos de documentos existentes
+	- 
