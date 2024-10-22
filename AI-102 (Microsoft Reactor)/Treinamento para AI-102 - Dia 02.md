@@ -239,6 +239,9 @@
 	- ![[Pasted image 20241021171108.png]]
 ### Aplicar engenharia de prompts com o Serviço de OpenAI do Azure
 - **Construção de prompts para:**
+	- Maximizara relevÂncia e a precisão dos preenchimentos
+	- Especificar a formatação e o estilo dos preenchimentos
+	- Fornecer contexto de conversa
 	- 
 ### Implementar RAG (Geração Aumentada de Recuperação) com o Serviço OpenAI do Azure
 - **Como o OpenAI do Azure pode usar seus dados**
