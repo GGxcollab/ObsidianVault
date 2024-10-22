@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "565dcf6a0c457b3c",
+        "id": "a83e6b80beea04c6",
         "type": "tabs",
         "children": [
           {
-            "id": "937220a8936a2100",
+            "id": "4244f2368ac49c09",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241021120528.png"
+                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241021120528"
+              "icon": "lucide-file",
+              "title": "Treinamento para AI-102 - Dia 03"
             }
           }
         ]
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20241021120528.png",
+                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Pasted image 20241021120528"
+              "title": "Links inversos para Treinamento para AI-102 - Dia 03"
             }
           },
           {
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20241021120528.png",
+                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Pasted image 20241021120528"
+              "title": "Links de saída para Treinamento para AI-102 - Dia 03"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20241021120528.png"
+                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Pasted image 20241021120528"
+              "title": "Sumário de Treinamento para AI-102 - Dia 03"
             }
           }
         ],
@@ -162,21 +164,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "937220a8936a2100",
+  "active": "4244f2368ac49c09",
   "lastOpenFiles": [
-    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
+    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021120528.png",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
-    "Pasted image 20241022142740.png",
-    "Pasted image 20241022142357.png",
-    "Pasted image 20241022142153.png",
-    "Pasted image 20241021171108.png",
-    "Pasted image 20241021170913.png",
-    "Pasted image 20241021170551.png",
-    "Pasted image 20241021170448.png",
-    "Pasted image 20241021163832.png",
-    "Pasted image 20241021150336.png",
-    "Pasted image 20241021150325.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022142740.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022142357.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022142153.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021171108.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021170913.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021170551.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021170448.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021163832.png",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241021150336.png",
     "Sem título.md",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "AI-102 (Microsoft Reactor)/Imagens",
