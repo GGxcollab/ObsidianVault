@@ -59,8 +59,10 @@
 		- **Objeto**: estruturas JSON de campos de documentos
 		- **Arquivos**: imagens extraídas salvas no formato JPG
 	- Usado para análise ou integração em fluxos de trabalho de processamento de dados
-	- ![[Pasted image 20241022162951.png]]
+		- ![[Pasted image 20241022162951.png]]
 - **Uso da habilidade do Shaper para projeções**
 	- Reestruturar campos para simplificar projeções
 		- Criar um objeto JSON com os campos que você deseja persistir
-		- Usar sourceContext e entradas para mapear primitivos
+		- Usar sourceContext e entradas para mapear primitivos para objetos JSON bem formados
+		- ![[Pasted image 20241022165104.png]]
+- **i**
