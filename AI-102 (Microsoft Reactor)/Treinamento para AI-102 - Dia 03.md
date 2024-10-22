@@ -52,4 +52,6 @@
 		- Opcionalmente, especificar um nome do cmapo de destino (caso contrário, o nome de saída será usado)
 	- ![[Pasted image 20241022160519.png]]
 ### Criar um repositório de conhecimento
-- 
+- **O que é um repositório de conhecimento?**
+	- Insights persistentes extraídos pelo processo de indexação
+	- Armazenado como projeções no A
