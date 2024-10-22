@@ -39,4 +39,5 @@
 	- As habilidades personalizadas são implementadas como APIs da Web
 		- Normalmente Azure Functions
 	- ![[Pasted image 20241022155846.png]]
-- **Interfaces de habilidades**
+- **Interfaces de habilidades personalizadas**
+	- ![[Pasted image 20241022160020.png]]
