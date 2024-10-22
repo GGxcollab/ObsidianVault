@@ -19,4 +19,8 @@
 			- Cosmo DB
 		- Você também pode enviar documentos JSON diretamente para um índice
 	- **Skillset**
-		- Define um pipeline de enriquecimento de habilidades de IA para aprimorar os dados 
+		- Define um pipeline de enriquecimento de habilidades de IA para aprimorar os dados durante a indexação:
+			- Habilidades internas de IA
+			- Habilidades personalizadas
+	- **Indexador**
+		- Mapeia campos de fonte de da
