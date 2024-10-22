@@ -19,4 +19,4 @@
 			- Cosmo DB
 		- Você também pode enviar documentos JSON diretamente para um índice
 	- **Skillset**
-		- Define um pipeline de enriquecimento
+		- Define um pipeline de enriquecimento de habilidades de IA para aprimorar os dados 
