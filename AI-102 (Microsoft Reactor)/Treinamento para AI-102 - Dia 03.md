@@ -27,3 +27,4 @@
 			- A execução do indexador cria o índice
 	- **índice**
 		- Coleção pesquisável de documentos JSON contendo campos extraídos e enriquecidos
+- **Como funciona um pipe lin**
