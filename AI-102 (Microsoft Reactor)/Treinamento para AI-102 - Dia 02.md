@@ -263,5 +263,7 @@
 	- Uma vez conectado, uma nova sessão  de chat será iniciada. Converse normalmente e veja como o modelo de IA faz referência a esses dados
 	- ![[Pasted image 20241022142153.png]]
 - **Uso da API REST do OpenAI do Azure**
-	- 
+	- ![[Pasted image 20241022142357.png]]
+- **Como usar os SDKs do OpenAI do Azure*
+	- *
 
