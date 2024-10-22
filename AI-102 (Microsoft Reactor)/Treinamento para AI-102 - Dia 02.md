@@ -252,5 +252,7 @@
 	- Configurar o estúdio ou seu aplicativo para se conectar a essa fonte de dados
 		- No estúdio, configure a conexão apontando-a para a fonte de dados
 		- Em seu aplicativo, especifique a fonte de dados nos parâmetros de prompt
+		- Ambas as configurações permitem que o recurso de pesquisa melhora o prompt
 	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para fundamentação 
+		- 
 
