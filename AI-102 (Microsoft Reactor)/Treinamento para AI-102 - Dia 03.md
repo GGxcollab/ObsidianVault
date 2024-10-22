@@ -42,4 +42,6 @@
 - **Interfaces de habilidades personalizadas**
 	- ![[Pasted image 20241022160020.png]]
 - **Adicionar uma habilidade personalizada a um conjunto de habilidades**
-	- Adicionar "cu"
+	- Adicionar "Custom.WebApiSkill" a um conjunto de habilidades
+	- Especificar o URI para o ponto de extremidade da API Web
+		- Opcionalmente, adicione parÂmetros e cabeçal
