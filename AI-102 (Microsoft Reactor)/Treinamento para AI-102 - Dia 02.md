@@ -267,7 +267,7 @@
 - **Como usar os SDKs do OpenAI do Azure**
 	- SDKs específicos de linguagem estão disponíveis para uso em seus aplicativos, tanto em C# quanto em Python.
 	- A estrutura do código segue um padrão semelhante para ambas as linguagens.
-	- Banco de dados para reservar isso 
+	- Banco de dados para reservar isso ⬇️
 	- As fontes de dados atualmente compatíveis são:
 		- Azure AI Search
 		- Azure Cosmos DB para o Mongo DB vCore
