@@ -4,4 +4,5 @@
 	- Mineração de conhecimento alimentada por IA
 		- Indexe documentos e dados de uma variedade de fontes
 		- Usar habilidades para enriquecer dados de índice
-		- Armazenar
+		- Armazenar insights extraídos em um repositório de conhecimento para análise e integração
+	- Recurso
