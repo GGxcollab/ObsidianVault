@@ -19,13 +19,14 @@
 			- Cosmo DB
 		- Você também pode enviar documentos JSON diretamente para um índice
 	- **Skillset**
+		- Storage account seria um grande deposito, o conteiner seria uma caixa dentro do deposi
 		- Define um pipeline de enriquecimento de habilidades de IA para aprimorar os dados durante a indexação:
 			- Habilidades internas de IA
 			- Habilidades personalizadas
 	- **Indexador**
 		- Mapeia campos de fonte de dados e saídas de conjunto de habilidades para campos de índice
 			- A execução do indexador cria o índice
-		- Pode ser um API, LLM 
+		- Pode ser um API, LLM que se conectam e indexão
 	- **índice**
 		- Coleção pesquisável de documentos JSON contendo campos extraídos e enriquecidos
 - **Como funciona um pipeline de enriquecimento**
