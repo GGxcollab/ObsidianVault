@@ -256,5 +256,7 @@
 	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para fundamentação 
 		- Converse com os modelos de IA como normal
 		- Se a fonte de dados tiver informações relevantes sobre o prompt, ela usará esses dados
-		- Você pode especificar s
+		- Você pode especificar se o modelo de IA está limitado apenas à sua fonte de dados
+- **Conecte-se a sua fonte de dados**
+	- 
 
