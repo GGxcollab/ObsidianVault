@@ -19,7 +19,7 @@
 			- Cosmo DB
 		- Você também pode enviar documentos JSON diretamente para um índice
 	- **Skillset**
-		- Storage account seria um grande deposito, o conteiner seria uma caixa dentro do deposi
+		- Pense que Storage account seria um grande deposito, o conteiner seria uma caixa dentro do deposito e o blobs seria os itens que tem dentro da caixa
 		- Define um pipeline de enriquecimento de habilidades de IA para aprimorar os dados durante a indexação:
 			- Habilidades internas de IA
 			- Habilidades personalizadas
