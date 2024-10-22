@@ -27,4 +27,6 @@
 			- A execução do indexador cria o índice
 	- **índice**
 		- Coleção pesquisável de documentos JSON contendo campos extraídos e enriquecidos
-- **Como funciona um pipe lin**
+- **Como funciona um pipeline de enriquecimento**
+	- ![[Pasted image 20241022154841.png]]
+	- 
