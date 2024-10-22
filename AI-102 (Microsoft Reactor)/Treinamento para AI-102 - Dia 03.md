@@ -31,4 +31,7 @@
 	- ![[Pasted image 20241022154841.png]]
 ### Criar uma habilidade personalizada para a Pesquisa de IA no Azure
 - **Introdução às habilidades personalizadas**
-	- Quando as habilidades
+	- Quando as habilidades incorporadas não fornecem o que você precisa...
+	- Crie uma habilidade personalizada:
+		- Integrar a inteligÊncia de documentos
+		- Consumir um modelo do Azure Machine
