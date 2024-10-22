@@ -61,3 +61,6 @@
 	- Usado para análise ou integração em fluxos de trabalho de processamento de dados
 	- ![[Pasted image 20241022162951.png]]
 - **Uso da habilidade do Shaper para projeções**
+	- Reestruturar campos para simplificar projeções
+		- Criar um objeto JSON com os campos que você deseja persistir
+		- Usar sourceContext e entradas para mapear primitivos
