@@ -23,4 +23,6 @@
 			- Habilidades internas de IA
 			- Habilidades personalizadas
 	- **Indexador**
-		- Mapeia campos de fonte de da
+		- Mapeia campos de fonte de dados e saídas de conjunto de habilidades para campos de índice
+			- A execução do indexador cria o índice
+	- **índice**
