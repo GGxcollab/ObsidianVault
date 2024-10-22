@@ -48,4 +48,7 @@
 	- Definir o contexto para especificar em qual ponto da hierarquia de documentos a habilidade deve ser chamada
 	- Atribuir valores de entrada
 		- Geralmente de campos de documentos existentes
-	- 
+	- Armazenar saída em um novo cargo
+		- Opcionalmente, especificar um nome do cmapo de destino (caso contrário, o nome de saída será usado)
+	- ![[Pasted image 20241022160519.png]]
+- 
