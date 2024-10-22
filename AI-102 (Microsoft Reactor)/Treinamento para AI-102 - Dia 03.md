@@ -41,4 +41,5 @@
 	- ![[Pasted image 20241022155846.png]]
 - **Interfaces de habilidades personalizadas**
 	- ![[Pasted image 20241022160020.png]]
-	- 
+- **Adicionar uma habilidade personalizada a um conjunto de habilidades**
+	- Adicionar "cu"
