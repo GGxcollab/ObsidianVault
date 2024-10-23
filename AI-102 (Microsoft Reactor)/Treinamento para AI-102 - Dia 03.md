@@ -93,3 +93,5 @@
 		- REST o retorna no cabeçalho Operation-Location
 		- SDKS retornam um objeto da solicitação
 	- Consultar o instrumento de sondagem recebido para os dados extraídos
+		- ![[Pasted image 20241023120912.png]]
+	- 
