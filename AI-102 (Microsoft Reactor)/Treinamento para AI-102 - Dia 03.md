@@ -80,4 +80,6 @@
 			- Documento geral: extrair texto, estrutura e pares chave-valor
 		- Modelos pré-criados para tiposde formulário comuns
 		- Treinar modelos personalizados para sesu próprios formulários
-			- Mo
+			- Modelo personalizado: extrair dados de layouts estáticos
+			- Neural personalizado: extrair dados de documentos de tipo mistos
+			- Composição personalizada: coleção de váriols modelos at
