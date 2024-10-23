@@ -89,4 +89,6 @@
 	- ![[Pasted image 20241023115454.png]]
 - **Chamando API**
 	- Cada solicitação é configurada com seu ponto de extremidade de recurso e precisa de sua chave de recurso
-	- Envie a solicitação,que aundo bem-sucedida retorna um 
+	- Envie a solicitação, que quando bem-sucedida retorna um instrumento de sondagem para obter os resultados
+		- REST o retorna no cabeçalho Operation-Location
+		- SDKS retornam u objeto
