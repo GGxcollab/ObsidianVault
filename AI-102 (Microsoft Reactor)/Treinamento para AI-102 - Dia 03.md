@@ -118,4 +118,5 @@
 				- Tempo de treinamento: 20-60 minutos
 				- Estrutura do documento: documentos estruturados e não estruturado
 	- **Treinamento de modelos personalizados**
-		1. Crie projetos e carregue
+		1. Crie projetos e carregue arquivos de treinamento para seu projeto ou concte-se ao armazenamento de blobs contendo arquivos
+		2. adicionar tipo de dados (como camp)
