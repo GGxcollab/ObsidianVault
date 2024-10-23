@@ -119,11 +119,11 @@
 				- Estrutura do documento: documentos estruturados e não estruturado
 	- 
 - **Treinamento de modelos personalizados**
-		1. Crie projetos e carregue arquivos de treinamento para seu projeto ou conecte-se ao armazenamento de blobs contendo arquivos
-		2. adicionar tipo de dados (como campo ou assinatura) para começar a rotular seu conjunto de dados
-		3. Selecione uma palavra no documento e atribua um dos campos para rotulá-la
-		4. Repita para todos os campos e arquivos em seu conjunto de dados
-		5. Layout e etiquetagem automática (usando um modelo predefinido) podem auxiliar nesse processo
-		6. Treine o modelo, fornecendo um ID de modelo usada em solicitações de API
+	1. Crie projetos e carregue arquivos de treinamento para seu projeto ou conecte-se ao armazenamento de blobs contendo arquivos
+	2. adicionar tipo de dados (como campo ou assinatura) para começar a rotular seu conjunto de dados
+	3. Selecione uma palavra no documento e atribua um dos campos para rotulá-la
+	4. Repita para todos os campos e arquivos em seu conjunto de dados
+	5. Layout e etiquetagem automática (usando um modelo predefinido) podem auxiliar nesse processo
+	6. Treine o modelo, fornecendo um ID de modelo usada em solicitações de API
 		![[Pasted image 20241023143414.png]]
-	- 
+- **Pontuações de precisão e con**
