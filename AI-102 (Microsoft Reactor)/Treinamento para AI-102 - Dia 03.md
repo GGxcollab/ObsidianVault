@@ -100,4 +100,6 @@
 	- Os objetos de resposta do SDK tem estrutura semelhante, divididos de forma semelhante
 	- Dados adicionais sobre marcas de seleção ou texto detectado, como caixa delimitadora e estilo manuscrito
 	- ![[Pasted image 20241023141212.png]]
-- 
+- **Tipos de modelos personalizados**
+	- **Classificação personalizada**
+		- 
