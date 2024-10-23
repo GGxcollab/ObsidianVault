@@ -72,4 +72,4 @@
 ----------
 # Desenvolver soluções com a IA do Azure para informação de Documentos
 ### Desenvolver uma solução de Informação de Documentos
-- 
+- O Serviço para In
