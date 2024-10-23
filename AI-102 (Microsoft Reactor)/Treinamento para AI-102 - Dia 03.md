@@ -102,4 +102,7 @@
 	- ![[Pasted image 20241023141212.png]]
 - **Tipos de modelos personalizados**
 	- **Classificação personalizada**
-		- 
+		- Aplicar um rótulo a todo documento
+		- Ideal para classificar um grande número de documentos recebidos em tipos
+		- Requer duas classes diferentes e um mínimo de cinco documentos rotulados por classe
+		- Um tipo
