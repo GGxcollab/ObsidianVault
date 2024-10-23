@@ -71,3 +71,5 @@
 	- ![[Pasted image 20241022165216.png]]
 ----------
 # Desenvolver soluções com a IA do Azure para informação de Documentos
+### Desenvolver uma solução de Informação de Documentos
+- 
