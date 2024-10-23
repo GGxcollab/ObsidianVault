@@ -126,4 +126,6 @@
 	5. Layout e etiquetagem automática (usando um modelo predefinido) podem auxiliar nesse processo
 	6. Treine o modelo, fornecendo um ID de modelo usada em solicitações de API
 		![[Pasted image 20241023143414.png]]
-- **Pontuações de precisão e con**
+- **Pontuações de precisão e confiança**
+	- Após o treinamento,um modelo personalizado tem uma pontuação de precisão estimada
+	- A pontuação é calculada executando combinações de previsões de dados de tre
