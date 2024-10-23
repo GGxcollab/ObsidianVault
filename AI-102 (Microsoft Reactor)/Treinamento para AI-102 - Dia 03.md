@@ -72,7 +72,7 @@
 ----------
 # Desenvolver soluções com a IA do Azure para informação de Documentos
 ### Desenvolver uma solução de Informação de Documentos (Document Intelligence Studio)
-- O Serviço para Informação de Documentos
+- **O Serviço para Informação de Documentos**
 	- Extração de dados de formulários e documentos:
 		- Análise de documentos a partir de documentos gerais
 			- Leia: OCR para texto impresso e escrito
@@ -85,4 +85,6 @@
 			- Composição personalizada: coleção de vários modelos atribuídos a um único modelo
 	- Provisão como serviço único recurso de **Informação de Documentos** ou **Serviços de IA do Azure** multisserviços
 		- ![[Pasted image 20241023114826.png]]
-- Modelos predefinidos
+- **Modelos predefinidos**
+	- ![[Pasted image 20241023115454.png]]
+	- 
