@@ -72,4 +72,6 @@
 ----------
 # Desenvolver soluções com a IA do Azure para informação de Documentos
 ### Desenvolver uma solução de Informação de Documentos
-- O Serviço para In
+- O Serviço para Informação de Documentos
+	- Extração de dados de formulários e documentos:
+		- Análise de documentos a partir de documentos gerais
