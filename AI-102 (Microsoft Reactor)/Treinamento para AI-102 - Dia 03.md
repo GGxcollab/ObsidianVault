@@ -113,4 +113,6 @@
 		- Dois métodos de treinamento:
 			- **Modelo personalizado (formulário personalizado)**
 				- Tempo de treinamento: 1-5 minutos
-				- Estrutura do documento: formulários
+				- Estrutura do documento: formulários, modelos, outros documentos estruturados
+			- **Neural personalizado (documento personalizado)**
+				- Tempo de treinamento: 20-60 manutos
