@@ -118,4 +118,4 @@
 				- Tempo de treinamento: 20-60 minutos
 				- Estrutura do documento: documentos estruturados e não estruturado
 	- **Treinamento de modelos personalizados**
-		- 
+		1. 
