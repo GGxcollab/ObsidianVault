@@ -91,4 +91,5 @@
 	- Cada solicitação é configurada com seu ponto de extremidade de recurso e precisa de sua chave de recurso
 	- Envie a solicitação, que quando bem-sucedida retorna um instrumento de sondagem para obter os resultados
 		- REST o retorna no cabeçalho Operation-Location
-		- SDKS retornam u objeto
+		- SDKS retornam um objeto da solicitação
+	- Consultar o instrumento de sondagem recebido para os dados extraídos
