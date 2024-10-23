@@ -94,4 +94,5 @@
 		- SDKS retornam um objeto da solicitação
 	- Consultar o instrumento de sondagem recebido para os dados extraídos
 		- ![[Pasted image 20241023120912.png]]
-	- 
+- **Resposta da API**
+	- A resposta foi dividida em 
