@@ -117,7 +117,8 @@
 			- **Neural personalizado (documento personalizado)**
 				- Tempo de treinamento: 20-60 minutos
 				- Estrutura do documento: documentos estruturados e não estruturado
-	- **Treinamento de modelos personalizados**
+	- 
+- **Treinamento de modelos personalizados**
 		1. Crie projetos e carregue arquivos de treinamento para seu projeto ou conecte-se ao armazenamento de blobs contendo arquivos
 		2. adicionar tipo de dados (como campo ou assinatura) para começar a rotular seu conjunto de dados
 		3. Selecione uma palavra no documento e atribua um dos campos para rotulá-la
