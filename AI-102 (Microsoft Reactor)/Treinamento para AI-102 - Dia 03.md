@@ -133,3 +133,6 @@
 	- As pontuações de confiança são fornecidas na resposta do modelo para cada rótulo previsto
 	- ![[Pasted image 20241023152101.png]]
 - **Analisar documento usando modelo personalizado**
+	- Requer oonto de extremidade e chave do recurso implantado, semelhante aos modelos pré-criados
+	- Precisa incluir tambem a ID do seu modelo personalizado implantado
+	- Consultar o instrumento
