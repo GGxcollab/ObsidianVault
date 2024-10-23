@@ -105,4 +105,9 @@
 		- Aplicar um rótulo a todo documento
 		- Ideal para classificar um grande número de documentos recebidos em tipos
 		- Requer duas classes diferentes e um mínimo de cinco documentos rotulados por classe
-		- Um tipo
+		- Um tipo de modelo treinamento
+	- **Extração personalizada**
+		- Aplica rótulo a texto específico 
+		- Ideal para extrair etiquetas personalizadas de documentos
+		- Requer cinco exemplos do mesmo tipo de documento
+		- Dois méto
