@@ -87,4 +87,6 @@
 		- ![[Pasted image 20241023114826.png]]
 - **Modelos predefinidos**
 	- ![[Pasted image 20241023115454.png]]
-- **Chamando A**
+- **Chamando API**
+	- Cada solicitação é configurada com seu ponto de extremidade de recurso e precisa de sua chave de recurso
+	- Envie a solicitação,que aundo bem-sucedida retorna um 
