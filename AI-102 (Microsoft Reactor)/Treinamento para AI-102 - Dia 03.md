@@ -83,4 +83,6 @@
 			- Modelo personalizado: extrair dados de layouts estáticos
 			- Neural personalizado: extrair dados de documentos de tipo mistos
 			- Composição personalizada: coleção de vários modelos atribuídos a um único modelo
-	- Provisão como serviço único recurso de **Informação de Documentos** ou ** Ser**
+	- Provisão como serviço único recurso de **Informação de Documentos** ou **Serviços de IA do Azure** multisserviços
+		- ![[Pasted image 20241023114826.png]]
+	- 
