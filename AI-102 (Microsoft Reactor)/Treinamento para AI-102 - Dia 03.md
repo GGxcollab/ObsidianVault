@@ -110,4 +110,7 @@
 		- Aplica rótulo a texto específico 
 		- Ideal para extrair etiquetas personalizadas de documentos
 		- Requer cinco exemplos do mesmo tipo de documento
-		- Dois méto
+		- Dois métodos de treinamento:
+			- **Modelo personalizado (formulário personalizado)**
+				- Tempo de treinamento: 1-5 minutos
+				- Estrutura do documento: formulários
