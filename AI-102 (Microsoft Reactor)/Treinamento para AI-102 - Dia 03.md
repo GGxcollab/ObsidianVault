@@ -87,4 +87,4 @@
 		- ![[Pasted image 20241023114826.png]]
 - **Modelos predefinidos**
 	- ![[Pasted image 20241023115454.png]]
-	- 
+- **Chamando A**
