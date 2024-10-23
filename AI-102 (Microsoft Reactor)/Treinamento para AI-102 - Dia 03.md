@@ -127,6 +127,7 @@
 	6. Treine o modelo, fornecendo um ID de modelo usada em solicitações de API
 		![[Pasted image 20241023143414.png]]
 - **Pontuações de precisão e confiança**
-	- Após o treinamento,um modelo personalizado tem uma pontuação de precisão estimada
+	- Após o treinamento, um modelo personalizado tem uma pontuação de precisão estimada
 	- A pontuação é calculada executando combinações de previsões de dados de treinamento em relação aos valores aos valores rotulado
-	- A pontuação de confiança é o memso que usar modelos pré-construídos, indicando o quão preciso o modelo pensa ue a pr
+	- A pontuação de confiança é o mesmoo que usar modelos pré-construídos, indicando o quão preciso o modelo pensa que a previsão específica é
+	- As pontuações de confiança são fornecidas na resposta do modelo para cada rótulo previsto
