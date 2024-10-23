@@ -78,4 +78,6 @@
 			- Leia: OCR para texto impresso e escrito
 			- Layout: extrair texto e estrutura
 			- Documento geral: extrair texto, estrutura e pares chave-valor
-		- Modelos pré-criados para 
+		- Modelos pré-criados para tiposde formulário comuns
+		- Treinar modelos personalizados para sesu próprios formulários
+			- Mo
