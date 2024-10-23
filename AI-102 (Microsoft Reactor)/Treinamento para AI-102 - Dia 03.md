@@ -82,4 +82,5 @@
 		- Treinar modelos personalizados para sesu próprios formulários
 			- Modelo personalizado: extrair dados de layouts estáticos
 			- Neural personalizado: extrair dados de documentos de tipo mistos
-			- Composição personalizada: coleção de váriols modelos at
+			- Composição personalizada: coleção de vários modelos atribuídos a um único modelo
+	- Provisão como serviço único recurso de **Informação de Documentos** ou ** Ser**
