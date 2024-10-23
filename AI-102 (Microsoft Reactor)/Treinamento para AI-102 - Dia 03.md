@@ -115,4 +115,5 @@
 				- Tempo de treinamento: 1-5 minutos
 				- Estrutura do documento: formulários, modelos, outros documentos estruturados
 			- **Neural personalizado (documento personalizado)**
-				- Tempo de treinamento: 20-60 manutos
+				- Tempo de treinamento: 20-60 minutos
+				- Estrutura do documento: documentos estruturados e não estruturado
