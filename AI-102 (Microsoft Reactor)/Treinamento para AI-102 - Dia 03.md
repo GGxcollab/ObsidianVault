@@ -129,5 +129,7 @@
 - **Pontuações de precisão e confiança**
 	- Após o treinamento, um modelo personalizado tem uma pontuação de precisão estimada
 	- A pontuação é calculada executando combinações de previsões de dados de treinamento em relação aos valores aos valores rotulado
-	- A pontuação de confiança é o mesmoo que usar modelos pré-construídos, indicando o quão preciso o modelo pensa que a previsão específica é
+	- A pontuação de confiança é o mesmo que usar modelos pré-construídos, indicando o quão preciso o modelo pensa que a previsão específica é
 	- As pontuações de confiança são fornecidas na resposta do modelo para cada rótulo previsto
+	- ![[Pasted image 20241023152101.png]]
+- **Analisar documento usando modelo personalizado**
