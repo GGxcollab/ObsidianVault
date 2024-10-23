@@ -75,3 +75,7 @@
 - O Serviço para Informação de Documentos
 	- Extração de dados de formulários e documentos:
 		- Análise de documentos a partir de documentos gerais
+			- Leia: OCR para texto impresso e escrito
+			- Layout: extrair texto e estrutura
+			- Documento geral: extrair texto, estrutura e pares chave-valor
+		- Modelos pré-criados para 
