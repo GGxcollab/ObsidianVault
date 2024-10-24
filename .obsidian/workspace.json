@@ -11,12 +11,14 @@
             "id": "4244f2368ac49c09",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022145523.png"
+                "file": "AI-102 (Certi Microsoft)/ssSSs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241022145523"
+              "icon": "lucide-file",
+              "title": "ssSSs"
             }
           }
         ]
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022145523.png",
+                "file": "AI-102 (Certi Microsoft)/ssSSs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Pasted image 20241022145523"
+              "title": "Links inversos para ssSSs"
             }
           },
           {
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022145523.png",
+                "file": "AI-102 (Certi Microsoft)/ssSSs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Pasted image 20241022145523"
+              "title": "Links de saída para ssSSs"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022145523.png"
+                "file": "AI-102 (Certi Microsoft)/ssSSs.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Pasted image 20241022145523"
+              "title": "Sumário de ssSSs"
             }
           }
         ],
@@ -162,9 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "4244f2368ac49c09",
   "lastOpenFiles": [
-    "Sem título",
+    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241022145523.png",
+    "AI-102 (Certi Microsoft)/ssSSs.md",
+    "AI-102 (Certi Microsoft)",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
     "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241023152326.png",
     "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241023152101.png",
