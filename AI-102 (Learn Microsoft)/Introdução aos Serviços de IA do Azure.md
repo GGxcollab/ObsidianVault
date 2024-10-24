@@ -5,3 +5,5 @@
 # Entender os termos relacionados á IA
 ### Ciência de dados
 - A ciência de dados é um campo interdisciplinar que se concentra no processamento e análise de dados; aplicando técnicas estatísticas para descobrir e visualizar relações e padrões nos dados e definindo _modelos_ experimentais de que ajudam a explorar esses padrões.
+### Aprendizado de máquina
+- 
