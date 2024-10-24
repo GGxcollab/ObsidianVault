@@ -11,4 +11,4 @@
 - Exemplos: um cientista de dados pode usar os dados coletados para treinar um modelo que prevê o crescimento anual ou o declínio da população de uma espécie com base em fatores como o número de locais de aninhamento observados, a área de terra designada como protegida, a população humana na área local, o volume diário de tráfego em estradas locais e assim por diante.
 ### Inteligência artificial
 -  A IA (inteligência artificial) descreve o software que emula uma ou mais características da inteligência humana. O aprendizado de máquina é uma abordagem proeminente usada para criar software de IA. O conhecimento da ciência de dados pode dar suporte a uma compreensão da inteligência artificial.
-- 
+- Exemplo: 
