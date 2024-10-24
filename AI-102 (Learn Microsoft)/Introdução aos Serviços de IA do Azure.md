@@ -10,3 +10,4 @@
 - Os cientistas de dados geralmente trabalham com modelos de machine learning. O aprendizado de máquina lida com o treinamento e a validação de modelos _preditivos_. Normalmente, um cientista de dados prepara os dados e, em seguida, usa-os para treinar um modelo com base em um algoritmo que explora as relações entre os _recursos_ nos dados para prever valores para _rótulos_ desconhecidos.
 - Exemplos: um cientista de dados pode usar os dados coletados para treinar um modelo que prevê o crescimento anual ou o declínio da população de uma espécie com base em fatores como o número de locais de aninhamento observados, a área de terra designada como protegida, a população humana na área local, o volume diário de tráfego em estradas locais e assim por diante.
 ### Inteligência artificial
+-  A IA (in)
