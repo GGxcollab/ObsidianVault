@@ -37,4 +37,5 @@
 	- Os sistemas de IA devem ser seguros e respeitar a privacidade
 	- Os modelos de machine learning nos quais os sistemas de IA se baseiam dependem de grandes volumes de dados, que podem conter detalhes pessoais que precisam ser mantidos particulares. Mesmo depois que os modelos são treinados e o sistema está em produção, eles usam novos dados para fazer previsões ou tomar medidas que possam estar sujeitas a questões de privacidade ou segurança. Portanto, devem ser implementadas proteções adequadas para os dados e o conteúdo do cliente.
 - **Inclusão**
-	- 
+	- Os sistemas de IA devem capacitar todos e envolver as pessoas. O IA deve levar benefícios a todas as camadas da sociedade, independentemente da capacidade física, do sexo, da orientação sexual, da etnia ou de outros fatores.
+	- Uma maneira de otimizar a inclusividade é garantir que o design, o desenvolvimento e o teste do seu aplicativo incluam a entrada de um grupo de pessoas o mais diversificado possível.
