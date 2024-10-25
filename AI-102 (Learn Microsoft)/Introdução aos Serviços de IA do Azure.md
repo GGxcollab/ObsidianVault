@@ -40,4 +40,7 @@
 	- Os sistemas de IA devem capacitar todos e envolver as pessoas. O IA deve levar benefícios a todas as camadas da sociedade, independentemente da capacidade física, do sexo, da orientação sexual, da etnia ou de outros fatores.
 	- Uma maneira de otimizar a inclusividade é garantir que o design, o desenvolvimento e o teste do seu aplicativo incluam a entrada de um grupo de pessoas o mais diversificado possível.
 - **Transparência**
+	- Os sistemas de IA devem ser compreensíveis. Os usuários devem ficar totalmente cientes da finalidade do sistema, de como ele funciona e de quais limitações podem ser esperadas.
+	- Por exemplo, quando um sistema de IA é baseado em um modelo de aprendizado de máquina, você geralmente deve fazer com que os usuários saibam de fatores que possam afetar a precisão de suas previsões, como o número de casos usados para treinar o modelo ou os recursos específicos que têm maior influência sobre suas previsões. Você também deve compartilhar informações sobre a pontuação de confiança para previsões.
+- **Responsabilidade**
 	- 
