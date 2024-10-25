@@ -39,3 +39,5 @@
 - **Inclusão**
 	- Os sistemas de IA devem capacitar todos e envolver as pessoas. O IA deve levar benefícios a todas as camadas da sociedade, independentemente da capacidade física, do sexo, da orientação sexual, da etnia ou de outros fatores.
 	- Uma maneira de otimizar a inclusividade é garantir que o design, o desenvolvimento e o teste do seu aplicativo incluam a entrada de um grupo de pessoas o mais diversificado possível.
+- **Transparência**
+	- 
