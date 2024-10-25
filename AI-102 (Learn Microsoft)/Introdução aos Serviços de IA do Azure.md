@@ -45,4 +45,5 @@
 - **Responsabilidade**
 	- As pessoas devem ser responsáveis pelos sistemas de IA. Embora muitos sistemas de IA pareçam operar de modo autônomo, por fim, é de responsabilidade dos desenvolvedores que treinaram e validaram os modelos que eles usam, e que definiram a lógica que dão base para as decisões em previsões de modelo, de garantir que o sistema geral atenda aos requisitos de responsabilidade. Para ajudar a alcançar esse objetivo, os designers e desenvolvedores de uma solução baseada em IA devem funcionar dentro de uma estrutura de governança e de princípios organizacionais que garantem que a solução cumpra a padrões éticos e legais claramente definidos.
 # Entender as funcionalidades do Azure Machine Learning
-
+- O Microsoft Azure fornece o serviço **Azure Machine Learning** – uma plataforma baseada em nuvem para executar testes em escala para treinar modelos de previsão de dados e publicar os modelos treinados como serviços.
+![[Pasted image 20241025143352.png]]
