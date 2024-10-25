@@ -26,4 +26,4 @@
 # Entender as considerações para a IA responsável
 ### Princípios fundamentais para IA responsável
 - **Imparcialidade**
-	- 
+	- Os sistemsas de IA devem tratar todas qa
