@@ -32,5 +32,6 @@
 - **Confiabilidade e segurança**
 	- Os sistemas de IA devem sef executados de maneira confiável e segura.
 	- Exemplo, considere um sistema de software baseado em IA para um veículo autônomo ou um modelo de machine learning que diagnostica os sintomas dos pacientes e recomenda as prescrições. A não confiabilidade nesses tipos de sistema pode resultar em risco substancial à vida humana.
-
-O desenvolvimento
+	- O desenvolvimento de aplicativos de software baseados em IA deve estar sujeito a rigorosos processos de gerenciamento de implantação e de teste para verificar se eles funcionam conforme o esperado antes do lançamento. Além disso, os engenheiros de software precisam levar em conta a natureza probabilística dos modelos de aprendizado de máquina e aplicar os limites apropriados ao avaliar as pontuações de confiança para previsões.
+- **Privacidade e segurança**
+	- 
