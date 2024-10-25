@@ -49,4 +49,14 @@
 ![[Pasted image 20241025143352.png]]
 - O Azure Machine Learning fornece os seguintes recursos e funcionalidades:
 	- ![[Pasted image 20241025160925.png]]
-- 
+- Os cientistas de dados podem usar o Azure Machine Learning ao longo de todo o ciclo de vida do aprendizado de máquina para:
+
+	- Ingerir e preparar dados.
+	- Executar experimentos para explorar dados e treinar modelos de previsão.
+	- Implantar e gerenciar modelos treinados como serviços Web.
+
+Os engenheiros de software podem interagir com o Azure Machine Learning das seguintes maneiras:
+
+- Usar o machine learning automatizado ou o designer do Azure Machine Learning para treinar modelos de machine learning e implantá-los como serviços que podem ser integrados a aplicativos habilitados para IA.
+- Colaborando com cientistas de dados para implantar modelos baseados em estruturas comuns, como Scikit-Learn, PyTorch e TensorFlow como serviços Web, e consumi-los em aplicativos.
+- Usando SDKs do Azure Machine Learning ou scripts da CLI (interface de linha de comando) para orquestrar processos de DevOps que gerenciam controle de versão, implantação e teste de modelos de machine learning como parte de uma solução geral de entrega de aplicativos.
