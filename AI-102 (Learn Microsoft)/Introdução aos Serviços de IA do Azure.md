@@ -47,6 +47,6 @@
 # Entender as funcionalidades do Azure Machine Learning
 - O Microsoft Azure fornece o serviço **Azure Machine Learning** – uma plataforma baseada em nuvem para executar testes em escala para treinar modelos de previsão de dados e publicar os modelos treinados como serviços.
 ![[Pasted image 20241025143352.png]]
-- O Azure Machine Learnig fornece os seguintes recursos e funcionalidades:
+- O Azure Machine Learning fornece os seguintes recursos e funcionalidades:
 	- ![[Pasted image 20241025160925.png]]
 - 
