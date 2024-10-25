@@ -49,4 +49,4 @@
 ![[Pasted image 20241025143352.png]]
 - O Azure Machine Learnig fornece os seguintes recursos e funcionalidades:
 	- ![[Pasted image 20241025160925.png]]
-	- 
+- 
