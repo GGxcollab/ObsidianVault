@@ -44,3 +44,5 @@
 	- Por exemplo, quando um sistema de IA é baseado em um modelo de aprendizado de máquina, você geralmente deve fazer com que os usuários saibam de fatores que possam afetar a precisão de suas previsões, como o número de casos usados para treinar o modelo ou os recursos específicos que têm maior influência sobre suas previsões. Você também deve compartilhar informações sobre a pontuação de confiança para previsões.
 - **Responsabilidade**
 	- As pessoas devem ser responsáveis pelos sistemas de IA. Embora muitos sistemas de IA pareçam operar de modo autônomo, por fim, é de responsabilidade dos desenvolvedores que treinaram e validaram os modelos que eles usam, e que definiram a lógica que dão base para as decisões em previsões de modelo, de garantir que o sistema geral atenda aos requisitos de responsabilidade. Para ajudar a alcançar esse objetivo, os designers e desenvolvedores de uma solução baseada em IA devem funcionar dentro de uma estrutura de governança e de princípios organizacionais que garantem que a solução cumpra a padrões éticos e legais claramente definidos.
+# Entender as funcionalidades do Azure Machine Learning
+
