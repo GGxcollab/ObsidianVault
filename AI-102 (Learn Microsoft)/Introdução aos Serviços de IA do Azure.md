@@ -29,3 +29,5 @@
 	- Os sistemas de IA devem tratar todas as pessoas de maneira justa.
 	- A imparcialidade dos sistemas aprendidos pela máquina é uma área altamente ativa de pesquisa contínua e algumas soluções de software existem para avaliar, quantificar e mitigar a incerteza em modelos aprendidos pela máquina. No entanto, as ferramentas em si não são suficientes para garantir a imparcialidade. Considere a imparcialidade desde o início do processo de desenvolvimento de aplicativos, examine atentamente os dados de treinamento para garantir que eles sejam representativos de todos os assuntos potencialmente afetados e avalie o desempenho de previsão de subseções da população do usuário durante todo o ciclo de vida de desenvolvimento.
 	- Exemplo: suponha que você crie um modelo de machine learning para dar suporte a um aplicativo de aprovação de empréstimos para um banco. O modelo deve fazer previsões quanto a se o empréstimo deve ou não ser aprovado sem incorporar nenhum viés com base no gênero, na etnia ou em outros fatores que possam resultar em uma vantagem desvantagem injusta para grupos específicos de requerentes.
+- **Confiabilidade e segurança**
+	- 
