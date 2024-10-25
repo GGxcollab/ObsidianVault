@@ -36,3 +36,4 @@
 - **Privacidade e segurança**
 	- Os sistemas de IA devem ser seguros e respeitar a privacidade
 	- Os modelos de machine learning nos quais os sistemas de IA se baseiam dependem de grandes volumes de dados, que podem conter detalhes pessoais que precisam ser mantidos particulares. Mesmo depois que os modelos são treinados e o sistema está em produção, eles usam novos dados para fazer previsões ou tomar medidas que possam estar sujeitas a questões de privacidade ou segurança. Portanto, devem ser implementadas proteções adequadas para os dados e o conteúdo do cliente.
+- ****
