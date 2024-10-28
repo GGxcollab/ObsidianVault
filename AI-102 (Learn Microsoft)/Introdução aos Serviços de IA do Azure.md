@@ -61,4 +61,5 @@
 - **Os Azure AI Services** são serviços baseados em nuvem que encapsulam recursos de IA. Em vez de um único produto, você deve pensar nos Azure AI Services como um conjunto de serviços individuais que você pode usar como blocos de construção para compor aplicativos sofisticados e inteligentes.
 - Os serviços de IA do Azure oferecem uma ampla variedade de recursos de IA pré-criados em diversas categorias, com exemplos mostrados na tabela a seguir.
 - ![[Pasted image 20241028113731.png]]
+# Entenda os recursos do Azure OpenAI Service
 - 
