@@ -66,4 +66,6 @@
 # Entenda os recursos do **Azure AI Search**
 - Pesquisar informações é um requisito comum em muitos aplicativos, desde sites _de mecanismos de busca_ dedicados até aplicativos móveis que podem encontrar informações apropriadas ao contexto com base em onde você está e no que deseja realizar.
 - ![[Pasted image 20241028115500.png]]
-- 
+- **O Azure AI Search** é um serviço de IA aplicado que permite que você ingira e indexe dados de várias fontes e pesquise no índice para encontrar, filtrar e classificar informações extraídas dos dados de origem.
+- Além da indexação básica baseada em texto, o Azure AI Search permite que você defina um _pipeline de enriquecimento_ que usa habilidades de IA para aprimorar o índice com insights derivados dos dados de origem — por exemplo, usando recursos de visão computacional e processamento de linguagem natural para gerar descrições de imagens, extrair texto de documentos digitalizados e determinar frases-chave em documentos grandes que encapsulem seus pontos principais.
+- Esse enriquecimento de IA não apenas produz uma experiência de pesquisa mais útil, como os insights extraídos pelo seu pipeline de enriquecimento podem ser mantidos em um _repositório de conhecimento_ para análise posterior ou integração em um pipeline de dados para uma solução de inteligência empresarial.
