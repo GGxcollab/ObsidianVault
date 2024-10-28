@@ -94,3 +94,27 @@ result = client.analyze(
 ```
 
 # Gerar uma miniatura cortada de forma inteligente e remover o plano de fundo
+- As miniaturas geralmente são usadas para fornecer versões menores de imagens em aplicativos e sites. Por exemplo, um site de visitantes pode exibir uma lista de atrações de visitantes em uma cidade com uma imagem em miniatura pequena e representativa para cada apresentação, e exibem apenas a imagem completa quando o usuário seleciona a página de “detalhes” para uma atração individual.
+- O serviço de Visão de IA do Azure permite que você crie uma miniatura com dimensões diferentes (e taxa de proporção) da imagem de origem e, opcionalmente, usar a análise de imagem para determinar a _região de interesse_ na imagem (seu assunto principal) e tornar esse o foco da miniatura. Essa capacidade de determinar a região de interesse é especialmente útil ao corte da imagem para alterar sua taxa de proporção.
+
+![A large building cropped to show the region of interest.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/smart-cropping.png)
+
+- Você pode especificar a taxa de proporção da imagem cortada (largura / altura), variando de `0.75` a `1.80`.
+
+## Remover o plano de fundo da imagem
+
+- O recurso de remoção de plano de fundo pode dividir a imagem no assunto em primeiro plano e todo o resto considerado em segundo plano. A Visão de IA do Azure obtém esse recurso criando um _fosco alfa_ do assunto em primeiro plano, que é usado para retornar o primeiro ou o segundo plano.
+
+- Por exemplo, veja esta imagem original de um skatista.
+
+![A skateboarder performing a trick in front of a concrete wall.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/sample-skateboard.jpg)
+
+- Com o fundo removido, temos apenas o skatista em um fundo transparente.
+
+![A skateboarder performing a trick with a black background.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/sample-skateboard-no-background.png)
+
+Ao criar um fosco alfa de uma imagem, o resultado é o primeiro plano em branco, com um segundo plano preto.
+
+![A silhouette of a skateboarder performing a trick with a black background.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/sample-skateboard-alpha-matte.png)
+
+As imagens foscas alfa são úteis quando os aplicativos cliente pretendem fazer processamento adicional de uma imagem que requer a separação de objetos entre o primeiro e segundo plano.
