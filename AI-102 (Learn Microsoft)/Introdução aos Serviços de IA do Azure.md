@@ -64,4 +64,6 @@
 # Entenda os recursos do Azure OpenAI Service
 - A IA generativa é um campo emergente que se concentra em modelos de IA capazes de gerar conteúdo como texto, imagens e código, interagindo de maneira quase humana. Esses modelos utilizam grandes modelos de linguagem (LLMs) baseados na arquitetura do transformador. O Azure OpenAI Service permite implantar e ajustar esses modelos, incluindo os usados pelo ChatGPT. Engenheiros de IA podem desenvolver aplicativos utilizando esses modelos poderosos, com suporte para REST e SDKs específicos de linguagem.
 # Entenda os recursos do Azure AI Search
+- Pesquisar informações é um requisito comum em muitos aplicativos, desde sites _de mecanismos de busca_ dedicados até aplicativos móveis que podem encontrar informações apropriadas ao contexto com base em onde você está e no que deseja realizar.
+- ![[Pasted image 20241028115500.png]]
 - 
