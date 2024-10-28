@@ -58,3 +58,4 @@
 	- Colaborando com cientistas de dados para implantar modelos baseados em estruturas comuns, como Scikit-Learn, PyTorch e TensorFlow como serviços Web, e consumi-los em aplicativos.
 	- Usando SDKs do Azure Machine Learning ou scripts da CLI (interface de linha de comando) para orquestrar processos de DevOps que gerenciam controle de versão, implantação e teste de modelos de machine learning como parte de uma solução geral de entrega de aplicativos.
 # Entender as funcionalidades dos serviços de IA do  Azure
+- 
