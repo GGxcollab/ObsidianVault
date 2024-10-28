@@ -113,8 +113,8 @@ result = client.analyze(
 
 ![A skateboarder performing a trick with a black background.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/sample-skateboard-no-background.png)
 
-Ao criar um fosco alfa de uma imagem, o resultado é o primeiro plano em branco, com um segundo plano preto.
+- Ao criar um fosco alfa de uma imagem, o resultado é o primeiro plano em branco, com um segundo plano preto.
 
 ![A silhouette of a skateboarder performing a trick with a black background.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/sample-skateboard-alpha-matte.png)
 
-As imagens foscas alfa são úteis quando os aplicativos cliente pretendem fazer processamento adicional de uma imagem que requer a separação de objetos entre o primeiro e segundo plano.
+- As imagens foscas alfa são úteis quando os aplicativos cliente pretendem fazer processamento adicional de uma imagem que requer a separação de objetos entre o primeiro e segundo plano.
