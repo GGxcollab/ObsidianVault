@@ -16,5 +16,5 @@
 	- _Classificação de moderação_ – determine se a imagem inclui qualquer conteúdo adulto ou violento.
 	- _Reconhecimento óptico de caracteres_ – leitura de texto na imagem.
 	- _Geração de miniatura inteligente_ – identificando a região principal de interesse na imagem para criar uma versão menor de “miniatura”.
-- ![[Pasted image 20241028155921.png]]
+	- ![[Pasted image 20241028155921.png]]
 - 
