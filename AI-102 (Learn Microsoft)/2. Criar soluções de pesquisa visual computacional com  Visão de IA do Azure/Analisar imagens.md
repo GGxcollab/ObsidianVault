@@ -118,3 +118,5 @@ result = client.analyze(
 ![A silhouette of a skateboarder performing a trick with a black background.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-images/media/sample-skateboard-alpha-matte.png)
 
 - As imagens foscas alfa são úteis quando os aplicativos cliente pretendem fazer processamento adicional de uma imagem que requer a separação de objetos entre o primeiro e segundo plano.
+- ![[Pasted image 20241028170637.png]]
+#
