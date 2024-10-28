@@ -17,4 +17,4 @@
 	- _Reconhecimento óptico de caracteres_ – leitura de texto na imagem.
 	- _Geração de miniatura inteligente_ – identificando a região principal de interesse na imagem para criar uma versão menor de “miniatura”.
 	- ![[Pasted image 20241028155921.png]]
-- 
+- Você pode provisionar a **Visão de IA do Azure** como um recurso de serviço único ou usar a API de Visão de IA do Azure em um recurso dos **Serviços de IA do Azure** de vários serviços.
