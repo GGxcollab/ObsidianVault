@@ -58,4 +58,5 @@
 	- Colaborando com cientistas de dados para implantar modelos baseados em estruturas comuns, como Scikit-Learn, PyTorch e TensorFlow como serviços Web, e consumi-los em aplicativos.
 	- Usando SDKs do Azure Machine Learning ou scripts da CLI (interface de linha de comando) para orquestrar processos de DevOps que gerenciam controle de versão, implantação e teste de modelos de machine learning como parte de uma solução geral de entrega de aplicativos.
 # Entender as funcionalidades dos serviços de IA do  Azure
-- 
+- **Os Azure AI Services** são serviços baseados em nuvem que encapsulam recursos de IA. Em vez de um único produto, você deve pensar nos Azure AI Services como um conjunto de serviços individuais que você pode usar como blocos de construção para compor aplicativos sofisticados e inteligentes.
+- Os serviços de IA do Azure oferecem uma ampla variedade de recursos de IA pré-criados em diversas categorias, com exemplos mostrados na tabela a seguir.
