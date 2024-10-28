@@ -92,3 +92,5 @@ result = client.analyze(
   }
 }
 ```
+
+# Gerar uma miniatura cortada de forma inteligente e remover o plano de fundo
