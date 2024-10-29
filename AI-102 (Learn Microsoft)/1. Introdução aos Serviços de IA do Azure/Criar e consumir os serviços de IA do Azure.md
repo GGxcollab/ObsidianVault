@@ -10,7 +10,6 @@
 - Embora os detalhes de cada serviço de IA do Azure possam variar, a abordagem para provisioná-los e consumi-los costuma ser a mesma.
  - **Observação**
 	- Você pode encontrar uma lista completa dos serviços de IA do Azure na [documentação](https://learn.microsoft.com/pt-br/azure/ai-services/what-are-ai-services#available-azure-ai-services).
-
 - Neste módulo, você vai aprender a:
 	- Criar recursos dos serviços de IA do Azure em uma assinatura do Azure.
 	- Identificar pontos de extremidade, chaves e locais necessários para consumir um recurso dos Serviços de IA do Azure.
