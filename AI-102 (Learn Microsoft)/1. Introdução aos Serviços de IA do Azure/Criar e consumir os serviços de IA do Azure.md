@@ -15,3 +15,4 @@
 	- Identificar pontos de extremidade, chaves e locais necessários para consumir um recurso dos Serviços de IA do Azure.
 	- Utilizar uma API REST para consumir um serviço de IA do Azure.
 	- Utilizar um SDK para consumir um serviço de IA do Azure.
+# Provisionar um recurso de
