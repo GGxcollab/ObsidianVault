@@ -29,4 +29,8 @@
 ### Recursos de treinamento e previsão
 - Embora a maioria dos serviços de IA possam ser usados por meio de um único recurso do Azure, alguns oferecem (ou requerem) recursos separados para o _treinamento_ e a _previsão_ do modelo. Isso permite que você gerencie a cobrança do treinamento de modelos personalizados e o consumo do modelo por aplicativos separadamente e, na maioria dos casos, permite que você use um recurso dedicado específico para cada serviço para treinar um modelo, mas um recurso de **serviços de IA** genérico para disponibilizar o modelo para os aplicativos para fins de inferência
 # Identificar pontos de extremidade e chaves
-- 
+- Ao provisionar um recurso dos serviços de IA do Azure na sua assinatura do Azure, você estará definindo um ponto de extremidade por meio do qual o serviço poderá ser consumido por um aplicativo.
+- Para consumir o serviço por meio do ponto de extremidade, os aplicativos exigem as seguintes informações:
+	- **O URI do ponto de extremidade**. Esse é o endereço HTTP no qual a interface REST do serviço pode ser acessada. A maioria dos kits de desenvolvimento de software (SDKs) dos serviços de IA usam o URI do ponto de extremidade para iniciar uma conexão com o ponto de extremidade.
+	- **Uma chave de assinatura**. O acesso ao ponto de extremidade é restrito com base em uma chave de assinatura. Os aplicativos cliente devem fornecer uma chave válida para consumir o serviço. Quando você provisiona um recurso de serviços de IA, são criadas duas chaves, e os aplicativos podem utilizar qualquer uma delas. Você também pode regenerar as chaves conforme necessário para controlar o acesso ao recurso.
+	- **A localização do recurso**. Ao provisionar um recurso no Azure, você geralmente o atribui a um local, que determina o data center do Azure no qual o recurso é definido. Embora a maioria dos SDKs use o URI do ponto de extremidade para se conectar ao serviço, alguns exigem o local.
