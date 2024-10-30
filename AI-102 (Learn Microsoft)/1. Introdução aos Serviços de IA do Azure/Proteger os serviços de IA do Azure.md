@@ -3,4 +3,4 @@
 - Ao concluir esse módulo, você saberá como:
 	- Considerar a autenticação para os serviços de IA do Azure.
 	- Gerenciar a segurança de rede para os serviços de IA do Azure.
-# Considerear
+# Considerar a autenticação
