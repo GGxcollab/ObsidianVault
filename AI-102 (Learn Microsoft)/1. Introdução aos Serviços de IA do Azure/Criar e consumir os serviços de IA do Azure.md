@@ -52,3 +52,4 @@
 	- Go
 	- Java
 - Cada SDK inclui pacotes que você pode instalar para usar bibliotecas específicas do serviço em seu código e documentação online para ajudá-lo a determinar as classes, métodos e parâmetros apropriados usados para trabalhar com o serviço.
+![[Pasted image 20241030135255.png]]
