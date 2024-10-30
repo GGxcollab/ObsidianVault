@@ -40,3 +40,4 @@
 ![Diagram of an app submitting a JSON request to an Azure AI services REST API and receiving a JSON response.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-manage-ai-services/media/rest-api.png)
 
 - O uso de interfaces REST com um ponto de extremidade HTTP significa que qualquer linguagem de programação ou ferramenta capaz de enviar e receber JSON sobre HTTP pode ser usada para consumir serviços de IA. Você pode usar linguagens de programação comuns, como Microsoft C#, Python e JavaScript, além de utilitários como Postman e cURL, que podem ser úteis para o teste.
+# 
