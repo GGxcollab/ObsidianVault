@@ -16,4 +16,6 @@
 	- Utilizar uma API REST para consumir um serviço de IA do Azure.
 	- Utilizar um SDK para consumir um serviço de IA do Azure.
 # Provisionar um recurso dos Serviços de IA do Azure
-- 
+- Os serviços de IA do Azure incluem uma ampla gama de recursos de IA que você pode usar nos seus aplicativos. Para usar qualquer um dos serviços de IA, você precisa criar recursos apropriados em uma assinatura do Azure para definir um ponto de extremidade no qual o serviço possa ser consumido, fornecer chaves de acesso para acesso autenticado e gerenciar a cobrança para o uso do serviço pelo aplicativo.
+### Opções para recursos do Azure
+- Para muitos dos serviços de IA do Azure disponíveis, você pode escolher entre as seguintes opções de provisionamento:
