@@ -40,4 +40,15 @@
 ![Diagram of an app submitting a JSON request to an Azure AI services REST API and receiving a JSON response.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-manage-ai-services/media/rest-api.png)
 
 - O uso de interfaces REST com um ponto de extremidade HTTP significa que qualquer linguagem de programação ou ferramenta capaz de enviar e receber JSON sobre HTTP pode ser usada para consumir serviços de IA. Você pode usar linguagens de programação comuns, como Microsoft C#, Python e JavaScript, além de utilitários como Postman e cURL, que podem ser úteis para o teste.
-# 
+# Usar um SDK
+- Você pode desenvolver um aplicativo que utilize os serviços de IA do Azure usando interfaces REST, mas é mais fácil criar soluções mais complexas usando bibliotecas nativas para a linguagem de programação na qual você está desenvolvendo o aplicativo.
+
+![A diagram of an app submitting a call to an Azure AI services resource through a language-specific SDK, which abstracts the JSON request and response.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-manage-ai-services/media/sdk.png)
+
+- Os kits de desenvolvimento de software (SDKs) para linguagens de programação comuns abstraem as interfaces REST para a maioria dos serviços de IA do Azure. A disponibilidade do SDK varia com os serviços individuais de IA, mas, para a maioria dos serviços, existe um SDK para linguagens como:
+	- Microsoft C# (.NET Core)
+	- Python
+	- JavaScript (Node.js)
+	- Go
+	- Java
+- Cada SDK inclui pacotes que você pode instalar para usar bibliotecas específicas do serviço em seu código e documentação online para ajudá-lo a determinar as classes, métodos e parâmetros apropriados usados para trabalhar com o serviço.
