@@ -28,4 +28,5 @@
 - Os recursos de serviço único geralmente oferecem uma camada gratuita (com restrições de uso), tornando-os uma boa opção para experimentar um serviço antes de usá-lo em um aplicativo de produção.
 ### Recursos de treinamento e previsão
 - Embora a maioria dos serviços de IA possam ser usados por meio de um único recurso do Azure, alguns oferecem (ou requerem) recursos separados para o _treinamento_ e a _previsão_ do modelo. Isso permite que você gerencie a cobrança do treinamento de modelos personalizados e o consumo do modelo por aplicativos separadamente e, na maioria dos casos, permite que você use um recurso dedicado específico para cada serviço para treinar um modelo, mas um recurso de **serviços de IA** genérico para disponibilizar o modelo para os aplicativos para fins de inferência
-# Identificar pontos de extremidade e 
+# Identificar pontos de extremidade e chaves
+- 
