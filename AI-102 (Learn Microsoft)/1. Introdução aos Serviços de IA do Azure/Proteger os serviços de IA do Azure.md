@@ -60,15 +60,12 @@ $SecureStringPassword = ConvertTo-SecureString -String <your-password> -AsPlainT
 
 $app = New-AzureADApplication -DisplayName <your-app-display-name> -IdentifierUris <your-app-uris> -PasswordCredentials $SecureStringPassword
 ```
-
 - Isso cria o recurso do aplicativo.
 - Em seguida, use o comando **New-AzADServicePrincipal** para criar uma entidade de serviço e fornecer a ID do aplicativo:
 ##### PowerShell
-
 ```
 New-AzADServicePrincipal -ApplicationId <app-id>
 ```
-
 Por fim, atribua a função **Usuários dos Serviços Cognitivos** à entidade de serviço executando:
 
 PowerShellCopiar
