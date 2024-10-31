@@ -50,15 +50,12 @@ Set-AzContext -SubscriptionName <Your-Subscription-Name>
 $account = New-AzCognitiveServicesAccount -ResourceGroupName <your-resource-group-name> -name <your-account-name> -Type <your-account-type> -SkuName <your-sku-type> -Location <your-region> -CustomSubdomainName <your-unique-subdomain-name>
 ```
 
-Depois de criado, o nome do subdomínio será retornado na resposta.
+- Depois de criado, o nome do subdomínio será retornado na resposta.
 
 #### Atribuir uma função a uma entidade de serviço
-
-Você criou um recurso de IA do Azure vinculado a um subdomínio personalizado. Em seguida, atribua uma função a uma entidade de serviço.
-
-Para começar, você precisará registrar um aplicativo. Para isso, execute o comando a seguir:
-
-PowerShellCopiar
+- Você criou um recurso de IA do Azure vinculado a um subdomínio personalizado. Em seguida, atribua uma função a uma entidade de serviço.
+- Para começar, você precisará registrar um aplicativo. Para isso, execute o comando a seguir:
+##### PowerShell
 
 ```
 $SecureStringPassword = ConvertTo-SecureString -String <your-password> -AsPlainText -Force
