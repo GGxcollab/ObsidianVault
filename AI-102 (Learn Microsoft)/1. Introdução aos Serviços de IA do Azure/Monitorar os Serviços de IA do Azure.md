@@ -50,4 +50,5 @@
 >[!NOTE] Observação
 >Para obter mais informações sobre painéis, confira [Criar um painel no portal do Azure](https://learn.microsoft.com/pt-br/azure/azure-portal/azure-portal-dashboards) na documentação do Azure.
  
-# gRENCIAR 
+# Gerenciar logs de diagnóstico
+- 
