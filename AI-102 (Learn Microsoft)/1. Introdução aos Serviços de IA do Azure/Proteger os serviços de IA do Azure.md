@@ -104,6 +104,6 @@ az vm identity assign -g <my-resource-group> -n <my-vm>
 	8. Por fim, selecione **Examinar + atribuir** para revisão e, em seguida, **Examinar + atribuir** novamente para concluir.
     
 
- Observação
+ > [!NOTA]Observação
 
 Para obter mais detalhes sobre como configurar identidades gerenciadas, incluindo identidades gerenciadas pelo usuário, confira [Configurar identidades gerenciadas para o recurso do Azure na VM do Azure usando a CLI do Azure](https://learn.microsoft.com/pt-br/azure/active-directory/managed-identities-azure-resources/qs-configure-cli-windows-vm)
