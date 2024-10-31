@@ -17,7 +17,15 @@
 > Para obter mais informações, confira [Planejar e gerenciar custos dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/plan-manage-costs) na documentação dos serviços de IA.
 
 # Criar alertas
-- 
+- O Microsoft Azure dá suporte a alertas para recursos por meio da criação de _regras de alerta_. Use regras de alerta a fim de configurar notificações e alertas para seus recursos com base em eventos ou limites de métrica. Esses alertas garantem que a equipe correta seja informada quando surgir um problema.
 
+![A screenshot of an alert in the Azure portal and an email.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/alert.png)
+## Regras de alerta
+- Para criar uma regra de alerta para um recurso dos serviços de IA do Azure, selecione o recurso no portal do Azure e, na guia **Alertas**, adicione uma nova regra de alerta. Para definir a regra de alerta, você deve especificar:
+	- O _escopo_ da regra de alerta – em outras palavras, o recurso que você deseja monitorar.
+	- Uma _condição_ na qual o alerta é disparado. O gatilho específico para o alerta é baseado em um _tipo de sinal_, que pode ser _Log de Atividades_ (uma entrada no log de atividades criada por uma ação realizada no recurso, como regenerar suas chaves de assinatura) ou _Métrica_ (um limite de métrica como o número de erros superior a dez em uma hora).
+	- _Ações_ opcionais, como enviar um email a um administrador notificando-o sobre o alerta ou executando um Aplicativo logico do Azure para resolver o problema automaticamente.
+	- _Detalhes da regra de alerta_, como um nome para a regra de alerta e o grupo de recursos no qual ela deve ser definida.
 
-
+> [!NOTE]Observação
+> Para obter 
