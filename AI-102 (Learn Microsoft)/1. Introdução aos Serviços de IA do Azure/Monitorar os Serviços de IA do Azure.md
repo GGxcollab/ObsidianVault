@@ -27,5 +27,7 @@
 	- _Ações_ opcionais, como enviar um email a um administrador notificando-o sobre o alerta ou executando um Aplicativo logico do Azure para resolver o problema automaticamente.
 	- _Detalhes da regra de alerta_, como um nome para a regra de alerta e o grupo de recursos no qual ela deve ser definida.
 
-> [!NOTE]Observação
+> [!NOTE] Observação
 > Para obter mais informações, confira [Visão geral de alertas no Microsoft Azure](https://learn.microsoft.com/pt-br/azure/azure-monitor/alerts/alerts-overview) na documentação do Azure.
+
+!l
