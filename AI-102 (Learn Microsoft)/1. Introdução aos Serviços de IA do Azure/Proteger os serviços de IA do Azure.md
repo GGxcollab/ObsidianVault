@@ -47,7 +47,7 @@ Set-AzContext -SubscriptionName <Your-Subscription-Name>
 
 Em seguida, crie o recurso de serviços de IA do Azure especificando um subdomínio personalizado executando o seguinte:
 
-PowerShellCopiar
+##### PowerShell
 
 ```
 $account = New-AzCognitiveServicesAccount -ResourceGroupName <your-resource-group-name> -name <your-account-name> -Type <your-account-type> -SkuName <your-sku-type> -Location <your-region> -CustomSubdomainName <your-unique-subdomain-name>
