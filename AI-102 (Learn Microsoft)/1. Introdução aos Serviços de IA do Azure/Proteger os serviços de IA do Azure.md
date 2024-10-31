@@ -120,3 +120,4 @@ az vm identity assign -g <my-resource-group> -n <my-vm>
 > [!NOTA] Observação
 > Para obter mais informações sobre como configurar o acesso à rede dos serviços de IA do Azure, confira a [documentação dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-virtual-networks).
 
+![[Pasted image 20241031142948.png]]
