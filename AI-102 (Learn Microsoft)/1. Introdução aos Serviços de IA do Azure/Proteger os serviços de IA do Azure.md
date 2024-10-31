@@ -17,3 +17,6 @@
 	1. No portal do Azure, vá para o painel Chaves e Ponto de Extremidade do recurso.
 	2. Em seguida, selecione **Regenerar Chave1** ou selecione **Regenerar Chave2**, dependendo de qual você deseja regenerar no momento.
 #### Proteger chaves com o Azure Key Vault
+- O Azure Key Vault é um serviço do Azure no qual você pode armazenar segredos com segurança (como senhas e chaves). O acesso ao cofre de chaves é concedido a _entidades de segurança_, as quais você pode considerar identidades de usuário autenticadas usando o Microsoft Entra ID. Os administradores podem atribuir uma entidade de segurança a um aplicativo (nesse caso, ele é conhecido como uma _entidade de serviço_) a fim de definir uma _identidade gerenciada_ para o aplicativo. O aplicativo pode usar essa identidade para acessar o cofre de chaves e recuperar um segredo ao qual ele tem acesso. Controlar o acesso ao segredo dessa forma minimiza o risco de que ele seja comprometido por ser embutido em código em um aplicativo ou salvo em um arquivo de configuração.
+
+Você pode armazenar as chaves de assinatura para um recurso dos serviços de IA do no Azure Key Vault e atribuir uma identidade gerenciada aos aplicativos cliente que precisam usar o serviço. Os aplicativos podem então recuperar a chave conforme necessário no cofre de chaves, sem o risco de expô-la a usuários não autorizados.
