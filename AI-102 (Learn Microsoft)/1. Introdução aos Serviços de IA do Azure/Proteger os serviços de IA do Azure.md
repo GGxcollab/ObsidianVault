@@ -22,6 +22,7 @@
 - ![[Pasted image 20241031110014.png]]
 #### Autenticação baseada em token
 - Ao usar a interface REST, alguns serviços de IA dao suporte (ou até mesmo exigem) a autenticação baseada em token. Nesses casos, a chave de assinatura é apresentada em uma solicitação inicial para obter um tojen de autenctincação, que tem um período válido de dez minutos. As solicitações subsequentes devem apresentar um otken para validar que o chamador foi autenticado.
+[[]]
 
 [!NOTE] DICA
 
