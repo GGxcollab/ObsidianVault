@@ -41,15 +41,12 @@
 - Você pode adicionar várias métricas a um gráfico e escolher agregações e tipos de gráfico apropriados. Quando estiver satisfeito com o gráfico, você pode _compartilhá-lo_ exportando-o para o Excel ou copiando um link para ele e pode _cloná-lo_ para criar um gráfico duplicado na página **Métricas** – potencialmente como um ponto de partida para um novo gráfico que mostra as mesmas métricas de uma maneira diferente.
 
 ## Adicionar métricas a um painel
-
 - No portal do Azure, você pode criar _painéis_ que consistem em várias visualizações de diferentes recursos em seu ambiente do Azure para ajudar você a obter uma visão geral da integridade e do desempenho de seus recursos do Azure.
-
 - Para criar um painel, selecione **Painel** no menu do portal do Azure (sua exibição padrão pode já estar definida para um painel em vez da home page do portal). Lá, você pode adicionar até 100 painéis nomeados para encapsular exibições de aspectos específicos de seus serviços do Azure que você deseja rastrear.
-
 - Você pode adicionar uma variedade de blocos e outras visualizações a um painel e, ao exibir métricas para um recurso específico em um gráfico, conforme descrito anteriormente, você pode adicionar o gráfico a um painel novo ou existente. Na imagem a seguir, dois gráficos mostrando as métricas de um recurso de serviços de IA foram adicionados a um painel de controle.
 
 ![A screenshot showing metrics in a dashboard.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/metric-dashboard.png)
 
- Observação
+ > [!NOTE] Observação
 
 Para obter mais informações sobre painéis, confira [Criar um painel no portal do Azure](https://learn.microsoft.com/pt-br/azure/azure-portal/azure-portal-dashboards) na documentação do Azure.
