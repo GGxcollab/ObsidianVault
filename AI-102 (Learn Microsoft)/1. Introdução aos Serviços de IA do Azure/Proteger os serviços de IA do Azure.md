@@ -66,20 +66,18 @@ $app = New-AzureADApplication -DisplayName <your-app-display-name> -IdentifierUr
 ```
 New-AzADServicePrincipal -ApplicationId <app-id>
 ```
-Por fim, atribua a função **Usuários dos Serviços Cognitivos** à entidade de serviço executando:
 
-PowerShellCopiar
-
+- Por fim, atribua a função **Usuários dos Serviços Cognitivos** à entidade de serviço executando:
+##### PowerShell
 ```
 New-AzRoleAssignment -ObjectId <your-service-principal-object-id> -Scope <account-id> -RoleDefinitionName "Cognitive Services User"
 ```
 
 ### Autenticar usando identidades gerenciadas
 
-As identidades gerenciadas estão disponíveis em dois tipos:
-
-- **Identidade gerenciada atribuída pelo sistema**: Uma identidade gerenciada é criada e vinculada a um recurso específico, como uma máquina virtual que precisa acessar os serviços de IA do Azure. Quando o recurso é excluído, a identidade também é excluída.
-- **Identidade gerenciada atribuída pelo usuário**: A identidade gerenciada é criada para ser utilizável por vários recursos em vez de ser vinculada a um. Ela existe independentemente de qualquer recurso único.
+- As identidades gerenciadas estão disponíveis em dois tipos:
+		- **Identidade gerenciada atribuída pelo sistema**: Uma identidade gerenciada é criada e vinculada a um recurso específico, como uma máquina virtual que precisa acessar os serviços de IA do Azure. Quando o recurso é excluído, a identidade também é excluída.
+		- **Identidade gerenciada atribuída pelo usuário**: A identidade gerenciada é criada para ser utilizável por vários recursos em vez de ser vinculada a um. Ela existe independentemente de qualquer recurso único.
 
 Você pode atribuir cada tipo de identidade gerenciada a um recurso durante a criação do recurso ou depois que ele já tiver sido criado.
 
