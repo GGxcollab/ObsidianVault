@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a83e6b80beea04c6",
+        "id": "80d4a2bcf3920cac",
         "type": "tabs",
         "children": [
           {
-            "id": "4244f2368ac49c09",
+            "id": "37c5462715c8244a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,11 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4244f2368ac49c09",
+  "active": "37c5462715c8244a",
   "lastOpenFiles": [
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
     "Pasted image 20241031110014.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
     "Pasted image 20241030135255.png",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
@@ -184,7 +184,6 @@
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028113731.png",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241025160925.png",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241025160921 1.png",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241025160921.png",
     "AI-102 (Learn Microsoft)",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
