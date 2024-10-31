@@ -74,14 +74,13 @@ New-AzRoleAssignment -ObjectId <your-service-principal-object-id> -Scope <accoun
 ```
 
 ### Autenticar usando identidades gerenciadas
-
 - As identidades gerenciadas estão disponíveis em dois tipos:
-		- **Identidade gerenciada atribuída pelo sistema**: Uma identidade gerenciada é criada e vinculada a um recurso específico, como uma máquina virtual que precisa acessar os serviços de IA do Azure. Quando o recurso é excluído, a identidade também é excluída.
-		- **Identidade gerenciada atribuída pelo usuário**: A identidade gerenciada é criada para ser utilizável por vários recursos em vez de ser vinculada a um. Ela existe independentemente de qualquer recurso único.
+	- **Identidade gerenciada atribuída pelo sistema**: Uma identidade gerenciada é criada e vinculada a um recurso específico, como uma máquina virtual que precisa acessar os serviços de IA do Azure. Quando o recurso é excluído, a identidade também é excluída.
+	- **Identidade gerenciada atribuída pelo usuário**: A identidade gerenciada é criada para ser utilizável por vários recursos em vez de ser vinculada a um. Ela existe independentemente de qualquer recurso único.
 
-Você pode atribuir cada tipo de identidade gerenciada a um recurso durante a criação do recurso ou depois que ele já tiver sido criado.
+- Você pode atribuir cada tipo de identidade gerenciada a um recurso durante a criação do recurso ou depois que ele já tiver sido criado.
 
-Por exemplo, suponha que você tenha uma máquina virtual no Azure que pretende usar para acessar diariamente os serviços de IA do Azure. Para habilitar uma identidade atribuída pelo sistema para essa máquina virtual, primeiro verifique se sua conta do Azure tem a [função de Colaborador de Máquina Virtual](https://learn.microsoft.com/pt-br/azure/role-based-access-control/built-in-roles). Em seguida, execute o seguinte comando usando a CLI do Azure no terminal do Azure Cloud Shell:
+- Por exemplo, suponha que você tenha uma máquina virtual no Azure que pretende usar para acessar diariamente os serviços de IA do Azure. Para habilitar uma identidade atribuída pelo sistema para essa máquina virtual, primeiro verifique se sua conta do Azure tem a [função de Colaborador de Máquina Virtual](https://learn.microsoft.com/pt-br/azure/role-based-access-control/built-in-roles). Em seguida, execute o seguinte comando usando a CLI do Azure no terminal do Azure Cloud Shell:
 
 CLI do AzureCopiar
 
