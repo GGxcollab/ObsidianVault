@@ -32,3 +32,24 @@
 
 # Métricas de exibição
 - O Azure Monitor coleta métricas para recursos do Azure em intervalos regulares para que você possa rastrear indicadores de utilização, integridade e desempenho de recursos. As métricas específicas coletadas dependem do recurso do Azure. No caso dos Serviços de IA do Azure, o Azure Monitor coleta métricas relacionadas a solicitações de ponto de extremidade, dados enviados e retornados, erros e outras medições úteis.
+## Exibir as métricas no portal do Azure
+- Você pode exibir métricas para um recurso individual no portal do Azure selecionando o recurso e exibindo sua página **Métricas**. Nessa página, você pode adicionar métricas específicas de recursos a gráficos. Por padrão, um gráfico vazio é criado para você, e você pode adicionar mais gráficos conforme necessário.
+- Por exemplo, a imagem a seguir mostra a página **Métricas** de um recurso de serviços de IA, mostrando o número total de chamadas para o serviço ao longo de um período de tempo.
+
+![A screenshot showing metrics for an AI services resource.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/metric.png)
+
+- Você pode adicionar várias métricas a um gráfico e escolher agregações e tipos de gráfico apropriados. Quando estiver satisfeito com o gráfico, você pode _compartilhá-lo_ exportando-o para o Excel ou copiando um link para ele e pode _cloná-lo_ para criar um gráfico duplicado na página **Métricas** – potencialmente como um ponto de partida para um novo gráfico que mostra as mesmas métricas de uma maneira diferente.
+
+## Adicionar métricas a um painel
+
+- No portal do Azure, você pode criar _painéis_ que consistem em várias visualizações de diferentes recursos em seu ambiente do Azure para ajudar você a obter uma visão geral da integridade e do desempenho de seus recursos do Azure.
+
+- Para criar um painel, selecione **Painel** no menu do portal do Azure (sua exibição padrão pode já estar definida para um painel em vez da home page do portal). Lá, você pode adicionar até 100 painéis nomeados para encapsular exibições de aspectos específicos de seus serviços do Azure que você deseja rastrear.
+
+- Você pode adicionar uma variedade de blocos e outras visualizações a um painel e, ao exibir métricas para um recurso específico em um gráfico, conforme descrito anteriormente, você pode adicionar o gráfico a um painel novo ou existente. Na imagem a seguir, dois gráficos mostrando as métricas de um recurso de serviços de IA foram adicionados a um painel de controle.
+
+![A screenshot showing metrics in a dashboard.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/metric-dashboard.png)
+
+ Observação
+
+Para obter mais informações sobre painéis, confira [Criar um painel no portal do Azure](https://learn.microsoft.com/pt-br/azure/azure-portal/azure-portal-dashboards) na documentação do Azure.
