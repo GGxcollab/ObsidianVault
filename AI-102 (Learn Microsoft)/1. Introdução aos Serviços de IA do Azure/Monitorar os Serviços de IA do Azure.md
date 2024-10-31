@@ -11,11 +11,8 @@
 - Para usar a calculadora de preços para estimar os custos dos serviços de IA, crie uma nova estimativa e selecione **Serviços de IA do Azure** na categoria **IA + Machine Learning**. Em seguida, selecione a API do serviço de IA específico que você planeja usar (por exemplo, _Análise de Texto de IA do Azure_), a região na qual planeja provisioná-la, o tipo de preço da instância que planeja usar e preencha as métricas de uso esperadas e a opção de suporte. Para criar uma estimativa que inclua várias APIs de serviços de IA, adicione outros produtos dos **Serviços de IA do Azure** à estimativa.
 - Depois de criar uma estimativa, você pode salvá-la. Você também pode exportá-la no formato Microsoft Excel.
 ## Exibir custos para serviços de IA
+- Em comum com outros recursos do Azure, você pode exibir detalhes de custos acumulados para recursos dos serviços de IA no portal do Azure.
+- Para exibir os custos dos serviços de IA, entre no portal do Azure e selecione sua assinatura. Você poderá exibir os custos gerais da assinatura selecionando a guia **Análise de custo**. Para exibir apenas os custos dos serviços de IA, adicione um filtro que restrinja os dados para refletir recursos com um **nome de serviço** de **Serviços Cognitivos**.
+ > [!NOTA] Observação
+> Para obter mais informações, confira [Planejar e gerenciar custos dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/plan-manage-costs) na documentação dos serviços de IA.
 
-Em comum com outros recursos do Azure, você pode exibir detalhes de custos acumulados para recursos dos serviços de IA no portal do Azure.
-
-Para exibir os custos dos serviços de IA, entre no portal do Azure e selecione sua assinatura. Você poderá exibir os custos gerais da assinatura selecionando a guia **Análise de custo**. Para exibir apenas os custos dos serviços de IA, adicione um filtro que restrinja os dados para refletir recursos com um **nome de serviço** de **Serviços Cognitivos**.
-
- Observação
-
-Para obter mais informações, confira [Planejar e gerenciar custos dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/plan-manage-costs) na documentação dos serviços de IA.
