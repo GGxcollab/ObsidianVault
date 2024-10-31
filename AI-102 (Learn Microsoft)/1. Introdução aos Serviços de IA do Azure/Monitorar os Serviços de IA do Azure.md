@@ -13,11 +13,9 @@
 ## Exibir custos para serviços de IA
 - Em comum com outros recursos do Azure, você pode exibir detalhes de custos acumulados para recursos dos serviços de IA no portal do Azure.
 - Para exibir os custos dos serviços de IA, entre no portal do Azure e selecione sua assinatura. Você poderá exibir os custos gerais da assinatura selecionando a guia **Análise de custo**. Para exibir apenas os custos dos serviços de IA, adicione um filtro que restrinja os dados para refletir recursos com um **nome de serviço** de **Serviços Cognitivos**.
-> [!NOTA]Observação
+>[!NOTE] Observação
 > Para obter mais informações, confira [Planejar e gerenciar custos dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/plan-manage-costs) na documentação dos serviços de IA.
-> [!OBSERVAÇÃO]DWA
->ADAW]
 
 
-> [!NOTE] Title
-> Contents
+
+
