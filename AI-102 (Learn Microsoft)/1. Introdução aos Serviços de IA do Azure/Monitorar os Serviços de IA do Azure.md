@@ -16,6 +16,8 @@
 >[!NOTE] Observação
 > Para obter mais informações, confira [Planejar e gerenciar custos dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/plan-manage-costs) na documentação dos serviços de IA.
 
+# Criar alertas
+- 
 
 
 
