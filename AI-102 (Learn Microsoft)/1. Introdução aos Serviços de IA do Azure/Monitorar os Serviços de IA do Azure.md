@@ -28,4 +28,4 @@
 	- _Detalhes da regra de alerta_, como um nome para a regra de alerta e o grupo de recursos no qual ela deve ser definida.
 
 > [!NOTE]Observação
-> Para obter 
+> Para obter mais informações, confira [Visão geral de alertas no Microsoft Azure](https://learn.microsoft.com/pt-br/azure/azure-monitor/alerts/alerts-overview) na documentação do Azure.
