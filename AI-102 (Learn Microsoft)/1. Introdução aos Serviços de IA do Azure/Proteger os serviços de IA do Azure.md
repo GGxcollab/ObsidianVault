@@ -33,8 +33,5 @@
 > [!NOTE] Observação
 > Para obter mais informações sobre opções de autenticação para serviços de IA, confira a [documentação de serviços de IA](https://learn.microsoft.com/pt-br/azure/ai-services/authentication).
 
-
-
-
-Há diferentes maneiras de se autenticar nos serviços de IA do Azure usando o Microsoft Entra ID, incluindo:
+- Há diferentes maneiras de se autenticar nos serviços de IA do Azure usando o Microsoft Entra ID, incluindo:
 
