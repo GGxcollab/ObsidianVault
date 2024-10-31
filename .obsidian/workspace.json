@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
+                "file": "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proteger os serviços de IA do Azure"
+              "title": "Monitorar os Serviços de IA do Azure"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "37c5462715c8244a",
   "lastOpenFiles": [
-    "Pasted image 20241031142948.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
+    "Pasted image 20241031142948.png",
     "Pasted image 20241031110014.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
     "Pasted image 20241030135255.png",
@@ -184,7 +185,6 @@
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028115500.png",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028113731.png",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241025160925.png",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241025160921 1.png",
     "AI-102 (Learn Microsoft)",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
