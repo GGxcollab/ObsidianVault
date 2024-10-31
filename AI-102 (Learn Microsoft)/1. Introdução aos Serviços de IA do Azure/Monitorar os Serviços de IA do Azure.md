@@ -47,6 +47,7 @@
 
 ![A screenshot showing metrics in a dashboard.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/metric-dashboard.png)
 
- > [!NOTE] Observação
-
-Para obter mais informações sobre painéis, confira [Criar um painel no portal do Azure](https://learn.microsoft.com/pt-br/azure/azure-portal/azure-portal-dashboards) na documentação do Azure.
+>[!NOTE] Observação
+>Para obter mais informações sobre painéis, confira [Criar um painel no portal do Azure](https://learn.microsoft.com/pt-br/azure/azure-portal/azure-portal-dashboards) na documentação do Azure.
+ 
+# gRENCIAR 
