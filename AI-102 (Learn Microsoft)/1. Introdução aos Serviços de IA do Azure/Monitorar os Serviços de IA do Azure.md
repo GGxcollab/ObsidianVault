@@ -30,3 +30,5 @@
 > [!NOTE] Observação
 > Para obter mais informações, confira [Visão geral de alertas no Microsoft Azure](https://learn.microsoft.com/pt-br/azure/azure-monitor/alerts/alerts-overview) na documentação do Azure.
 
+# Métricas de exibição
+- O Azure Monitor coleta métricas para recursos do Azure em intervalos regulares para que você possa rastrear indicadores de utilização, integridade e desempenho de recursos. As métricas específicas coletadas dependem do recurso do Azure. No caso dos Serviços de IA do Azure, o Azure Monitor coleta métricas relacionadas a solicitações de ponto de extremidade, dados enviados e retornados, erros e outras medições úteis.
