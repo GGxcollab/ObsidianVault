@@ -4,4 +4,5 @@
 	- Monitore os custos dos serviços de IA do Azure.
 	- Criar alertas e exibir métricas para os serviços de IA do Azure.
 	- Gerencie o log de diagnóstico dos serviços de IA do Azure.
-# Monito
+# Monitorar o custo
+- 
