@@ -27,4 +27,4 @@
 > Ao usar um SDK, as chamadas para obter e apresentar um token são tratadas para você pelo SDK.
 > 
 
-
+#### Autenticação do Microsoft Entra ID
