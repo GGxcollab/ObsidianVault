@@ -82,22 +82,17 @@ New-AzRoleAssignment -ObjectId <your-service-principal-object-id> -Scope <accoun
 
 - Por exemplo, suponha que você tenha uma máquina virtual no Azure que pretende usar para acessar diariamente os serviços de IA do Azure. Para habilitar uma identidade atribuída pelo sistema para essa máquina virtual, primeiro verifique se sua conta do Azure tem a [função de Colaborador de Máquina Virtual](https://learn.microsoft.com/pt-br/azure/role-based-access-control/built-in-roles). Em seguida, execute o seguinte comando usando a CLI do Azure no terminal do Azure Cloud Shell:
 
-CLI do AzureCopiar
-
+##### CLI do Azure
 ```
 az vm identity assign -g <my-resource-group> -n <my-vm>
 ```
 
-Em seguida, conceda acesso aos serviços de IA do Azure no portal do Azure usando o seguinte:
-
-1. Acesse o recurso de serviços de IA do Azure que você deseja conceder ao acesso de identidade gerenciada da máquina virtual.
-    
-2. No painel de visão geral, selecione **Controle de acesso (IAM)**.
-    
-3. Selecione **Adicionar** e selecione **Adicionar atribuição de função**.
-    
-4. Na guia Função, selecione **Colaborador dos Serviços Cognitivos**.
-    
+- Em seguida, conceda acesso aos serviços de IA do Azure no portal do Azure usando o seguinte:
+	1. Acesse o recurso de serviços de IA do Azure que você deseja conceder ao acesso de identidade gerenciada da máquina virtual.
+	2. No painel de visão geral, selecione **Controle de acesso (IAM)**.
+	3. Selecione **Adicionar** e selecione **Adicionar atribuição de função**.
+	4. Na guia Função, selecione **Colaborador dos Serviços Cognitivos**.
+	    
     [![A screenshot showing the Add role assignment tab.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/select-contributor-role-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/select-contributor-role.png#lightbox)
     
 5. Na guia Membros, em Atribuir acesso, selecione **Identidade gerenciada**. Em seguida, escolha **+ Selecionar membros**.
