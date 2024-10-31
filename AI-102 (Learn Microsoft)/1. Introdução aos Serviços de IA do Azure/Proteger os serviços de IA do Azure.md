@@ -117,7 +117,6 @@ az vm identity assign -g <my-resource-group> -n <my-vm>
 
 - Com as restrições de rede habilitadas, um cliente tentando se conectar de um endereço IP que não é permitido receberá um erro de **Acesso Negado**.
 
- > [!NOTA] Observação
- > Para obter mais informações sobre como configurar o acesso à rede dos serviços de IA do Azure, confira a [documentação dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-virtual-networks).
+> [!NOTA] Observação
+> Para obter mais informações sobre como configurar o acesso à rede dos serviços de IA do Azure, confira a [documentação dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-virtual-networks).
 
-Para obter mais informações sobre como configurar o acesso à rede dos serviços de IA do Azure, confira a [documentação dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-virtual-networks).
