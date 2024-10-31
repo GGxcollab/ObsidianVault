@@ -94,16 +94,15 @@ az vm identity assign -g <my-resource-group> -n <my-vm>
 	4. Na guia Função, selecione **Colaborador dos Serviços Cognitivos**.
 	    
     [![A screenshot showing the Add role assignment tab.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/select-contributor-role-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/select-contributor-role.png#lightbox)
-    
-5. Na guia Membros, em Atribuir acesso, selecione **Identidade gerenciada**. Em seguida, escolha **+ Selecionar membros**.
+	5. Na guia Membros, em Atribuir acesso, selecione **Identidade gerenciada**. Em seguida, escolha **+ Selecionar membros**.
     
     [![A screenshot showing the Select managed identities pane.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/select-managed-identity-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/select-managed-identity.png#lightbox)
     
-6. Verifique se sua assinatura está selecionada na lista suspensa Assinatura. E, para a Identidade gerenciada, selecione **Máquina virtual**.
-    
-7. Selecione sua máquina virtual na lista e escolha **Selecionar**.
-    
-8. Por fim, selecione **Examinar + atribuir** para revisão e, em seguida, **Examinar + atribuir** novamente para concluir.
+	1. Verifique se sua assinatura está selecionada na lista suspensa Assinatura. E, para a Identidade gerenciada, selecione **Máquina virtual**.
+	    
+	7. Selecione sua máquina virtual na lista e escolha **Selecionar**.
+	    
+	8. Por fim, selecione **Examinar + atribuir** para revisão e, em seguida, **Examinar + atribuir** novamente para concluir.
     
 
  Observação
