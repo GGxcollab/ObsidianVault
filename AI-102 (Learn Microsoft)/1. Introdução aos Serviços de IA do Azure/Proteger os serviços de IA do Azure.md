@@ -108,3 +108,16 @@ az vm identity assign -g <my-resource-group> -n <my-vm>
 > Para obter mais detalhes sobre como configurar identidades gerenciadas, incluindo identidades gerenciadas pelo usuário, confira [Configurar identidades gerenciadas para o recurso do Azure na VM do Azure usando a CLI do Azure](https://learn.microsoft.com/pt-br/azure/active-directory/managed-identities-azure-resources/qs-configure-cli-windows-vm)
 
 # Implementar segurança de rede
+- A segurança de rede é uma medida importante para garantir que usuários não autorizados não acessem os serviços que você está protegendo. Limitar o que os usuários podem ver é sempre uma ótima ideia, pois eles não conseguem comprometer o que não podem ver.
+
+### Aplicar restrições de acesso à rede
+- Por padrão, os serviços de IA do Azure podem ser acessados de todas as redes. Alguns recursos individuais dos serviços de IA do Azure (como o **serviço de Detecção Facial de IA do Azure**, **Visão de IA do Azure** e outros) podem ser configurados para restringir o acesso a endereços de rede específicos - endereços de Internet públicos ou endereços em redes virtuais.
+
+![Diagram showing a network configuration for an AI service, restricting access to a range of IP addresses.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/secure-ai-services/media/network-access.png)
+
+- Com as restrições de rede habilitadas, um cliente tentando se conectar de um endereço IP que não é permitido receberá um erro de **Acesso Negado**.
+
+ > [!NOTA] Observação
+ > Para obter mais informações sobre como configurar o acesso à rede dos serviços de IA do Azure, confira a [documentação dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-virtual-networks).
+
+Para obter mais informações sobre como configurar o acesso à rede dos serviços de IA do Azure, confira a [documentação dos serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-virtual-networks).
