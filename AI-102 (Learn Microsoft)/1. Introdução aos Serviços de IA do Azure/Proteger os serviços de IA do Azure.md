@@ -55,7 +55,6 @@ $account = New-AzCognitiveServicesAccount -ResourceGroupName <your-resource-grou
 - Você criou um recurso de IA do Azure vinculado a um subdomínio personalizado. Em seguida, atribua uma função a uma entidade de serviço.
 - Para começar, você precisará registrar um aplicativo. Para isso, execute o comando a seguir:
 ##### PowerShell
-
 ```
 $SecureStringPassword = ConvertTo-SecureString -String <your-password> -AsPlainText -Force
 
