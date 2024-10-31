@@ -51,7 +51,6 @@ $account = New-AzCognitiveServicesAccount -ResourceGroupName <your-resource-grou
 ```
 
 - Depois de criado, o nome do subdomínio será retornado na resposta.
-
 #### Atribuir uma função a uma entidade de serviço
 - Você criou um recurso de IA do Azure vinculado a um subdomínio personalizado. Em seguida, atribua uma função a uma entidade de serviço.
 - Para começar, você precisará registrar um aplicativo. Para isso, execute o comando a seguir:
@@ -64,9 +63,7 @@ $app = New-AzureADApplication -DisplayName <your-app-display-name> -IdentifierUr
 ```
 
 - Isso cria o recurso do aplicativo.
-
 - Em seguida, use o comando **New-AzADServicePrincipal** para criar uma entidade de serviço e fornecer a ID do aplicativo:
-
 ##### PowerShell
 
 ```
