@@ -40,8 +40,7 @@
 - Você pode criar um subdomínio personalizado de diferentes maneiras, como por meio do portal do Azure, da CLI do Azure ou do PowerShell.
 - Por exemplo, você pode criar um subdomínio usando o PowerShell no Azure Cloud Shell. Para fazer isso, selecione sua assinatura usando o seguinte comando:
 
-PowerShellCopiar
-
+##### PowerShell
 ```
 Set-AzContext -SubscriptionName <Your-Subscription-Name>
 ```
