@@ -21,4 +21,6 @@
 - Você pode armazenar as chaves de assinatura para um recurso dos serviços de IA do no Azure Key Vault e atribuir uma identidade gerenciada aos aplicativos cliente que precisam usar o serviço. Os aplicativos podem então recuperar a chave conforme necessário no cofre de chaves, sem o risco de expô-la a usuários não autorizados.
 - ![[Pasted image 20241031110014.png]]
 #### Autenticação baseada em token
-- Ao usar a interface REST, alguns serviços de IA dao suporte (ou até mesmo exigem) a autenticação baseada em token. Nesses casos, a chave de assinatura é apresentada em uma solicitação inicial para obter um tojen de autenctincação, que tem um oer
+- Ao usar a interface REST, alguns serviços de IA dao suporte (ou até mesmo exigem) a autenticação baseada em token. Nesses casos, a chave de assinatura é apresentada em uma solicitação inicial para obter um tojen de autenctincação, que tem um período válido de dez minutos. As solicitações subsequentes devem apresentar um otken para validar que o chamador foi autenticado.
+'''
+'''
