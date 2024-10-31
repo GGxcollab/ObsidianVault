@@ -16,3 +16,4 @@
 - Por exemplo, para regenerar chaves no portal do Azure, você pode fazer o seguinte:
 	1. No portal do Azure, vá para o painel Chaves e Ponto de Extremidade do recurso.
 	2. Em seguida, selecione **Regenerar Chave1** ou selecione **Regenerar Chave2**, dependendo de qual você deseja regenerar no momento.
+#### Proteger chaves com o Azure Key Vault
