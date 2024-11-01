@@ -61,13 +61,12 @@
 - Você deve criar esses recursos antes de configurar o log de diagnósticos para o recurso dos serviços de IA do Azure. Se você pretende arquivar dados de log no Armazenamento do Microsoft Azure, crie a conta do Armazenamento do Microsoft Azure na mesma região que seu recurso dos serviços de IA do Azure.
 
 ## Defina as configurações de diagnóstico
-Com seus destinos de log estabelecidos, você pode definir as configurações de diagnóstico para seu recurso dos serviços de IA do Azure. Defina as configurações de diagnóstico na página **Configurações de diagnóstico** do painel para seu recurso dos serviços de IA do Azure no portal do Azure. Ao adicionar configurações de diagnóstico, você deve especificar:
+- Com seus destinos de log estabelecidos, você pode definir as configurações de diagnóstico para seu recurso dos serviços de IA do Azure. Defina as configurações de diagnóstico na página **Configurações de diagnóstico** do painel para seu recurso dos serviços de IA do Azure no portal do Azure. Ao adicionar configurações de diagnóstico, você deve especificar:
+	- Um nome para suas configurações de diagnóstico.
+	- As categorias de dados de eventos de log que você deseja capturar.
+	- Detalhes dos destinos nos quais você deseja armazenar os dados de log.
 
-- Um nome para suas configurações de diagnóstico.
-- As categorias de dados de eventos de log que você deseja capturar.
-- Detalhes dos destinos nos quais você deseja armazenar os dados de log.
-
-No exemplo a seguir, as configurações de diagnóstico armazenam todos os dados de log e métricas disponíveis no Azure Log Analytics e no Armazenamento do Azure.
+- No exemplo a seguir, as configurações de diagnóstico armazenam todos os dados de log e métricas disponíveis no Azure Log Analytics e no Armazenamento do Azure.
 
 ![A screenshot of diagnostic settings for an Azure AI services resource.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/diagnostic-settings.png)
 
@@ -76,6 +75,6 @@ No exemplo a seguir, as configurações de diagnóstico armazenam todos os dados
 
 ![A screenshot of an Azure log Analytics query returning diagnostic data logged for an Azure AI services resource.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/azure-log-analytics.png)
 
- Observação
+>[!NOTE]Observação
+ >Para obter mais informações, confira [Habilitar log de diagnósticos para serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/diagnostic-logging) na documentação dos serviços de IA do Azure.
 
-Para obter mais informações, confira [Habilitar log de diagnósticos para serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/diagnostic-logging) na documentação dos serviços de IA do Azure.
