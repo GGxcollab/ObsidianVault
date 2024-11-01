@@ -54,16 +54,13 @@
 - O log de diagnósticos permite que você capture dados operacionais avançados para um recurso dos serviços de IA do Azure, que pode ser usado para analisar o uso do serviço e solucionar problemas.
 
 ## Criar recursos para o armazenamento de log de diagnóstico
+- Para capturar logs de diagnóstico para um recurso dos serviços de IA do Azure, você precisa de um destino para os dados de log. Você pode usar os Hubs de Eventos do Azure como um destino para encaminhar os dados para uma solução de telemetria personalizada e pode se conectar diretamente a algumas soluções de terceiros; mas, na maioria dos casos, você usará um (ou ambos) dos seguintes tipos de recurso em sua assinatura do Azure:
+	- **Azure Log Analytics** – Um serviço que permite consultar e visualizar dados de log no portal do Azure.
+	- **Armazenamento do Azure** – um armazenamento de dados baseado em nuvem que você pode usar para armazenar arquivos de log (que podem ser exportados para análise em outras ferramentas, conforme necessário).
 
-Para capturar logs de diagnóstico para um recurso dos serviços de IA do Azure, você precisa de um destino para os dados de log. Você pode usar os Hubs de Eventos do Azure como um destino para encaminhar os dados para uma solução de telemetria personalizada e pode se conectar diretamente a algumas soluções de terceiros; mas, na maioria dos casos, você usará um (ou ambos) dos seguintes tipos de recurso em sua assinatura do Azure:
-
-- **Azure Log Analytics** – Um serviço que permite consultar e visualizar dados de log no portal do Azure.
-- **Armazenamento do Azure** – um armazenamento de dados baseado em nuvem que você pode usar para armazenar arquivos de log (que podem ser exportados para análise em outras ferramentas, conforme necessário).
-
-Você deve criar esses recursos antes de configurar o log de diagnósticos para o recurso dos serviços de IA do Azure. Se você pretende arquivar dados de log no Armazenamento do Microsoft Azure, crie a conta do Armazenamento do Microsoft Azure na mesma região que seu recurso dos serviços de IA do Azure.
+- Você deve criar esses recursos antes de configurar o log de diagnósticos para o recurso dos serviços de IA do Azure. Se você pretende arquivar dados de log no Armazenamento do Microsoft Azure, crie a conta do Armazenamento do Microsoft Azure na mesma região que seu recurso dos serviços de IA do Azure.
 
 ## Defina as configurações de diagnóstico
-
 Com seus destinos de log estabelecidos, você pode definir as configurações de diagnóstico para seu recurso dos serviços de IA do Azure. Defina as configurações de diagnóstico na página **Configurações de diagnóstico** do painel para seu recurso dos serviços de IA do Azure no portal do Azure. Ao adicionar configurações de diagnóstico, você deve especificar:
 
 - Um nome para suas configurações de diagnóstico.
@@ -75,8 +72,7 @@ No exemplo a seguir, as configurações de diagnóstico armazenam todos os dados
 ![A screenshot of diagnostic settings for an Azure AI services resource.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/diagnostic-settings.png)
 
 ## Exibir dados de log no Azure Log Analytics
-
-Pode levar uma hora ou mais antes que os dados de diagnóstico comecem a fluir para os destinos, mas quando os dados tiverem sido capturados, você poderá exibi-los em seu recurso do Azure Log Analytics executando consultas, conforme mostrado neste exemplo.
+- Pode levar uma hora ou mais antes que os dados de diagnóstico comecem a fluir para os destinos, mas quando os dados tiverem sido capturados, você poderá exibi-los em seu recurso do Azure Log Analytics executando consultas, conforme mostrado neste exemplo.
 
 ![A screenshot of an Azure log Analytics query returning diagnostic data logged for an Azure AI services resource.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/azure-log-analytics.png)
 
