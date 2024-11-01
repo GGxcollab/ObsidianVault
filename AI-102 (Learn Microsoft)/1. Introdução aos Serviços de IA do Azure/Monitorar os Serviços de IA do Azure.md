@@ -75,6 +75,6 @@
 
 ![A screenshot of an Azure log Analytics query returning diagnostic data logged for an Azure AI services resource.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/monitor-ai-services/media/azure-log-analytics.png)
 
->[!NOTE]Observação
- >Para obter mais informações, confira [Habilitar log de diagnósticos para serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/diagnostic-logging) na documentação dos serviços de IA do Azure.
+>[!NOTE] Observação
+>Para obter mais informações, confira [Habilitar log de diagnósticos para serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/diagnostic-logging) na documentação dos serviços de IA do Azure.
 
