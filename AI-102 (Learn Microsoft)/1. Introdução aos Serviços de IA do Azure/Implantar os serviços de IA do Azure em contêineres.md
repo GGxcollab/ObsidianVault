@@ -4,3 +4,5 @@
 	- Crie contêineres para reutilização.
 	- Implante em um contêiner e proteja um contêiner.
 	- Consuma serviços de IA do Azure a partir de um contêiner.
+
+# Entender cont
