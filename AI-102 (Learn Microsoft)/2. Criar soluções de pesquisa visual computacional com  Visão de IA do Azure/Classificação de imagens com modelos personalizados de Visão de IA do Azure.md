@@ -23,4 +23,5 @@
 	- A localização de cada objeto dentro da imagem, indicada como coordenadas de uma caixa delimitadora que inclui o objeto.
 ## Reconhecimento de produto
 - O reconhecimento de produto funciona da mesma forma que a detecção de objeto, mas com maior precisão para rótulos e nomes de marcas. As previsões do reconhecimento de produto têm o rótulo de classe e a localização, permitindo que você saiba onde o produto está na imagem.
-# Criar um projeto pe
+# Criar um projeto personalizado
+- Para criar um modelo personalizado na Visão de IA do Azure, primeiro é necessário ter um recurso do Serviços de IA do Azure (ou um recurso de Visão de IA do Azure). Depois que o recurso estiver implantado na sua assinatura, você vai precisar montar seu projeto personalizado.
