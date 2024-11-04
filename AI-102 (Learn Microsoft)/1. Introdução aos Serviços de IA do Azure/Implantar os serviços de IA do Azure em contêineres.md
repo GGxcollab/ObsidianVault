@@ -55,14 +55,9 @@
 |Tradutor|mcr.microsoft.com/product/azure-cognitive-services/translator/text-translation/about|
 |Resumo|mcr.microsoft.com/azure-cognitive-services/textanalytics/summarization|
 
- >[!NOTE] Observação
- >
-
-A Análise de Sentimento dá suporte a outros idiomas, substituindo o _en_ na imagem pelo código de idioma correto
-
+>[!NOTE] Observação
+>A Análise de Sentimento dá suporte a outros idiomas, substituindo o _en_ na imagem pelo código de idioma correto
 ### Contêineres de fala
-
-Expandir a tabela
 
 |Recurso|Imagem|
 |---|---|
@@ -70,22 +65,18 @@ Expandir a tabela
 |Conversão de fala em texto personalizada|mcr.microsoft.com/product/azure-cognitive-services/speechservices/custom-speech-to-text/about|
 |Conversão de texto em fala neural|mcr.microsoft.com/product/azure-cognitive-services/speechservices/neural-text-to-speech/about|
 |Detecção de idioma de fala|mcr.microsoft.com/product/azure-cognitive-services/speechservices/language-detection/about|
-
 ### Contêineres de visão
-
-Expandir a tabela
 
 |Recurso|Imagem|
 |---|---|
 |Ler OCR|mcr.microsoft.com/product/azure-cognitive-services/vision/read/about|
 |Análise espacial|mcr.microsoft.com/product/azure-cognitive-services/vision/spatial-analysis/about|
 
-Você pode usar o comando _pull_ do Docker para baixar imagens de contêiner e trabalhar com elas diretamente de seu computador. Alguns dos contêineres estão em um estado de visualização pública "restrita", e é preciso solicitar acesso explicitamente para usá-los. Fora isso, os contêineres estarão disponíveis para qualquer pessoa usar com a implantação dos serviços de IA do Azure.
+- Você pode usar o comando _pull_ do Docker para baixar imagens de contêiner e trabalhar com elas diretamente de seu computador. Alguns dos contêineres estão em um estado de visualização pública "restrita", e é preciso solicitar acesso explicitamente para usá-los. Fora isso, os contêineres estarão disponíveis para qualquer pessoa usar com a implantação dos serviços de IA do Azure.
 
-Para obter uma lista completa de imagens de contêiner dos serviços de IA do Azure disponíveis atualmente e anotações específicas para cada uma, confira [Marcas de imagem de contêiner dos serviços de IA do Azure e notas de versão](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-container-support#containers-in-azure-ai-services).
+- Para obter uma lista completa de imagens de contêiner dos serviços de IA do Azure disponíveis atualmente e anotações específicas para cada uma, confira [Marcas de imagem de contêiner dos serviços de IA do Azure e notas de versão](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-container-support#containers-in-azure-ai-services).
 
 ## Configuração de contêiner dos serviços de IA do Azure
-
 Ao implementar uma imagem de contêiner dos serviços de IA do Azure em um host, você deve especificar três configurações.
 
 Expandir a tabela
