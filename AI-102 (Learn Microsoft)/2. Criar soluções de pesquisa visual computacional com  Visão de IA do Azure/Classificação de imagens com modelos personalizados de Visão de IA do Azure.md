@@ -157,7 +157,6 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
 - Quando a rotulagem for concluída e todas as imagens de treinamento forem classificadas ou rotuladas corretamente, você poderá adicionar seu arquivo COCO ao conjunto de dados diretamente do workspace do Azure Machine Learning.
 
 ## Treinar seu modelo
-
 - Com todas as imagens de treinamento rotuladas, o próximo passo é treinar seu modelo. Ao treinar um modelo, selecione o tipo de modelo, especifique o conjunto de dados que deseja usar como dados de treinamento e indique o orçamento de treinamento. O orçamento de treinamento é um limite superior de tempo para execução do treinamento. O tempo real utilizado para o treinamento geralmente é menor do que o orçamento especificado.
 
 - Quando o modelo for treinado, selecioná-lo permite que você visualize o desempenho da execução da avaliação. Se um conjunto de dados de avaliação não for fornecido durante o treinamento do modelo, ele usará a execução de avaliação padrão. A execução de avaliação padrão retira um pequeno conjunto das imagens rotuladas do conjunto de treinamento, usa o modelo treinado para previsões nesse subconjunto e compara as previsões com os rótulos fornecidos.
