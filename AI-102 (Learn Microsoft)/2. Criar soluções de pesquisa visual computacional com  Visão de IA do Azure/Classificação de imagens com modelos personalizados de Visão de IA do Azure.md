@@ -39,21 +39,17 @@
 	5. Treinar seu modelo personalizado no conjunto de dados e rótulos criados.
 	6. Verificar o desempenho e iterar caso o desempenho treinado não atenda às expectativas.
 
-	ma vez que o desempenho atender às expectativas, o modelo pode ser utilizado no Vision Studio ou em seu próprio aplicativo.
+- Uma vez que o desempenho atender às expectativas, o modelo pode ser utilizado no Vision Studio ou em seu próprio aplicativo.
 
 ### Arquivos COCO
+- Um arquivo COCO é um arquivo JSON com um formato específico que define:
+	- **imagens**: define o local da imagem no armazenamento de blobs, nome, largura, altura e ID.
+	- **anotações**: define as classificações (ou objetos), incluindo em qual categoria a imagem está classificada, a área e a caixa delimitadora (se estiver rotulando para detecção de objetos).
+	- **categorias**: define a ID da classe de rótulo nomeada.
+- Normalmente, os arquivos COCO são criados ao rotular suas imagens de treinamento em um Projeto de Rotulagem de Dados do Azure Machine Learning. Se você está migrando de um projeto antigo de [Visão Personalizada](https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/how-to/migrate-from-custom-vision), pode usar o script de migração para criar seu arquivo COCO.
 
-Um arquivo COCO é um arquivo JSON com um formato específico que define:
-
-- **imagens**: define o local da imagem no armazenamento de blobs, nome, largura, altura e ID.
-- **anotações**: define as classificações (ou objetos), incluindo em qual categoria a imagem está classificada, a área e a caixa delimitadora (se estiver rotulando para detecção de objetos).
-- **categorias**: define a ID da classe de rótulo nomeada.
-
-Normalmente, os arquivos COCO são criados ao rotular suas imagens de treinamento em um Projeto de Rotulagem de Dados do Azure Machine Learning. Se você está migrando de um projeto antigo de [Visão Personalizada](https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/how-to/migrate-from-custom-vision), pode usar o script de migração para criar seu arquivo COCO.
-
-Um arquivo COCO de exemplo é semelhante a:
-
-JSONCopiar
+- Um arquivo COCO de exemplo é semelhante a:
+JSON
 
 ```
 {
@@ -110,9 +106,9 @@ JSONCopiar
 }
 ```
 
-Se você estiver rotulando um conjunto de dados de detecção de objetos, cada anotação no arquivo COCO também contém uma matriz de caixa delimitadora com os valores na matriz sendo _Esquerda_, _Topo_, _Largura_e _Altura_.
+- Se você estiver rotulando um conjunto de dados de detecção de objetos, cada anotação no arquivo COCO também contém uma matriz de caixa delimitadora com os valores na matriz sendo _Esquerda_, _Topo_, _Largura_e _Altura_.
 
-JSONCopiar
+JSON 
 
 ```
 "bbox": [
@@ -124,11 +120,9 @@ JSONCopiar
 ```
 
 ## Criando seu conjunto de dados
+- Depois de ter imagens no contêiner de armazenamento de blobs, você poderá criar seu conjunto de dados para treinamento usando a API REST ou usando o Vision Studio. A solicitação REST seria semelhante à chamada REST a seguir:
 
-Depois de ter imagens no contêiner de armazenamento de blobs, você poderá criar seu conjunto de dados para treinamento usando a API REST ou usando o Vision Studio. A solicitação REST seria semelhante à chamada REST a seguir:
-
-restCopiar
-
+rest
 ```
 curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-version=<version>\
   -H "Content-Type: application/json" \
@@ -140,6 +134,6 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
   }"
 ```
 
-Se estiver usando o [Vision Studio](https://portal.vision.cognitive.azure.com/), você navegará até o bloco do modelo personalizado, selecionará seu recurso e criar seu conjunto de dados. A partir daí, você pode abrir ou criar um Projeto de Rotulagem de Dados do Azure Machine Learning ou carregar um arquivo COCO existente. O exercício neste módulo explica como criar seu conjunto de dados dessa forma.
+- Se estiver usando o [Vision Studio](https://portal.vision.cognitive.azure.com/), você navegará até o bloco do modelo personalizado, selecionará seu recurso e criar seu conjunto de dados. A partir daí, você pode abrir ou criar um Projeto de Rotulagem de Dados do Azure Machine Learning ou carregar um arquivo COCO existente. O exercício neste módulo explica como criar seu conjunto de dados dessa forma.
 
-Usar o Vision Studio permite que você se conecte ao projeto de rotulagem no Azure Machine Learning em vez de especificar o arquivo COCO na solicitação REST. Os demais exemplos desta unidade usam o Vision Studio, mas se preferir o método REST, os exemplos estarão disponíveis nas páginas de documentação.
+- Usar o Vision Studio permite que você se conecte ao projeto de rotulagem no Azure Machine Learning em vez de especificar o arquivo COCO na solicitação REST. Os demais exemplos desta unidade usam o Vision Studio, mas se preferir o método REST, os exemplos estarão disponíveis nas páginas de documentação.
