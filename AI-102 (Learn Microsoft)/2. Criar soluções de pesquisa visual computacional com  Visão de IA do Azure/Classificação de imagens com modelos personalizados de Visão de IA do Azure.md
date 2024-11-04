@@ -137,4 +137,29 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
 - Se estiver usando o [Vision Studio](https://portal.vision.cognitive.azure.com/), você navegará até o bloco do modelo personalizado, selecionará seu recurso e criar seu conjunto de dados. A partir daí, você pode abrir ou criar um Projeto de Rotulagem de Dados do Azure Machine Learning ou carregar um arquivo COCO existente. O exercício neste módulo explica como criar seu conjunto de dados dessa forma.
 
 - Usar o Vision Studio permite que você se conecte ao projeto de rotulagem no Azure Machine Learning em vez de especificar o arquivo COCO na solicitação REST. Os demais exemplos desta unidade usam o Vision Studio, mas se preferir o método REST, os exemplos estarão disponíveis nas páginas de documentação.
-# Rotular e treinar um modelo pe
+# Rotular e treinar um modelo personalizado
+- Depois de carregar suas imagens para o armazenamento de blob e criar seu conjunto de dados, a próxima etapa é rotular suas imagens e conectar o arquivo COCO resultante. Se você já tiver um arquivo COCO para suas imagens de treinamento, poderá ignorar a etapa de rotulagem.
+
+## Rotulando suas imagens de treinamento
+
+- A rotulagem de suas imagens de treinamento é feita no Estúdio do Azure Machine Learning, usando o Projeto de Rotulagem de Dados. Ter etiquetas completas e precisas para suas imagens de treinamento melhora muito o desempenho do seu modelo treinado. Ao rotular suas imagens, certifique-se de atribuir rótulos com precisão e rotular completamente todas as instâncias de cada classe.
+
+- Em seu conjunto de dados no Vision Studio, crie um novo projeto de Rotulagem de Dados do Azure Machine Learning ou conecte-se a um projeto existente se você tiver criado um no Estúdio do Azure Machine Learning.
+
+![Screenshot of a new dataset in Vision Studio custom model project.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/custom-model-ai-vision-image-classification/media/new-dataset.png)
+
+- Depois que seu projeto for criado, selecionar esse botão o levará ao Azure Machine Learning Studio e abrirá o projeto de rotulagem. Na Rotulagem de Dados do Azure Machine Learning, você pode adicionar categorias para suas imagens ou objetos (como maçã, laranja, banana). Depois de ter categorias, inicie o projeto e vá para a guia de rotulagem. Você precisa rotular 3 a 5 imagens por categoria.
+
+![Screenshot of a labeling fruit in Azure Machine Learning Studio.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/custom-model-ai-vision-image-classification/media/aml-studio-data-labeling-apply-labels.png)
+
+- Há ferramentas com o Azure Machine Learning para ajudar na rotulagem, como a _rotulagem assistida por ML_, que pega alguns rótulos que você fornece para um subconjunto das imagens e tenta rotular as imagens restantes para você. Se estiver usando esses recursos, é importante revisar os rótulos para garantir que eles sejam precisos. Se não forem precisos, o desempenho do modelo treinado diminui.
+
+- Quando a rotulagem for concluída e todas as imagens de treinamento forem classificadas ou rotuladas corretamente, você poderá adicionar seu arquivo COCO ao conjunto de dados diretamente do workspace do Azure Machine Learning.
+
+## Treinar seu modelo
+
+- Com todas as imagens de treinamento rotuladas, o próximo passo é treinar seu modelo. Ao treinar um modelo, selecione o tipo de modelo, especifique o conjunto de dados que deseja usar como dados de treinamento e indique o orçamento de treinamento. O orçamento de treinamento é um limite superior de tempo para execução do treinamento. O tempo real utilizado para o treinamento geralmente é menor do que o orçamento especificado.
+
+- Quando o modelo for treinado, selecioná-lo permite que você visualize o desempenho da execução da avaliação. Se um conjunto de dados de avaliação não for fornecido durante o treinamento do modelo, ele usará a execução de avaliação padrão. A execução de avaliação padrão retira um pequeno conjunto das imagens rotuladas do conjunto de treinamento, usa o modelo treinado para previsões nesse subconjunto e compara as previsões com os rótulos fornecidos.
+
+- Na página do modelo treinado, você pode disparar novas execuções de avaliação em um conjunto diferente de imagens ou experimentar seus próprios testes no Vision Studio selecionando a guia na parte superior da página.
