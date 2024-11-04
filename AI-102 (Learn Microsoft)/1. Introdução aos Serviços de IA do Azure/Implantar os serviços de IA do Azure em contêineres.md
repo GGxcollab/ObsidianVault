@@ -30,3 +30,77 @@
 >Para saber mais sobre contêineres, confira o módulo [Introdução aos contêineres do Docker](https://learn.microsoft.com/pt-br/training/modules/intro-to-docker-containers/) no Microsoft Learn.
 
 # Usar contêineres dos serviços de IA do Azure
+- Há imagens de contêiner para os serviços de IA do Azure no Registro de Contêiner da Microsoft que você pode usar para implantar um serviço em contêineres que encapsula uma API de serviço dos serviços de IA do Azure.
+- Para implantar e usar um contêiner de serviços de IA do Azure, as três atividades a seguir devem ocorrer:
+
+1. A imagem de contêiner para a API dos serviços de IA do Azure específica que você deseja usar é baixada e implantada em um host de contêiner, como um servidor Docker local, uma ACI (Instância de Contêiner do Azure) ou AKS (Serviço de Kubernetes do Azure).
+2. Os aplicativos cliente enviam dados para o ponto de extremidade fornecido pelo serviço em contêineres e recuperam os resultados da mesma forma que fariam de um recurso de nuvem dos serviços de IA do Azure no Azure.
+3. Periodicamente, as métricas de uso do serviço em contêineres são enviadas para um recurso dos serviços de IA do Azure no Azure para calcular a cobrança do serviço.
+
+![A diagram of an Azure AI services container deployed to a container host and consumed by a client application.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/investigate-container-for-use-with-ai-services/media/ai-services-container.png)
+
+Mesmo ao usar um contêiner, você deve provisionar um recurso dos serviços de IA do Azure no Azure para fins de cobrança. Os aplicativos cliente enviam suas solicitações ao serviço em contêineres, o que significa que dados potencialmente confidenciais não são enviados ao ponto de extremidade dos serviços de IA do Azure no Azure; mas o contêiner deve ser capaz de se conectar ao recurso dos serviços de IA do Azure no Azure periodicamente para enviar métricas de uso para cobrança.
+
+## Imagens de contêiner dos serviços de IA do Azure
+
+Cada contêiner fornece um subconjunto de funcionalidades dos serviços de IA do Azure. Por exemplo, nem todos os recursos do serviço de Linguagem de IA do Azure estão em um único contêiner. Detecção de idioma, tradução e análise de sentimentos são imagens de contêiner separadas. No entanto, as etapas de configuração são semelhantes para cada contêiner.
+
+### Contêineres de linguagem
+
+Para o serviço de Linguagem de IA, os principais recursos são mapeados para imagens separadas:
+
+Expandir a tabela
+
+|Recurso|Imagem|
+|---|---|
+|Extração de Frases-Chave|mcr.microsoft.com/azure-cognitive-services/textanalytics/keyphrase|
+|Detecção de Idioma|mcr.microsoft.com/azure-cognitive-services/textanalytics/language|
+|Análise de Sentimento|mcr.microsoft.com/azure-cognitive-services/textanalytics/sentiment|
+|Reconhecimento de entidade nomeada|mcr.microsoft.com/product/azure-cognitive-services/textanalytics/language/about|
+|Análise de Texto para integridade|mcr.microsoft.com/product/azure-cognitive-services/textanalytics/healthcare/about|
+|Tradutor|mcr.microsoft.com/product/azure-cognitive-services/translator/text-translation/about|
+|Resumo|mcr.microsoft.com/azure-cognitive-services/textanalytics/summarization|
+
+ Observação
+
+A Análise de Sentimento dá suporte a outros idiomas, substituindo o _en_ na imagem pelo código de idioma correto
+
+### Contêineres de fala
+
+Expandir a tabela
+
+|Recurso|Imagem|
+|---|---|
+|Conversão de fala em texto|mcr.microsoft.com/product/azure-cognitive-services/speechservices/speech-to-text/about|
+|Conversão de fala em texto personalizada|mcr.microsoft.com/product/azure-cognitive-services/speechservices/custom-speech-to-text/about|
+|Conversão de texto em fala neural|mcr.microsoft.com/product/azure-cognitive-services/speechservices/neural-text-to-speech/about|
+|Detecção de idioma de fala|mcr.microsoft.com/product/azure-cognitive-services/speechservices/language-detection/about|
+
+### Contêineres de visão
+
+Expandir a tabela
+
+|Recurso|Imagem|
+|---|---|
+|Ler OCR|mcr.microsoft.com/product/azure-cognitive-services/vision/read/about|
+|Análise espacial|mcr.microsoft.com/product/azure-cognitive-services/vision/spatial-analysis/about|
+
+Você pode usar o comando _pull_ do Docker para baixar imagens de contêiner e trabalhar com elas diretamente de seu computador. Alguns dos contêineres estão em um estado de visualização pública "restrita", e é preciso solicitar acesso explicitamente para usá-los. Fora isso, os contêineres estarão disponíveis para qualquer pessoa usar com a implantação dos serviços de IA do Azure.
+
+Para obter uma lista completa de imagens de contêiner dos serviços de IA do Azure disponíveis atualmente e anotações específicas para cada uma, confira [Marcas de imagem de contêiner dos serviços de IA do Azure e notas de versão](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-container-support#containers-in-azure-ai-services).
+
+## Configuração de contêiner dos serviços de IA do Azure
+
+Ao implementar uma imagem de contêiner dos serviços de IA do Azure em um host, você deve especificar três configurações.
+
+Expandir a tabela
+
+|Configuração|Descrição|
+|---|---|
+|ApiKey|Chave do serviço de IA do Azure implantado; usada para cobrança.|
+|Cobrança|URI de Ponto de Extremidade do serviço de IA do Azure implantado; usado para cobrança.|
+|Eula|Valor **Aceitar** para indicar que você aceita a licença para o contêiner.|
+
+## Consumo dos serviços de IA do Azure a partir de um contêiner
+
+Depois que o contêiner dos serviços de IA do Azure for implantado, os aplicativos consumirão do ponto de extremidade dos serviços de IA do Azure em contêineres, em vez de consumirem do ponto de extremidade padrão do Azure. O aplicativo cliente deve ser configurado com o ponto de extremidade apropriado para seu contêiner, mas não precisa fornecer uma chave de assinatura para ser autenticado. Você pode implementar sua própria solução de autenticação e aplicar restrições de segurança de rede conforme apropriado para seu cenário de aplicativo específico.
