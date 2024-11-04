@@ -19,9 +19,8 @@
 ![A photograph of fruit with the location and type of fruits detected.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/custom-model-ai-vision-image-classification/media/object-detection.png)
 
 - Há dois componentes na detecção de objeto:
-- O rótulo de classe de cada objeto detectado na imagem. Por exemplo, você pode prever se uma imagem contém uma maçã e duas laranjas.
-- A localização de cada objeto dentro da imagem, indicada como coordenadas de uma caixa delimitadora que inclui o objeto.
-
+	- O rótulo de classe de cada objeto detectado na imagem. Por exemplo, você pode prever se uma imagem contém uma maçã e duas laranjas.
+	- A localização de cada objeto dentro da imagem, indicada como coordenadas de uma caixa delimitadora que inclui o objeto.
 ## Reconhecimento de produto
-
-O reconhecimento de produto funciona da mesma forma que a detecção de objeto, mas com maior precisão para rótulos e nomes de marcas. As previsões do reconhecimento de produto têm o rótulo de classe e a localização, permitindo que você saiba onde o produto está na imagem.
+- O reconhecimento de produto funciona da mesma forma que a detecção de objeto, mas com maior precisão para rótulos e nomes de marcas. As previsões do reconhecimento de produto têm o rótulo de classe e a localização, permitindo que você saiba onde o produto está na imagem.
+# Criar um projeto pe
