@@ -87,3 +87,4 @@
 |Eula|Valor **Aceitar** para indicar que você aceita a licença para o contêiner.|
 ## Consumo dos serviços de IA do Azure a partir de um contêiner
 - Depois que o contêiner dos serviços de IA do Azure for implantado, os aplicativos consumirão do ponto de extremidade dos serviços de IA do Azure em contêineres, em vez de consumirem do ponto de extremidade padrão do Azure. O aplicativo cliente deve ser configurado com o ponto de extremidade apropriado para seu contêiner, mas não precisa fornecer uma chave de assinatura para ser autenticado. Você pode implementar sua própria solução de autenticação e aplicar restrições de segurança de rede conforme apropriado para seu cenário de aplicativo específico.
+![[Pasted image 20241104151739.png]]
