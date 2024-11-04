@@ -68,10 +68,10 @@
 |                                          |                                                                                               |
 ### Contêineres de visão
 
-|Recurso|Imagem|
-|---|---|
-|Ler OCR|mcr.microsoft.com/product/azure-cognitive-services/vision/read/about|
-|Análise espacial|mcr.microsoft.com/product/azure-cognitive-services/vision/spatial-analysis/about|
+| Recurso          | Imagem                                                                           |
+| ---------------- | -------------------------------------------------------------------------------- |
+| Ler OCR          | mcr.microsoft.com/product/azure-cognitive-services/vision/read/about             |
+| Análise espacial | mcr.microsoft.com/product/azure-cognitive-services/vision/spatial-analysis/about |
 
 - Você pode usar o comando _pull_ do Docker para baixar imagens de contêiner e trabalhar com elas diretamente de seu computador. Alguns dos contêineres estão em um estado de visualização pública "restrita", e é preciso solicitar acesso explicitamente para usá-los. Fora isso, os contêineres estarão disponíveis para qualquer pessoa usar com a implantação dos serviços de IA do Azure.
 
