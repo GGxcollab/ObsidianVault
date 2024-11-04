@@ -32,24 +32,18 @@
 # Usar contêineres dos serviços de IA do Azure
 - Há imagens de contêiner para os serviços de IA do Azure no Registro de Contêiner da Microsoft que você pode usar para implantar um serviço em contêineres que encapsula uma API de serviço dos serviços de IA do Azure.
 - Para implantar e usar um contêiner de serviços de IA do Azure, as três atividades a seguir devem ocorrer:
-
-1. A imagem de contêiner para a API dos serviços de IA do Azure específica que você deseja usar é baixada e implantada em um host de contêiner, como um servidor Docker local, uma ACI (Instância de Contêiner do Azure) ou AKS (Serviço de Kubernetes do Azure).
-2. Os aplicativos cliente enviam dados para o ponto de extremidade fornecido pelo serviço em contêineres e recuperam os resultados da mesma forma que fariam de um recurso de nuvem dos serviços de IA do Azure no Azure.
-3. Periodicamente, as métricas de uso do serviço em contêineres são enviadas para um recurso dos serviços de IA do Azure no Azure para calcular a cobrança do serviço.
+	1. A imagem de contêiner para a API dos serviços de IA do Azure específica que você deseja usar é baixada e implantada em um host de contêiner, como um servidor Docker local, uma ACI (Instância de Contêiner do Azure) ou AKS (Serviço de Kubernetes do Azure).
+	2. Os aplicativos cliente enviam dados para o ponto de extremidade fornecido pelo serviço em contêineres e recuperam os resultados da mesma forma que fariam de um recurso de nuvem dos serviços de IA do Azure no Azure.
+	3. Periodicamente, as métricas de uso do serviço em contêineres são enviadas para um recurso dos serviços de IA do Azure no Azure para calcular a cobrança do serviço.
 
 ![A diagram of an Azure AI services container deployed to a container host and consumed by a client application.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/investigate-container-for-use-with-ai-services/media/ai-services-container.png)
 
-Mesmo ao usar um contêiner, você deve provisionar um recurso dos serviços de IA do Azure no Azure para fins de cobrança. Os aplicativos cliente enviam suas solicitações ao serviço em contêineres, o que significa que dados potencialmente confidenciais não são enviados ao ponto de extremidade dos serviços de IA do Azure no Azure; mas o contêiner deve ser capaz de se conectar ao recurso dos serviços de IA do Azure no Azure periodicamente para enviar métricas de uso para cobrança.
+- Mesmo ao usar um contêiner, você deve provisionar um recurso dos serviços de IA do Azure no Azure para fins de cobrança. Os aplicativos cliente enviam suas solicitações ao serviço em contêineres, o que significa que dados potencialmente confidenciais não são enviados ao ponto de extremidade dos serviços de IA do Azure no Azure; mas o contêiner deve ser capaz de se conectar ao recurso dos serviços de IA do Azure no Azure periodicamente para enviar métricas de uso para cobrança.
 
 ## Imagens de contêiner dos serviços de IA do Azure
-
-Cada contêiner fornece um subconjunto de funcionalidades dos serviços de IA do Azure. Por exemplo, nem todos os recursos do serviço de Linguagem de IA do Azure estão em um único contêiner. Detecção de idioma, tradução e análise de sentimentos são imagens de contêiner separadas. No entanto, as etapas de configuração são semelhantes para cada contêiner.
-
+- Cada contêiner fornece um subconjunto de funcionalidades dos serviços de IA do Azure. Por exemplo, nem todos os recursos do serviço de Linguagem de IA do Azure estão em um único contêiner. Detecção de idioma, tradução e análise de sentimentos são imagens de contêiner separadas. No entanto, as etapas de configuração são semelhantes para cada contêiner.
 ### Contêineres de linguagem
-
-Para o serviço de Linguagem de IA, os principais recursos são mapeados para imagens separadas:
-
-Expandir a tabela
+- Para o serviço de Linguagem de IA, os principais recursos são mapeados para imagens separadas:
 
 |Recurso|Imagem|
 |---|---|
@@ -61,7 +55,8 @@ Expandir a tabela
 |Tradutor|mcr.microsoft.com/product/azure-cognitive-services/translator/text-translation/about|
 |Resumo|mcr.microsoft.com/azure-cognitive-services/textanalytics/summarization|
 
- Observação
+ >[!NOTE] Observação
+ >
 
 A Análise de Sentimento dá suporte a outros idiomas, substituindo o _en_ na imagem pelo código de idioma correto
 
