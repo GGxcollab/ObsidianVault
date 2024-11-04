@@ -137,3 +137,4 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
 - Se estiver usando o [Vision Studio](https://portal.vision.cognitive.azure.com/), você navegará até o bloco do modelo personalizado, selecionará seu recurso e criar seu conjunto de dados. A partir daí, você pode abrir ou criar um Projeto de Rotulagem de Dados do Azure Machine Learning ou carregar um arquivo COCO existente. O exercício neste módulo explica como criar seu conjunto de dados dessa forma.
 
 - Usar o Vision Studio permite que você se conecte ao projeto de rotulagem no Azure Machine Learning em vez de especificar o arquivo COCO na solicitação REST. Os demais exemplos desta unidade usam o Vision Studio, mas se preferir o método REST, os exemplos estarão disponíveis nas páginas de documentação.
+# Rotular e treinar um modelo pe
