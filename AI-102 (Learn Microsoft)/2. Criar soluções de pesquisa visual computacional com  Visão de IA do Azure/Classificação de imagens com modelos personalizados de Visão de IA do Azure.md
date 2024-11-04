@@ -139,7 +139,6 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
 - Usar o Vision Studio permite que você se conecte ao projeto de rotulagem no Azure Machine Learning em vez de especificar o arquivo COCO na solicitação REST. Os demais exemplos desta unidade usam o Vision Studio, mas se preferir o método REST, os exemplos estarão disponíveis nas páginas de documentação.
 # Rotular e treinar um modelo personalizado
 - Depois de carregar suas imagens para o armazenamento de blob e criar seu conjunto de dados, a próxima etapa é rotular suas imagens e conectar o arquivo COCO resultante. Se você já tiver um arquivo COCO para suas imagens de treinamento, poderá ignorar a etapa de rotulagem.
-
 ## Rotulando suas imagens de treinamento
 
 - A rotulagem de suas imagens de treinamento é feita no Estúdio do Azure Machine Learning, usando o Projeto de Rotulagem de Dados. Ter etiquetas completas e precisas para suas imagens de treinamento melhora muito o desempenho do seu modelo treinado. Ao rotular suas imagens, certifique-se de atribuir rótulos com precisão e rotular completamente todas as instâncias de cada classe.
