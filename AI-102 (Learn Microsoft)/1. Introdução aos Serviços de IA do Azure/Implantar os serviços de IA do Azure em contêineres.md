@@ -77,16 +77,12 @@
 - Para obter uma lista completa de imagens de contêiner dos serviços de IA do Azure disponíveis atualmente e anotações específicas para cada uma, confira [Marcas de imagem de contêiner dos serviços de IA do Azure e notas de versão](https://learn.microsoft.com/pt-br/azure/ai-services/cognitive-services-container-support#containers-in-azure-ai-services).
 
 ## Configuração de contêiner dos serviços de IA do Azure
-Ao implementar uma imagem de contêiner dos serviços de IA do Azure em um host, você deve especificar três configurações.
-
-Expandir a tabela
+- Ao implementar uma imagem de contêiner dos serviços de IA do Azure em um host, você deve especificar três configurações.
 
 |Configuração|Descrição|
 |---|---|
 |ApiKey|Chave do serviço de IA do Azure implantado; usada para cobrança.|
 |Cobrança|URI de Ponto de Extremidade do serviço de IA do Azure implantado; usado para cobrança.|
 |Eula|Valor **Aceitar** para indicar que você aceita a licença para o contêiner.|
-
 ## Consumo dos serviços de IA do Azure a partir de um contêiner
-
-Depois que o contêiner dos serviços de IA do Azure for implantado, os aplicativos consumirão do ponto de extremidade dos serviços de IA do Azure em contêineres, em vez de consumirem do ponto de extremidade padrão do Azure. O aplicativo cliente deve ser configurado com o ponto de extremidade apropriado para seu contêiner, mas não precisa fornecer uma chave de assinatura para ser autenticado. Você pode implementar sua própria solução de autenticação e aplicar restrições de segurança de rede conforme apropriado para seu cenário de aplicativo específico.
+- Depois que o contêiner dos serviços de IA do Azure for implantado, os aplicativos consumirão do ponto de extremidade dos serviços de IA do Azure em contêineres, em vez de consumirem do ponto de extremidade padrão do Azure. O aplicativo cliente deve ser configurado com o ponto de extremidade apropriado para seu contêiner, mas não precisa fornecer uma chave de assinatura para ser autenticado. Você pode implementar sua própria solução de autenticação e aplicar restrições de segurança de rede conforme apropriado para seu cenário de aplicativo específico.
