@@ -59,12 +59,13 @@
 >A Análise de Sentimento dá suporte a outros idiomas, substituindo o _en_ na imagem pelo código de idioma correto
 ### Contêineres de fala
 
-|Recurso|Imagem|
-|---|---|
-|Conversão de fala em texto|mcr.microsoft.com/product/azure-cognitive-services/speechservices/speech-to-text/about|
-|Conversão de fala em texto personalizada|mcr.microsoft.com/product/azure-cognitive-services/speechservices/custom-speech-to-text/about|
-|Conversão de texto em fala neural|mcr.microsoft.com/product/azure-cognitive-services/speechservices/neural-text-to-speech/about|
-|Detecção de idioma de fala|mcr.microsoft.com/product/azure-cognitive-services/speechservices/language-detection/about|
+| Recurso                                  | Imagem                                                                                        |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Conversão de fala em texto               | mcr.microsoft.com/product/azure-cognitive-services/speechservices/speech-to-text/about        |
+| Conversão de fala em texto personalizada | mcr.microsoft.com/product/azure-cognitive-services/speechservices/custom-speech-to-text/about |
+| Conversão de texto em fala neural        | mcr.microsoft.com/product/azure-cognitive-services/speechservices/neural-text-to-speech/about |
+| Detecção de idioma de fala               | mcr.microsoft.com/product/azure-cognitive-services/speechservices/language-detection/about    |
+|                                          |                                                                                               |
 ### Contêineres de visão
 
 |Recurso|Imagem|
