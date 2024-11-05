@@ -102,4 +102,13 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 
 - Se desejar usar os recursos de identificação, reconhecimento e verificação da **Detecção Facial**, você precisará se inscrever na [política de Acesso Limitado](https://aka.ms/cog-services-limited-access) e obter aprovação para que esses recursos sejam disponbilizados.
 # Comparar rostos detectados e fazer a correspondência deles
-- 
+- Quando um rosto é detectado pelo serviço de Detecção Facial, uma ID exclusiva é atribuída a ele e retida no recurso do serviço por 24 horas. A ID é um GUID, sem indicação da identidade do indivíduo além das características faciais.
+
+ >[!NOTE] Importante
+ >O uso de reconhecimento do rosto, comparação e verificação exigirá a aprovação por meio de uma [Política de acesso limitado](https://aka.ms/cog-services-limited-access). Leia mais sobre a [adição de dessa política](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/) ao nosso padrão de IA Responsável. O reconhecimento do rosto não estará disponível para novos clientes até que lhes seja concedida a política de Acesso Limitado.
+
+Embora a ID facial detectada seja armazenada em cache, as imagens subsequentes podem ser usadas para comparar os novos rostos com a identidade armazenada em cache e determinar se são _semelhantes_ (em outras palavras, compartilham recursos faciais semelhantes) ou para _verificar_ se a mesma pessoa aparece em duas imagens.
+
+![Um rosto detectado em duas imagens](https://learn.microsoft.com/pt-br/training/wwl-data-ai/detect-analyze-recognize-faces/media/face-matching.png)
+
+Essa capacidade de comparar rostos anonimamente pode ser útil em sistemas em que é importante confirmar que a mesma pessoa está presente em duas ocasiões, sem a necessidade de saber a identidade real da pessoa. Por exemplo, ao capturar imagens de pessoas conforme elas entram e saem de um espaço protegido para verificar se todos que entraram já saíram.
