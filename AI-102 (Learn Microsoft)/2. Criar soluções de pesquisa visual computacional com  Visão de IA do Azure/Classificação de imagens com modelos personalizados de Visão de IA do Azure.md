@@ -162,4 +162,3 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
 - Na página do modelo treinado, você pode disparar novas execuções de avaliação em um conjunto diferente de imagens ou experimentar seus próprios testes no Vision Studio selecionando a guia na parte superior da página.
 ![[Pasted image 20241105110943.png]]
 
-# Detecte
