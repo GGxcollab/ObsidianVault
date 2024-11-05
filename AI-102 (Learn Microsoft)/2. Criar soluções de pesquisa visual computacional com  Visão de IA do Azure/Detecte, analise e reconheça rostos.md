@@ -117,9 +117,7 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 - Para cenários em que você precisa identificar positivamente indivíduos, você pode treinar um modelo de reconhecimento do rosto usando imagens faciais.
 
 >[!NOTE] Observação
->
-
-Conforme mencionado na unidade anterior, os modelos de reconhecimento vão exigir aprovação por meio de uma [política de Acesso Limitado](https://aka.ms/cog-services-limited-access).
+> Conforme mencionado na unidade anterior, os modelos de reconhecimento vão exigir aprovação por meio de uma [política de Acesso Limitado](https://aka.ms/cog-services-limited-access).
 
 Para treinar um modelo de reconhecimento do rosto com o serviço de Detecção Facial:
 
