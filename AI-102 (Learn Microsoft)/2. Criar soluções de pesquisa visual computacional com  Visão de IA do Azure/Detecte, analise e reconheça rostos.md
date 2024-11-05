@@ -74,6 +74,7 @@ JSON
 
 Para obter mais informações sobre a detecção facial da Visão de IA do Azure, confira a [Página de conceito de detecção facial](https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/concept-people-detection)
 
- Observação
+>[!NOTE] Observação
+>A Visão de IA do Azure anteriormente incluía previsão de idade e sexo, no entanto, isso foi removido como uma proteção para uso responsável. Você pode ler mais sobre nossos [Investimentos de IA Responsável aqui](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/).
 
-A Visão de IA do Azure anteriormente incluía previsão de idade e sexo, no entanto, isso foi removido como uma proteção para uso responsável. Você pode ler mais sobre nossos [Investimentos de IA Responsável aqui](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/).
+# Entender os recursos do serviço d e
