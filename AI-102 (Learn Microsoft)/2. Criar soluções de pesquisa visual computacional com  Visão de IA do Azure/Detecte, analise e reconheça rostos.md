@@ -98,6 +98,6 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 	- _Reconhecimento do rosto_ – Você pode treinar um modelo com uma coleção de rostos que pertencem a indivíduos específicos e usar o modelo para identificar essas pessoas em novas imagens.
 	- _Vivacidade facial_: a vivacidade pode ser usada para determinar se o vídeo de entrada é um fluxo real ou falso para impedir que indivíduos mal intencionados falsifiquem o sistema de reconhecimento.
 
-Você pode provisionar a **Detecção Facial** como um recurso de serviço único ou pode usar a API de detecção facial em um recurso de **Serviços de IA do Azure** de vários serviços.
+- Você pode provisionar a **Detecção Facial** como um recurso de serviço único ou pode usar a API de detecção facial em um recurso de **Serviços de IA do Azure** de vários serviços.
 
-Se desejar usar os recursos de identificação, reconhecimento e verificação da **Detecção Facial**, você precisará se inscrever na [política de Acesso Limitado](https://aka.ms/cog-services-limited-access) e obter aprovação para que esses recursos sejam disponbilizados.
+- Se desejar usar os recursos de identificação, reconhecimento e verificação da **Detecção Facial**, você precisará se inscrever na [política de Acesso Limitado](https://aka.ms/cog-services-limited-access) e obter aprovação para que esses recursos sejam disponbilizados.
