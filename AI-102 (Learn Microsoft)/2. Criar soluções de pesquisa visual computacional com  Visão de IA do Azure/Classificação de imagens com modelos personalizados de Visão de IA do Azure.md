@@ -160,3 +160,4 @@ curl -X PUT https://<endpoint>/computervision/datasets/<dataset-name>?api-versio
 - Quando o modelo for treinado, selecioná-lo permite que você visualize o desempenho da execução da avaliação. Se um conjunto de dados de avaliação não for fornecido durante o treinamento do modelo, ele usará a execução de avaliação padrão. A execução de avaliação padrão retira um pequeno conjunto das imagens rotuladas do conjunto de treinamento, usa o modelo treinado para previsões nesse subconjunto e compara as previsões com os rótulos fornecidos.
 
 - Na página do modelo treinado, você pode disparar novas execuções de avaliação em um conjunto diferente de imagens ou experimentar seus próprios testes no Vision Studio selecionando a guia na parte superior da página.
+![[Pasted image 20241105110943.png]]
