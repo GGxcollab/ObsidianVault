@@ -35,3 +35,45 @@ Depois de concluir este módulo, você poderá:
 	- **Transparência**. Garanta que os usuários sejam informados sobre como seus dados faciais são usados e quem terá acesso a eles.
 	- **Imparcialidade e inclusividade**. Garanta que o seu sistema baseado em reconhecimento facial não possa ser usado de maneira prejudicial às pessoas com base na sua aparência ou para atingi-las injustamente.
 # Detectar rostos com o serviço de Visão de IA no Azure
+- Para detectar e analisar rostos com o serviço de Visão de IA do Azure, chame a função REST de **Análise de Imagem** (SDK ou o método REST equivalente), especificando **Pessoas** como uma dos recursos visuais a serem retornados.
+- Em imagens que contêm uma ou mais pessoas, a resposta inclui detalhes da localização delas na imagem e os atributos da pessoa detectada, desta forma:
+
+JSON
+```
+{ 
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 400,
+    "height": 600
+  },
+  "peopleResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 0,
+          "y": 56,
+          "w": 101,
+          "h": 189
+        },
+        "confidence": 0.9474349617958069
+      },
+      {
+        "boundingBox": {
+          "x": 402,
+          "y": 96,
+          "w": 124,
+          "h": 156
+        },
+        "confidence": 0.9310565276194865
+      },
+    ...
+    ]
+  }
+}
+```
+
+Para obter mais informações sobre a detecção facial da Visão de IA do Azure, confira a [Página de conceito de detecção facial](https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/concept-people-detection)
+
+ Observação
+
+A Visão de IA do Azure anteriormente incluía previsão de idade e sexo, no entanto, isso foi removido como uma proteção para uso responsável. Você pode ler mais sobre nossos [Investimentos de IA Responsável aqui](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/).
