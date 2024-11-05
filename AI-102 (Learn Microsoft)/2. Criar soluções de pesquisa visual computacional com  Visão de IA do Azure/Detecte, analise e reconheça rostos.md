@@ -131,3 +131,4 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 	- _Identificar_ indivíduos em imagens.
 	- _Verificar_ a identidade de um rosto detectado.
 	- Analise novas imagens para encontrar rostos _semelhantes_ a um rosto persistente, conhecido.
+![[Pasted image 20241105164037.png]]
