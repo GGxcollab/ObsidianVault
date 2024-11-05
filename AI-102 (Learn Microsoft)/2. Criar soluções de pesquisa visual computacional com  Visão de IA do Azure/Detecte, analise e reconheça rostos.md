@@ -10,4 +10,5 @@ Depois de concluir este módulo, você poderá:
 - Detectar rostos com o serviço de Visão de IA do Azure.
 - Descrever os recursos do serviço de Detecção Facial.
 - Saiba mais sobre o reconhecimento do rosto.
-# Identificar opções de detecção, análisee identificação faciais
+# Identificar opções de detecção, análise e identificação faciais
+- 
