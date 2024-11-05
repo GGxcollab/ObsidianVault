@@ -82,22 +82,21 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 
 ![The Face service provides a wide range of facial analysis capabilities](https://learn.microsoft.com/pt-br/training/wwl-data-ai/detect-analyze-recognize-faces/media/face-service.png)
 
-O serviço de Detecção Facial fornece funcionalidade que você pode usar para:
-
-- _Detecção facial_ – Para cada rosto detectado, os resultados incluem uma ID que identifica o rosto e as coordenadas da caixa delimitadora indicando a localização na imagem.
-- _Análise de atributo facial_ – Você pode retornar uma grande variedade de atributos faciais, entre eles:
-    - Posição da cabeça (orientação de _inclinação_, _rotação_ e _guinada_ no espaço 3D)
-    - Óculos (_sem óculos_, _óculos de leitura_, _óculos de sol_ ou _óculos de natação_)
-    - Desfoque (_baixo_, _médio_ ou _alto_)
-    - Exposição (_subexposição_, _boa exposição_ ou _superexposição_)
-    - Ruído (ruído visual na imagem)
-    - Oclusão (objetos que obscurecem o rosto)
-    - Acessórios (óculos, chapéu, máscara)
-    - QualityForRecognition (_baixo_, _médio_ou _alto_)
-- _Localização do ponto de referência facial_ – Coordenadas para os principais pontos de referência em relação às características faciais (por exemplo, cantos de olho, pupilas, ponta do nariz e assim por diante)
-- _Comparação facial_ – Você pode comparar os rostos em várias imagens em busca de semelhanças (para encontrar indivíduos com características faciais semelhantes) e para verificação (a fim de determinar que um rosto em uma imagem é a mesma pessoa que um rosto em outra imagem)
-- _Reconhecimento do rosto_ – Você pode treinar um modelo com uma coleção de rostos que pertencem a indivíduos específicos e usar o modelo para identificar essas pessoas em novas imagens.
-- _Vivacidade facial_: a vivacidade pode ser usada para determinar se o vídeo de entrada é um fluxo real ou falso para impedir que indivíduos mal intencionados falsifiquem o sistema de reconhecimento.
+- O serviço de Detecção Facial fornece funcionalidade que você pode usar para:
+	- _Detecção facial_ – Para cada rosto detectado, os resultados incluem uma ID que identifica o rosto e as coordenadas da caixa delimitadora indicando a localização na imagem.
+	- _Análise de atributo facial_ – Você pode retornar uma grande variedade de atributos faciais, entre eles:
+	    - Posição da cabeça (orientação de _inclinação_, _rotação_ e _guinada_ no espaço 3D)
+	    - Óculos (_sem óculos_, _óculos de leitura_, _óculos de sol_ ou _óculos de natação_)
+	    - Desfoque (_baixo_, _médio_ ou _alto_)
+	    - Exposição (_subexposição_, _boa exposição_ ou _superexposição_)
+	    - Ruído (ruído visual na imagem)
+	    - Oclusão (objetos que obscurecem o rosto)
+	    - Acessórios (óculos, chapéu, máscara)
+	    - QualityForRecognition (_baixo_, _médio_ou _alto_)
+	- _Localização do ponto de referência facial_ – Coordenadas para os principais pontos de referência em relação às características faciais (por exemplo, cantos de olho, pupilas, ponta do nariz e assim por diante)
+	- _Comparação facial_ – Você pode comparar os rostos em várias imagens em busca de semelhanças (para encontrar indivíduos com características faciais semelhantes) e para verificação (a fim de determinar que um rosto em uma imagem é a mesma pessoa que um rosto em outra imagem)
+	- _Reconhecimento do rosto_ – Você pode treinar um modelo com uma coleção de rostos que pertencem a indivíduos específicos e usar o modelo para identificar essas pessoas em novas imagens.
+	- _Vivacidade facial_: a vivacidade pode ser usada para determinar se o vídeo de entrada é um fluxo real ou falso para impedir que indivíduos mal intencionados falsifiquem o sistema de reconhecimento.
 
 Você pode provisionar a **Detecção Facial** como um recurso de serviço único ou pode usar a API de detecção facial em um recurso de **Serviços de IA do Azure** de vários serviços.
 
