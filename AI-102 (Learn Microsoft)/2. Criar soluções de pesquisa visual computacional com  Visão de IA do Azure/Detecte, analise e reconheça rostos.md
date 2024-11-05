@@ -77,4 +77,5 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 >[!NOTE] Observação
 >A Visão de IA do Azure anteriormente incluía previsão de idade e sexo, no entanto, isso foi removido como uma proteção para uso responsável. Você pode ler mais sobre nossos [Investimentos de IA Responsável aqui](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/).
 
-# Entender os recursos do serviço d e
+# Entender os recursos do serviço de Detecção Facial
+- 
