@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
+                "file": "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detecte, analise e reconheça rostos"
+              "title": "Ler texto em imagens e documentos com o serviço da Visão de IA do Azure"
             }
           }
         ]
@@ -166,9 +166,10 @@
   },
   "active": "37c5462715c8244a",
   "lastOpenFiles": [
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
     "Pasted image 20241105164037.png",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
     "Pasted image 20241105110943.png",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
@@ -188,7 +189,6 @@
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241024105915.png",
     "AI-102 (Learn Microsoft)/imagens",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028144941.png",
     "AI-102 (Learn Microsoft)",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
