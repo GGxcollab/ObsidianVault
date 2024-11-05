@@ -101,3 +101,4 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 - Você pode provisionar a **Detecção Facial** como um recurso de serviço único ou pode usar a API de detecção facial em um recurso de **Serviços de IA do Azure** de vários serviços.
 
 - Se desejar usar os recursos de identificação, reconhecimento e verificação da **Detecção Facial**, você precisará se inscrever na [política de Acesso Limitado](https://aka.ms/cog-services-limited-access) e obter aprovação para que esses recursos sejam disponbilizados.
+# Comparar rostos detectados e fazer a correspondência deles
