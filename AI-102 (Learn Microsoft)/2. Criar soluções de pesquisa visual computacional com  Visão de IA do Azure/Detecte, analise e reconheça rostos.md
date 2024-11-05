@@ -29,3 +29,8 @@ Depois de concluir este módulo, você poderá:
 >O uso de reconhecimento do rosto, identificação, comparação e verificação exigirá a aprovação por meio de uma [Política de acesso limitado](https://aka.ms/cog-services-limited-access). Leia mais sobre a [adição de dessa política](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/) ao nosso padrão de IA Responsável. O reconhecimento do rosto será abordado no restante deste módulo, mas não estará disponível sem a inscrição para o Acesso Limitado.
 
 # Entender as considerações de análise facial
+- Embora todos os aplicativos de inteligência artificial exijam considerações sobre o uso responsável e ético, sistemas que usam dados faciais podem ser particularmente problemáticos.
+ - Ao criar uma solução que usa dados faciais, as considerações incluem (mas não se limitam a):
+	- **Dados, privacidade e segurança**. Os dados faciais são de identificação pessoal e devem ser considerados confidenciais e particulares. Você deve garantir que dispõe de proteção adequada para dados faciais usados para treinamento e inferência de modelos.
+	- **Transparência**. Garanta que os usuários sejam informados sobre como seus dados faciais são usados e quem terá acesso a eles.
+	- **Imparcialidade e inclusividade**. Garanta que o seu sistema baseado em reconhecimento facial não possa ser usado de maneira prejudicial às pessoas com base na sua aparência ou para atingi-las injustamente.
