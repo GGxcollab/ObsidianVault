@@ -28,3 +28,4 @@ Depois de concluir este módulo, você poderá:
 >[!NOTE] Importante
 >O uso de reconhecimento do rosto, identificação, comparação e verificação exigirá a aprovação por meio de uma [Política de acesso limitado](https://aka.ms/cog-services-limited-access). Leia mais sobre a [adição de dessa política](https://azure.microsoft.com/blog/responsible-ai-investments-and-safeguards-for-facial-recognition/) ao nosso padrão de IA Responsável. O reconhecimento do rosto será abordado no restante deste módulo, mas não estará disponível sem a inscrição para o Acesso Limitado.
 
+# Entender as considerações de análise facial
