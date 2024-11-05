@@ -112,3 +112,5 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 ![Um rosto detectado em duas imagens](https://learn.microsoft.com/pt-br/training/wwl-data-ai/detect-analyze-recognize-faces/media/face-matching.png)
 
 - Essa capacidade de comparar rostos anonimamente pode ser útil em sistemas em que é importante confirmar que a mesma pessoa está presente em duas ocasiões, sem a necessidade de saber a identidade real da pessoa. Por exemplo, ao capturar imagens de pessoas conforme elas entram e saem de um espaço protegido para verificar se todos que entraram já saíram.
+
+# Implementar o reconhecimento do rosto
