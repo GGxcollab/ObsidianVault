@@ -102,3 +102,4 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 
 - Se desejar usar os recursos de identificação, reconhecimento e verificação da **Detecção Facial**, você precisará se inscrever na [política de Acesso Limitado](https://aka.ms/cog-services-limited-access) e obter aprovação para que esses recursos sejam disponbilizados.
 # Comparar rostos detectados e fazer a correspondência deles
+- 
