@@ -114,4 +114,24 @@ Para obter mais informações sobre a detecção facial da Visão de IA do Azure
 - Essa capacidade de comparar rostos anonimamente pode ser útil em sistemas em que é importante confirmar que a mesma pessoa está presente em duas ocasiões, sem a necessidade de saber a identidade real da pessoa. Por exemplo, ao capturar imagens de pessoas conforme elas entram e saem de um espaço protegido para verificar se todos que entraram já saíram.
 
 # Implementar o reconhecimento do rosto
-- 
+- Para cenários em que você precisa identificar positivamente indivíduos, você pode treinar um modelo de reconhecimento do rosto usando imagens faciais.
+
+>[!NOTE] Observação
+>
+
+Conforme mencionado na unidade anterior, os modelos de reconhecimento vão exigir aprovação por meio de uma [política de Acesso Limitado](https://aka.ms/cog-services-limited-access).
+
+Para treinar um modelo de reconhecimento do rosto com o serviço de Detecção Facial:
+
+1. Crie um **Grupo de pessoas** que defina o conjunto de indivíduos que você deseja identificar (por exemplo, _funcionários_).
+2. Adicione uma **Pessoa** ao **Grupo de pessoas** para cada indivíduo que você deseja identificar.
+3. Adicione rostos detectados de várias imagens a cada **pessoa**, preferencialmente em várias posições. As IDs desses rostos não expiram mais após 24 horas (portanto, agora são conhecidos como rostos _persistentes_).
+4. Treinar o modelo.
+
+![Person groups containing Person records with persisted faces](https://learn.microsoft.com/pt-br/training/wwl-data-ai/detect-analyze-recognize-faces/media/person-groups.png)
+
+O modelo treinado é armazenado em seu recurso de Detecção Facial (ou Serviços de IA do Azure) e pode ser usado por aplicativos cliente para:
+
+- _Identificar_ indivíduos em imagens.
+- _Verificar_ a identidade de um rosto detectado.
+- Analise novas imagens para encontrar rostos _semelhantes_ a um rosto persistente, conhecido.
