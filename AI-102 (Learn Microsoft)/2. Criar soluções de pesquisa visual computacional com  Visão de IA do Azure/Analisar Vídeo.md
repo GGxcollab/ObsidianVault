@@ -21,4 +21,4 @@
 
 ![O portal do Analisador de Vídeo](https://learn.microsoft.com/en-us/training/wwl-data-ai/analyze-video/media/video-indexer-portal.png)
 
-# Ex
+# Extrair insights personalizados
