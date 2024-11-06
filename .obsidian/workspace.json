@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -164,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "37c5462715c8244a",
   "lastOpenFiles": [
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
