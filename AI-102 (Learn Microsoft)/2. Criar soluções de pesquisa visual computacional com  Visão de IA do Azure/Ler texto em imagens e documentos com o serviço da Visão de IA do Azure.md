@@ -21,3 +21,91 @@
 	    - Os exemplos incluem: recibos, artigos e faturas.
 - Você pode acessar ambas as tecnologias por meio da API REST ou de uma biblioteca de clientes. Neste módulo, vamos nos concentrar no recurso OCR na **Análise de Imagem**. Se você quiser saber mais sobre **Informação de Documentos**, [a leitura deste módulo](https://learn.microsoft.com/pt-br/training/modules/use-prebuilt-form-recognizer-models/) fornecerá uma boa introdução.
 # Usar a API de Leitura
+- Para usar o recurso OCR de Leitura, chame a função **ImageAnalysis** (API REST ou método de SDK equivalente), passando a URL da imagem ou os dados binários e, opcionalmente, especificando uma legenda com neutralidade de gênero ou o idioma em que o texto está escrito (com um valor padrão de **en** para inglês).
+
+- Para fazer uma solicitação de OCR para **ImageAnalysis**, especifique o recurso visual como `READ`.
+**C#**
+```
+ImageAnalysisResult result = client.Analyze(
+    <image-to-analyze>,
+    VisualFeatures.Read);
+```
+
+**Python**
+
+PythonCopiar
+
+```
+result = client.analyze(
+    image_url=<image_to_analyze>,
+    visual_features=[VisualFeatures.READ]
+)
+```
+
+Se estiver usando a API REST, especifique o recurso como `read`.
+
+restCopiar
+
+```
+https://<endpoint>/computervision/imageanalysis:analyze?features=read&...
+```
+
+Os resultados da função OCR de Leitura são retornados de forma síncrona, como JSON ou o objeto específico da linguagem de uma estrutura semelhante. Esses resultados são divididos em _blocos_ (com o serviço atual usando apenas um bloco), _linhas_ e _palavras_. Além disso, os valores de texto são incluídos nos níveis de _linha_ e de _palavra_, facilitando a leitura de linhas inteiras de texto caso você não precise extrair texto no nível da _palavra_ individual.
+
+JSONCopiar
+
+```
+{
+    "metadata":
+    {
+        "width": 500,
+        "height": 430
+    },
+    "readResult":
+    {
+        "blocks":
+        [
+            {
+                "lines":
+                [
+                    {
+                        "text": "Hello World!",
+                        "boundingPolygon":
+                        [
+                            {"x":251,"y":265},
+                            {"x":673,"y":260},
+                            {"x":674,"y":308},
+                            {"x":252,"y":318}
+                        ],
+                        "words":
+                        [
+                            {
+                                "text":"Hello",
+                                "boundingPolygon":
+                                [
+                                    {"x":252,"y":267},
+                                    {"x":307,"y":265},
+                                    {"x":307,"y":318},
+                                    {"x":253,"y":318}
+                                ],
+                            "confidence":0.996
+                            },
+                            {
+                                "text":"World!",
+                                "boundingPolygon":
+                                [
+                                    {"x":318,"y":264},
+                                    {"x":386,"y":263},
+                                    {"x":387,"y":316},
+                                    {"x":319,"y":318}
+                                ],
+                                "confidence":0.99
+                            }
+                        ]
+                    },
+                ]
+            }
+        ]
+    }
+}
+```
