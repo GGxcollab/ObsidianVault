@@ -32,3 +32,4 @@ Após o provisionamento de um recurso adequado na sua assinatura do Azure, você
 >[!NOTE] Observação
 >Os exemplos de código nas unidades subsequentes neste módulo mostram as solicitações JSON e as respostas trocadas com a interface REST. Ao usar um SDK, as solicitações JSON são abstraídas por objetos e métodos apropriados que encapsulam os mesmos valores de dados. Você terá a oportunidade de experimentar o SDK para C# ou Python por conta própria no exercício posterior do módulo.
 
+# Detectar o idioma
