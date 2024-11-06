@@ -11,12 +11,14 @@
             "id": "37c5462715c8244a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028155921.png"
+                "file": "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241028155921"
+              "icon": "lucide-file",
+              "title": "Analisar Vídeo"
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -162,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "37c5462715c8244a",
   "lastOpenFiles": [
+    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028155921.png",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241106112740.png",
@@ -183,7 +187,6 @@
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241030135255.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028170637.png",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028155921.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure",
     "AI-102 (Learn Microsoft)/Sem título.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure",
@@ -205,7 +208,6 @@
     "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
     "SC-300/Implement Access Management for Apps - EP10.md",
     "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
-    "SC-300/Implement as Authentication and Acesss - EP-06.md",
     "SC-300/images",
     "SC-300/Sem título.canvas",
     "Excalidraw",
