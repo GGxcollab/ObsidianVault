@@ -67,5 +67,18 @@ https://api.videoindexer.ai/Auth/<location>/Accounts/<accountId>/AccessToken
 	"userName": "SampleUserName", 
 	"isOwned": true, 
 	"isBase": true, 
-	"state": "Processing", "processingProgress": "", "durationInSeconds": 13, "thumbnailVideoId": "30e66ec1b1", "thumbnailId": "55848b7b-8be7-4285-893e-cdc366e09133", "social": { "likedByUser": false, "likes": 0, "views": 0 }, "searchMatches": [], "indexingPreset": "Default", "streamingPreset": "Default", "sourceLanguage": "en-US" }
+	"state": "Processing", 
+	"processingProgress": "", 
+	"durationInSeconds": 13, 
+	"thumbnailVideoId": "30e66ec1b1", 
+	"thumbnailId": "55848b7b-8be7-4285-893e-cdc366e09133", 
+	"social": { 
+		"likedByUser": false, 
+		"likes": 0, 
+		"views": 0 
+		}, 
+	"searchMatches": [], 
+	"indexingPreset": "Default", 
+	"streamingPreset": "Default", 
+	"sourceLanguage": "en-US" }
 ```
