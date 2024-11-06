@@ -32,9 +32,6 @@ ImageAnalysisResult result = client.Analyze(
 ```
 
 **Python**
-
-PythonCopiar
-
 ```
 result = client.analyze(
     image_url=<image_to_analyze>,
@@ -42,18 +39,16 @@ result = client.analyze(
 )
 ```
 
-Se estiver usando a API REST, especifique o recurso como `read`.
+- Se estiver usando a API REST, especifique o recurso como `read`.
 
-restCopiar
-
+**rest**
 ```
 https://<endpoint>/computervision/imageanalysis:analyze?features=read&...
 ```
 
-Os resultados da função OCR de Leitura são retornados de forma síncrona, como JSON ou o objeto específico da linguagem de uma estrutura semelhante. Esses resultados são divididos em _blocos_ (com o serviço atual usando apenas um bloco), _linhas_ e _palavras_. Além disso, os valores de texto são incluídos nos níveis de _linha_ e de _palavra_, facilitando a leitura de linhas inteiras de texto caso você não precise extrair texto no nível da _palavra_ individual.
+- Os resultados da função OCR de Leitura são retornados de forma síncrona, como JSON ou o objeto específico da linguagem de uma estrutura semelhante. Esses resultados são divididos em _blocos_ (com o serviço atual usando apenas um bloco), _linhas_ e _palavras_. Além disso, os valores de texto são incluídos nos níveis de _linha_ e de _palavra_, facilitando a leitura de linhas inteiras de texto caso você não precise extrair texto no nível da _palavra_ individual.
 
-JSONCopiar
-
+**JSON**
 ```
 {
     "metadata":
