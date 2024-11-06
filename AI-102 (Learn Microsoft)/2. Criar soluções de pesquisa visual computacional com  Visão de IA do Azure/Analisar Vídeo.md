@@ -24,7 +24,7 @@
 # Extrair insights personalizados
 - O Azure Video Indexer inclui modelos predefinidos que podem reconhecer celebridades famosas, fazer OCR e transcrever frases faladas em texto. Você pode estender os recursos de reconhecimento do Video Analyzer criando modelos personalizados para:
 	- **Pessoas** . Adicione imagens dos rostos das pessoas que você quer reconhecer em vídeos e treine um modelo. O Video Indexer reconhecerá essas pessoas em todos os seus vídeos.
-		- Observação:
+		- *Observação*:
 			- Isso só funciona após a aprovação [do Acesso Limitado](https://aka.ms/cog-services-limited-access) , aderindo ao nosso padrão de IA Responsável.
 	- **Idioma** . Se sua organização usa terminologia específica que pode não ser de uso comum, você pode treinar um modelo personalizado para detectá-la e transcrevê-la.
 	- **Marcas** . Você pode treinar um modelo para reconhecer nomes específicos como marcas, por exemplo, para identificar produtos, projetos ou empresas que sejam relevantes para o seu negócio.
