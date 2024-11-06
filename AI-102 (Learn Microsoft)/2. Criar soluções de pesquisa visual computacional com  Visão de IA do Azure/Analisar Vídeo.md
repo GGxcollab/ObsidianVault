@@ -28,4 +28,4 @@
 			- Isso só funciona após a aprovação [do Acesso Limitado](https://aka.ms/cog-services-limited-access) , aderindo ao nosso padrão de IA Responsável.
 	- **Idioma** . Se sua organização usa terminologia específica que pode não ser de uso comum, você pode treinar um modelo personalizado para detectá-la e transcrevê-la.
 	- **Marcas** . Você pode treinar um modelo para reconhecer nomes específicos como marcas, por exemplo, para identificar produtos, projetos ou empresas que sejam relevantes para o seu negócio.
-# Use widgets e APIs 
+# Use widgets e APIs do Video Analyzer
