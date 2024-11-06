@@ -27,10 +27,8 @@
 		- *Observação*:
 			- Isso só funciona após a aprovação [do Acesso Limitado](https://aka.ms/cog-services-limited-access) , aderindo ao nosso padrão de IA Responsável.
 	- **Idioma** . Se sua organização usa terminologia específica que pode não ser de uso comum, você pode treinar um modelo personalizado para detectá-la e transcrevê-la.
-	- **Marcas** . Você pode treinar um modelo para reconhecer nomes específicos como marcas, por exemplo, para identificar produtos, projetos ou empresas que sejam relevantes para o seu negócio.
-# Use widgets e APIs do Video Analyzer
-- Os widgets usados no portal do Azure Video Indexer para reproduzir, analisar e editar vídeos podem ser incorporados em suas próprias interfaces HTML personalizadas. Você pode usar essa técnica para compartilhar insights de vídeos específicos com outras pessoas sem dar a elas acesso total à sua conta no portal do Azure Video Indexer.
-- 
+	- **Marcas** . Você pode treinar um modelo para reconhecer nomes específicos como marcas, por exemplo, para identificar produtos, projetos ou empresas que sejam relevantes para o seu negócio.Os widgets usados no portal do Azure Video Indexer para reproduzir, analisar e editar vídeos podem ser incorporados em suas próprias interfaces HTML personalizadas. Você pode usar essa técnica para compartilhar insights de vídeos específicos com outras pessoas sem dar a elas acesso total à sua conta no portal do Azure Video Indexer.
+
 
 
 
