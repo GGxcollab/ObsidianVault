@@ -7,3 +7,5 @@
 	- Detecção de idioma a partir do texto.
 	- Analisar o sentimento do texto.
 	- Extrair frases-chave, entidades e entidades vinculadas.
+
+# Provisionar um recurso de Linguagem de IA do Azure
