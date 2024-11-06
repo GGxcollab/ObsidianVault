@@ -104,3 +104,5 @@ https://<endpoint>/computervision/imageanalysis:analyze?features=read&...
     }
 }
 ```
+
+![[Pasted image 20241106112740.png]]
