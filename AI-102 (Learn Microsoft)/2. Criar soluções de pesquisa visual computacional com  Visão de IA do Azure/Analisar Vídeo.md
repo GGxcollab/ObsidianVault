@@ -29,11 +29,13 @@
 	- **Idioma** . Se sua organização usa terminologia específica que pode não ser de uso comum, você pode treinar um modelo personalizado para detectá-la e transcrevê-la.
 	- **Marcas** . Você pode treinar um modelo para reconhecer nomes específicos como marcas, por exemplo, para identificar produtos, projetos ou empresas que sejam relevantes para o seu negócio.Os widgets usados no portal do Azure Video Indexer para reproduzir, analisar e editar vídeos podem ser incorporados em suas próprias interfaces HTML personalizadas. Você pode usar essa técnica para compartilhar insights de vídeos específicos com outras pessoas sem dar a elas acesso total à sua conta no portal do Azure Video Indexer.
 
-# PINTAO
+# Use widgets e APIs do Video 
 
 Embora você possa executar todas as tarefas de análise de vídeo no portal do Azure Video Indexer, você pode querer incorporar o serviço em aplicativos personalizados. Há duas maneiras de fazer isso.
 
-# Widgets do Indexador de Vídeo do Azure
+## Widgets do Indexador de Vídeo do Azure
 
 Os widgets usados no portal do Azure Video Indexer para reproduzir, analisar e editar vídeos podem ser incorporados em suas próprias interfaces HTML personalizadas. Você pode usar essa técnica para compartilhar insights de vídeos específicos com outras pessoas sem dar a elas acesso total à sua conta no portal do Azure Video Indexer.
+![[Pasted image 20241106150712.png]]
 
+# API do Indexador de Vídeo do Azure
