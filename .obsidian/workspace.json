@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -165,8 +164,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37c5462715c8244a",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
+    "AI-102 (Learn Microsoft)/3. Desenvolver",
     "Pasted image 20241106152304.png",
     "Pasted image 20241106150712.png",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028155921.png",
@@ -186,7 +186,6 @@
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241031142948.png",
     "AI-102 (Learn Microsoft)/imagens/Pasted image 20241031110014.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241030135255.png",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure",
     "AI-102 (Learn Microsoft)/Sem título.md",
