@@ -49,3 +49,7 @@ https://api.videoindexer.ai/Auth/<location>/Accounts/<accountId>/AccessToken
 - Você pode então usar seu token para consumir a API REST e automatizar tarefas de indexação de vídeo, criando projetos, recuperando insights e criando ou excluindo modelos personalizados.
 
 - Por exemplo, uma chamada GET para `https://api.videoindexer.ai/<location>/Accounts/<accountId>/Customization/CustomLogos/Logos/<logoId>?<accessToken>`o endpoint REST retorna o logotipo especificado. Em outro exemplo, você pode enviar uma solicitação GET para `https://api.videoindexer.ai/<location>/Accounts/<accountId>/Videos?<accessToken>`, que retorna detalhes de vídeos em sua conta, semelhante ao seguinte exemplo JSON:
+
+**JSON**
+```
+```
