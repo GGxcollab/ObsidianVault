@@ -87,3 +87,4 @@ https://api.videoindexer.ai/Auth/<location>/Accounts/<accountId>/AccessToken
 Os modelos do Azure Resource Manager (ARM) estão disponíveis para criar o recurso Azure AI Video Indexer na sua assinatura, com base nos parâmetros especificados no arquivo de modelo.
 
 Para obter uma lista completa de APIs disponíveis, consulte o [Portal do desenvolvedor do Video Indexer](https://api-portal.videoindexer.ai/) .
+![[Pasted image 20241106152304.png]]
