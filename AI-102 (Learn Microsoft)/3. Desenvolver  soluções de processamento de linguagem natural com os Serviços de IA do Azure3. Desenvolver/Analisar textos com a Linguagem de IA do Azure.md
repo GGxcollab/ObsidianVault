@@ -30,6 +30,6 @@ Para utilizar a Linguagem de IA do Azure para analisar texto, você deve provisi
 
 Após o provisionamento de um recurso adequado na sua assinatura do Azure, você pode utilizar seu **ponto de extremidade** e uma de suas **chaves** para chamar as APIs da Linguagem de IA do Azure a partir do seu código. Você pode chamar as APIs de Linguagem de IA do Azure enviando solicitações no formato JSON para a interface REST ou usando qualquer um dos SDKs de programação específicos por linguagem.
 
->[Observação
+>[!NOTE] Observação
+>Os exemplos de código nas unidades subsequentes neste módulo mostram as solicitações JSON e as respostas trocadas com a interface REST. Ao usar um SDK, as solicitações JSON são abstraídas por objetos e métodos apropriados que encapsulam os mesmos valores de dados. Você terá a oportunidade de experimentar o SDK para C# ou Python por conta própria no exercício posterior do módulo.
 
-Os exemplos de código nas unidades subsequentes neste módulo mostram as solicitações JSON e as respostas trocadas com a interface REST. Ao usar um SDK, as solicitações JSON são abstraídas por objetos e métodos apropriados que encapsulam os mesmos valores de dados. Você terá a oportunidade de experimentar o SDK para C# ou Python por conta própria no exercício posterior do módulo.
