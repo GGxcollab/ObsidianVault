@@ -20,3 +20,4 @@
 	    - A chamada de função inicial retorna uma ID de operação assíncrona, que deve ser usada em uma chamada subsequente para recuperar os resultados.
 	    - Os exemplos incluem: recibos, artigos e faturas.
 - Você pode acessar ambas as tecnologias por meio da API REST ou de uma biblioteca de clientes. Neste módulo, vamos nos concentrar no recurso OCR na **Análise de Imagem**. Se você quiser saber mais sobre **Informação de Documentos**, [a leitura deste módulo](https://learn.microsoft.com/pt-br/training/modules/use-prebuilt-form-recognizer-models/) fornecerá uma boa introdução.
+# Usar a API de Leitura
