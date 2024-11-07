@@ -369,7 +369,7 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 
 - A vinculação de entidades pode ser usada para desambiguar entidades de mesmo nome ao referenciar um artigo em uma base de dados de conhecimento. A Wikipédia fornece a base de dados de conhecimento para o serviço de Análise de Texto. Os links de artigo específicos são determinados com base no contexto da entidade dentro do texto.
 
-Por exemplo, "Eu vi Vênus iluminado no céu" está associado ao link [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus); enquanto "Vênus, a Deusa da beleza" está associado a [https://en.wikipedia.org/wiki/Venus_(mythology)](https://en.wikipedia.org/wiki/Venus_(mythology)).
+- Por exemplo, "Eu vi Vênus iluminado no céu" está associado ao link [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus); enquanto "Vênus, a Deusa da beleza" está associado a [https://en.wikipedia.org/wiki/Venus_(mythology)](https://en.wikipedia.org/wiki/Venus_(mythology)).
 
 - Assim como acontece com todas as funções de Linguagem de IA do Azure, você pode enviar um ou mais documentos para análise:
 
