@@ -364,3 +364,5 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 ```
 
 - Para obter mais informações sobre entidades, consulte o módulo [Criação de um modelo de compreensão da linguagem coloquial](https://learn.microsoft.com/pt-br/training/modules/build-language-understanding-model/).
+# Extrair entidades vinculadas
+- 
