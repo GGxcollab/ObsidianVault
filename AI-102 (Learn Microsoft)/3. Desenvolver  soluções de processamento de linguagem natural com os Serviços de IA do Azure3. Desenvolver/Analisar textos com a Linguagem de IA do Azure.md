@@ -9,17 +9,12 @@
 	- Extrair frases-chave, entidades e entidades vinculadas.
 
 # Provisionar um recurso de Linguagem de IA do Azure
--A Linguagem de IA do Azure foi projetada para ajudar você a extrair informações do texto. Ele fornece funcionalidade que você pode usar para:
-
-- _Detecção de idioma_ – determinar o idioma no qual o texto está escrito.
-    
-- _Extração de frases-chave_ – identificar palavras e frases importantes no texto que indicam os pontos principais.
-    
-- _Análise de sentimento_ – quantificar o quanto o texto é positivo ou negativo.
-    
-- _Reconhecimento de entidade nomeada_ – detectar referências a entidades, incluindo pessoas, locais, períodos, organizações e muito mais.
-    
-- _Vinculação de entidade_ – identificar entidades específicas fornecendo links de referência para artigos da Wikipédia.
+- A Linguagem de IA do Azure foi projetada para ajudar você a extrair informações do texto. Ele fornece funcionalidade que você pode usar para:
+	- _Detecção de idioma_ – determinar o idioma no qual o texto está escrito.
+	- _Extração de frases-chave_ – identificar palavras e frases importantes no texto que indicam os pontos principais.
+	- _Análise de sentimento_ – quantificar o quanto o texto é positivo ou negativo.
+	- _Reconhecimento de entidade nomeada_ – detectar referências a entidades, incluindo pessoas, locais, períodos, organizações e muito mais.
+	- _Vinculação de entidade_ – identificar entidades específicas fornecendo links de referência para artigos da Wikipédia.
     
     ![Diagram showing an Azure AI Language resource performing language detection, key phrase extraction, sentiment analysis, named entity recognition, and entity linking.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/analyze-text-ai-language/media/text-analytics-resource.png)
     
