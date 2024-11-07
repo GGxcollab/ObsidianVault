@@ -63,8 +63,7 @@ Após o provisionamento de um recurso adequado na sua assinatura do Azure, você
 
 - O serviço retornará uma resposta JSON que contém um resultado para cada **documento** no corpo da solicitação, incluindo o idioma previsto e um valor que indica o nível de confiança da previsão. O nível de confiança é um valor que varia de 0 a 1 com valores mais próximos de 1 sendo um nível de confiança mais alto. Aqui está um exemplo de resposta JSON padrão que mapeia para o JSON da solicitação acima.
 
-JSONCopiar
-
+**JSON**
 ```
 {   "kind": "LanguageDetectionResults",
     "results": {
@@ -95,12 +94,11 @@ JSONCopiar
 
 ```
 
-Em nosso exemplo, todos os idiomas mostram uma confiança de 1, principalmente porque o texto é relativamente simples e fácil de identificar a linguagem.
+- Em nosso exemplo, todos os idiomas mostram uma confiança de 1, principalmente porque o texto é relativamente simples e fácil de identificar a linguagem.
 
-Se você apresentar um documento com conteúdo multilíngue, o serviço se comportará de um modo um pouco diferente. O conteúdo de idioma misto dentro do mesmo documento retorna o idioma com a representação maior no conteúdo, mas com uma classificação positiva inferior, refletindo a intensidade marginal dessa avaliação. No exemplo a seguir, a entrada é uma mistura de inglês, espanhol e francês. O analisador usa a análise estatística do texto para determinar o idioma _predominante_.
+- Se você apresentar um documento com conteúdo multilíngue, o serviço se comportará de um modo um pouco diferente. O conteúdo de idioma misto dentro do mesmo documento retorna o idioma com a representação maior no conteúdo, mas com uma classificação positiva inferior, refletindo a intensidade marginal dessa avaliação. No exemplo a seguir, a entrada é uma mistura de inglês, espanhol e francês. O analisador usa a análise estatística do texto para determinar o idioma _predominante_.
 
-JSONCopiar
-
+**JSON**
 ```
 {
   "documents": [
@@ -114,8 +112,7 @@ JSONCopiar
 
 O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 
-JSONCopiar
-
+**JSON**
 ```
 {
     "documents": [
@@ -134,10 +131,9 @@ JSONCopiar
 }
 ```
 
-A última condição a considerar é quando há ambiguidade no conteúdo do idioma. O cenário poderá acontecer se você enviar um conteúdo textual que o analisador não é capaz de analisar, por exemplo, devido a problemas de codificação de caractere ao converter o texto em uma variável de cadeia de caracteres. Como resultado, a resposta para o nome do idioma e o código ISO indicará (desconhecido) e o valor da pontuação será retornado como `0`. O exemplo de código a seguir mostra o aspecto da resposta.
+- A última condição a considerar é quando há ambiguidade no conteúdo do idioma. O cenário poderá acontecer se você enviar um conteúdo textual que o analisador não é capaz de analisar, por exemplo, devido a problemas de codificação de caractere ao converter o texto em uma variável de cadeia de caracteres. Como resultado, a resposta para o nome do idioma e o código ISO indicará (desconhecido) e o valor da pontuação será retornado como `0`. O exemplo de código a seguir mostra o aspecto da resposta.
 
-JSONCopiar
-
+**JSON**
 ```
 {
     "documents": [
