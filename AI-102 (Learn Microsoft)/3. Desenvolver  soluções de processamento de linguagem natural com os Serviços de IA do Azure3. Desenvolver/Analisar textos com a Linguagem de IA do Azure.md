@@ -286,4 +286,82 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 	- Se as classificações de frase incluírem apenas as negativas e neutras, o sentimento geral será negativo.
 	- Se as classificações de frase incluírem as positivas e negativas, o sentimento geral será misto.
 # Extrair entidades
-- 
+- O Reconhecimento de Entidade Nomeada identifica as entidades mencionadas no texto. As entidades são agrupadas em categorias e subcategorias, por exemplo:
+	- Pessoa
+	- Localização
+	- Datetime
+	- Organização
+	- Endereço
+	- Email
+	- URL
+
+ Observação
+
+Para obter uma lista completa de categorias, consulte a [documentação](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/named-entity-recognition/concepts/named-entity-categories?tabs=ga-api).
+
+- A entrada para o reconhecimento de entidade é semelhante à entrada para as outras funções de API de Linguagem de IA do Azure:
+
+**JSON**
+```
+{
+  "kind": "EntityRecognition",
+  "parameters": {
+    "modelVersion": "latest"
+  },
+  "analysisInput": {
+    "documents": [
+      {
+        "id": "1",
+        "language": "en",
+        "text": "Joe went to London on Saturday"
+      }
+    ]
+  }
+}
+```
+
+- A resposta inclui uma lista de entidades categorizadas encontradas em cada documento:
+
+**JSON**
+```
+{
+    "kind": "EntityRecognitionResults",
+     "results": {
+          "documents":[
+              {
+                  "entities":[
+                  {
+                    "text":"Joe",
+                    "category":"Person",
+                    "offset":0,
+                    "length":3,
+                    "confidenceScore":0.62
+                  },
+                  {
+                    "text":"London",
+                    "category":"Location",
+                    "subcategory":"GPE",
+                    "offset":12,
+                    "length":6,
+                    "confidenceScore":0.88
+                  },
+                  {
+                    "text":"Saturday",
+                    "category":"DateTime",
+                    "subcategory":"Date",
+                    "offset":22,
+                    "length":8,
+                    "confidenceScore":0.8
+                  }
+                ],
+                "id":"1",
+                "warnings":[]
+              }
+          ],
+          "errors":[],
+          "modelVersion":"2021-01-15"
+    }
+}
+```
+
+- Para obter mais informações sobre entidades, consulte o módulo [Criação de um modelo de compreensão da linguagem coloquial](https://learn.microsoft.com/pt-br/training/modules/build-language-understanding-model/).
