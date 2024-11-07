@@ -365,4 +365,67 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 
 - Para obter mais informações sobre entidades, consulte o módulo [Criação de um modelo de compreensão da linguagem coloquial](https://learn.microsoft.com/pt-br/training/modules/build-language-understanding-model/).
 # Extrair entidades vinculadas
-- 
+- Em alguns casos, o mesmo nome pode ser aplicável a mais de uma entidade. Por exemplo, uma instância da palavra "Vênus" refere-se ao planeta ou à deusa da mitologia?
+
+- A vinculação de entidades pode ser usada para desambiguar entidades de mesmo nome ao referenciar um artigo em uma base de dados de conhecimento. A Wikipédia fornece a base de dados de conhecimento para o serviço de Análise de Texto. Os links de artigo específicos são determinados com base no contexto da entidade dentro do texto.
+
+Por exemplo, "Eu vi Vênus iluminado no céu" está associado ao link [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus); enquanto "Vênus, a Deusa da beleza" está associado a [https://en.wikipedia.org/wiki/Venus_(mythology)](https://en.wikipedia.org/wiki/Venus_(mythology)).
+
+- Assim como acontece com todas as funções de Linguagem de IA do Azure, você pode enviar um ou mais documentos para análise:
+
+**JSON**
+```
+
+{
+  "kind": "EntityLinking",
+  "parameters": {
+    "modelVersion": "latest"
+  },
+  "analysisInput": {
+    "documents": [
+      {
+        "id": "1",
+        "language": "en",
+        "text": "I saw Venus shining in the sky"
+      }
+    ]
+  }
+}
+```
+
+- A resposta inclui as entidades identificadas no texto juntamente com links para os artigos associados:
+
+**JSON**
+```
+{
+  "kind": "EntityLinkingResults",
+  "results": {
+    "documents": [
+      {
+        "id": "1",
+        "entities": [
+          {
+            "bingId": "89253af3-5b63-e620-9227-f839138139f6",
+            "name": "Venus",
+            "matches": [
+              {
+                "text": "Venus",
+                "offset": 6,
+                "length": 5,
+                "confidenceScore": 0.01
+              }
+            ],
+            "language": "en",
+            "id": "Venus",
+            "url": "https://en.wikipedia.org/wiki/Venus",
+            "dataSource": "Wikipedia"
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "errors": [],
+    "modelVersion": "2021-06-01"
+  }
+}
+```
