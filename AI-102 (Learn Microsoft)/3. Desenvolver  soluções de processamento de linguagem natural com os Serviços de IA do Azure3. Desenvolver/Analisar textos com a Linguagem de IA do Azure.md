@@ -286,3 +286,4 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 	- Se as classificações de frase incluírem apenas as negativas e neutras, o sentimento geral será negativo.
 	- Se as classificações de frase incluírem as positivas e negativas, o sentimento geral será misto.
 # Extrair entidades
+- 
