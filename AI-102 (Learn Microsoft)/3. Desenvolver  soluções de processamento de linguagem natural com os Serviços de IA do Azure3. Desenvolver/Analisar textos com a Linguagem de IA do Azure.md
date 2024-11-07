@@ -430,4 +430,4 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 }
 ```
 
-# 
+![[Pasted image 20241107151552.png]]
