@@ -151,3 +151,6 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
     "modelVersion": "2022-10-01"
 }
 ```
+
+# Extrair frases-chave
+- 
