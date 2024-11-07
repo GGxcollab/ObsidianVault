@@ -295,7 +295,7 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 	- Email
 	- URL
 
- >[!NOTE] Observação
+>[!NOTE] Observação
 >Para obter uma lista completa de categorias, consulte a [documentação](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/named-entity-recognition/concepts/named-entity-categories?tabs=ga-api).
 
 - A entrada para o reconhecimento de entidade é semelhante à entrada para as outras funções de API de Linguagem de IA do Azure:
