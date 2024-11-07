@@ -225,8 +225,7 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 
 - Por exemplo, você pode enviar um único documento para uma análise de sentimento como esta:
 
-JSON
-
+**JSON**
 ```
 {
   "kind": "SentimentAnalysis",
@@ -246,10 +245,9 @@ JSON
 
 ```
 
-A resposta do servidor pode se parecer com o seguinte:
+- A resposta do servidor pode se parecer com o seguinte:
 
-JSONCopiar
-
+**JSON*
 ```
 {
   "kind": "SentimentAnalysisResults",
@@ -285,11 +283,11 @@ JSONCopiar
 }
 ```
 
-O sentimento da frase baseia-se em pontuações de confiança para valores de classificação **positivos**, **negativos** e **neutros** entre zero e um.
+- O sentimento da frase baseia-se em pontuações de confiança para valores de classificação **positivos**, **negativos** e **neutros** entre zero e um.
 
-O sentimento geral do documento baseia-se em frases:
-
-- Se todas as frases forem neutras, o sentimento geral será neutro.
-- Se as classificações de sentenças incluírem apenas as positivas e neutras, o sentimento geral será positivo.
-- Se as classificações de frase incluírem apenas as negativas e neutras, o sentimento geral será negativo.
-- Se as classificações de frase incluírem as positivas e negativas, o sentimento geral será misto.
+- O sentimento geral do documento baseia-se em frases:
+	- Se todas as frases forem neutras, o sentimento geral será neutro.
+	- Se as classificações de sentenças incluírem apenas as positivas e neutras, o sentimento geral será positivo.
+	- Se as classificações de frase incluírem apenas as negativas e neutras, o sentimento geral será negativo.
+	- Se as classificações de frase incluírem as positivas e negativas, o sentimento geral será misto.
+# Extrair entidades
