@@ -217,3 +217,4 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 ```
 
 # Analisar sentimento
+- 
