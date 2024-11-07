@@ -37,3 +37,121 @@ Após o provisionamento de um recurso adequado na sua assinatura do Azure, você
 - Esse recurso é útil para conteúdo armazena esse texto arbitrário de coleção, onde o idioma é desconhecido. Outro cenário poderia envolver um bot de chat. Se um usuário iniciar uma sessão com o bot de chat, a detecção de idioma poderá ser usada para determinar qual idioma ele está usando e permitirá que você configure suas respostas de bot no idioma apropriado.
 - Você pode analisar os resultados dessa análise para determinar qual idioma é usado no documento de entrada. A resposta também retorna uma pontuação que reflete a confiança do modelo (um valor entre 0 e 1).
 - A detecção de idioma pode funcionar com documentos ou frases únicas. É importante observar que o tamanho do documento deve ter menos de 5.120 caracteres. O limite de tamanho é por documento e cada coleção é restrita a 1.000 itens (IDs). Uma amostra de um conteúdo JSON formatado corretamente que você pode enviar para o serviço no corpo da solicitação é exibida aqui, incluindo uma coleção de **documentos**, cada um contendo uma **ID** exclusiva e o **texto**a ser analisado. Opcionalmente, você pode fornecer uma **countryHint** para melhorar o desempenho da previsão.
+
+**JSON**
+```
+{
+    "kind": "LanguageDetection",
+    "parameters": {
+        "modelVersion": "latest"
+    },
+    "analysisInput":{
+        "documents":[
+              {
+                "id": "1",
+                "text": "Hello world",
+                "countryHint": "US"
+              },
+              {
+                "id": "2",
+                "text": "Bonjour tout le monde"
+              }
+        ]
+    }
+}
+```
+
+- O serviço retornará uma resposta JSON que contém um resultado para cada **documento** no corpo da solicitação, incluindo o idioma previsto e um valor que indica o nível de confiança da previsão. O nível de confiança é um valor que varia de 0 a 1 com valores mais próximos de 1 sendo um nível de confiança mais alto. Aqui está um exemplo de resposta JSON padrão que mapeia para o JSON da solicitação acima.
+
+JSONCopiar
+
+```
+{   "kind": "LanguageDetectionResults",
+    "results": {
+        "documents": [
+          {
+            "detectedLanguage": {
+              "confidenceScore": 1,
+              "iso6391Name": "en",
+              "name": "English"
+            },
+            "id": "1",
+            "warnings": []
+          },
+          {
+            "detectedLanguage": {
+              "confidenceScore": 1,
+              "iso6391Name": "fr",
+              "name": "French"
+            },
+            "id": "2",
+            "warnings": []
+          }
+        ],
+        "errors": [],
+        "modelVersion": "2022-10-01"
+    }
+}
+
+```
+
+Em nosso exemplo, todos os idiomas mostram uma confiança de 1, principalmente porque o texto é relativamente simples e fácil de identificar a linguagem.
+
+Se você apresentar um documento com conteúdo multilíngue, o serviço se comportará de um modo um pouco diferente. O conteúdo de idioma misto dentro do mesmo documento retorna o idioma com a representação maior no conteúdo, mas com uma classificação positiva inferior, refletindo a intensidade marginal dessa avaliação. No exemplo a seguir, a entrada é uma mistura de inglês, espanhol e francês. O analisador usa a análise estatística do texto para determinar o idioma _predominante_.
+
+JSONCopiar
+
+```
+{
+  "documents": [
+    {
+      "id": "1",
+      "text": "Hello, I would like to take a class at your University. ¿Se ofrecen clases en español? Es mi primera lengua y más fácil para escribir. Que diriez-vous des cours en français?"
+    }
+  ]
+}
+```
+
+O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
+
+JSONCopiar
+
+```
+{
+    "documents": [
+        {
+            "id": "1",
+            "detectedLanguage": {
+                "name": "Spanish",
+                "iso6391Name": "es",
+                "confidenceScore": 0.9375
+            },
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-10-01"
+}
+```
+
+A última condição a considerar é quando há ambiguidade no conteúdo do idioma. O cenário poderá acontecer se você enviar um conteúdo textual que o analisador não é capaz de analisar, por exemplo, devido a problemas de codificação de caractere ao converter o texto em uma variável de cadeia de caracteres. Como resultado, a resposta para o nome do idioma e o código ISO indicará (desconhecido) e o valor da pontuação será retornado como `0`. O exemplo de código a seguir mostra o aspecto da resposta.
+
+JSONCopiar
+
+```
+{
+    "documents": [
+        {
+            "id": "1",
+            "detectedLanguage": {
+                "name": "(Unknown)",
+                "iso6391Name": "(Unknown)",
+                "confidenceScore": 0.0
+            },
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-10-01"
+}
+```
