@@ -5,3 +5,4 @@
 	- Criar, testar, publicar e consumir uma base de conhecimento.
 	- Implemente conversa com várias rodadas e aprendizado ativo.
 	- Crie um bot de resposta às perguntas para interagir utilizando linguagem natural.
+# Entender respostas às perguntas
