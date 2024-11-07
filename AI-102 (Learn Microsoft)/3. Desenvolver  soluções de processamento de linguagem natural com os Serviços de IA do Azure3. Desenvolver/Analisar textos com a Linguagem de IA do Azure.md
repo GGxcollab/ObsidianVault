@@ -154,13 +154,10 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 
 # Extrair frases-chave
 - A extração de frases-chave é o processo de avaliar o texto de documentos e identificar os principais pontos relacionados ao contexto dos documentos.
-
 - A extração de frases-chave funciona melhor para documentos maiores (o tamanho máximo que pode ser analisado é de 5.120 caracteres).
-
 - Assim como na detecção de idioma, a interface REST permite que você envie um ou mais documentos para análise.
 
-JSON
-
+**JSON**
 ```
 {
     "kind": "KeyPhraseExtraction",
@@ -186,10 +183,9 @@ JSON
 }
 ```
 
-A resposta contém uma lista de frases-chave detectadas em cada documentação:
+- A resposta contém uma lista de frases-chave detectadas em cada documentação:
 
-JSONCopiar
-
+**JSON**
 ```
 
 {
@@ -219,3 +215,5 @@ JSONCopiar
     }
 }
 ```
+
+# Analisar 
