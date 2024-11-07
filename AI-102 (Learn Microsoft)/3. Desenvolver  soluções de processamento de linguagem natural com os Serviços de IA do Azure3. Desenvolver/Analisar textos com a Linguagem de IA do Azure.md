@@ -217,4 +217,79 @@ O exemplo a seguir mostra uma resposta para esse exemplo de vários idiomas.
 ```
 
 # Analisar sentimento
-- 
+- A análise de sentimento é usada para avaliar o quanto um documento de texto é positivo ou negativo, o que pode ser útil em várias cargas de trabalho, como:
+	- Avaliar um filme, um livro ou um produto ao quantificar o sentimento com base em opiniões.
+	- Priorizar respostas do serviço de atendimento ao consumidor para a correspondência recebida por email ou mensagens de mídias sociais.
+
+- Ao utilizar a Linguagem de IA do Azure para avaliar o sentimento, a resposta inclui o sentimento da documentação de modo geral e o sentimento da sentença individual para cada documento enviado para o serviço.
+
+- Por exemplo, você pode enviar um único documento para uma análise de sentimento como esta:
+
+JSON
+
+```
+{
+  "kind": "SentimentAnalysis",
+  "parameters": {
+    "modelVersion": "latest"
+  },
+  "analysisInput": {
+    "documents": [
+      {
+        "id": "1",
+        "language": "en",
+        "text": "Good morning!"
+      }
+    ]
+  }
+}
+
+```
+
+A resposta do servidor pode se parecer com o seguinte:
+
+JSONCopiar
+
+```
+{
+  "kind": "SentimentAnalysisResults",
+  "results": {
+    "documents": [
+      {
+        "id": "1",
+        "sentiment": "positive",
+        "confidenceScores": {
+          "positive": 0.89,
+          "neutral": 0.1,
+          "negative": 0.01
+        },
+        "sentences": [
+          {
+            "sentiment": "positive",
+            "confidenceScores": {
+              "positive": 0.89,
+              "neutral": 0.1,
+              "negative": 0.01
+            },
+            "offset": 0,
+            "length": 13,
+            "text": "Good morning!"
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+  }
+}
+```
+
+O sentimento da frase baseia-se em pontuações de confiança para valores de classificação **positivos**, **negativos** e **neutros** entre zero e um.
+
+O sentimento geral do documento baseia-se em frases:
+
+- Se todas as frases forem neutras, o sentimento geral será neutro.
+- Se as classificações de sentenças incluírem apenas as positivas e neutras, o sentimento geral será positivo.
+- Se as classificações de frase incluírem apenas as negativas e neutras, o sentimento geral será negativo.
+- Se as classificações de frase incluírem as positivas e negativas, o sentimento geral será misto.
