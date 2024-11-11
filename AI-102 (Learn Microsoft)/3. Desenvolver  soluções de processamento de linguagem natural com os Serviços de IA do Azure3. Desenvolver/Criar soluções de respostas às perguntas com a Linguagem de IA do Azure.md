@@ -29,3 +29,5 @@
 | **Resposta**                  | A resposta é uma resposta estática a uma pergunta conhecida                                                                                          | A resposta indica a intenção mais provável e entidades referenciadas                                                                       |
 | **Lógica do cliente**         | O aplicativo cliente normalmente apresenta a resposta para o usuário                                                                                 | O aplicativo cliente é responsável por executar a ação apropriada com base na intenção detectada                                           |
 - Os dois serviços são, na verdade, complementares. Você pode criar soluções abrangentes de linguagem natural que combinem modelos de reconhecimento de linguagem e bases de conhecimento de resposta às perguntas.
+# Como criar uma base de dados de conhecimento
+- 
