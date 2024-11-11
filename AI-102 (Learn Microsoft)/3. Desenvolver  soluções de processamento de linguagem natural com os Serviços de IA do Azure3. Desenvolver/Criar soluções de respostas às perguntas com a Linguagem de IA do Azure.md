@@ -30,4 +30,24 @@
 | **Lógica do cliente**         | O aplicativo cliente normalmente apresenta a resposta para o usuário                                                                                 | O aplicativo cliente é responsável por executar a ação apropriada com base na intenção detectada                                           |
 - Os dois serviços são, na verdade, complementares. Você pode criar soluções abrangentes de linguagem natural que combinem modelos de reconhecimento de linguagem e bases de conhecimento de resposta às perguntas.
 # Como criar uma base de dados de conhecimento
-- 
+- Para criar uma solução de resposta às perguntas, você pode usar a API REST ou SDK para escrever um código que defina, treine e publique a base de conhecimento. Entretanto, é mais comum utilizar a interface da Web do [Estúdio de Linguagem](https://language.azure.com/) para definir e gerenciar uma base de conhecimentos.
+
+- Para criar uma base de dados de conhecimento, você deve:
+	1. Entre no portal do Azure.
+	    
+	2. Pesquise **Serviços de IA do Azure** usando o campo de pesquisa na parte superior do portal.
+	    
+	3. Selecione **Criar** no recurso **Serviço de Linguagem**.
+	    
+	4. Criar um recurso na sua assinatura do Azure:
+	    - Habilite o recurso de _Resposta às perguntas_.
+	    - Criar ou selecionar um recurso **Pesquisa de IA do Azure** para hospedar o índice da base de dados de conhecimento.
+	    
+	1. No Estúdio de Linguagem, selecione seu recurso de Linguagem de IA do Azure e crie um projeto de **Resposta às perguntas personalizado**.
+	    
+	6. Adicione uma ou mais fontes de dados para preencher a base de conhecimento:
+	    
+	    - URLs para páginas da web contendo perguntas frequentes.
+	    - Arquivos contendo texto estruturado a partir do qual perguntas e respostas podem ser derivadas.
+	    - Conjuntos de dados de _bate-papo_ predefinidos que incluem perguntas e respostas comuns de conversas em um estilo específico.
+	7. Editar os pares de perguntas e respostas no portal.
