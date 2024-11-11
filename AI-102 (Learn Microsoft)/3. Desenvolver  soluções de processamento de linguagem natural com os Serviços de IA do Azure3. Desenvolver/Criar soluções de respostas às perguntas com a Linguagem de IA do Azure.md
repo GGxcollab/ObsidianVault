@@ -35,9 +35,9 @@
 - Para criar uma base de dados de conhecimento, você deve:
 	1. Entre no portal do Azure.
 	    
-	2. Pesquise **Serviços de IA do Azure** usando o campo de pesquisa na parte superior do portal.
+	2. Pesquise **Azure AI Services**usando o campo de pesquisa na parte superior do portal.
 	    
-	3. Selecione **Criar** no recurso **Serviço de Linguagem**.
+	3. Selecione **Criar** no recurso **Language Service**.
 	    
 	4. Criar um recurso na sua assinatura do Azure:
 	    - Habilite o recurso de _Resposta às perguntas_.
