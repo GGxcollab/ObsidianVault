@@ -63,12 +63,11 @@
 - Ao definir um prompt de acompanhamento para a conversa com várias rodadas, você pode vincular a uma resposta existente na base de dados de conhecimento ou definir uma nova resposta especificamente para o acompanhamento. Você também pode restringir a resposta vinculada para que ela seja exibida apenas no contexto da conversa com várias rodadas iniciada pela pergunta original.
 # Testar e publicar uma base de conhecimento
 - Depois de definir uma base de dados de conhecimento, você pode treinar seu modelo de linguagem natural e testá-lo antes de publicá-lo para uso em um aplicativo ou bot.
-
-## Testar uma base de dados de conhecimento
+### Testar uma base de dados de conhecimento
 - Você pode testar sua base de conhecimento interativamente no Language Studio, enviando perguntas e revisando as respostas que são retornadas. Você pode inspecionar os resultados para exibir suas pontuações de confiança, bem como outras respostas potenciais.
 
 [![Screenshot of the test pane of the custom question answering project in the Language studio.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/test-new-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/test-new.png#lightbox)
+### Implantar uma base de conhecimento
+- Quando estiver satisfeito com o desempenho de sua base de conhecimento, você pode implementá-la em um terminal REST que os aplicativos cliente podem usar para enviar perguntas e receber respostas. Você deve implantar diretamente do Estúdio de Linguagem.
 
-## Implantar uma base de conhecimento
-
-Quando estiver satisfeito com o desempenho de sua base de conhecimento, você pode implementá-la em um terminal REST que os aplicativos cliente podem usar para enviar perguntas e receber respostas. Você deve implantar diretamente do Estúdio de Linguagem.
+# Usar uma 
