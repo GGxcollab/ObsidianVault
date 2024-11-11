@@ -22,22 +22,12 @@
 - Uma base de conhecimento de resposta às perguntas é uma forma de modelo de linguagem, o que levanta a questão de quando usar a resposta às perguntas e quando utilizar as capacidades de _compreensão de linguagem coloquial_ da Linguagem de IA do Azure.
 - Os dois são semelhantes, já que ambos permitem que você defina um modelo de linguagem que pode ser consultado usando expressões de linguagem natural. No entanto, há algumas diferenças nos casos de uso que eles foram projetados para resolver, conforme mostrado na seguinte tabela:
 
-Expandir a tabela
-
-||||
-|---|---|---|
-|Padrão de uso|O usuário envia uma pergunta, esperando uma resposta|O usuário envia um enunciado, esperando uma resposta ou uma ação apropriada|
-|Processamento de consulta|O serviço usa o reconhecimento de linguagem natural para fazer a correspondência de a uma pergunta com uma resposta na base de dados de conhecimento|O serviço usa o reconhecimento de linguagem natural para interpretar o enunciado, correspondê-lo a uma intenção e identificar as entidades|
-|Resposta|A resposta é uma resposta estática a uma pergunta conhecida|A resposta indica a intenção mais provável e entidades referenciadas|
-|Lógica do cliente|O aplicativo cliente normalmente apresenta a resposta para o usuário|O aplicativo cliente é responsável por executar a ação apropriada com base na intenção detectada|
-
-
 |                           | Respostas às perguntas                                                                                                                               | Reconhecimento vocal                                                                                                                       |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Padrão de uso             | O usuário envia uma pergunta, esperando uma resposta                                                                                                 | O usuário envia um enunciado, esperando uma resposta ou uma ação apropriada                                                                |
 | Processamento de consulta | O serviço usa o reconhecimento de linguagem natural para fazer a correspondência de a uma pergunta com uma resposta na base de dados de conhecimento | O serviço usa o reconhecimento de linguagem natural para interpretar o enunciado, correspondê-lo a uma intenção e identificar as entidades |
 | Resposta                  | A resposta é uma resposta estática a uma pergunta conhecida                                                                                          | A resposta indica a intenção mais provável e entidades referenciadas                                                                       |
-|                           |                                                                                                                                                      |                                                                                                                                            |
+| Lógica do cliente         | O aplicativo cliente normalmente apresenta a resposta para o usuário                                                                                 | O aplicativo cliente é responsável por executar a ação apropriada com base na intenção detectada                                           |
 
 
 
