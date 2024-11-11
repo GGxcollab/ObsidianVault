@@ -71,4 +71,52 @@
 - Quando estiver satisfeito com o desempenho de sua base de conhecimento, você pode implementá-la em um terminal REST que os aplicativos cliente podem usar para enviar perguntas e receber respostas. Você deve implantar diretamente do Estúdio de Linguagem.
 
 # Usar uma base de dados de conhecimento
-- 
+- Para consumir a base de conhecimento publicada, você pode usar a interface REST.
+- O corpo da solicitação mínima para a função contém uma pergunta, como esta:
+
+**JSON**
+```
+{
+  "question": "What do I need to do to cancel a reservation?",
+  "top": 2,
+  "scoreThreshold": 20,
+  "strictFilters": [
+    {
+      "name": "category",
+      "value": "api"
+    }
+  ]
+}
+```
+
+|Propriedade|Descrição|
+|---|---|
+|pergunta|Pergunta a ser enviada à base de dados de conhecimento.|
+|top|Número máximo de respostas que serão retornadas.|
+|scoreThreshold|Limite de pontuação para as respostas retornadas.|
+|strictFilters|Limite apenas às respostas que contêm os metadados especificados.|
+
+- A resposta inclui a pergunta correspondente mais próxima que foi encontrada na base de conhecimento, juntamente com a resposta associada, a pontuação de confiança e outros metadados sobre o par de pergunta e resposta:
+
+**JSON**
+```
+
+{
+  "answers": [
+    {
+      "score": 27.74823341616769,
+      "id": 20,
+      "answer": "Call us on 555 123 4567 to cancel a reservation.",
+      "questions": [
+        "How can I cancel a reservation?"
+      ],
+      "metadata": [
+        {
+          "name": "category",
+          "value": "api"
+        }
+      ]
+    }
+  ]
+}
+```
