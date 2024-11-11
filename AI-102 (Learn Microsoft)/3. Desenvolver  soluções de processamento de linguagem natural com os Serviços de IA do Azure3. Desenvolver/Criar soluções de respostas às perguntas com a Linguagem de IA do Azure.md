@@ -61,3 +61,5 @@
 - Por exemplo, suponha que uma pergunta inicial para uma base de dados de conhecimento de reserva de viagem seja "Como posso cancelar uma reserva?". Uma reserva pode se referir a um hotel ou voo, portanto, um prompt de acompanhamento é necessário para esclarecer esse detalhe. A resposta pode consistir em um texto como "As políticas de cancelamento dependem do tipo de reserva" e incluir prompts de acompanhamento com links para respostas sobre como cancelar voos e hotéis.
 
 - Ao definir um prompt de acompanhamento para a conversa com várias rodadas, você pode vincular a uma resposta existente na base de dados de conhecimento ou definir uma nova resposta especificamente para o acompanhamento. Você também pode restringir a resposta vinculada para que ela seja exibida apenas no contexto da conversa com várias rodadas iniciada pela pergunta original.
+# Testar e publicar uma base de conhecimento
+- 
