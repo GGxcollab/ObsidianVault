@@ -172,4 +172,4 @@ JSONCopiar
 >[!NOTE] Observação
 >Para saber mais sobre sinônimos, confira [Melhorar a qualidade de resposta com sinônimos](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/tutorials/adding-synonyms).
 
-#
+![[Pasted image 20241111135736.png]]
