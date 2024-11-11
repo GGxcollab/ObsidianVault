@@ -70,4 +70,5 @@
 ### Implantar uma base de conhecimento
 - Quando estiver satisfeito com o desempenho de sua base de conhecimento, você pode implementá-la em um terminal REST que os aplicativos cliente podem usar para enviar perguntas e receber respostas. Você deve implantar diretamente do Estúdio de Linguagem.
 
-# Usar uma 
+# Usar uma base de dados de conhecimento
+- 
