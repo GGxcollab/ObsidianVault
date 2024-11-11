@@ -19,3 +19,4 @@
 >A capacidade de resposta às perguntas da Linguagem de IA do Azure é uma versão mais recente do **Serviço QnA**, que ainda existe como um serviço autônomo. Para saber como migrar uma base de dados de conheciment o do QnA Maker para a Linguagem de IA do Azure, consulte o [guia de instruções de migração](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/how-to/migrate-qnamaker).
 
 # Comparar as respostas às perguntas com a compreensão da Linguagem de IA do Azure
+- 
