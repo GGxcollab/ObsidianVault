@@ -21,3 +21,4 @@
 	- Usar componentes de entidade predefinidos.
 	- Treinar, testar, publicar e revisar um modelo.
 # Entender os recursos predefinidos do serviços de Linguagem de IA do Azure
+- 
