@@ -52,7 +52,7 @@
 
 	7. Editar os pares de perguntas e respostas no portal.
 # Implementar conversa com várias rodadas
-- Embora muitas vezes você possa criar uma base de dados de conhecimento eficaz que consiste em pares individuais de perguntas e respostas, às vezes talvez seja necessário fazer perguntas de acompanhamento para gerar mais informações de um usuário antes de apresentar uma resposta definitiva. Esse tipo de interação é conhecido como uma _conversa com várias rodadas_.
+- Embora muitas vezes você possa criar uma base de dados de conhecimento eficaz que consiste em pares individuais de perguntas e respostas, às vezes talvez seja necessário fazer perguntas de acompanhamento para gerar mais informações de um usuário antes de apresentar uma resposta definitiva. Esse tipo de interação é conhecido como uma _conversa com várias rodadas_ (_multi-round conversation_).
 
 ![A diagram showing a multi-turn conversation.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/multi-turn-conversation.png)
 
