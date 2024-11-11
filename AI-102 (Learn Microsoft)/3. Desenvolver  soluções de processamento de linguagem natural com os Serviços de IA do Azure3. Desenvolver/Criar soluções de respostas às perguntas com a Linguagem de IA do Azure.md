@@ -121,4 +121,54 @@
 }
 ```
 # Aprimorar o desempenho de respostar às perguntas
-- 
+- Depois de criar e testar uma base de conhecimento, você pode melhorar seu desempenho com _aprendizado ativo_ e definindo _sinônimos_.
+
+## Usar o aprendizado ativo
+- A aprendizagem ativa pode ajudar você a fazer aprimoramentos contínuos para melhorar a resposta correta às perguntas dos usuários ao longo do tempo. As pessoas geralmente fazem perguntas que são formuladas de forma diferente, mas que, no final das contas, têm o mesmo significado. O aprendizado ativo pode ajudar em situações como essa, pois habilita você a considerar perguntas alternativas para cada par de perguntas e respostas. O aprendizado ativo está habilitado por padrão.
+- Para utilizar o aprendizado ativo, você pode fazer o seguinte:
+
+	### Crie seus pares de perguntas e respostas
+Você deve criar pares de perguntas e respostas no Estúdio de Linguagem para o seu projeto. Você também pode importar um arquivo que contenha pares de perguntas e respostas para fazer upload em massa.
+
+[![A screenshot showing how to import a file with question and answer pairs.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/import-file-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/import-file.png#lightbox)
+
+### Analisar sugestões
+
+O aprendizado ativo começa então a oferecer perguntas alternativas para cada pergunta em seus pares de perguntas e respostas. Você deve acessar essa opção no painel de sugestões de revisão:
+
+[![A screenshot of the Review suggestions pane.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/review-suggestions-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/review-suggestions.png#lightbox)
+
+Você deve analisar e, em seguida, aceitar ou rejeitar essas frases alternativas sugeridas para cada pergunta, selecionando a marca de seleção ou o símbolo de exclusão ao lado da frase alternativa. Você pode aceitar ou rejeitar sugestões em massa usando a opção **Aceitar todas as sugestões** ou **Rejeitar todas as sugestões** na parte superior.
+
+Você também pode adicionar manualmente perguntas alternativas ao selecionar **Adicionar pergunta alternativa** para um par no painel Editar base de conhecimento:
+
+[![A screenshot showing the Add alternate question option on the Edit knowledge base pane.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/add-alternate-questions-manual-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/add-alternate-questions-manual.png#lightbox)
+
+ Observação
+
+Para obter mais informações sobre aprendizado ativo, consulte [Enriqueça seu projeto com aprendizado ativo](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/tutorials/active-learning).
+
+## Definir sinônimos
+
+Os sinônimos são úteis quando as perguntas enviadas pelos usuários podem incluir várias palavras diferentes para significar a mesma coisa. Por exemplo, um cliente de uma Agência de viagens pode se referir a uma "reserva" ou a "agendamento". Ao defini-los como sinônimos, o serviço de resposta a perguntas pode encontrar uma resposta apropriada, independentemente de qual termo um cliente individual usa.
+
+Para definir sinônimos, você deve usar a API REST para enviar sinônimos no seguinte formato JSON:
+
+JSONCopiar
+
+```
+{
+    "synonyms": [
+        {
+            "alterations": [
+                "reservation",
+                "booking"
+                ]
+        }
+    ]
+}
+```
+
+ Observação
+
+Para saber mais sobre sinônimos, confira [Melhorar a qualidade de resposta com sinônimos](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/tutorials/adding-synonyms).
