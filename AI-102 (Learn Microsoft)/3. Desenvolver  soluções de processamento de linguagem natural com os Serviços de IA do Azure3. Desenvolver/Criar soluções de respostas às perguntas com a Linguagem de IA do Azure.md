@@ -15,5 +15,7 @@
 	- Arquivos que contêm texto estruturado, como folhetos ou guias de usuário.
 	- Pares de perguntas e respostas de _bate-papo_ integrados que encapsulam trocas de conversação comuns.
 
- Observação
-A capacidade de resposta às perguntas da Linguagem de IA do Azure é uma versão mais recente do **Serviço QnA**, que ainda existe como um serviço autônomo. Para saber como migrar uma base de dados de conheciment o do QnA Maker para a Linguagem de IA do Azure, consulte o [guia de instruções de migração](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/how-to/migrate-qnamaker).
+>[!NOTE] Observação
+>A capacidade de resposta às perguntas da Linguagem de IA do Azure é uma versão mais recente do **Serviço QnA**, que ainda existe como um serviço autônomo. Para saber como migrar uma base de dados de conheciment o do QnA Maker para a Linguagem de IA do Azure, consulte o [guia de instruções de migração](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/how-to/migrate-qnamaker).
+
+# Comparar as respostas às perguntas com a comprrensão
