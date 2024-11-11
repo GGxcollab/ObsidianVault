@@ -125,9 +125,9 @@
 
 ## Usar o aprendizado ativo
 - A aprendizagem ativa pode ajudar você a fazer aprimoramentos contínuos para melhorar a resposta correta às perguntas dos usuários ao longo do tempo. As pessoas geralmente fazem perguntas que são formuladas de forma diferente, mas que, no final das contas, têm o mesmo significado. O aprendizado ativo pode ajudar em situações como essa, pois habilita você a considerar perguntas alternativas para cada par de perguntas e respostas. O aprendizado ativo está habilitado por padrão.
-- Para utilizar o aprendizado ativo, você pode fazer o seguinte:
 
-	### Crie seus pares de perguntas e respostas
+ Para utilizar o aprendizado ativo, você pode fazer o seguinte: 
+### Crie seus pares de perguntas e respostas
 Você deve criar pares de perguntas e respostas no Estúdio de Linguagem para o seu projeto. Você também pode importar um arquivo que contenha pares de perguntas e respostas para fazer upload em massa.
 
 [![A screenshot showing how to import a file with question and answer pairs.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/import-file-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/import-file.png#lightbox)
@@ -169,6 +169,5 @@ JSONCopiar
 }
 ```
 
- Observação
-
+>["NOTE] Observação
 Para saber mais sobre sinônimos, confira [Melhorar a qualidade de resposta com sinônimos](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/question-answering/tutorials/adding-synonyms).
