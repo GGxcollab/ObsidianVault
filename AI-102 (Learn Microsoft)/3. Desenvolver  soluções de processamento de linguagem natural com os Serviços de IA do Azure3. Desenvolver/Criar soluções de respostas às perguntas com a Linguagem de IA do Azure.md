@@ -89,12 +89,12 @@
 }
 ```
 
-|Propriedade|Descrição|
-|---|---|
-|pergunta|Pergunta a ser enviada à base de dados de conhecimento.|
-|top|Número máximo de respostas que serão retornadas.|
-|scoreThreshold|Limite de pontuação para as respostas retornadas.|
-|strictFilters|Limite apenas às respostas que contêm os metadados especificados.|
+| Propriedade    | Descrição                                                         |
+| -------------- | ----------------------------------------------------------------- |
+| pergunta       | Pergunta a ser enviada à base de dados de conhecimento.           |
+| top            | Número máximo de respostas que serão retornadas.                  |
+| scoreThreshold | Limite de pontuação para as respostas retornadas.                 |
+| strictFilters  | Limite apenas às respostas que contêm os metadados especificados. |
 
 - A resposta inclui a pergunta correspondente mais próxima que foi encontrada na base de conhecimento, juntamente com a resposta associada, a pontuação de confiança e outros metadados sobre o par de pergunta e resposta:
 
@@ -120,3 +120,5 @@
   ]
 }
 ```
+# Aprimorar o desempenho de respostar às perguntas
+- 
