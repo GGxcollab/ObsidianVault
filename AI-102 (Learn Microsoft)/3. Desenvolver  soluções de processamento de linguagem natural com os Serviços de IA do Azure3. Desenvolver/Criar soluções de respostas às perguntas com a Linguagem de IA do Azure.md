@@ -41,13 +41,13 @@
 	    
 	4. Criar um recurso na sua assinatura do Azure:
 	    - Habilite o recurso de _Resposta às perguntas_.
-	    - Criar ou selecionar um recurso **Pesquisa de IA do Azure** para hospedar o índice da base de dados de conhecimento.
+	    - Criar ou selecionar um recurso **Azure AI Search** para hospedar o índice da base de dados de conhecimento.
 	    
-	1. No Estúdio de Linguagem, selecione seu recurso de Linguagem de IA do Azure e crie um projeto de **Resposta às perguntas personalizado**.
+	5. No Estúdio de Linguagem, selecione seu recurso de Linguagem de IA do Azure e crie um projeto de **Resposta às perguntas personalizado** (**custom Question Answering**).
 	    
 	6. Adicione uma ou mais fontes de dados para preencher a base de conhecimento:
-	    
 	    - URLs para páginas da web contendo perguntas frequentes.
 	    - Arquivos contendo texto estruturado a partir do qual perguntas e respostas podem ser derivadas.
 	    - Conjuntos de dados de _bate-papo_ predefinidos que incluem perguntas e respostas comuns de conversas em um estilo específico.
+
 	7. Editar os pares de perguntas e respostas no portal.
