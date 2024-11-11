@@ -51,4 +51,13 @@
 	    - Conjuntos de dados de _bate-papo_ predefinidos que incluem perguntas e respostas comuns de conversas em um estilo específico.
 
 	7. Editar os pares de perguntas e respostas no portal.
-# i
+# Implementar conversa com várias rodadas
+- Embora muitas vezes você possa criar uma base de dados de conhecimento eficaz que consiste em pares individuais de perguntas e respostas, às vezes talvez seja necessário fazer perguntas de acompanhamento para gerar mais informações de um usuário antes de apresentar uma resposta definitiva. Esse tipo de interação é conhecido como uma _conversa com várias rodadas_.
+
+![A diagram showing a multi-turn conversation.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/create-question-answer-solution-ai-language/media/multi-turn-conversation.png)
+
+Você pode habilitar respostas multi-turn ao importar perguntas e respostas de uma página da web existente ou documento com base em sua estrutura, ou você pode definir explicitamente prompts de acompanhamento e respostas para perguntas e pares de respostas existentes.
+
+Por exemplo, suponha que uma pergunta inicial para uma base de dados de conhecimento de reserva de viagem seja "Como posso cancelar uma reserva?". Uma reserva pode se referir a um hotel ou voo, portanto, um prompt de acompanhamento é necessário para esclarecer esse detalhe. A resposta pode consistir em um texto como "As políticas de cancelamento dependem do tipo de reserva" e incluir prompts de acompanhamento com links para respostas sobre como cancelar voos e hotéis.
+
+Ao definir um prompt de acompanhamento para a conversa com várias rodadas, você pode vincular a uma resposta existente na base de dados de conhecimento ou definir uma nova resposta especificamente para o acompanhamento. Você também pode restringir a resposta vinculada para que ela seja exibida apenas no contexto da conversa com várias rodadas iniciada pela pergunta original.
