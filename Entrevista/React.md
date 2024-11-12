@@ -17,4 +17,5 @@
 - O **Babel** vai por trás das cortinas transformar a sintaxe do **JSX** em funções JavaScript, assim como no exemplo dado acima.
 - Exemplo usando **JSX**:
 	- ![[Pasted image 20241112153217.png]]
-- O JSX é o caminho mais comum usado pelos desenvolvedores, porem n
+- O JSX é o caminho mais comum usado pelos desenvolvedores, porem não é obrigatorio a adoção dele
+# Compone
