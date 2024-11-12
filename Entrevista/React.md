@@ -28,4 +28,4 @@
 	- Agora a versão de componentes usando classes:
 	- ![[Pasted image 20241112160510.png]]
 - **Diferença entre componentes criados por Funções ou Classes**
-	- Antes da Versão 16.8, a criação usando funções possui restrições, como por exemplo sem acesso ao Estado e Hooks,so que a partir dessa versão foram adicionados essas funcionalidades
+	- Antes da Versão 16.8, a criação usando funções possui restrições, como por exemplo sem acesso ao Estado e Hooks, so que a partir dessa versão essas funcionalidades foram adicionados essas 
