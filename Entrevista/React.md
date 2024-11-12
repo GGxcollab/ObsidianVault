@@ -11,3 +11,6 @@
 	- Em resumo, o Babel transforma o Js em Js, mais precisamente um Js que possa ser interpretado pela maioria dos navegadores
 - **Virtual DOM** é uma representação dos elementos do DOM que ficam salvos na memória
 	- ![[Pasted image 20241112152357.png]]
+- Exemplo:
+	- ![[Pasted image 20241112152613.png]]
+	- 
