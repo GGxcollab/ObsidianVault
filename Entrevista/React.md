@@ -23,4 +23,7 @@
 - Um componente pode ser representado por uma simples função JavaScript desde que atenda a dois requisitos:
 	- Aceitar um parametro e propriedade (properties)
 	- E retornar um React Element que é basicamente o JSX
-- Exemplo de criação de um componente
+- Exemplo de criação de um componente:
+	- ![[Pasted image 20241112160418.png]]
+	- Agora a versão de componentes usando classes:
+	- ![[Pasted image 20241112160510.png]]
