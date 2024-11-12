@@ -27,4 +27,5 @@
 	- ![[Pasted image 20241112160418.png]]
 	- Agora a versão de componentes usando classes:
 	- ![[Pasted image 20241112160510.png]]
-- **Diferença **
+- **Diferença entre componentes criados por Funções ou Classes**
+	- Antes da Vesão 
