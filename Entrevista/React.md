@@ -28,4 +28,4 @@
 	- Agora a versão de componentes usando classes:
 	- ![[Pasted image 20241112160510.png]]
 - **Diferença entre componentes criados por Funções ou Classes**
-	- Antes da Vesão 
+	- Antes da Versão 16.8, a criação usando funções possui restrições, como por e
