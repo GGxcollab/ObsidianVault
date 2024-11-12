@@ -31,3 +31,4 @@
 	- Antes da Versão 16.8, a criação usando funções possui restrições, como por exemplo sem acesso ao Estado e Hooks, so que a partir dessa versão essas funcionalidades foram adicionados esses componentes 
 	- Sendo assim, hoje em dia a criaçãovai muito do gosto do desenvolvedor
 # Libs mais usadas para compor o React
+- Asvezes é necess
