@@ -34,4 +34,4 @@
 - As vezes é necessário a adição de outras libs para adicionar outras funcionalidades extras a nossa aplicação
 - **Libs mais utilizadas:**
 	- _redux_: lib para o gerenciamento de status
-		- uma aplicação com vários componentes trocando infor
+		- uma aplicação com vários componentes trocando informações entre si acaba se tornando dificil de gerencias, com o redux é uam mao na roda para centralizar o 
