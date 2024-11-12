@@ -15,3 +15,5 @@
 	- ![[Pasted image 20241112152613.png]]
 - **JSX** (JavaScriptXML) permiti a utilização de sintaxe similar a do HTML no momento da criação de elementos para o React, deixando esse processo muito mais amigavel na hora da criação.
 - O **Babel** vai por trás das cortinas transformar a sintaxe do **JSX** em funções JavaScript, assim como no exemplo dado acima.
+- Exemplo usando **JSX**:
+	- ![[Pasted image 20241112153217.png]]
