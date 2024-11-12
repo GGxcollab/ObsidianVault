@@ -18,4 +18,5 @@
 - Exemplo usando **JSX**:
 	- ![[Pasted image 20241112153217.png]]
 - O JSX é o caminho mais comum usado pelos desenvolvedores, porem não é obrigatorio a adoção dele
-# Compone
+# Componentização
+- é um dos principais pilares na utilização do R
