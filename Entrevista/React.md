@@ -8,4 +8,4 @@
 - é necessario a importação de duas libs: React DOM (faz a ligação do react com os elementos da página) e o React
 	- ![[Pasted image 20241112151809.png]]
 - **Babel** é um compilador em JavaScript, ele basicamente permite que use funcionalidades modernas da linguagem que podem ainda nao serem suportados por todos os navegadores 
-	- Em resumo, o Babel transforma o Js em Js
+	- Em resumo, o Babel transforma o Js em Js, mais precisamente um Js que possa ser interpretado pela maioria dos navegadores
