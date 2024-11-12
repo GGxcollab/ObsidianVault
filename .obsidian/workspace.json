@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+                "file": "Entrevista/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criar um modelo de compreensão da linguagem coloquial"
+              "title": "React"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "37c5462715c8244a",
   "lastOpenFiles": [
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+    "Entrevista/React.md",
+    "Entrevista",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
     "Pasted image 20241111135736.png",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
     "Pasted image 20241107151552.png",
@@ -208,10 +210,8 @@
     "SC-300/Sem título.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
     "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
-    "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
     "SC-300/images",
     "SC-300/Sem título.canvas",
-    "Excalidraw",
-    "SC-300"
+    "Excalidraw"
   ]
 }
