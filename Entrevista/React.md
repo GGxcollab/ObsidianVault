@@ -7,4 +7,4 @@
 # Setup Básico
 - é necessario a importação de duas libs: React DOM (faz a ligação do react com os elementos da página) e o React
 	- ![[Pasted image 20241112151809.png]]
-- 
+- **Babel**
