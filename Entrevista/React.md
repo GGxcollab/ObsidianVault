@@ -6,3 +6,5 @@
 - É flexivel, ou sejja, é possível usar o react em uma pequena parte de um site com alguma linhas de código e nenhuma ferramenta de **Build** ou em projetos mais completos como uma single-page-app, que nesse caso sim, utiliza outras ferramentas que facilitam e agilizam o trabalho dos desenvolvedores
 # Setup Básico
 - é necessario a importação de duas libs: React DOM (faz a ligação do react com os elementos da página) e o React
+	- ![[Pasted image 20241112151809.png]]
+- 
