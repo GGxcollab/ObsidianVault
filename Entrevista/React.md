@@ -35,3 +35,4 @@
 - **Libs mais utilizadas:**
 	- _redux_: lib para o gerenciamento de status
 		- uma aplicação com vários componentes trocando informações entre si acaba se tornando dificil de gerencias, com o redux é uam mao na roda para centralizar o gerenciamento de Estado dos componentes
+	- _React Router_:
