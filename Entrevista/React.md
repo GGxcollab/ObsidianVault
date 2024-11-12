@@ -33,4 +33,5 @@
 # Libs mais usadas para compor o React
 - As vezes é necessário a adição de outras libs para adicionar outras funcionalidades extras a nossa aplicação
 - **Libs mais utilizadas:**
-	- _redux_
+	- _redux_: lib para o gerenciamento de status
+		- uma aplicação com vários componentes trocando infor
