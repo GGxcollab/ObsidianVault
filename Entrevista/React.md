@@ -20,4 +20,5 @@
 - O JSX é o caminho mais comum usado pelos desenvolvedores, porem não é obrigatorio a adoção dele
 # Componentização
 - é um dos principais pilares na utilização do React para dividir as aplicações em partes independentes, isolados e reutilizáveis
-- Um componente pode ser representado por um a
+- Um componente pode ser representado por uma simples função JavaScript desde que atenda a dois requisitos:
+	- 
