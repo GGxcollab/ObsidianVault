@@ -9,4 +9,5 @@
 	- ![[Pasted image 20241112151809.png]]
 - **Babel** é um compilador em JavaScript, ele basicamente permite que use funcionalidades modernas da linguagem que podem ainda nao serem suportados por todos os navegadores 
 	- Em resumo, o Babel transforma o Js em Js, mais precisamente um Js que possa ser interpretado pela maioria dos navegadores
-- **Virtual DOM** é uma representação dos
+- **Virtual DOM** é uma representação dos elementos do DOM que ficam salvos na memória
+	- ![[Pasted image 20241112152357.png]]
