@@ -21,5 +21,6 @@
 # Componentização
 - é um dos principais pilares na utilização do React para dividir as aplicações em partes independentes, isolados e reutilizáveis
 - Um componente pode ser representado por uma simples função JavaScript desde que atenda a dois requisitos:
-	- Aceitar um parametro e propriedade 
-	- E retornar um React Element que 
+	- Aceitar um parametro e propriedade (properties)
+	- E retornar um React Element que é basicamente o JSX
+	- 
