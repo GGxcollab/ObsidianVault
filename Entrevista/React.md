@@ -13,4 +13,4 @@
 	- ![[Pasted image 20241112152357.png]]
 - Exemplo:
 	- ![[Pasted image 20241112152613.png]]
-- **JSX** (JavaScriptXML) permiti a utilização de sintaxe similar a do HTML no momento da criação de elemente
+- **JSX** (JavaScriptXML) permiti a utilização de sintaxe similar a do HTML no momento da criação de elementos para o React, deixando esse processo muito mais amigavel na hora da criação.
