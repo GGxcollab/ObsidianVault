@@ -3,4 +3,4 @@
 - Presentes em grandes projetos, como: Facebook, Whatsapp, Twitter, Yahoo e Netflix.
 - É uma das principais ferramentas para desenvolvimento Front-end
 - Ele permite compor UIs completas a partir de pequenos e isolados códigos, que é mais conhecido como **componentes**
-- É flexivel, ou sejja, é possível usar o react em uma pequena parte de um site com alguma linhas de código e nenhuma ferramenta de **Build** ou em projetos mais completos como uma single-page-app
+- É flexivel, ou sejja, é possível usar o react em uma pequena parte de um site com alguma linhas de código e nenhuma ferramenta de **Build** ou em projetos mais completos como uma single-page-app, que nesse caso sim, utiliza outras ferramentas que facilitam e agilizam o trabalho dos desenvolvedor
