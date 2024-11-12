@@ -13,4 +13,4 @@
 	- ![[Pasted image 20241112152357.png]]
 - Exemplo:
 	- ![[Pasted image 20241112152613.png]]
-	- 
+- **JSX** (Java S)
