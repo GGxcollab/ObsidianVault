@@ -52,9 +52,8 @@ Todos os recursos a seguir estão pré-configurados.
 ## Recursos aprendidos
 - Os recursos aprendidos exigem que você rotule dados, treine e implante seu modelo para disponibilizá-los para uso em seu aplicativo. Esses recursos permitem personalizar quais informações são previstas ou extraídas.
 
- Observação
-
-A qualidade dos dados afeta muito a precisão do modelo. Seja objetivo sobre quais dados são usados, quão bem eles são marcados ou rotulados e quão variados são os dados de treinamento. Para obter detalhes, consulte as [recomendações para rotular dados](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/how-to/tag-utterances), que inclui diretrizes importantes para marcação de dados. Veja também as [métricas de avaliação](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/custom-text-classification/concepts/evaluation-metrics) que podem ajudar a identificar onde seu modelo precisa de melhorias.
+>[!NOTE] Observação
+>A qualidade dos dados afeta muito a precisão do modelo. Seja objetivo sobre quais dados são usados, quão bem eles são marcados ou rotulados e quão variados são os dados de treinamento. Para obter detalhes, consulte as [recomendações para rotular dados](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/how-to/tag-utterances), que inclui diretrizes importantes para marcação de dados. Veja também as [métricas de avaliação](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/custom-text-classification/concepts/evaluation-metrics) que podem ajudar a identificar onde seu modelo precisa de melhorias.
 
 ### Compreensão da linguagem coloquial (CLU)
 - A CLU é um dos principais recursos personalizados oferecidos pela Linguagem de IA do Azure. A CLU ajuda os usuários a compilar modelos de reconhecimento de linguagem natural personalizados para prever a intenção geral e extrair informações importantes de enunciados de entrada. A CLU exige que os dados sejam marcados pelo usuário para ensiná-los a prever intenções e entidades com precisão.
