@@ -69,3 +69,4 @@ Todos os recursos a seguir estão pré-configurados.
 - As respostas às perguntas é sobretudo um recurso pré-configurado que fornece respostas para perguntas fornecidas como entrada. Os dados para responder a essas perguntas são provenientes de documentos como perguntas frequentes ou manuais.
 - Por exemplo, digamos que você queira criar um assistente de chat virtual no site da sua empresa para responder a perguntas comuns. Você pode usar as perguntas frequentes de uma empresa como o documento de entrada para criar os pares de perguntas e respostas. Depois de implantado, o assistente de chat pode passar perguntas de entrada para o serviço e obter as respostas como resultado.
 - Para obter uma lista completa de recursos e como usá-los, confira a [documentação](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/overview) da Linguagem de IA do Azure.
+# Entender os recursos para compilar um modelo de compreensão da linguagem coloquial
