@@ -72,12 +72,10 @@ Todos os recursos a seguir estão pré-configurados.
 # Entender os recursos para compilar um modelo de compreensão da linguagem coloquial
 - Para usar o serviço de reconhecimento vocal para desenvolver uma solução NLP, você precisará criar um recurso de linguagem no Azure. Esse recurso será usado para criar seu modelo e processar solicitações de previsão de aplicativos cliente.
 
- Dica
-
-O laboratório deste módulo aborda a compilação de um modelo para a compreensão da linguagem coloquial. Para obter módulos mais focados na classificação de texto personalizado e no reconhecimento personalizado de entidade nomeada, confira os módulos de solução personalizados no roteiro de aprendizagem [Desenvolver soluções de linguagem natural](https://learn.microsoft.com/pt-br/training/paths/develop-language-solutions-azure-ai).
+>[!NOTE] Dica
+>O laboratório deste módulo aborda a compilação de um modelo para a compreensão da linguagem coloquial. Para obter módulos mais focados na classificação de texto personalizado e no reconhecimento personalizado de entidade nomeada, confira os módulos de solução personalizados no roteiro de aprendizagem [Desenvolver soluções de linguagem natural](https://learn.microsoft.com/pt-br/training/paths/develop-language-solutions-azure-ai).
 
 ## Criar seu modelo
-
 - Para recursos que exigem um modelo para previsão, você precisará compilar, treinar e implantar esse modelo antes de usá-lo para fazer uma previsão. Esta construção e treinamento ensinarão ao serviço de Linguagem de IA do Azure o que procurar.
 
 - Primeiro, você precisará criar seu recurso de Linguagem de IA do Azure no [portal do Azure](https://portal.azure.com/). Em seguida:
@@ -90,7 +88,6 @@ O laboratório deste módulo aborda a compilação de um modelo para a compreens
 - Depois que esse recurso tiver sido criado, você precisará de uma chave e do ponto de extremidade. Eles podem ser encontrados no lado esquerdo em **Chaves e Ponto de Extremidade** da página de visão geral do recurso.
 
 ### Usar o Language Studio
-
 - Para obter um método mais visual de compilação, treinamento e implantação do modelo, você pode usar o [Language Studio](https://aka.ms/languageStudio) para obter cada uma dessas etapas. Na página principal, você pode optar por criar um projeto de **compreensão da linguagem coloquial**. Depois que o projeto for criado, passe pelo mesmo processo que o mostrado acima para compilar, treinar e implantar seu modelo.
 
 [![Screenshot of the Language Studio home page.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/build-language-understanding-model/media/language-studio-conversational-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/build-language-understanding-model/media/language-studio-conversational.png#lightbox)
@@ -98,7 +95,6 @@ O laboratório deste módulo aborda a compilação de um modelo para a compreens
 - O laboratório neste módulo usará o Language Studio para compilar seu modelo. Para saber mais, confira o [início rápido do Language Studio](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/language-studio)
 
 ### Usar a API REST
-
 - Uma forma de compilar seu modelo é por meio da API REST. O padrão seria criar seu projeto, importar dados, treinar, implantar e, em seguida, usar seu modelo.
 
 - Essas tarefas são executadas de maneira assíncrona; você precisará enviar uma solicitação para o URI apropriado para cada etapa e, em seguida, enviar outra solicitação para obter o status desse trabalho.
@@ -109,8 +105,6 @@ O laboratório deste módulo aborda a compilação de um modelo para a compreens
 
 - Para cada chamada para seu recurso de Linguagem de IA do Azure, você autentica a solicitação fornecendo o cabeçalho a seguir.
 
-Expandir a tabela
-
 |Key|Valor|
 |---|---|
 |`Ocp-Apim-Subscription-Key`|A chave para o recurso|
@@ -119,13 +113,11 @@ Expandir a tabela
 
 - Envie uma solicitação **POST** para o ponto de extremidade a seguir.
 
-restCopiar
+**rest**
 
 ```
 {ENDPOINT}/language/authoring/analyze-conversations/projects/{PROJECT-NAME}/deployments/{DEPLOYMENT-NAME}?api-version={API-VERSION}
 ```
-
-Expandir a tabela
 
 |Espaço reservado|Valor|Exemplo|
 |---|---|---|
