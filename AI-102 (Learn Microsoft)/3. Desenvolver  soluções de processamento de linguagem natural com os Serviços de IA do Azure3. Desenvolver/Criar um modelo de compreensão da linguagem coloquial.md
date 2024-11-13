@@ -245,29 +245,24 @@ result = client.analyze_conversation(
 ### Consultar usando a API REST
 - Para consultar seu modelo usando REST, crie uma solicitação **POST** para a URL apropriada com o corpo apropriado especificado. Para recursos internos, como detecção de idioma ou análise de sentimento, você consultará o ponto de extremidade `analyze-text`.
 
- Dica
+>[!NOTE] Dica
+>Lembre-se de que cada pedido precisa de ser autenticado com a sua chave de recurso da Linguagem de IA do Azure no cabeçalho `Ocp-Apim-Subscription-Key`
 
-Lembre-se de que cada pedido precisa de ser autenticado com a sua chave de recurso da Linguagem de IA do Azure no cabeçalho `Ocp-Apim-Subscription-Key`
-
-restCopiar
-
+**rest**
 ```
 {ENDPOINT}/language/:analyze-text?api-version={API-VERSION}
 ```
 
-Expandir a tabela
-
-|Espaço reservado|Valor|
-|---|---|
-|`{ENDPOINT}`|O ponto de extremidade para autenticação de sua solicitação de API|
-|`{API-VERSION}`|A versão da API que você está chamando|
+| Espaço reservado | Valor                                                              |
+| ---------------- | ------------------------------------------------------------------ |
+| `{ENDPOINT}`     | O ponto de extremidade para autenticação de sua solicitação de API |
+| `{API-VERSION}`  | A versão da API que você está chamando                             |
 
 - Dentro do corpo dessa solicitação, você deve especificar o parâmetro `kind`, que informa ao serviço qual tipo de reconhecimento vocal você está solicitando.
 
-Se você quiser detectar o idioma, por exemplo, o corpo JSON seria semelhante ao seguinte.
+- Se você quiser detectar o idioma, por exemplo, o corpo JSON seria semelhante ao seguinte.
 
-JSONCopiar
-
+**JSON**
 ```
 {
     "kind": "LanguageDetection",
