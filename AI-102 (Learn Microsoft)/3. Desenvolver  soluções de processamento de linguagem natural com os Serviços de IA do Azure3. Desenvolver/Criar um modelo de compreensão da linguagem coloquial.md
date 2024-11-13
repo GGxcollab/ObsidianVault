@@ -79,11 +79,10 @@ Todos os recursos a seguir estão pré-configurados.
 - Para recursos que exigem um modelo para previsão, você precisará compilar, treinar e implantar esse modelo antes de usá-lo para fazer uma previsão. Esta construção e treinamento ensinarão ao serviço de Linguagem de IA do Azure o que procurar.
 
 - Primeiro, você precisará criar seu recurso de Linguagem de IA do Azure no [portal do Azure](https://portal.azure.com/). Em seguida:
-
-1. Pesquise **serviços de IA do Azure**.
-2. Localize e selecione o **serviço de linguagem**.
-3. Selecione **Criar** no **Serviço de Linguagem**.
-4. Preencha os detalhes necessários, escolhendo a região mais próxima geograficamente (para melhor desempenho) e dando a ela um nome exclusivo.
+	1. Pesquise **serviços de IA do Azure**.
+	2. Localize e selecione o **serviço de linguagem**.
+	3. Selecione **Criar** no **Serviço de Linguagem**.
+	4. Preencha os detalhes necessários, escolhendo a região mais próxima geograficamente (para melhor desempenho) e dando a ela um nome exclusivo.
 
 - Depois que esse recurso tiver sido criado, você precisará de uma chave e do ponto de extremidade. Eles podem ser encontrados no lado esquerdo em **Chaves e Ponto de Extremidade** da página de visão geral do recurso.
 
@@ -91,18 +90,13 @@ Todos os recursos a seguir estão pré-configurados.
 - Para obter um método mais visual de compilação, treinamento e implantação do modelo, você pode usar o [Language Studio](https://aka.ms/languageStudio) para obter cada uma dessas etapas. Na página principal, você pode optar por criar um projeto de **compreensão da linguagem coloquial**. Depois que o projeto for criado, passe pelo mesmo processo que o mostrado acima para compilar, treinar e implantar seu modelo.
 
 [![Screenshot of the Language Studio home page.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/build-language-understanding-model/media/language-studio-conversational-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/build-language-understanding-model/media/language-studio-conversational.png#lightbox)
-
 - O laboratório neste módulo usará o Language Studio para compilar seu modelo. Para saber mais, confira o [início rápido do Language Studio](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/language-studio)
 
 ### Usar a API REST
 - Uma forma de compilar seu modelo é por meio da API REST. O padrão seria criar seu projeto, importar dados, treinar, implantar e, em seguida, usar seu modelo.
-
 - Essas tarefas são executadas de maneira assíncrona; você precisará enviar uma solicitação para o URI apropriado para cada etapa e, em seguida, enviar outra solicitação para obter o status desse trabalho.
-
 - Por exemplo, se você quiser implantar um modelo para um projeto de compreensão da linguagem coloquial, envie o trabalho de implantação e verifique o status do trabalho de implantação.
-
 #### Autenticação
-
 - Para cada chamada para seu recurso de Linguagem de IA do Azure, você autentica a solicitação fornecendo o cabeçalho a seguir.
 
 |Key|Valor|
@@ -110,7 +104,6 @@ Todos os recursos a seguir estão pré-configurados.
 |`Ocp-Apim-Subscription-Key`|A chave para o recurso|
 
 #### Solicitar implantação
-
 - Envie uma solicitação **POST** para o ponto de extremidade a seguir.
 
 **rest**
@@ -156,8 +149,6 @@ Inclua o seguinte `body` na solicitação.
 {ENDPOINT}/language/authoring/analyze-conversations/projects/{PROJECT-NAME}/deployments/{DEPLOYMENT-NAME}/jobs/{JOB-ID}?api-version={API-VERSION}
 ```
 
-Expandir a tabela
-
 |Espaço reservado|Valor|
 |---|---|
 |`{ENDPOINT}`|O ponto de extremidade para autenticação de sua solicitação de API|
@@ -182,11 +173,8 @@ Expandir a tabela
 - Para obter um passo a passo completo de cada etapa com solicitações de exemplo, consulte o [início rápido de reconhecimento de conversa](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/quickstart?pivots=rest-api#create-a-clu-project).
 
 ## Consultar seu modelo
-
 - Para consultar seu modelo para uma previsão, você pode usar SDKs em C# ou Python ou usar a API REST.
-
 ### Consultar usando SDKs
-
 - Para consultar seu modelo usando um SDK, primeiro você precisa criar seu cliente. Depois de ter seu cliente, você o usará para chamar o ponto de extremidade apropriado.
 
 C#Copiar
