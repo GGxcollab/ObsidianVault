@@ -177,15 +177,13 @@ Inclua o seguinte `body` na solicitação.
 ### Consultar usando SDKs
 - Para consultar seu modelo usando um SDK, primeiro você precisa criar seu cliente. Depois de ter seu cliente, você o usará para chamar o ponto de extremidade apropriado.
 
-C#Copiar
-
+**C#**
 ```
 var languageClient = new TextAnalyticsClient(endpoint, credentials);
 var response = languageClient.ExtractKeyPhrases(document);
 ```
 
-PythonCopiar
-
+**Python**
 ```
 language_client = TextAnalyticsClient(
             endpoint=endpoint, 
@@ -195,8 +193,7 @@ response = language_client.extract_key_phrases(documents = documents)[0]
 
 - Outros recursos de linguagem, como compreensão da linguagem coloquial, exigem que a solicitação seja criada e enviada de forma diferente.
 
-C#Copiar
-
+**C#**
 ```
 var data = new
 {
@@ -221,8 +218,7 @@ var data = new
 Response response = await client.AnalyzeConversationAsync(RequestContent.Create(data));
 ```
 
-PythonCopiar
-
+**Python**
 ```
 result = client.analyze_conversation(
     task={
@@ -247,7 +243,6 @@ result = client.analyze_conversation(
 ```
 
 ### Consultar usando a API REST
-
 - Para consultar seu modelo usando REST, crie uma solicitação **POST** para a URL apropriada com o corpo apropriado especificado. Para recursos internos, como detecção de idioma ou análise de sentimento, você consultará o ponto de extremidade `analyze-text`.
 
  Dica
