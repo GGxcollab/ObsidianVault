@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrevista/React.md",
+                "file": "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Criar um modelo de compreensão da linguagem coloquial"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "37c5462715c8244a",
   "lastOpenFiles": [
+    "Entrevista/React.md",
     "Pasted image 20241112160510.png",
     "Pasted image 20241112160418.png",
     "Pasted image 20241112153217.png",
@@ -173,7 +174,6 @@
     "Pasted image 20241112152357.png",
     "Pasted image 20241112151809.png",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
-    "Entrevista/React.md",
     "Entrevista",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
     "Pasted image 20241111135736.png",
@@ -184,7 +184,6 @@
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver",
     "Pasted image 20241106152304.png",
     "Pasted image 20241106150712.png",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241028155921.png",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md",
