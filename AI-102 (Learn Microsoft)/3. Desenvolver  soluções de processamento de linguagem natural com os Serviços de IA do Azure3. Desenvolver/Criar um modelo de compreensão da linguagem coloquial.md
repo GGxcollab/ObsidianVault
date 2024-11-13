@@ -282,23 +282,19 @@ result = client.analyze_conversation(
 
 - Outros recursos de linguagem, como compreensão da linguagem coloquial, exigem que a solicitação seja roteada para um ponto de extremidade diferente. Por exemplo, a solicitação de compreensão da linguagem coloquial seria enviada para o seguinte.
 
-restCopiar
-
+**rest**
 ```
 {ENDPOINT}/language/:analyze-conversations?api-version={API-VERSION}
 ```
-
-Expandir a tabela
 
 |Espaço reservado|Valor|
 |---|---|
 |`{ENDPOINT}`|O ponto de extremidade para autenticação de sua solicitação de API|
 |`{API-VERSION}`|A versão da API que você está chamando|
 
-Essa solicitação incluiria um corpo JSON semelhante ao seguinte.
+- Essa solicitação incluiria um corpo JSON semelhante ao seguinte.
 
-JSONCopiar
-
+**JSON**
 ```
 {
   "kind": "Conversation",
@@ -317,8 +313,6 @@ JSONCopiar
 }
 ```
 
-Expandir a tabela
-
 |Espaço reservado|Valor|
 |---|---|
 |`{PROJECT-NAME}`|O nome do projeto no qual você compilou seu modelo|
@@ -328,8 +322,7 @@ Expandir a tabela
 
 - A resposta de consulta de um SDK será retornada no objeto, que varia dependendo do recurso (como em `response.key_phrases` ou `response.Value`). A API REST retornará JSON que seria semelhante ao seguinte.
 
-JSONCopiar
-
+**JSON**
 ```
 {
     "kind": "KeyPhraseExtractionResults",
@@ -347,8 +340,7 @@ JSONCopiar
 
 - Para outros modelos, como compreensão da linguagem coloquial, uma resposta de exemplo à consulta seria semelhante à seguinte.
 
-JSONCopiar
-
+**JSON**
 ```
 {
   "kind": "ConversationResult",
