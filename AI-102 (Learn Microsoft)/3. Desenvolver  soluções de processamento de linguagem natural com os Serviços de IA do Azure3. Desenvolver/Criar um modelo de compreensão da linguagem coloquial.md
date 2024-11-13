@@ -70,7 +70,7 @@ Todos os recursos a seguir estão pré-configurados.
 - Por exemplo, digamos que você queira criar um assistente de chat virtual no site da sua empresa para responder a perguntas comuns. Você pode usar as perguntas frequentes de uma empresa como o documento de entrada para criar os pares de perguntas e respostas. Depois de implantado, o assistente de chat pode passar perguntas de entrada para o serviço e obter as respostas como resultado.
 - Para obter uma lista completa de recursos e como usá-los, confira a [documentação](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/overview) da Linguagem de IA do Azure.
 # Entender os recursos para compilar um modelo de compreensão da linguagem coloquial
-Para usar o serviço de reconhecimento vocal para desenvolver uma solução NLP, você precisará criar um recurso de linguagem no Azure. Esse recurso será usado para criar seu modelo e processar solicitações de previsão de aplicativos cliente.
+- Para usar o serviço de reconhecimento vocal para desenvolver uma solução NLP, você precisará criar um recurso de linguagem no Azure. Esse recurso será usado para criar seu modelo e processar solicitações de previsão de aplicativos cliente.
 
  Dica
 
@@ -78,36 +78,36 @@ O laboratório deste módulo aborda a compilação de um modelo para a compreens
 
 ## Criar seu modelo
 
-Para recursos que exigem um modelo para previsão, você precisará compilar, treinar e implantar esse modelo antes de usá-lo para fazer uma previsão. Esta construção e treinamento ensinarão ao serviço de Linguagem de IA do Azure o que procurar.
+- Para recursos que exigem um modelo para previsão, você precisará compilar, treinar e implantar esse modelo antes de usá-lo para fazer uma previsão. Esta construção e treinamento ensinarão ao serviço de Linguagem de IA do Azure o que procurar.
 
-Primeiro, você precisará criar seu recurso de Linguagem de IA do Azure no [portal do Azure](https://portal.azure.com/). Em seguida:
+- Primeiro, você precisará criar seu recurso de Linguagem de IA do Azure no [portal do Azure](https://portal.azure.com/). Em seguida:
 
 1. Pesquise **serviços de IA do Azure**.
 2. Localize e selecione o **serviço de linguagem**.
 3. Selecione **Criar** no **Serviço de Linguagem**.
 4. Preencha os detalhes necessários, escolhendo a região mais próxima geograficamente (para melhor desempenho) e dando a ela um nome exclusivo.
 
-Depois que esse recurso tiver sido criado, você precisará de uma chave e do ponto de extremidade. Eles podem ser encontrados no lado esquerdo em **Chaves e Ponto de Extremidade** da página de visão geral do recurso.
+- Depois que esse recurso tiver sido criado, você precisará de uma chave e do ponto de extremidade. Eles podem ser encontrados no lado esquerdo em **Chaves e Ponto de Extremidade** da página de visão geral do recurso.
 
 ### Usar o Language Studio
 
-Para obter um método mais visual de compilação, treinamento e implantação do modelo, você pode usar o [Language Studio](https://aka.ms/languageStudio) para obter cada uma dessas etapas. Na página principal, você pode optar por criar um projeto de **compreensão da linguagem coloquial**. Depois que o projeto for criado, passe pelo mesmo processo que o mostrado acima para compilar, treinar e implantar seu modelo.
+- Para obter um método mais visual de compilação, treinamento e implantação do modelo, você pode usar o [Language Studio](https://aka.ms/languageStudio) para obter cada uma dessas etapas. Na página principal, você pode optar por criar um projeto de **compreensão da linguagem coloquial**. Depois que o projeto for criado, passe pelo mesmo processo que o mostrado acima para compilar, treinar e implantar seu modelo.
 
 [![Screenshot of the Language Studio home page.](https://learn.microsoft.com/pt-br/training/wwl-data-ai/build-language-understanding-model/media/language-studio-conversational-small.png)](https://learn.microsoft.com/pt-br/training/wwl-data-ai/build-language-understanding-model/media/language-studio-conversational.png#lightbox)
 
-O laboratório neste módulo usará o Language Studio para compilar seu modelo. Para saber mais, confira o [início rápido do Language Studio](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/language-studio)
+- O laboratório neste módulo usará o Language Studio para compilar seu modelo. Para saber mais, confira o [início rápido do Language Studio](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/language-studio)
 
 ### Usar a API REST
 
-Uma forma de compilar seu modelo é por meio da API REST. O padrão seria criar seu projeto, importar dados, treinar, implantar e, em seguida, usar seu modelo.
+- Uma forma de compilar seu modelo é por meio da API REST. O padrão seria criar seu projeto, importar dados, treinar, implantar e, em seguida, usar seu modelo.
 
-Essas tarefas são executadas de maneira assíncrona; você precisará enviar uma solicitação para o URI apropriado para cada etapa e, em seguida, enviar outra solicitação para obter o status desse trabalho.
+- Essas tarefas são executadas de maneira assíncrona; você precisará enviar uma solicitação para o URI apropriado para cada etapa e, em seguida, enviar outra solicitação para obter o status desse trabalho.
 
-Por exemplo, se você quiser implantar um modelo para um projeto de compreensão da linguagem coloquial, envie o trabalho de implantação e verifique o status do trabalho de implantação.
+- Por exemplo, se você quiser implantar um modelo para um projeto de compreensão da linguagem coloquial, envie o trabalho de implantação e verifique o status do trabalho de implantação.
 
 #### Autenticação
 
-Para cada chamada para seu recurso de Linguagem de IA do Azure, você autentica a solicitação fornecendo o cabeçalho a seguir.
+- Para cada chamada para seu recurso de Linguagem de IA do Azure, você autentica a solicitação fornecendo o cabeçalho a seguir.
 
 Expandir a tabela
 
@@ -117,7 +117,7 @@ Expandir a tabela
 
 #### Solicitar implantação
 
-Envie uma solicitação **POST** para o ponto de extremidade a seguir.
+- Envie uma solicitação **POST** para o ponto de extremidade a seguir.
 
 restCopiar
 
@@ -136,23 +136,20 @@ Expandir a tabela
 
 Inclua o seguinte `body` na solicitação.
 
-JSONCopiar
-
+**JSON**
 ```
 {
   "trainedModelLabel": "{MODEL-NAME}",
 }
 ```
 
-Expandir a tabela
+| Espaço reservado | Valor                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------------- |
+| `{MODEL-NAME}`   | O nome do modelo que será atribuído à implantação. Esse valor diferencia maiúsculas de minúsculas. |
 
-|Espaço reservado|Valor|
-|---|---|
-|`{MODEL-NAME}`|O nome do modelo que será atribuído à implantação. Esse valor diferencia maiúsculas de minúsculas.|
+- O envio bem-sucedido da solicitação receberá uma resposta `202` com um cabeçalho de resposta de `operation-location`. Esse cabeçalho terá uma URL com a qual solicitar o status, formatado da seguinte maneira:
 
-O envio bem-sucedido da solicitação receberá uma resposta `202` com um cabeçalho de resposta de `operation-location`. Esse cabeçalho terá uma URL com a qual solicitar o status, formatado da seguinte maneira:
-
-restCopiar
+**rest**
 
 ```
 {ENDPOINT}/language/authoring/analyze-conversations/projects/{PROJECT-NAME}/deployments/{DEPLOYMENT-NAME}/jobs/{JOB-ID}?api-version={API-VERSION}
@@ -160,10 +157,9 @@ restCopiar
 
 #### Obter status da implantação
 
-Envie uma solicitação **GET** para a URL do cabeçalho de resposta acima. Os valores já estarão preenchidos com base na solicitação de implantação inicial.
+- Envie uma solicitação **GET** para a URL do cabeçalho de resposta acima. Os valores já estarão preenchidos com base na solicitação de implantação inicial.
 
-restCopiar
-
+**rest**
 ```
 {ENDPOINT}/language/authoring/analyze-conversations/projects/{PROJECT-NAME}/deployments/{DEPLOYMENT-NAME}/jobs/{JOB-ID}?api-version={API-VERSION}
 ```
@@ -178,10 +174,9 @@ Expandir a tabela
 |`{JOB-ID}`|A ID para localizar o status de treinamento do modelo, encontrada no valor de cabeçalho detalhado acima na solicitação de implantação|
 |`{API-VERSION}`|A versão da API que você está chamando|
 
-O corpo da resposta fornecerá os detalhes do status da implantação. O campo `status` terá o valor de _êxito_ quando a implantação for concluída.
+- O corpo da resposta fornecerá os detalhes do status da implantação. O campo `status` terá o valor de _êxito_ quando a implantação for concluída.
 
-JSONCopiar
-
+**JSON**
 ```
 {
     "jobId":"{JOB-ID}",
@@ -192,15 +187,15 @@ JSONCopiar
 }
 ```
 
-Para obter um passo a passo completo de cada etapa com solicitações de exemplo, consulte o [início rápido de reconhecimento de conversa](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/quickstart?pivots=rest-api#create-a-clu-project).
+- Para obter um passo a passo completo de cada etapa com solicitações de exemplo, consulte o [início rápido de reconhecimento de conversa](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/quickstart?pivots=rest-api#create-a-clu-project).
 
 ## Consultar seu modelo
 
-Para consultar seu modelo para uma previsão, você pode usar SDKs em C# ou Python ou usar a API REST.
+- Para consultar seu modelo para uma previsão, você pode usar SDKs em C# ou Python ou usar a API REST.
 
 ### Consultar usando SDKs
 
-Para consultar seu modelo usando um SDK, primeiro você precisa criar seu cliente. Depois de ter seu cliente, você o usará para chamar o ponto de extremidade apropriado.
+- Para consultar seu modelo usando um SDK, primeiro você precisa criar seu cliente. Depois de ter seu cliente, você o usará para chamar o ponto de extremidade apropriado.
 
 C#Copiar
 
@@ -218,7 +213,7 @@ language_client = TextAnalyticsClient(
 response = language_client.extract_key_phrases(documents = documents)[0]
 ```
 
-Outros recursos de linguagem, como compreensão da linguagem coloquial, exigem que a solicitação seja criada e enviada de forma diferente.
+- Outros recursos de linguagem, como compreensão da linguagem coloquial, exigem que a solicitação seja criada e enviada de forma diferente.
 
 C#Copiar
 
@@ -273,7 +268,7 @@ result = client.analyze_conversation(
 
 ### Consultar usando a API REST
 
-Para consultar seu modelo usando REST, crie uma solicitação **POST** para a URL apropriada com o corpo apropriado especificado. Para recursos internos, como detecção de idioma ou análise de sentimento, você consultará o ponto de extremidade `analyze-text`.
+- Para consultar seu modelo usando REST, crie uma solicitação **POST** para a URL apropriada com o corpo apropriado especificado. Para recursos internos, como detecção de idioma ou análise de sentimento, você consultará o ponto de extremidade `analyze-text`.
 
  Dica
 
@@ -292,7 +287,7 @@ Expandir a tabela
 |`{ENDPOINT}`|O ponto de extremidade para autenticação de sua solicitação de API|
 |`{API-VERSION}`|A versão da API que você está chamando|
 
-Dentro do corpo dessa solicitação, você deve especificar o parâmetro `kind`, que informa ao serviço qual tipo de reconhecimento vocal você está solicitando.
+- Dentro do corpo dessa solicitação, você deve especificar o parâmetro `kind`, que informa ao serviço qual tipo de reconhecimento vocal você está solicitando.
 
 Se você quiser detectar o idioma, por exemplo, o corpo JSON seria semelhante ao seguinte.
 
@@ -315,7 +310,7 @@ JSONCopiar
 }
 ```
 
-Outros recursos de linguagem, como compreensão da linguagem coloquial, exigem que a solicitação seja roteada para um ponto de extremidade diferente. Por exemplo, a solicitação de compreensão da linguagem coloquial seria enviada para o seguinte.
+- Outros recursos de linguagem, como compreensão da linguagem coloquial, exigem que a solicitação seja roteada para um ponto de extremidade diferente. Por exemplo, a solicitação de compreensão da linguagem coloquial seria enviada para o seguinte.
 
 restCopiar
 
@@ -361,7 +356,7 @@ Expandir a tabela
 
 ### Resposta de amostra
 
-A resposta de consulta de um SDK será retornada no objeto, que varia dependendo do recurso (como em `response.key_phrases` ou `response.Value`). A API REST retornará JSON que seria semelhante ao seguinte.
+- A resposta de consulta de um SDK será retornada no objeto, que varia dependendo do recurso (como em `response.key_phrases` ou `response.Value`). A API REST retornará JSON que seria semelhante ao seguinte.
 
 JSONCopiar
 
@@ -380,7 +375,7 @@ JSONCopiar
 }
 ```
 
-Para outros modelos, como compreensão da linguagem coloquial, uma resposta de exemplo à consulta seria semelhante à seguinte.
+- Para outros modelos, como compreensão da linguagem coloquial, uma resposta de exemplo à consulta seria semelhante à seguinte.
 
 JSONCopiar
 
@@ -416,6 +411,6 @@ JSONCopiar
 }
 ```
 
-Os SDKs para Python e C# retornam JSON que é muito semelhante à resposta REST.
+- Os SDKs para Python e C# retornam JSON que é muito semelhante à resposta REST.
 
-Para obter documentação completa sobre recursos, incluindo exemplos e guias de instruções, confira as páginas de [documentação da Linguagem de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/).
+- Para obter documentação completa sobre recursos, incluindo exemplos e guias de instruções, confira as páginas de [documentação da Linguagem de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/).
