@@ -78,4 +78,4 @@
 >[!NOTE] Observação
 >Para obter mais informações, confira [Habilitar log de diagnósticos para serviços de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/diagnostic-logging) na documentação dos serviços de IA do Azure.
 
-![[Pasted image 20241101110404.png]]
+![[Pasted image 20241114150543.png]]
