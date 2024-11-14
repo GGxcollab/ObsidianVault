@@ -24,7 +24,7 @@
 	- Uma ACI (Instância de Contêiner do Azure).
 	- Um cluster do AKS (Serviço de Kubernetes do Azure).
 
-*_Docker é uma solução de software livre para desenvolvimento e gerenciamento de contêineres que inclui um mecanismo de servidor que pode ser usado para hospedar contêineres. Há versões do servidor Docker para sistemas operacionais comuns, incluindo Microsoft Windows e Linux._
+*Docker é uma solução de software livre para desenvolvimento e gerenciamento de contêineres que inclui um mecanismo de servidor que pode ser usado para hospedar contêineres. Há versões do servidor Docker para sistemas operacionais comuns, incluindo Microsoft Windows e Linux._
 
 >[!NOTE] Dica
 >Para saber mais sobre contêineres, confira o módulo [Introdução aos contêineres do Docker](https://learn.microsoft.com/pt-br/training/modules/intro-to-docker-containers/) no Microsoft Learn.
