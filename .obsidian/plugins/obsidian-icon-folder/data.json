@@ -62,5 +62,21 @@
   "AI-102 (Microsoft Reactor)": "LiFolder",
   "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md": "LiFile",
   "AI-102 (Microsoft Reactor)/Imagens": "LiFileImage",
-  "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md": "LiFile"
+  "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md": "LiFile",
+  "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md": "LiFile",
+  "AI-102 (Learn Microsoft)": "LiFolder",
+  "AI-102 (Learn Microsoft)/imagens": "LiImage",
+  "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md": "LiFile",
+  "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md": "LiFile",
+  "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md": "LiFile",
+  "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md": "LiFile",
+  "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md": "LiFile",
+  "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md": "LiFile"
 }

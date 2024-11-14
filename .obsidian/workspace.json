@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "565dcf6a0c457b3c",
+        "id": "80d4a2bcf3920cac",
         "type": "tabs",
         "children": [
           {
-            "id": "937220a8936a2100",
+            "id": "37c5462715c8244a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
+                "file": "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Criar um modelo de compreensão da linguagem coloquial"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 204.50152587890625
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
+                "file": "AI-102 (Learn Microsoft)/Introdução aos Serviços de IA do Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Introdução aos Serviços de IA do Azure"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
+                "file": "AI-102 (Learn Microsoft)/Introdução aos Serviços de IA do Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Introdução aos Serviços de IA do Azure"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md"
-              }
+                "file": "AI-102 (Learn Microsoft)/Introdução aos Serviços de IA do Azure.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Introdução aos Serviços de IA do Azure"
             }
           }
         ],
@@ -148,21 +164,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "937220a8936a2100",
+  "active": "37c5462715c8244a",
   "lastOpenFiles": [
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003171935.png",
-    "Sem título.md",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002172136.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002172334.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002172352.png",
-    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003171544.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003170340.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165551.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165541.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165528.png",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003165338.png",
+    "Entrevista/React.md",
+    "Pasted image 20241112160510.png",
+    "Pasted image 20241112160418.png",
+    "Pasted image 20241112153217.png",
+    "Pasted image 20241112152613.png",
+    "Pasted image 20241112152357.png",
+    "Pasted image 20241112151809.png",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+    "Entrevista",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
+    "Pasted image 20241111135736.png",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
+    "Pasted image 20241107151552.png",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver",
+    "Pasted image 20241106152304.png",
+    "Pasted image 20241106150712.png",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure",
+    "AI-102 (Learn Microsoft)/Sem título.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure",
+    "AI-102 (Learn Microsoft)/imagens",
+    "AI-102 (Learn Microsoft)",
+    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
+    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
+    "Sem título.md",
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "AI-102 (Microsoft Reactor)/Imagens",
     "SC-300/Plan, implement, and manage Access Review - EP12.1.md",
@@ -171,19 +209,8 @@
     "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/Sem título.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
-    "SC-300/Azure AD Connect - Guia passo a passo EP05.md",
-    "SC-300/Plan and Implement an Identity Governance Strategy - EP11.md",
-    "SC-300/Implement Access Management for Apps - EP10.md",
-    "SC-300/Monitor, investigate and remediate elevated risky users - EP 09.md",
-    "SC-300/Implement as Authentication and Acesss - EP-06.md",
-    "SC-300/Manage User Authentication - EP07.md",
-    "SC-300/Plan, Implement, and Administer Condicional Access - EP08.md",
     "SC-300/images",
     "SC-300/Sem título.canvas",
-    "SC-300/Como Configurar e Gerenciar o Azure AD no Azure EP03.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2024-08-06 11.54.35.excalidraw.md",
-    "adasd.md",
-    "SC-300"
+    "Excalidraw"
   ]
 }

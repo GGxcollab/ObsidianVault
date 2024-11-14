@@ -1,0 +1,74 @@
+# Definir Inteligência Artificial
+## O que é Inteligência Artificial
+- Em termos gerais, tendemos a pensar que na IA como um software que exibe uma ou mais capacidades parecidas com as de humana, conforma mostrado a imagem a seguir:
+	![[Pasted image 20241024105919.png]]
+# Entender os termos relacionados á IA
+### Ciência de dados
+- A ciência de dados é um campo interdisciplinar que se concentra no processamento e análise de dados; aplicando técnicas estatísticas para descobrir e visualizar relações e padrões nos dados e definindo _modelos_ experimentais de que ajudam a explorar esses padrões.
+-  Exemplo: um cientista de dados pode coletar amostras de dados sobre a população de uma espécie ameaçada de extinção em uma área geográfica e combiná-la com dados sobre níveis de industrialização e demográficos econômicos na mesma área.
+### Aprendizado de máquina
+- Os cientistas de dados geralmente trabalham com modelos de machine learning. O aprendizado de máquina lida com o treinamento e a validação de modelos _preditivos_. Normalmente, um cientista de dados prepara os dados e, em seguida, usa-os para treinar um modelo com base em um algoritmo que explora as relações entre os _recursos_ nos dados para prever valores para _rótulos_ desconhecidos.
+- Exemplos: um cientista de dados pode usar os dados coletados para treinar um modelo que prevê o crescimento anual ou o declínio da população de uma espécie com base em fatores como o número de locais de aninhamento observados, a área de terra designada como protegida, a população humana na área local, o volume diário de tráfego em estradas locais e assim por diante.
+### Inteligência artificial
+-  A IA (inteligência artificial) descreve o software que emula uma ou mais características da inteligência humana. O aprendizado de máquina é uma abordagem proeminente usada para criar software de IA. O conhecimento da ciência de dados pode dar suporte a uma compreensão da inteligência artificial.
+- Exemplo: equilibrar a necessidade de conservação da vida selvagem em relação ao desenvolvimento econômico requer um monitoramento preciso da população de espécies ameaçadas que estão sendo protegidas. Talvez não seja possível contar com especialistas humanos que possam identificar positivamente o animal em questão ou para monitorar uma grande área em um período de tempo suficiente para obter uma contagem precisa. Na verdade, a presença de observadores humanos pode intimidar animais e impedir sua detecção. Nesse caso, um modelo de previsão poderia ser treinado para analisar dados de imagem tirados por câmeras ativadas por movimento em locais remotos e prever se uma fotografia contém um avistamento do animal. O modelo poderia então ser usado em um aplicativo de software que responde à identificação automatizada de animais para rastrear avistamentos de animais em uma grande área geográfica, identificando áreas com populações de animais densas que podem ser candidatos para o status de protegidos.
+# Entender as considerações para engenheiros de IA
+- As soluções de software estão cada vez mais integrando recursos de IA, o que exige que os engenheiros de software saibam como incorporá-los em seus aplicativos. Com os avanços no aprendizado de máquina e a disponibilidade de grandes volumes de dados e computação avançada, serviços de software predefinidos com IA estão se tornando comuns. Isso permite que os engenheiros usem suas habilidades existentes para criar soluções inteligentes sem precisar se tornar especialistas em IA. No entanto, é necessário um entendimento básico dos princípios de IA e aprendizado de máquina para aproveitar essas oportunidades ao máximo.
+### Treinamento de modelo e inferência
+- Muitos sistemas de IA contam com modelos de previsão que devem ser _treinados_ usando dados de exemplo. O processo de treinamento analisa os dados e determina as relações entre os _recursos_ nos dados (os valores de dados que geralmente estarão presentes em novas observações) e o _rótulo_ (o valor que o modelo está sendo treinado para prever).
+- Depois que o modelo tiver sido treinado, você poderá enviar novos dados que incluem valores de _recursos_ conhecidos e fazer com que o modelo preveja o _rótulo_ mais provável. O uso do modelo para fazer previsões é conhecido como _inferência_.
+- Muitos dos serviços e estruturas que os engenheiros de software podem usar para criar soluções habilitadas para IA exigem um processo de desenvolvimento que envolve o treinamento de um modelo de dados existente antes que ele possa ser usado para a inferir novos valores em um aplicativo.
+### Pontuações de probabilidade e confiança
+- Um modelo de aprendizado de máquina bem treinado pode ser preciso, mas nenhum modelo de previsão é infalível. As previsões feitas pelos modelos de aprendizado de máquina são baseadas na _probabilidade_ e, embora os engenheiros de software não precisem de uma compreensão matemática profunda da teoria da probabilidade, é importante entender que as previsões refletem a probabilidade estatística, não a verdade absoluta. Na maioria dos casos, as previsões têm uma _pontuação de confiança_ associada que reflete a probabilidade em que a previsão está sendo feita. Os desenvolvedores de software devem usar valores de pontuação de confiança para avaliar previsões e aplicar limites apropriados para otimizar a confiabilidade do aplicativo e reduzir o risco de previsões, que podem ser feitas com base em probabilidades marginais.
+### IA responsável e ética
+- É importante que os engenheiros de software considerem o impacto de seus softwares em usuários e a sociedade em geral, incluindo considerações éticas sobre seu uso. Quando o aplicativo é imbuído com inteligência artificial, essas considerações são particularmente importantes devido à natureza de como os sistemas de IA funcionam e informam decisões, geralmente com base em modelos probabilísticos que, por sua vez, dependem dos dados com os quais foram treinados.
+- A natureza humana das soluções de IA é um benefício significativo para tornar os aplicativos amigáveis para o usuário, mas também pode levar os usuários a depositar confiança demais na capacidade do aplicativo de tomar as decisões corretas. O potencial de danos a indivíduos ou grupos por meio de previsões incorretas ou o uso indevido de recursos de IA é uma grande preocupação, e os engenheiros de software que criam soluções habilitadas para IA devem considerar os riscos e garantir a imparcialidade, a confiabilidade e a proteção adequada contra danos ou discriminação.
+# Entender as considerações para a IA responsável
+### Princípios fundamentais para IA responsável
+- **Imparcialidade**
+	- Os sistemas de IA devem tratar todas as pessoas de maneira justa.
+	- A imparcialidade dos sistemas aprendidos pela máquina é uma área altamente ativa de pesquisa contínua e algumas soluções de software existem para avaliar, quantificar e mitigar a incerteza em modelos aprendidos pela máquina. No entanto, as ferramentas em si não são suficientes para garantir a imparcialidade. Considere a imparcialidade desde o início do processo de desenvolvimento de aplicativos, examine atentamente os dados de treinamento para garantir que eles sejam representativos de todos os assuntos potencialmente afetados e avalie o desempenho de previsão de subseções da população do usuário durante todo o ciclo de vida de desenvolvimento.
+	- Exemplo: suponha que você crie um modelo de machine learning para dar suporte a um aplicativo de aprovação de empréstimos para um banco. O modelo deve fazer previsões quanto a se o empréstimo deve ou não ser aprovado sem incorporar nenhum viés com base no gênero, na etnia ou em outros fatores que possam resultar em uma vantagem desvantagem injusta para grupos específicos de requerentes.
+- **Confiabilidade e segurança**
+	- Os sistemas de IA devem sef executados de maneira confiável e segura.
+	- Exemplo, considere um sistema de software baseado em IA para um veículo autônomo ou um modelo de machine learning que diagnostica os sintomas dos pacientes e recomenda as prescrições. A não confiabilidade nesses tipos de sistema pode resultar em risco substancial à vida humana.
+	- O desenvolvimento de aplicativos de software baseados em IA deve estar sujeito a rigorosos processos de gerenciamento de implantação e de teste para verificar se eles funcionam conforme o esperado antes do lançamento. Além disso, os engenheiros de software precisam levar em conta a natureza probabilística dos modelos de aprendizado de máquina e aplicar os limites apropriados ao avaliar as pontuações de confiança para previsões.
+- **Privacidade e segurança**
+	- Os sistemas de IA devem ser seguros e respeitar a privacidade
+	- Os modelos de machine learning nos quais os sistemas de IA se baseiam dependem de grandes volumes de dados, que podem conter detalhes pessoais que precisam ser mantidos particulares. Mesmo depois que os modelos são treinados e o sistema está em produção, eles usam novos dados para fazer previsões ou tomar medidas que possam estar sujeitas a questões de privacidade ou segurança. Portanto, devem ser implementadas proteções adequadas para os dados e o conteúdo do cliente.
+- **Inclusão**
+	- Os sistemas de IA devem capacitar todos e envolver as pessoas. O IA deve levar benefícios a todas as camadas da sociedade, independentemente da capacidade física, do sexo, da orientação sexual, da etnia ou de outros fatores.
+	- Uma maneira de otimizar a inclusividade é garantir que o design, o desenvolvimento e o teste do seu aplicativo incluam a entrada de um grupo de pessoas o mais diversificado possível.
+- **Transparência**
+	- Os sistemas de IA devem ser compreensíveis. Os usuários devem ficar totalmente cientes da finalidade do sistema, de como ele funciona e de quais limitações podem ser esperadas.
+	- Por exemplo, quando um sistema de IA é baseado em um modelo de aprendizado de máquina, você geralmente deve fazer com que os usuários saibam de fatores que possam afetar a precisão de suas previsões, como o número de casos usados para treinar o modelo ou os recursos específicos que têm maior influência sobre suas previsões. Você também deve compartilhar informações sobre a pontuação de confiança para previsões.
+- **Responsabilidade**
+	- As pessoas devem ser responsáveis pelos sistemas de IA. Embora muitos sistemas de IA pareçam operar de modo autônomo, por fim, é de responsabilidade dos desenvolvedores que treinaram e validaram os modelos que eles usam, e que definiram a lógica que dão base para as decisões em previsões de modelo, de garantir que o sistema geral atenda aos requisitos de responsabilidade. Para ajudar a alcançar esse objetivo, os designers e desenvolvedores de uma solução baseada em IA devem funcionar dentro de uma estrutura de governança e de princípios organizacionais que garantem que a solução cumpra a padrões éticos e legais claramente definidos.
+# Entender as funcionalidades do Azure Machine Learning
+- O Microsoft Azure fornece o serviço **Azure Machine Learning** – uma plataforma baseada em nuvem para executar testes em escala para treinar modelos de previsão de dados e publicar os modelos treinados como serviços.
+![[Pasted image 20241025143352.png]]
+- O Azure Machine Learning fornece os seguintes recursos e funcionalidades:
+	- ![[Pasted image 20241025160925.png]]
+- Os cientistas de dados podem usar o Azure Machine Learning ao longo de todo o ciclo de vida do aprendizado de máquina para:
+	- Ingerir e preparar dados.
+	- Executar experimentos para explorar dados e treinar modelos de previsão.
+	- Implantar e gerenciar modelos treinados como serviços Web.
+- Os engenheiros de software podem interagir com o Azure Machine Learning das seguintes maneiras:
+	- Usar o machine learning automatizado ou o designer do Azure Machine Learning para treinar modelos de machine learning e implantá-los como serviços que podem ser integrados a aplicativos habilitados para IA.
+	- Colaborando com cientistas de dados para implantar modelos baseados em estruturas comuns, como Scikit-Learn, PyTorch e TensorFlow como serviços Web, e consumi-los em aplicativos.
+	- Usando SDKs do Azure Machine Learning ou scripts da CLI (interface de linha de comando) para orquestrar processos de DevOps que gerenciam controle de versão, implantação e teste de modelos de machine learning como parte de uma solução geral de entrega de aplicativos.
+# Entender as funcionalidades dos serviços de IA do  Azure
+- **Os Azure AI Services** são serviços baseados em nuvem que encapsulam recursos de IA. Em vez de um único produto, você deve pensar nos Azure AI Services como um conjunto de serviços individuais que você pode usar como blocos de construção para compor aplicativos sofisticados e inteligentes.
+- Os serviços de IA do Azure oferecem uma ampla variedade de recursos de IA pré-criados em diversas categorias, com exemplos mostrados na tabela a seguir.
+- ![[Pasted image 20241028113731.png]]
+# Entenda os recursos do Azure OpenAI Service
+- A IA generativa é um campo emergente que se concentra em modelos de IA capazes de gerar conteúdo como texto, imagens e código, interagindo de maneira quase humana. Esses modelos utilizam grandes modelos de linguagem (LLMs) baseados na arquitetura do transformador. O Azure OpenAI Service permite implantar e ajustar esses modelos, incluindo os usados pelo ChatGPT. Engenheiros de IA podem desenvolver aplicativos utilizando esses modelos poderosos, com suporte para REST e SDKs específicos de linguagem.
+# Entenda os recursos do **Azure AI Search**
+- Pesquisar informações é um requisito comum em muitos aplicativos, desde sites _de mecanismos de busca_ dedicados até aplicativos móveis que podem encontrar informações apropriadas ao contexto com base em onde você está e no que deseja realizar.
+- ![[Pasted image 20241028115500.png]]
+- **O Azure AI Search** é um serviço de IA aplicado que permite que você ingira e indexe dados de várias fontes e pesquise no índice para encontrar, filtrar e classificar informações extraídas dos dados de origem.
+- Além da indexação básica baseada em texto, o Azure AI Search permite que você defina um _pipeline de enriquecimento_ que usa habilidades de IA para aprimorar o índice com insights derivados dos dados de origem — por exemplo, usando recursos de visão computacional e processamento de linguagem natural para gerar descrições de imagens, extrair texto de documentos digitalizados e determinar frases-chave em documentos grandes que encapsulem seus pontos principais.
+- Esse enriquecimento de IA não apenas produz uma experiência de pesquisa mais útil, como os insights extraídos pelo seu pipeline de enriquecimento podem ser mantidos em um _repositório de conhecimento_ para análise posterior ou integração em um pipeline de dados para uma solução de inteligência empresarial.
+
+
+![[Pasted image 20241028144941.png]]

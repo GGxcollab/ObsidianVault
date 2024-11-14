@@ -1,5 +1,5 @@
 # Desenvolver soluções de processamento de linguagem natural
-### Analisar Texto
+### Analisar Texto (Language Studio)
 - **Serviço de Linguagem de AI do Azure**
 	- Recursos pré-configurados:
 		- Detecção de idioma
@@ -159,13 +159,119 @@
 	3. Determinar quais casos precisam ser adicionados aos seus dados de treinamento
 	4. Retreine o seu modelo com novos dados incluídos e repita conforme necessário
 		![[Pasted image 20241017153909.png]]
-### Reconhecimento de fala, tradução e síntese
+### Reconhecimento de fala, tradução e síntese (Speech Studio)
 - **O serviço de fala**
 	- APIs de Fala
 		- API de reconhecimento de fala (reconhecimento de fala)
+			- ![[Pasted image 20241021120528.png]]
 		- API de conversão de texto em fala (síntese de fala)
+			- ![[Pasted image 20241021140122.png]]
 		- API de tradução de fala
 		- API de Reconhecimento de Locutor
 		- Reconhecimento de intenção (usa compreensão de linguagem coloquial)
 			- ![[Pasted image 20241017155419.png]]
+	- Formato de Áudio e Vozes
+		- Áudio
+			- Selecione um formato de áudio para especificar:
+				- Tipo de arquivo de áudio
+				- Taxa de amostragem
+				- Profundidade de bits
+		- Vozes
+			- Vozes padrão: vozes sintéticas criadas com base em amostras de áudio
+			- Vozes neurais: vozes de som mais natural criadas usando redes neurais profundas
+		- ![[Pasted image 20241021141801.png]]
+	- Linguagem de marcação de síntese de fala (SSML)
+		- ![[Pasted image 20241021141944.png]]
+	- Síntese de traduções como fala
+		- **Síntese baseada em evento**
+			- Compatível apenas com tradução 1:1 (idioma destino único)
+			- Especifique a voz desejada no **TranslationConfig**
+			- Use o evento **Sintetização** para recuperar o fluxo de áudio
+			- Criar um manipulador de eventos
+			- Use Result.GetAudio() para recuperar o fluxo de bytes
+		- **Síntese manual**
+			- Uso para vários idiomas de destino
+			- Traduzir para texto e usar a API de Conversão de Texto em Fala para sintetizar cada tradução nos resultados
+-----------------------------
+
+# Desenvolver soluções de IA generativa com Serviço OpenAI do Azure
+### Introdução ao Serviço OpenAI do Azure
+- **O que é uma IA generativa?**
+	- ![[Pasted image 20241021143947.png]]
+- **Provisionar um recurso do OpenAI do Azure no Azure**
+	- Implantar um modelo no estúdio do OpenAI do Azure para úsa-lo
+		1. Solicite acesso ao serviço OpenAI do Azure
+		2. Crie um recurso do **OpenAI do Azure** no portal do Azure
+	- Como alternativa, use a CLI do Azure
+		- ![[Pasted image 20241021144407.png]]
+	- ![[Pasted image 20241021144419.png]]
+- **Estúdio do OpenAI do Azure**
+	- Portal da Web para trabalhar com modelos do OpenAI do Azure: "https:// oai.azure.com/"
+	- Exibir e implantar modelos base
+	- Conectar suas próprias fontes de dados
+	- Gerenciar arquivos de dados e ajuste para modelos personalizados
+	- Testar modelos em playgrounds visuais:
+		- **Chat** (GPT-3.5-Turbo e modelos anteriores)
+		- **Preenchimentos** (GPT-3 e modelos anteriores)
+		- **DALL-E** (gerações de imagens)
+		- **Assistentes** (experiências personalizadas e semelhantes ao Copilot)
+	- ![[Pasted image 20241021145019.png]]
+- **Tipos de modelos de IA generativa**
+	- ![[Pasted image 20241021150325.png]]
+	- ![[Pasted image 20241021150336.png]]
+- **Como testar modelos no playground do Estúdio do OpenAI**
+	- ![[Pasted image 20241021163832.png]]
+### Desenvolver aplicativos com o Serviço OpenAI do Azure
+- **Como integrar o OpenAI do Azure ao seu aplicativo**
+	- Os aplicativos enviam os prompts aos modelos implantados. As respostas são conclusões.
+	- Três pontos de extremidade de API REST:
+		- **Preenchimento** - o modelo usa um prompt de entrada e gera um ou mais preenchimentos previstos.
+		- **Inserções** - o modelo usa a entrada e retorna uma representação de vetor dessa entrada.
+		- **ChatCompletion** - o modelo recebe entrada na forma de uma conversa de chat (em que as funções são específicas com a mensagem enviada) e a próximo conclusão é gerada.
+	- **ChatCompletion** será o ponto de extremidade em que nos concentramos para este curso
+	- Use a **Conclusão** e **Inserções** com modelos baseados em GPT-3
+	- Use o **ChatCompletion** com o GPT-35-Turbo e modelos posteriores
+- **Usando API REST do OpenAI do Azure**
+	- ![[Pasted image 20241021170448.png]]
+	- ![[Pasted image 20241021170551.png]]
+	- ![[Pasted image 20241021170913.png]]
+- **Como usar os SDKs do OpenAI do Azure**
+	- ![[Pasted image 20241021171108.png]]
+### Aplicar engenharia de prompts com o Serviço de OpenAI do Azure
+- **Construção de prompts para:**
+	- Maximizara relevância e a precisão dos preenchimentos
+	- Especificar a formatação e o estilo dos preenchimentos
+	- Fornecer contexto de conversa
+	- Reduzir o viés e aumentar a imparcialidade
+### Implementar RAG (Geração Aumentada de Recuperação) com o Serviço OpenAI do Azure
+- **Como o OpenAI do Azure pode usar seus dados**
+	- Configurar as fontes de dados
+		- Usar uma fonte de dados existente, como um recurso de pesquisa do Azure
+		- Use o estúdio do OpenAI do Azure para criar essa fonte de dados, se voce ainda não tiver uma
+		- Ao criar uma fonte de dados, é possível usar dados que já estão em sua conta, como armazenamento de blobs
+	- Configurar o estúdio ou seu aplicativo para se conectar a essa fonte de dados
+		- No estúdio, configure a conexão apontando-a para a fonte de dados
+		- Em seu aplicativo, especifique a fonte de dados nos parâmetros de prompt
+		- Ambas as configurações permitem que o recurso de pesquisa melhora o prompt
+	- Use o Modelo do OpenAI do Azure, que agora usa seus dados para fundamentação 
+		- Converse com os modelos de IA como normal
+		- Se a fonte de dados tiver informações relevantes sobre o prompt, ela usará esses dados
+		- Você pode especificar se o modelo de IA está limitado apenas à sua fonte de dados
+- **Conecte-se a sua fonte de dados**
+	- Adicione sua fonte de dados ao playground de chat, em Configuração de assistente
+	- Use uma fonte de dados existente ou use esse assistente para criar uma nova
+	- Uma vez conectado, uma nova sessão  de chat será iniciada. Converse normalmente e veja como o modelo de IA faz referência a esses dados
+	- ![[Pasted image 20241022142153.png]]
+- **Uso da API REST do OpenAI do Azure**
+	- ![[Pasted image 20241022142357.png]]
+- **Como usar os SDKs do OpenAI do Azure**
+	- SDKs específicos de linguagem estão disponíveis para uso em seus aplicativos, tanto em C# quanto em Python.
+	- A estrutura do código segue um padrão semelhante para ambas as linguagens.
+	- Banco de dados para reservar isso ⬇️
+	- As fontes de dados atualmente compatíveis são:
+		- Azure AI Search
+		- Azure Cosmos DB para o Mongo DB vCore
+		- Al~em de outros em pré-visualização, em que breve serão lançados em GA
+	- ![[Pasted image 20241022142740.png]]
 	- 
+
