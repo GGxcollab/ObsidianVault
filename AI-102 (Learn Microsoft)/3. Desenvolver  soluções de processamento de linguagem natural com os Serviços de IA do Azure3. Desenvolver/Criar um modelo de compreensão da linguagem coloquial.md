@@ -397,24 +397,22 @@ result = client.analyze_conversation(
 	    - "Olá"
 	    - "Até logo"
 
-Em seu modelo, você deve definir as intenções que deseja que seu modelo entenda. Portanto, pare um instante para considerar o _domínio_ que seu modelo deve aceitar e os tipos de ações ou informações que os usuários podem solicitar. Além das intenções que você define, cada modelo inclui uma intenção **Nenhuma**, que você deve usar para identificar explicitamente os enunciados que um usuário pode enviar, mas para a qual não há nenhuma ação específica necessária (por exemplo, saudações de uma conversa, como "Olá") ou que está fora do escopo do domínio do modelo.
+- Em seu modelo, você deve definir as intenções que deseja que seu modelo entenda. Portanto, pare um instante para considerar o _domínio_ que seu modelo deve aceitar e os tipos de ações ou informações que os usuários podem solicitar. Além das intenções que você define, cada modelo inclui uma intenção **Nenhuma**, que você deve usar para identificar explicitamente os enunciados que um usuário pode enviar, mas para a qual não há nenhuma ação específica necessária (por exemplo, saudações de uma conversa, como "Olá") ou que está fora do escopo do domínio do modelo.
 
-Depois de identificadas as intenções que seu modelo deve aceitar, é importante capturar diversos exemplos diferentes de enunciados para cada intenção. Colete enunciados que você acha que os usuários inserirão, incluindo enunciados que significam a mesma coisa, mas que são construídos de maneiras diferentes. Tenha em conta as seguintes diretrizes:
+- Depois de identificadas as intenções que seu modelo deve aceitar, é importante capturar diversos exemplos diferentes de enunciados para cada intenção. Colete enunciados que você acha que os usuários inserirão, incluindo enunciados que significam a mesma coisa, mas que são construídos de maneiras diferentes. Tenha em conta as seguintes diretrizes:
 
-- Capture diversos exemplos diferentes ou maneiras alternativas de dizer a mesma coisa
-- Varie o comprimento dos enunciados de curto, a médio e a longo
-- Varie a localização do _substantivo_ ou do _assunto_ do enunciado. Coloque-o no início, no final ou em algum lugar no meio
-- Use a gramática correta e a incorreta em diferentes enunciados para oferecer bons exemplos de dados de treinamento
-- A precisão, a consistência e a conclusão dos dados rotulados são fatores fundamentais para determinar o desempenho do modelo.
-    - Rotular **precisamente**: sempre rotule cada entidade para o tipo correto dela. Inclua apenas o que você deseja extrair, evite dados desnecessários em seu rótulo.
-    - Rotular **consistentemente**: a mesma entidade deve ter o mesmo rótulo em todos os enunciados.
-    - Rotular **completamente**: rotule todas as instâncias da entidade em todos os seus enunciados.
+	- Capture diversos exemplos diferentes ou maneiras alternativas de dizer a mesma coisa
+	- Varie o comprimento dos enunciados de curto, a médio e a longo
+	- Varie a localização do _substantivo_ ou do _assunto_ do enunciado. Coloque-o no início, no final ou em algum lugar no meio
+	- Use a gramática correta e a incorreta em diferentes enunciados para oferecer bons exemplos de dados de treinamento
+	- A precisão, a consistência e a conclusão dos dados rotulados são fatores fundamentais para determinar o desempenho do modelo.
+	    - Rotular **precisamente**: sempre rotule cada entidade para o tipo correto dela. Inclua apenas o que você deseja extrair, evite dados desnecessários em seu rótulo.
+	    - Rotular **consistentemente**: a mesma entidade deve ter o mesmo rótulo em todos os enunciados.
+	    - Rotular **completamente**: rotule todas as instâncias da entidade em todos os seus enunciados.
 
-As _entidades_ são usadas para adicionar contexto específico a intenções. Por exemplo, você pode definir uma intenção de **TurnOnDevice** que pode ser aplicada a vários dispositivos e usar entidades para definir os diferentes dispositivos.
+- As _entidades_ são usadas para adicionar contexto específico a intenções. Por exemplo, você pode definir uma intenção de **TurnOnDevice** que pode ser aplicada a vários dispositivos e usar entidades para definir os diferentes dispositivos.
 
-Considere os seguintes enunciados, intenções e entidades:
-
-Expandir a tabela
+- Considere os seguintes enunciados, intenções e entidades:
 
 |Enunciado|Intencional|Entidades|
 |---|---|---|
@@ -426,8 +424,8 @@ Expandir a tabela
 |Ligar a _luz_.|TurnOnDevice|Dispositivo (luz)|
 |Ligue o _ventilador_.|TurnOnDevice|Dispositivo (ventilador)|
 
-Você pode dividir as entidades em alguns tipos de componentes diferentes:
+- Você pode dividir as entidades em alguns tipos de componentes diferentes:
 
-- As entidades **aprendidas** são o tipo mais flexível de entidade e devem ser usadas na maioria dos casos. Você define um componente aprendido com um nome adequado e associa palavras ou frases a ele em enunciados de treinamento. Quando você treina seu modelo, ele aprende a fazer a correspondência dos elementos apropriados nos enunciados com a entidade.
-- As entidades de **lista** são úteis quando você precisa de uma entidade com um conjunto específico de valores possíveis. Por exemplo, dias da semana. Você pode incluir sinônimos em uma definição de entidade de lista, para que você possa definir uma entidade **DayOfWeek** que inclua os valores "Domingo", "Segunda-feira", "Terça-feira" e assim por diante; cada uma com sinônimos como "Dom", "Seg", "Ter" e assim por diante.
-- Entidades **predefinidas** são úteis para tipos comuns, como números, datetimes e nomes. Por exemplo, quando componentes predefinidos são adicionados, você detecta automaticamente os valores, como "6", ou as organizações, como "Microsoft". Você pode ver este artigo para obter uma lista de [entidades predefinidas com suporte](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference).
+	- As entidades **aprendidas** são o tipo mais flexível de entidade e devem ser usadas na maioria dos casos. Você define um componente aprendido com um nome adequado e associa palavras ou frases a ele em enunciados de treinamento. Quando você treina seu modelo, ele aprende a fazer a correspondência dos elementos apropriados nos enunciados com a entidade.
+	- As entidades de **lista** são úteis quando você precisa de uma entidade com um conjunto específico de valores possíveis. Por exemplo, dias da semana. Você pode incluir sinônimos em uma definição de entidade de lista, para que você possa definir uma entidade **DayOfWeek** que inclua os valores "Domingo", "Segunda-feira", "Terça-feira" e assim por diante; cada uma com sinônimos como "Dom", "Seg", "Ter" e assim por diante.
+	- Entidades **predefinidas** são úteis para tipos comuns, como números, datetimes e nomes. Por exemplo, quando componentes predefinidos são adicionados, você detecta automaticamente os valores, como "6", ou as organizações, como "Microsoft". Você pode ver este artigo para obter uma lista de [entidades predefinidas com suporte](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference).
