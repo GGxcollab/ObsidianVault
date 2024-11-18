@@ -375,5 +375,5 @@ result = client.analyze_conversation(
 
 - Os SDKs para Python e C# retornam JSON que é muito semelhante à resposta REST.
 
-- Para obter documentação completa sobre recursos, incluindo exemplos e guias de instruções, confira as páginas de [documentação da Linguagem de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/).#
-- 
+- Para obter documentação completa sobre recursos, incluindo exemplos e guias de instruções, confira as páginas de [documentação da Linguagem de IA do Azure](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/).
+# Definir intenções, enunciados e entidades
