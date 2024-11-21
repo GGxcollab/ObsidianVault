@@ -433,24 +433,22 @@ result = client.analyze_conversation(
 - Em alguns casos, um modelo pode conter várias intenções para as quais os enunciados provavelmente serão semelhantes. Você pode usar o padrão de enunciados para desambiguar as intenções, minimizando o número de enunciados de amostra.
 
 - Por exemplo, considere o seguinte enunciado:
-
-- "Ligar a luz da cozinha"
-- "A luz da cozinha está ligada?"
-- "Desligar a luz da cozinha"
+	- "Ligar a luz da cozinha"
+	- "A luz da cozinha está ligada?"
+	- "Desligar a luz da cozinha"
 
 - Esses enunciados são sintaticamente semelhantes, com somente algumas diferenças em palavras ou pontuação. No entanto, eles representam três intenções diferentes (que podem ser nomeadas de **TurnOnDevice**, **GetDeviceStatus**e **TurnOffDevice**). Além disso, as intenções podem se aplicar a uma ampla variedade de valores de entidade. Além da "luz da cozinha", a intenção pode ser aplicada à "luz da sala de estar", à "televisão" ou a qualquer outro dispositivo ao qual o modelo possa precisar dar suporte.
 
 - Para treinar corretamente seu modelo, forneça alguns exemplos de cada intenção que especifiquem os diferentes formatos de enunciados.
+	- **TurnOnDevice**:
+	    - "Ligar {DeviceName}"
+	    - "Alternar o {DeviceName}"
+	    - "Ligue {DeviceName}"
+	- **GetDeviceStatus**:
+	    - "{DeviceName} está ligado[?]"
+	- **TurnOffDevice**:
+	    - "Desligue {DeviceName}"
+	    - "Desativar {DeviceName}"
+	    - "Desligar {DeviceName}"
 
-- **TurnOnDevice**:
-    - "Ligar {DeviceName}"
-    - "Alternar o {DeviceName}"
-    - "Ligue {DeviceName}"
-- **GetDeviceStatus**:
-    - "{DeviceName} está ligado[?]"
-- **TurnOffDevice**:
-    - "Desligue {DeviceName}"
-    - "Desativar {DeviceName}"
-    - "Desligar {DeviceName}"
-
-Quando você ensina seu modelo com cada tipo diferente de enunciado, o serviço de Linguagem de IA do Azure pode aprender a categorizar as intenções corretamente com base no formato e na pontuação.
+- Quando você ensina seu modelo com cada tipo diferente de enunciado, o serviço de Linguagem de IA do Azure pode aprender a categorizar as intenções corretamente com base no formato e na pontuação.
