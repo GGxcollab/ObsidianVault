@@ -429,3 +429,28 @@ result = client.analyze_conversation(
 	- As entidades **aprendidas** são o tipo mais flexível de entidade e devem ser usadas na maioria dos casos. Você define um componente aprendido com um nome adequado e associa palavras ou frases a ele em enunciados de treinamento. Quando você treina seu modelo, ele aprende a fazer a correspondência dos elementos apropriados nos enunciados com a entidade.
 	- As entidades de **lista** são úteis quando você precisa de uma entidade com um conjunto específico de valores possíveis. Por exemplo, dias da semana. Você pode incluir sinônimos em uma definição de entidade de lista, para que você possa definir uma entidade **DayOfWeek** que inclua os valores "Domingo", "Segunda-feira", "Terça-feira" e assim por diante; cada uma com sinônimos como "Dom", "Seg", "Ter" e assim por diante.
 	- Entidades **predefinidas** são úteis para tipos comuns, como números, datetimes e nomes. Por exemplo, quando componentes predefinidos são adicionados, você detecta automaticamente os valores, como "6", ou as organizações, como "Microsoft". Você pode ver este artigo para obter uma lista de [entidades predefinidas com suporte](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference).
+# Usar padrões para diferenciar enunciados semelhantes
+- Em alguns casos, um modelo pode conter várias intenções para as quais os enunciados provavelmente serão semelhantes. Você pode usar o padrão de enunciados para desambiguar as intenções, minimizando o número de enunciados de amostra.
+
+- Por exemplo, considere o seguinte enunciado:
+
+- "Ligar a luz da cozinha"
+- "A luz da cozinha está ligada?"
+- "Desligar a luz da cozinha"
+
+- Esses enunciados são sintaticamente semelhantes, com somente algumas diferenças em palavras ou pontuação. No entanto, eles representam três intenções diferentes (que podem ser nomeadas de **TurnOnDevice**, **GetDeviceStatus**e **TurnOffDevice**). Além disso, as intenções podem se aplicar a uma ampla variedade de valores de entidade. Além da "luz da cozinha", a intenção pode ser aplicada à "luz da sala de estar", à "televisão" ou a qualquer outro dispositivo ao qual o modelo possa precisar dar suporte.
+
+- Para treinar corretamente seu modelo, forneça alguns exemplos de cada intenção que especifiquem os diferentes formatos de enunciados.
+
+- **TurnOnDevice**:
+    - "Ligar {DeviceName}"
+    - "Alternar o {DeviceName}"
+    - "Ligue {DeviceName}"
+- **GetDeviceStatus**:
+    - "{DeviceName} está ligado[?]"
+- **TurnOffDevice**:
+    - "Desligue {DeviceName}"
+    - "Desativar {DeviceName}"
+    - "Desligar {DeviceName}"
+
+Quando você ensina seu modelo com cada tipo diferente de enunciado, o serviço de Linguagem de IA do Azure pode aprender a categorizar as intenções corretamente com base no formato e na pontuação.
