@@ -6,4 +6,4 @@
 - Visualiza a lista de tarefas.
 - Atualize o nome das tarefas.
 - Marque tarefas como completadas.
-- Delete 
+- Delete tarefas completadas.
