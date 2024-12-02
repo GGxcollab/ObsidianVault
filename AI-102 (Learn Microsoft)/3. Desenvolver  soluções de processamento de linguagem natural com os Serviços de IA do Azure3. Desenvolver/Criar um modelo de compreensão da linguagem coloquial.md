@@ -1,5 +1,5 @@
 # Introdução
-- _Processamento da linguagem natural_ (NLP) é um problema comum de IA no qual o software deve ser capaz de trabalhar com texto ou fala na forma de linguagem natural que um usuário humano escreveria ou falaria. Dentro do NLP, existe a _Compreensão da linguagem natural_ (NLU), que lida com o problema de determinar o significado semântico da linguagem natural, geralmente usando um modelo de linguagem treinado.
+- _Processamento da linguagem natural_ (NLP) é um problema comum de IA no qual o software deve ser capaz de trabalhar com texto ou fala na forma de linsguagem natural que um usuário humano escreveria ou falaria. Dentro do NLP, existe a _Compreensão da linguagem natural_ (NLU), que lida com o problema de determinar o significado semântico da linguagem natural, geralmente usando um modelo de linguagem treinado.
 
 - Um padrão de design comum para uma solução de reconhecimento de linguagem natural é semelhante ao seguinte:
 

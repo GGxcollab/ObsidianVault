@@ -36,7 +36,11 @@ Embora você possa executar todas as tarefas de análise de vídeo no portal do 
 ## Widgets do Indexador de Vídeo do Azure
 
 Os widgets usados no portal do Azure Video Indexer para reproduzir, analisar e editar vídeos podem ser incorporados em suas próprias interfaces HTML personalizadas. Você pode usar essa técnica para compartilhar insights de vídeos específicos com outras pessoas sem dar a elas acesso total à sua conta no portal do Azure Video Indexer.
+<<<<<<< HEAD
 ![[Pasted image 20241106150712 1.png]]
+=======
+![[Pasted image 20241106150712.png]]
+>>>>>>> origin/master
 
 # API do Indexador de Vídeo do Azure
 - O Azure Video Indexer fornece uma API REST que você pode usar para obter informações sobre sua conta, incluindo um token de acesso.
@@ -87,4 +91,8 @@ https://api.videoindexer.ai/Auth/<location>/Accounts/<accountId>/AccessToken
 Os modelos do Azure Resource Manager (ARM) estão disponíveis para criar o recurso Azure AI Video Indexer na sua assinatura, com base nos parâmetros especificados no arquivo de modelo.
 
 Para obter uma lista completa de APIs disponíveis, consulte o [Portal do desenvolvedor do Video Indexer](https://api-portal.videoindexer.ai/) .
+<<<<<<< HEAD
 ![[Pasted image 20241106152304 1.png]]
+=======
+![[Pasted image 20241106152304.png]]
+>>>>>>> origin/master
