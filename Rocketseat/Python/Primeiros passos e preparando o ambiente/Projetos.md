@@ -13,4 +13,5 @@
 ## Requisitos
 - O jogo deve ser executado em turnos.
 - O jogador deve controlar um herói.
-- O he´r
+- O herói deve ter um nome, pontos de vida, nível e pode utilizar ataques normais e especiais para atacar.
+- Os inimigos dever tenome, pontos de vida, nível, ti
