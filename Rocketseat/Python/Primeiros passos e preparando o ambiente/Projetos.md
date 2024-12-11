@@ -14,4 +14,6 @@
 - O jogo deve ser executado em turnos.
 - O jogador deve controlar um herói.
 - O herói deve ter um nome, pontos de vida, nível e pode utilizar ataques normais e especiais para atacar.
-- Os inimigos dever tenome, pontos de vida, nível, ti
+- Os inimigos dever tenome, pontos de vida, nível, tipo e pode utilizar ataques normais para atacar
+- A  cada turno o herói e o inimigo atacam.
+- O jogo acaba quando o herói ou o inimigo ficaram sem pontos de vida.
