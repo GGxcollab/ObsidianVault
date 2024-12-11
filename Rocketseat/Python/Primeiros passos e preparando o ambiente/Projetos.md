@@ -9,4 +9,8 @@
 - Delete tarefas completadas.
 # Jogo de combate em turnos em Python
 ## Descrição
-- Este projeto consiste em criar um jogo de batalha em Python, onde o jogador controla um herói e enfrenta um inimigo em uma batalha em turnos. O objetivo é derrotar o inimigo e vencer a batalha, usando ataques normais e especiais. O jogo apresentará dois personagens: O herói e o inimigo
+- Este projeto consiste em criar um jogo de batalha em Python, onde o jogador controla um herói e enfrenta um inimigo em uma batalha em turnos. O objetivo é derrotar o inimigo e vencer a batalha, usando ataques normais e especiais. O jogo apresentará dois personagens: O herói e o inimigo.
+## Requisitos
+- O jogo deve ser executado em turnos.
+- O jogador deve controlar um herói.
+- O he´r
