@@ -7,3 +7,5 @@
 - Atualize o nome das tarefas.
 - Marque tarefas como completadas.
 - Delete tarefas completadas.
+# Jogo de combate em turnos em Python
+## Descrição
