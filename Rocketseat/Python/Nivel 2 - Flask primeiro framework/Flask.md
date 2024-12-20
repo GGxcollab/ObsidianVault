@@ -22,4 +22,5 @@
 - ![[Pasted image 20241220161722.png]]
 ## Métodos de Requisição
 - **Método de requisição HTTP**
-	- O protocolo HTTP define um conjunto de métodos para realizar as requisições n
+	- O protocolo HTTP define um conjunto de métodos para realizar as requisições 
+	- O protocolo HTTP define diferentes métodos para realizar requisições, cada um com uma finalidade específica. Vamos começar com o método GET, que é utilizado para recuperar dados de um recurso específico. Em seguida, temos o método POST, que é usado para inserir informações em um recurso. O método PUT é utilizado para atualizar informações de um recurso, substituindo todas as informações existentes. Já o método PATCH é usado para fazer atual
