@@ -19,4 +19,5 @@
 - Quando uma API segue todos os princípios do REST, ela é considerada RESTful. É importante entender esses conceitos para construir APIs eficientes.
 - ![[Pasted image 20241220161410.png]]
 - ![[Pasted image 20241220161449.png]]
+- ![[Pasted image 20241220161722.png]]
 - 
