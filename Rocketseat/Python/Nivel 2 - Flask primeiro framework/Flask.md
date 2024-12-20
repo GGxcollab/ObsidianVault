@@ -12,3 +12,5 @@
 - Linkedin
 - Netflix 
 - Uber
+## Conceitos básicos API e API Rest
+- ![[Pasted image 20241220161410.png]]
