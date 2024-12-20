@@ -7,3 +7,8 @@
 - **Simplicidade**
 - **Escalabilidade**
 - **Flexibilidade**
+## Usos reais
+- Pinterest
+- Linkedin
+- Netflix 
+- Uber
