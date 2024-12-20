@@ -21,5 +21,5 @@
 - ![[Pasted image 20241220161449.png]]
 - ![[Pasted image 20241220161722.png]]
 ## Métodos de Requisição
-- **Metodo de requisição HTTP**
-	- O protocolo HTTP define um conjunto de metodos para 
+- **Método de requisição HTTP**
+	- O protocolo HTTP define um conjunto de métodos para realizar as requisições
