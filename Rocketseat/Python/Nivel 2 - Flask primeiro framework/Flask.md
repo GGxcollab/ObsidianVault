@@ -20,4 +20,4 @@
 - ![[Pasted image 20241220161410.png]]
 - ![[Pasted image 20241220161449.png]]
 - ![[Pasted image 20241220161722.png]]
-- 
+## Metodos de Requis
