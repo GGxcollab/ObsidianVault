@@ -6,4 +6,4 @@
 ## Vantagens:
 - **Simplicidade**
 - **Escalabilidade**
-- Flexi
+- **Flexibilidade**
