@@ -24,3 +24,6 @@
 - **Método de requisição HTTP**
 	- O protocolo HTTP define um conjunto de métodos para realizar as requisições 
 	- O protocolo HTTP define diferentes métodos para realizar requisições, cada um com uma finalidade específica. Vamos começar com o método GET, que é utilizado para recuperar dados de um recurso específico. Em seguida, temos o método POST, que é usado para inserir informações em um recurso. O método PUT é utilizado para atualizar informações de um recurso, substituindo todas as informações existentes. Já o método PATCH é usado para fazer atual
+- **Código de Resposta HTTP**
+	- Os códigos de resposta informam o que aconteceu com a requisição. Temos diferentes faixas de números para classificar esses códigos. 
+	- Por exemplo, os códigos entre 100 e 199 são informativos, enquanto os códigos entre 200 e 299 indicam que a requisição foi bem-sucedida. Já os códigos entre 300 e 399 são para redirecionamento, e os códigos entre 400 e 499 são para erros do cliente. Os códigos entre 500 e 599 são para erros do servidor. É importante entender esses códigos para interpretar corretamente as respostas das requisições.
