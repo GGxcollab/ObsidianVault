@@ -11,5 +11,5 @@
 	Centralização de conhecimento
 	Falta de feedback
 	Falta de Aprendizado continuo
-	Automatização
+	Automatização (Não apresentar automatizações a nivel de infra e desenvolvimento indica a falta da cultui)
 	
