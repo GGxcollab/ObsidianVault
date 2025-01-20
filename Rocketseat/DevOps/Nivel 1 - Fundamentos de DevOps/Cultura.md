@@ -43,4 +43,5 @@
 	SRE - Site Reliability Engineer (Engenharia de confiabilidade de sites) - 
 	- responsável por implementar todo o ponto de vista técnico
 		- ex: automatização de deploy, quem faz isso é a pessoa do SRE
-	- O que te na minha cultura DevOps que 
+	- O que tem na minha cultura DevOps que tende a ir para o campo técnico seria SRE a pessoa que vai cuidar disso
+	- existe o cargo DevOps e SRE
