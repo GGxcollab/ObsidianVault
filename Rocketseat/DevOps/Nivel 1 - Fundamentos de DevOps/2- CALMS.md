@@ -2,4 +2,6 @@
 - Nesta aula, abordamos o framework CALMS, uma ferramenta para medir e acompanhar a implementação da cultura DevOps em uma organização. Através de um diagnóstico cultural, o CALMS avalia se a empresa já está no modo DevOps ou se ainda está distante. O diagnóstico considera aspectos como a resolução de problemas, a busca por culpados versus a resolução em equipe, e a existência de um processo de pós-mortem para aprender com os erros. O objetivo é identificar falhas nos processos e implementar medidas para mitigá-las, evitando que se repitam no futuro. Nas próximas aulas, exploraremos o CALMS em mais detalhes.
 - A ideia é aprender com o erro, buscar entender qual foi o erro que deu e quais ações podem ser tomadas dado cenário
 - Não poder ter uma cultura que prove sempre uma pessoa culpada e que nunca olhe para tras para o passado, mas sempre pensando em buscar medidas para mitigar as falhas
-- 
+
+## Automatizando tudo - Aula 02
+- Nesta aula, exploramos o pilar de Automação (A) dentro do framework COMS. O foco está em dois aspectos: entrega contínua e GitOps/IAC. A entrega contínua deve ser automatizada para reduzir o tempo gasto em tarefas repetitivas e garantir agilidade na implantação. Já o GitOps/IAC visa estabelecer uma única fonte de verdade para recursos em nuvem, centralizando o gerenciamento no Git e garantindo maior segurança, economia e manutenabilidade. Abordaremos esses tópicos em detalhes em módulos específicos.
