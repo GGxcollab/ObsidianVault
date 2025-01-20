@@ -34,8 +34,9 @@
 ### Exemplo
 - **Empresa com DevOps**
 	
-	Integração (de equipes e alguns outros processos)
+	Integração entre times (de equipes e alguns outros processos)
 	Documentação contínua
 	Aprendizado e Feedback
 	Automatização
+	Erraa rádio
 	
