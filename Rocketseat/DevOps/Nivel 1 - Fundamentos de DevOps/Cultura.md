@@ -36,6 +36,7 @@
 	
 	Integração entre times (de equipes e alguns outros processos)
 	Documentação contínua
+	Descentralização de conhecimento
 	Aprendizado e Feedback
 	Automatização
 	Erra rápido para corrigir rápido 
