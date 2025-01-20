@@ -15,3 +15,4 @@
 
 ## Contexto de um mundo sem DevOps
 - O DevOps surgiu em 2008 para unir desenvolvimento e operações, promovendo descentralização de conhecimento e feedback contínuo. Automatização é essencial para aumentar a produtividade e reduzir tarefas repetitivas. A cultura DevOps permite experimentar novas tecnologias e melhorar processos. Na próxima aula, vamos explorar a rotina de uma pessoa DevOps, a diferença que o DevOps faz em uma organização e a relação entre DevOps e SRE.
+- 
