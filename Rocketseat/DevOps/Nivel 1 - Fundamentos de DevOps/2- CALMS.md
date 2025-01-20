@@ -1,4 +1,4 @@
 ## Adotando a cultura DevOps - Aula 01
 - Nesta aula, abordamos o framework CALMS, uma ferramenta para medir e acompanhar a implementação da cultura DevOps em uma organização. Através de um diagnóstico cultural, o CALMS avalia se a empresa já está no modo DevOps ou se ainda está distante. O diagnóstico considera aspectos como a resolução de problemas, a busca por culpados versus a resolução em equipe, e a existência de um processo de pós-mortem para aprender com os erros. O objetivo é identificar falhas nos processos e implementar medidas para mitigá-las, evitando que se repitam no futuro. Nas próximas aulas, exploraremos o CALMS em mais detalhes.
 - A ideia é aprender com o erro, buscar entender qual foi o erro que deu e quais ações podem ser tomadas dado cenário
-- 
+- Não poder ter uma cultura que prove sempre uma pess
