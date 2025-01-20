@@ -5,3 +5,4 @@
 
 ## Automatizando tudo - Aula 02
 - Nesta aula, exploramos o pilar de Automação (A) dentro do framework COMS. O foco está em dois aspectos: entrega contínua e GitOps/IAC. A entrega contínua deve ser automatizada para reduzir o tempo gasto em tarefas repetitivas e garantir agilidade na implantação. Já o GitOps/IAC visa estabelecer uma única fonte de verdade para recursos em nuvem, centralizando o gerenciamento no Git e garantindo maior segurança, economia e manutenabilidade. Abordaremos esses tópicos em detalhes em módulos específicos.
+- No que tange entrega contínua é todo o fluxo
