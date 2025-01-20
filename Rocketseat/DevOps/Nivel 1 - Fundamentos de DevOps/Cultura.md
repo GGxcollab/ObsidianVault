@@ -41,4 +41,5 @@
 	Erra rápido para corrigir rápido 
 
 	SRE - Site Reliability Engineer (Engenharia de confiabilidade de sites) - 
-	
+	- responsável por implementar todo o ponto de vista técnico
+		- ex: 
