@@ -25,5 +25,5 @@
 
 	Descentralização de conhecimento
 	Feedback continuo
-	Falta de Aprendizado continuo
-	Automatização (Não apresentar automatizações a nivel de infra e desenvolvimento indica a falta da cultura DevOps)
+	Aprendizado continuo
+	Automatização 
