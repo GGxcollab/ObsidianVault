@@ -27,5 +27,7 @@
 	Feedback continuo
 	Aprendizado continuo
 	Automatização 
-
 	Escala
+
+## DevOps no dia a dia e SRE
+- Nesta aula, abordamos a importância do DevOps e do SRE no dia a dia das empresas. Exploramos a integração entre equipes, documentação contínua, feedback, testabilidade e a agilidade na entrega de funcionalidades. Destacamos a engenharia de confiabilidade de sites (SRE) e recomendo o livro sobre o tema. Explico como o SRE atua na implementação técnica, automatização e agilidade. Discuto a diferença entre DevOps como cultura e SRE como cargo técnico. Na próxima aula, abordarei desafios culturais mesmo com a implementação do DevOps. Até lá!
