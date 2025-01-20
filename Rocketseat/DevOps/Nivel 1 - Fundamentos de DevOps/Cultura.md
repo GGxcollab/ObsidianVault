@@ -39,7 +39,7 @@
 	Descentralização de conhecimento
 	Aprendizado e Feedback
 	Automatização
-	Erra rápido para corrigir rápido 
+	Erra rápido para corrigir rápido (Testabilidade)
 
 	SRE - Site Reliability Engineer (Engenharia de confiabilidade de sites) - 
 	- responsável por implementar todo o ponto de vista técnico
