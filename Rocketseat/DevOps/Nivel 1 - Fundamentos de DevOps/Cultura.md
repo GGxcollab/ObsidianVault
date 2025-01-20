@@ -4,5 +4,5 @@
 ### Exemplos:
 - **Empresa sem DevOps**
 
-	Desenvolvimento - Frontend, Backend
-	Operações
+	Desenvolvimento - Frontend, Backend e Mobile
+	Operações - Infraestrutura
