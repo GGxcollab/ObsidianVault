@@ -40,5 +40,5 @@
 	Automatização
 	Erra rápido para corrigir rápido 
 
-	SRE - Site Reliability Engineer
+	SRE - Site Reliability Engineer (Engenharia de confiabilidade de sites) - 
 	
