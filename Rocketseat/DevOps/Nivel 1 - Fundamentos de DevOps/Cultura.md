@@ -41,7 +41,7 @@
 	Automatização
 	Erra rápido para corrigir rápido (Testabilidade)
 	 - se aplica tambem para testar POCs
-	 - Uma POC (Proof of Concept) em DevOps ==é uma prova de conceito que visa avaliar a viabilidade de um projeto de DevOps.
+	 - Uma POC (Proof of Concept) em DevOps é uma prova de conceito que visa avaliar a viabilidade de um projeto de DevOps.
 
 	SRE - Site Reliability Engineer (Engenharia de confiabilidade de sites) - 
 	- responsável por implementar todo o ponto de vista técnico
