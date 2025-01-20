@@ -19,4 +19,5 @@
 
 ## Conhecendo as três maneiras - Aula 05
 - Esta aula introdutória ao DevOps apresenta as "Três Maneiras" como um guia para implementar a cultura DevOps e melhorar o fluxo de trabalho, a comunicação e o aprendizado organizacional. Abordando os conceitos de forma prática e contextualizada, a aula oferece ferramentas para diagnosticar o estado atual da sua organização e implementar as "Três Maneiras" de forma gradual, começando pela primeira: acelerar o fluxo de desenvolvimento. A segunda maneira se concentra em estabelecer um processo de feedback contínuo entre Dev e Ops, enquanto a terceira foca no aprendizado contínuo e na experimentação para aumentar a produtividade e o conhecimento organizacional. Ao final da aula, você estará preparado para aplicar as "Três Maneiras" em sua organização e iniciar sua jornada na cultura DevOps.
+- ![[Pasted image 20250120185734.png]]
 - 
