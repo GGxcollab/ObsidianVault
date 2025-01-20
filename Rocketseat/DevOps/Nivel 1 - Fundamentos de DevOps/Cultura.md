@@ -3,7 +3,8 @@
 
 ### Exemplos:
 - **Empresa sem DevOps**
-
+	Cada um faz o seu
+	
 	Desenvolvimento - Frontend, Backend e Mobile
 	Operações - Infraestrutura
 
