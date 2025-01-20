@@ -3,9 +3,10 @@
 
 ### Exemplos:
 - **Empresa sem DevOps**
-	Cada um faz o seu
+	Cada um faz o seu e caso de problema havera problema de comunicação, de conhecimento
 	
 	Desenvolvimento - Frontend, Backend e Mobile
 	Operações - Infraestrutura
 
 	Centralização de conhecimento
+	Falta de feedback
