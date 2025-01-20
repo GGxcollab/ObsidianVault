@@ -38,5 +38,5 @@
 	Documentação contínua
 	Aprendizado e Feedback
 	Automatização
-	Erraa rádio
+	Erra rápido para corrigir rápido 
 	
