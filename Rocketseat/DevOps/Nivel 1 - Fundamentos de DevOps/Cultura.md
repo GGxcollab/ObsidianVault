@@ -27,3 +27,5 @@
 	Feedback continuo
 	Aprendizado continuo
 	Automatização 
+
+	Escala
