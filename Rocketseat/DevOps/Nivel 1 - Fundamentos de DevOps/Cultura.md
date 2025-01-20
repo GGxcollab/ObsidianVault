@@ -3,3 +3,6 @@
 
 ### Exemplos:
 - **Empresa sem DevOps**
+
+	Desenvolvimento - Frontend, Backend
+	Operações
