@@ -35,4 +35,7 @@
 - **Empresa com DevOps**
 	
 	Integração (de equipes e alguns outros processos)
+	Documentação contínua
+	Aprendizado e Feedback
+	Automatização
 	
