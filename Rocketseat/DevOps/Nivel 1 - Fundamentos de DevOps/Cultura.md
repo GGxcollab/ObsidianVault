@@ -11,3 +11,5 @@
 	Centralização de conhecimento
 	Falta de feedback
 	Falta de Aprendizado continuo
+	Automatização
+	
