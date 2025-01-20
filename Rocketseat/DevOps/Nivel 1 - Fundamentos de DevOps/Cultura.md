@@ -3,7 +3,7 @@
 
 ### Exemplos:
 - **Empresa sem DevOps**
-	Cada um faz o seu e caso de problema havera problema de comunicação, de conhecimento
+	Cada um faz o seu e caso de problema haverá problema de comunicação, de conhecimento
 	
 	Desenvolvimento - Frontend, Backend e Mobile
 	Operações - Infraestrutura
@@ -12,4 +12,3 @@
 	Falta de feedback
 	Falta de Aprendizado continuo
 	Automatização (Não apresentar automatizações a nivel de infra e desenvolvimento indica a falta da cultura DevOps)
-	
