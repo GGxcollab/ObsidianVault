@@ -6,3 +6,5 @@
 
 	Desenvolvimento - Frontend, Backend e Mobile
 	Operações - Infraestrutura
+
+	Centralização de conhecimento
