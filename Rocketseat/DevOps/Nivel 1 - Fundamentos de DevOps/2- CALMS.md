@@ -11,3 +11,4 @@
 
 ## Focando no valor e errando rápido
 - Nesta aula, aprofundamos o pilar LEAN (L) do framework CALMS. O LEAN visa **entregas rápidas e iteráveis, focando em alto valor e baixa complexidade**. Através do desenvolvimento de MVPs e features em fatias, o LEAN incentiva uma cultura experimental, permitindo errar rápido e corrigir rápido. É importante observar a aplicação para diagnosticar erros rapidamente e evitar estresse na equipe e nos clientes. O foco deve estar sempre no que traz valor, permitindo avanços mais rápidos e melhores feedbacks. As próximas aulas abordarão os pilares M e S do CALMS.
+- focar tambem em pequenas entregas, pois se acontecer algum imprevisto da para consertar rapidamente
