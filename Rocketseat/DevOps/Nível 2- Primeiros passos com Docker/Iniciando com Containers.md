@@ -42,4 +42,6 @@
 		- Então caso você não esteja trabalhando, por exemplo, com o Docker, o UnShare permite que você faça essa criação na mão. Então você conseguiria criar esse namespace com o próprio UnShare
 
 # Open Container Initiative (OCI) - Aula 03
-## 
+## O que é a OCI?
+- Estrutura de governança
+- Visa facilita
