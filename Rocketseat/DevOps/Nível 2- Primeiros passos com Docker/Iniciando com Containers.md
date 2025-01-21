@@ -18,7 +18,6 @@
 	- MV é medida em gigabytes, ja o container é em megabytes
 	- ![[Pasted image 20250120231508.png]]
 - Possui seu próprio SO.
-
 ## Docker
 - **Surgiu há cerca de 15 anos.**
 - **Interface para lidar com containers**
@@ -30,3 +29,6 @@
 
 
 # Princípios de Isolamento - Aula 02
+## Isolamento
+### Como funciona?
+	
