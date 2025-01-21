@@ -10,7 +10,7 @@
 	- "Linux Containers": é um recurso nativo de containers para conseguir rodar container nativos no Linux
 	- Segue os mesmos principios a plataforma de container, ou seja, é opensource, fornece um conjunto de modelos, ferramentas, libs, e tudo mais para conseguir isolar as aplicações.
 # E as Máquinas Virtuais?
-- Tudo roda na mesma maquina
+- **Tudo roda na mesma maquina**
 	- ou seja, se o servidor parar de funcionar, todas as minhas operações são paralisadas
 	- O container ja não é a ideias, pois tem ambientes isolados, cada um com seu próprio ambiente de execução de forma isolada do SO (Sistema Operacional)
 	- MV é medida em gigabytes, ja o container é em megabytes
@@ -18,4 +18,6 @@
 - Possui seu próprio SO.
 
 # Docker
-- Surgiu há cerca de 15anos
+- **Surgiu há cerca de 15 anos.**
+- **Interface para lidar com containers**
+- **Utiliza o kernel do Linux**
