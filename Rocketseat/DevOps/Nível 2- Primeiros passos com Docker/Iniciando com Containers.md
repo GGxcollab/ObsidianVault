@@ -48,4 +48,5 @@
 - Garante padrões mantendo a flexibilidade
 	- Então, o grande ponto aqui é que você consiga ter os containers trabalhando de forma que todos sigam as mesmas interfaces para os formatos, principalmente falando sobre imagem e container
 - Runtime; Image; Distro
-	
+## Principais objetivos
+- Promover con
