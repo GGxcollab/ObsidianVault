@@ -7,4 +7,4 @@
 	- Exemplo famoso navio cargueiro. O navio cargueiro, ele carrega ali vários containers, então vamos imaginar o navio cargueiro como um host, certo? Um host de controle. Ele está lá com os vários containers, em alto mar, ambiente de produção, tendo problemas, tendo ondas e tudo mais, aí um container caiu. Caiu ali do nosso host de controle. Isso não afetou o navio cargueiro, ele continuou indo com os containers restantes, digamos assim.
 - **Contém todos os elementos necessários para rodar uma aplicação**
 - **LXC**
-	- "Linux Containers": é um recurso nativo de containers
+	- "Linux Containers": é um recurso nativo de containers para conseguir rodar container nativos no Linux
