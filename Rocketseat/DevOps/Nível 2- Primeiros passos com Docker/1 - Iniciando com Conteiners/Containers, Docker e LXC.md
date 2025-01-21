@@ -22,4 +22,5 @@
 - **Interface para lidar com containers**
 - **Utiliza o kernel do Linux**
 - **Baseado em imagem**
-	- Facilita a porta
+	- Facilita a portabilidade
+	- é basicamente voce tem sua aplicação e la tem os recursos que v
