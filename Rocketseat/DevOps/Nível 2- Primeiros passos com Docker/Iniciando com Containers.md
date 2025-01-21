@@ -43,11 +43,12 @@
 
 # Open Container Initiative (OCI) - Aula 03
 ## O que é a OCI?
-- Estrutura de governança
-- Visa facilitar a interoperabilidade
-- Garante padrões mantendo a flexibilidade
+- **Estrutura de governança**
+- **Visa facilitar a interoperabilidade**
+- **Garante padrões mantendo a flexibilidade**
 	- Então, o grande ponto aqui é que você consiga ter os containers trabalhando de forma que todos sigam as mesmas interfaces para os formatos, principalmente falando sobre imagem e container
-- Runtime; Image; Distro
+- **Runtime; Image; Distro**
 ## Principais objetivos
-- Promover contêiners agnósticos
-	-  Então, algumas ali, digamos que das leis, é que os containers não devem estar vinculados a um cliente específico ou uma pilha de orquestração.
+- **Promover contêiners agnósticos**
+	-  Então, algumas ali, digamos que das leis, é que os containers não devem estar vinculados a um cliente específico ou uma pilha de orquestração. Eles não devem estar intimamente associados a nenhum, digamos, fornecedor específico. A ideia é que eles sejam agnósticos a essas regras externas.
+- **Portabilidade**
