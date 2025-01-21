@@ -44,4 +44,4 @@
 # Open Container Initiative (OCI) - Aula 03
 ## O que é a OCI?
 - Estrutura de governança
-- Visa facilita
+- Visa facilitar a interoperabilidade
