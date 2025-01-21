@@ -1,12 +1,6 @@
 # O que é um Conteiner?
 - Ambiente isolado
 	- você tem a sua aplicação, imaginando aqui bem por alto, e a sua aplicação, ela precisa de alguns recursos para conseguir funcionar. Ela vai precisar, por exemplo, de um recurso computacional, CPU e memória RAM, e ela também vai precisar de recursos, digamos que tecnológicos. Então, por exemplo, a sua aplicação ela roda em Node, por exemplo. Então você precisaria ter um ambiente com o Node configurado, mais ou menos como você vai rodar na sua máquina. Você não precisa instalar ali o Node, instalar o npm e tudo mais, para fazer a gestão de nips e tudo mais.
-	- Container, a ideia é que eu vou
-
-01:54.36
-
-criar um ambiente que é isolado do seu sistema operacional, e dentro desse
-
-02:0.04000000000000625
-
-ambiente você tem todos os recursos que a sua aplicação precisa para funcionar.
+	- Container, a ideia é que eu vou criar um ambiente que é isolado do seu sistema operacional, e dentro desse ambiente você tem todos os recursos que a sua aplicação precisa para funcionar.
+- Compartilha um host de controle
+	- Cada aplicação
