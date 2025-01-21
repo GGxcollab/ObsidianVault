@@ -1,4 +1,6 @@
-# O que é um Container?
+
+# Containers, Docker e LXC -  Aula 01
+## O que é um Container?
 - **Ambiente isolado**
 	- você tem a sua aplicação, imaginando aqui bem por alto, e a sua aplicação, ela precisa de alguns recursos para conseguir funcionar. Ela vai precisar, por exemplo, de um recurso computacional, CPU e memória RAM, e ela também vai precisar de recursos, digamos que tecnológicos. Então, por exemplo, a sua aplicação ela roda em Node, por exemplo. Então você precisaria ter um ambiente com o Node configurado, mais ou menos como você vai rodar na sua máquina. Você não precisa instalar ali o Node, instalar o npm e tudo mais, para fazer a gestão de nips e tudo mais.
 	- Container, a ideia é que eu vou criar um ambiente que é isolado do seu sistema operacional, e dentro desse ambiente você tem todos os recursos que a sua aplicação precisa para funcionar.
@@ -9,7 +11,7 @@
 - **LXC**
 	- "Linux Containers": é um recurso nativo de containers para conseguir rodar container nativos no Linux
 	- Segue os mesmos principios a plataforma de container, ou seja, é opensource, fornece um conjunto de modelos, ferramentas, libs, e tudo mais para conseguir isolar as aplicações.
-# E as Máquinas Virtuais?
+## E as Máquinas Virtuais?
 - **Tudo roda na mesma maquina**
 	- ou seja, se o servidor parar de funcionar, todas as minhas operações são paralisadas
 	- O container ja não é a ideias, pois tem ambientes isolados, cada um com seu próprio ambiente de execução de forma isolada do SO (Sistema Operacional)
@@ -17,7 +19,7 @@
 	- ![[Pasted image 20250120231508.png]]
 - Possui seu próprio SO.
 
-# Docker
+## Docker
 - **Surgiu há cerca de 15 anos.**
 - **Interface para lidar com containers**
 - **Utiliza o kernel do Linux**
