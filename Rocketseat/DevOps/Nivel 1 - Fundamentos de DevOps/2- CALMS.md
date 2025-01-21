@@ -24,4 +24,4 @@
 	- incorporar conhecimento na primeira e segunda maneiro
 - Experimento continuo e aprendizado (3ª)
 - ![[Pasted image 20250120190406.png]]
-- 
+-
