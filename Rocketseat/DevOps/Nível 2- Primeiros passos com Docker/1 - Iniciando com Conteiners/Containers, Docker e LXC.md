@@ -23,4 +23,4 @@
 - **Utiliza o kernel do Linux**
 - **Baseado em imagem**
 	- Facilita a portabilidade
-	- é basicamente voce tem sua aplicação e la tem os recursos que v
+	- é basicamente voce tem sua aplicação la com os recursos que ela precisa, e voce cria um arquivo declarativo com aqueles recursos que a aplicação necessita. E, a partir dai, voce vai buidar, iss
