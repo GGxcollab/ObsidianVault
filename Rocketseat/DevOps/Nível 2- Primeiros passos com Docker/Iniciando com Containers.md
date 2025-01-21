@@ -53,3 +53,7 @@
 	- Então, algumas ali, digamos que das leis, é que os containers não devem estar vinculados a um cliente específico ou uma pilha de orquestração. Eles não devem estar intimamente associados a nenhum, digamos, fornecedor específico. A ideia é que eles sejam agnósticos a essas regras externas.
 - **Portabilidade**
 	- a ideia é que os seus containers, além de leves, também sejam portáteis. Isso ajuda em futuras manutenibilidades e também promove essa ideia do container, digamos, agnóstico. Então, você consegue ter uma manutenibilidade muito mais facilitada já visando isso a longo prazo.
+
+### Quiz
+![[Pasted image 20250121160356.png]]
+![[Pasted image 20250121160419.png]]
