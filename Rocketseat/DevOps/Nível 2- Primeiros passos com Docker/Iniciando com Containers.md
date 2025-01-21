@@ -57,3 +57,4 @@
 ### Quiz
 ![[Pasted image 20250121160356.png]]
 ![[Pasted image 20250121160419.png]]
+![[Pasted image 20250121160443.png]]
