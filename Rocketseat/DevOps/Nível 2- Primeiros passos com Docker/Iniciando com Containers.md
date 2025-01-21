@@ -37,3 +37,25 @@
 		- basicamente é isolamento de recurso
 		- sistema de arquivos, processos e até mesmo rede.
 		- Então, basicamente falando, um container, ele só enxerga os seus próprios processos, os seus próprios sistemas de arquivos e também as suas próprias interfaces de rede
+	- Unshare
+		- basicamente ele visa criar
+
+03:17.400000000000006
+
+um novo namespace para um processo já existente, digamos assim, e a ideia é possibilitar a
+
+03:23.400000000000006
+
+execução de processos em um ambiente isolado, sem a necessidade de uma interface de container.
+
+03:32.120000000000005
+
+Então caso você não esteja trabalhando, por exemplo, com o Docker, o OneShare permite
+
+03:36.44
+
+que você faça essa criação na mão.
+
+03:39
+
+Então você conseguiria criar esse namespace com o próprio OneShare
