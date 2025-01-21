@@ -34,4 +34,6 @@
 	- CGroup
 		- é uma funcionalidade que possibilita o controle e a limitação de recursos de um processo. Ele fica no kernel do Linux. E basicamente, ele é utilizado aqui pra impor limites de CPU, memória, input, output e alguns outros recursos ali também do container.
 	- Namespace
-		- bai
+		- basicamente é isolamento de recurso
+		- sistema de arquivos, processos e até mesmo rede.
+		- Então, basicamente falando, um container, ele só enxerga os seus próprios processos, os seus próprios sistemas de arquivos e também as suas próprias interfaces de rede
