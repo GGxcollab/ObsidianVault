@@ -49,4 +49,5 @@
 	- Então, o grande ponto aqui é que você consiga ter os containers trabalhando de forma que todos sigam as mesmas interfaces para os formatos, principalmente falando sobre imagem e container
 - Runtime; Image; Distro
 ## Principais objetivos
-- Promover con
+- Promover contêiners agnósticos
+	-  Então, algumas ali, digamos que das leis, é que os containers não devem estar vinculados a um cliente específico ou uma pilha de orquestração.
