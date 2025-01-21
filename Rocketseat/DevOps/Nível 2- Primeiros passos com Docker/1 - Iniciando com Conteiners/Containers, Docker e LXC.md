@@ -25,4 +25,3 @@
 	- Facilita a portabilidade
 	- é basicamente voce tem sua aplicação la com os recursos que ela precisa, e voce cria um arquivo declarativo com aqueles recursos que a aplicação necessita. E, a partir dai, voce vai buildar, isso gera uma imagem, e essa imagem que você vai, de fato, executar
 - **Facilita o ciclo de entrega**
-	- 
