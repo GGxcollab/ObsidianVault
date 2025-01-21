@@ -18,3 +18,4 @@
 - Possui seu próprio SO.
 
 # Docker
+- Surgiu há cerca de 15anos
