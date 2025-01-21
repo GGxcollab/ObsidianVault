@@ -13,6 +13,8 @@
 - Tudo roda na mesma maquina
 	- ou seja, se o servidor parar de funcionar, todas as minhas operações são paralisadas
 	- O container ja não é a ideias, pois tem ambientes isolados, cada um com seu próprio ambiente de execução de forma isolada do SO (Sistema Operacional)
-	- MV é medida em GB, ja o container é em megabytes
+	- MV é medida em gigabytes, ja o container é em megabytes
 	- ![[Pasted image 20250120231508.png]]
-- 
+- Possui seu próprio SO.
+
+##
