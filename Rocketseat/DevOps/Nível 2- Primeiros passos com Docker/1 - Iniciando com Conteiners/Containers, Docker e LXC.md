@@ -21,3 +21,5 @@
 - **Surgiu há cerca de 15 anos.**
 - **Interface para lidar com containers**
 - **Utiliza o kernel do Linux**
+- **Baseado em imagem**
+	- Facilita a porta
