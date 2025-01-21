@@ -11,6 +11,7 @@
 	- Segue os mesmos principios a plataforma de container, ou seja, é opensource, fornece um conjunto de modelos, ferramentas, libs, e tudo mais para conseguir isolar as aplicações.
 ## E as Máquinas Virtuais?
 - Tudo roda na mesma maquina
-	- ou seja, se o servi
+	- ou seja, se o servidor parar de funcionar, todas as minhas operações são paralisadas
+	- O container ja não é a ideias, pois 
 	- ![[Pasted image 20250120231508.png]]
 - 
