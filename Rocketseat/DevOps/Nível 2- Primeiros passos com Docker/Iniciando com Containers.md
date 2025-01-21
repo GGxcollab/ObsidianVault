@@ -30,5 +30,5 @@
 
 # Princípios de Isolamento - Aula 02
 ## Isolamento
-### Como funciona?
-	
+- Como funciona?
+	- CGroup 
