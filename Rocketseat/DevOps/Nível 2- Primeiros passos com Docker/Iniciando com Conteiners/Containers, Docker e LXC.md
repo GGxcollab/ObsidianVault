@@ -12,6 +12,6 @@
 ## E as Máquinas Virtuais?
 - Tudo roda na mesma maquina
 	- ou seja, se o servidor parar de funcionar, todas as minhas operações são paralisadas
-	- O container ja não é a ideias, pois 
+	- O container ja não é a ideias, pois tem ambientes isolados, cada um com seu próprio ambiente de execução de forma isolada do SO 
 	- ![[Pasted image 20250120231508.png]]
 - 
