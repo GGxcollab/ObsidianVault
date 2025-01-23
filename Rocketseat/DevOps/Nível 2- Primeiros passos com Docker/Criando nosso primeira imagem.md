@@ -7,3 +7,4 @@
 ### Quiz
 ![[Pasted image 20250122231618.png]]
 ![[Pasted image 20250122231637.png]]
+![[Pasted image 20250122231653.png]]
