@@ -33,3 +33,5 @@
 ## Persistindo informações nos volumes
 
 Nesta aula, abordo a criação de arquivos em containers Docker e a persistência desses arquivos em volumes. Demonstrando como criar, verificar e manter arquivos em containers com volumes associados. Destaco a importância de apontar para o volume ao executar um container para evitar a perda de arquivos. Exploro a continuidade da existência dos volumes mesmo após a exclusão dos arquivos e a possibilidade de restaurar arquivos ao associar um volume novamente. Esses conceitos serão aprofundados nos módulos futuros.
+
+### Quiz
