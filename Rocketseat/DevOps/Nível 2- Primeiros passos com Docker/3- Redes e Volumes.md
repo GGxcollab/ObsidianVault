@@ -16,4 +16,4 @@
 - Caso voce nao tenha o container, mas ja tenha a network o comando é o seguinte:
 	- **docker run --network=(nome da rede)**
 - ![[Pasted image 20250127162630.png]]
-	- 
+	- ja roda o container com a network, a porta e a tag
