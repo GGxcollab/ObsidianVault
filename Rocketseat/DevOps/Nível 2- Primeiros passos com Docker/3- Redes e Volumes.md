@@ -9,3 +9,7 @@
 	- **docker network create (nome da rede)**
 - Comando para listar as redes:
 	- **docker network ls**
+
+
+## Gerenciando redes
+- Nesta aula, foi abordado como associar uma rede a um container Docker. Foram apresentadas duas formas de fazer essa associação: utilizando o comando `docker network connect` para containers já em execução e definindo a rede no momento da criação do container com o parâmetro `--network`. Foi explicado como verificar a associação da rede ao container utilizando os comandos `docker network inspect` e `docker container inspect`. Também foi mencionado que um container pode estar associado a várias redes.
