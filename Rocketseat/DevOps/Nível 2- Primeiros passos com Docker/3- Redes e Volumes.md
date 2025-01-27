@@ -9,4 +9,3 @@
 	- **docker network create (nome da rede)**
 - Comando para listar as redes:
 	- **docker network ls**
-- 
