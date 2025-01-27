@@ -27,3 +27,5 @@
 ## Entendendo sobre volumes
 
 - Nesta aula, abordamos o conceito de volumes no Docker. Volumes são diretórios externos que permitem persistência de dados, essenciais para salvar arquivos e manter dados em containers. A criação e associação de volumes são fundamentais para garantir a persistência de dados entre reinicializações de containers. O comando `docker volume` é utilizado para gerenciar volumes, permitindo a criação, inspeção e remoção de volumes. A associação de volumes com containers é feita através do comando `docker run -v`, garantindo a persistência dos dados.
+- ![[Pasted image 20250127174325.png]]
+- ![[Pasted image 20250127174337.png]]
