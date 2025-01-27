@@ -5,3 +5,5 @@
 -  O grande ponto, a boa prática, na verdade, é que quando você vai trabalhar com containers, principalmente localmente, tem uma questão organizacional, em produção também, vai seguir essa lógica, mas localmente, é legal que você tenha as suas redes de acordo com os seus projetos.
 -  **None**, na verdade, que é o NULL, basicamente, até pelo nome, ele vai isolar o nosso container, ok? Caso você tenha em use case um caso de uso de container que não vai ter comunicação externa, por uma questão de segurança, por exemplo, você pode associar uma rede NULL para esse container, beleza? E aí, dentro do container, a única interface de rede disponível vai ser a própria localhost. Qualquer coisa além disso, o seu container não vai enxergar
 - **Host** tem ali como objetivo entregar todas as interfaces existentes. Então, quando você coloca Host, o nome Host é por conta do docker host, então todas as interfaces disponíveis no docker host também ficarão ali disponibilizadas, como eu estava dizendo, para o container
+- Comando para criar a rede:
+	- **docker network create (nome da network)**
