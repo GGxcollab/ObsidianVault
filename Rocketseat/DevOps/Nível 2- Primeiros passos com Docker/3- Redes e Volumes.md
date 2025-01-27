@@ -1,4 +1,4 @@
 ## Camada de abstração
 
 - Nesta aula, abordamos a importância da comunicação e redes em containers Docker. Exploramos os conceitos de redes, como o driver bridge, null e roast, e a criação de redes personalizadas. Destacamos a organização de redes por projetos e a utilização de redes específicas para diferentes aplicações. Além disso, discutimos a criação de redes com o comando `docker network create` e a importância das boas práticas, como a utilização de tags para otimização. Na próxima aula, vamos aprofundar o conhecimento em redes e realizar algumas práticas.
-- se na criação de um container nao associar a nenhuma rede, será **brigde**, que é basicamente um driver, uma rede padrao para qualquer container
+- se na criação de um container nao associar a nenhuma rede, será **brigde**, que é basicamente um driver, uma rede padrao para qualquer container e ela vai fornecer uma interface que vai fazer o bridge com o docker zero, lá do roast. Então, basicamente, você vai ter ali um endereço já associado ao seu container e você também vai conseguir fazer comunicação via TCP e IP por default
