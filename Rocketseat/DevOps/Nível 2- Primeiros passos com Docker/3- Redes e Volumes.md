@@ -17,3 +17,8 @@
 	- **docker run --network=(nome da rede)**
 - ![[Pasted image 20250127162630.png]]
 	- ja roda o container com a network, a porta e a tag
+
+
+## Arquivos e Containers
+
+- Esta aula, aborda a importância dos volumes em containers Docker para manter dados persistentes. Mostra como os arquivos são armazenados no container e como são perdidos ao reconstruir o container. Destaca a necessidade de separar responsabilidades e exemplifica a criação de arquivos dentro do container. Demonstra como os arquivos são perdidos sem volumes persistentes. O instrutor encerra indicando que o próximo vídeo abordará como manter arquivos persistentes em volumes específicos.
