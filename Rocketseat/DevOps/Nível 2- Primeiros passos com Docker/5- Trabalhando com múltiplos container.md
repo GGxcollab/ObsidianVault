@@ -17,3 +17,8 @@ Nesta aula, abordamos a conexão entre containers, destacando a importância de 
 [Commit: Declarando múltiplos containers](https://github.com/rocketseat-education/devops-docker-containers/commit/6529311b0ec28cddbd2bda8314df5796a144fac5)
 
 Nesta aula, abordamos a orquestração de containers com Docker Compose. Exploramos a estrutura básica do Docker Compose, como definir serviços, imagens e portas. A importância de redes e volumes, além da identação correta no arquivo .yml. Demonstramos como executar o Docker Compose e resolver problemas com variáveis de ambiente. Finalizamos com a execução e gerenciamento de containers. Na próxima aula, continuaremos a configurar serviços, redes e volumes.
+## Comunicação entre containers
+
+[Commit: Comunicação entre containers](https://github.com/rocketseat-education/devops-docker-containers/commit/a284ab8b9564f034123c746531bee345c95fac97)
+
+Nesta aula, aprendemos a configurar uma API para rodar com Docker Compose. Exploramos como definir o serviço da API, utilizando o build em vez de apenas a imagem, e configurar as portas. Também vimos como lidar com dependências entre serviços, como o MySQL, para evitar problemas de inicialização. Além disso, abordamos a criação de redes personalizadas e a importância de nomear os containers adequadamente. Ao final, destacamos a utilidade do comando `docker-compose logs` e a preparação para trabalhar com volumes.
