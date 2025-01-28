@@ -32,3 +32,6 @@
 - Nesta aula, são feitas alterações no Dockerfile, como copiar o package.json e ajustar o comando start para uso em produção. Após as modificações, é feita a build e execução do container, sem associar um volume. O instrutor destaca que na próxima aula será abordado o uso de volumes, indicando a importância para bancos de dados. Por fim, menciona que a aplicação deve estar rodando corretamente e convida para a próxima aula sobre orquestração.
 - ![[Pasted image 20250128160042.png]]
 - agora rebuilda
+
+## Quiz
+![[Pasted image 20250128160715.png]]
