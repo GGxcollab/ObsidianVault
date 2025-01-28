@@ -26,3 +26,9 @@
 - Nesta aula, aprendemos a configurar uma API para rodar com Docker Compose. Exploramos como definir o serviço da API, utilizando o build em vez de apenas a imagem, e configurar as portas. Também vimos como lidar com dependências entre serviços, como o MySQL, para evitar problemas de inicialização. Além disso, abordamos a criação de redes personalizadas e a importância de nomear os containers adequadamente. Ao final, destacamos a utilidade do comando `docker-compose logs` e a preparação para trabalhar com volumes.
 - ![[Pasted image 20250128175317.png]]
 
+# Armazenamento de volumes
+
+[Commit: Armazenamento de volumes](https://github.com/rocketseat-education/devops-docker-containers/commit/f54e788185f356092e5caf785c03728cbf8bed0c)
+
+- Nesta aula, expliquei como os volumes funcionam no contexto de containers Docker. Destaquei a importância de usar volumes para persistir dados, especialmente em bancos de dados como o MySQL. Mostrei como declarar um volume no Docker Compose e como verificar sua configuração com comandos como docker ps e docker container inspect. Encerrei ressaltando a importância de fixar conceitos básicos de containers para avançar para tópicos como CI/CD e orquestração com Kubernetes.
+- 
