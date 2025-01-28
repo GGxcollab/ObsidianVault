@@ -17,5 +17,10 @@
 
 - Nesta aula, abordo o conceito de multi-stage building para otimização de containers. Explico como dividir o processo de build em diferentes estágios, evitando incluir itens desnecessários na imagem final. Demonstro na prática como utilizar aliases e copiar arquivos entre estágios, resultando em uma imagem mais leve e otimizada. Ao final, realizo um docker build para mostrar a redução do tamanho da imagem com o multi-stage build.
 -  os primeiros "COPY" é da interface para o container, o ultimo é de um estagio para o outro
-- 
-- 
+- ![[Pasted image 20250128155213.png]]
+
+# Comparando imagens
+
+[Commit: Comparando imagens](https://github.com/rocketseat-education/devops-docker-containers/commit/6e3c5569760019e86b1d605ca59cf37c34e31840)
+
+- Nesta aula, otimizamos uma imagem Docker, reduzindo seu tamanho de 1GB para 210MB. Realizamos ajustes, removendo bibliotecas desnecessárias e executando comandos como `workspaces focus --production` e `yarn-cache-clean`. Enfrentamos um erro ao rodar o `yarn run-bind` devido à dependência dev. Corrigimos isso executando o `yarn` antes do build. Testamos a imagem Docker e verificamos os arquivos dentro do container. Encerramos a otimização e nos preparamos para falar sobre orquestração de containers em ambiente local.
