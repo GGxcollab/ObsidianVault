@@ -24,3 +24,9 @@
 [Commit: Comparando imagens](https://github.com/rocketseat-education/devops-docker-containers/commit/6e3c5569760019e86b1d605ca59cf37c34e31840)
 
 - Nesta aula, otimizamos uma imagem Docker, reduzindo seu tamanho de 1GB para 210MB. Realizamos ajustes, removendo bibliotecas desnecessárias e executando comandos como `workspaces focus --production` e `yarn-cache-clean`. Enfrentamos um erro ao rodar o `yarn run-bind` devido à dependência dev. Corrigimos isso executando o `yarn` antes do build. Testamos a imagem Docker e verificamos os arquivos dentro do container. Encerramos a otimização e nos preparamos para falar sobre orquestração de containers em ambiente local.
+
+# Ultimas correções no Dockerfile
+
+[Commit: Ultimas correções no Dockerfile](https://github.com/rocketseat-education/devops-docker-containers/commit/da8347aa2e46f5592b498ba42688d18af7fd8bd8)
+
+- Nesta aula, são feitas alterações no Dockerfile, como copiar o package.json e ajustar o comando start para uso em produção. Após as modificações, é feita a build e execução do container, sem associar um volume. O instrutor destaca que na próxima aula será abordado o uso de volumes, indicando a importância para bancos de dados. Por fim, menciona que a aplicação deve estar rodando corretamente e convida para a próxima aula sobre orquestração.
