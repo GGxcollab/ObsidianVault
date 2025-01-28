@@ -31,4 +31,6 @@
 [Commit: Armazenamento de volumes](https://github.com/rocketseat-education/devops-docker-containers/commit/f54e788185f356092e5caf785c03728cbf8bed0c)
 
 - Nesta aula, expliquei como os volumes funcionam no contexto de containers Docker. Destaquei a importância de usar volumes para persistir dados, especialmente em bancos de dados como o MySQL. Mostrei como declarar um volume no Docker Compose e como verificar sua configuração com comandos como docker ps e docker container inspect. Encerrei ressaltando a importância de fixar conceitos básicos de containers para avançar para tópicos como CI/CD e orquestração com Kubernetes.
-- 
+
+## Quiz
+![[Pasted image 20250128181140.png]]
