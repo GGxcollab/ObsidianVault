@@ -24,3 +24,5 @@
 [Commit: Comunicação entre containers](https://github.com/rocketseat-education/devops-docker-containers/commit/a284ab8b9564f034123c746531bee345c95fac97)
 
 - Nesta aula, aprendemos a configurar uma API para rodar com Docker Compose. Exploramos como definir o serviço da API, utilizando o build em vez de apenas a imagem, e configurar as portas. Também vimos como lidar com dependências entre serviços, como o MySQL, para evitar problemas de inicialização. Além disso, abordamos a criação de redes personalizadas e a importância de nomear os containers adequadamente. Ao final, destacamos a utilidade do comando `docker-compose logs` e a preparação para trabalhar com volumes.
+- ![[Pasted image 20250128175317.png]]
+
