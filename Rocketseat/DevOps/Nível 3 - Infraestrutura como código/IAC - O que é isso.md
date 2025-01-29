@@ -32,5 +32,6 @@
 - Em alguns casos é possível manter o histórico do que foi feito
 
 # Ferramentas
-- AWS e CloudFormatio
-- 
+- AWS e CloudFormation
+- Pulumi
+- Terraform - CDK e HCL
