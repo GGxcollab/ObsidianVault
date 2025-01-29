@@ -1,2 +1,2 @@
-# Infra as Code
+# Infra As Code
 - 
