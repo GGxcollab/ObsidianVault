@@ -29,3 +29,5 @@
 ## Modelo Imperativo ("Como fazer")
 - Define os comandos para criar o recurso
 - Necessário execução em ordem
+- Em alguns casos é possível manter o histórico do que foi feito
+- 
