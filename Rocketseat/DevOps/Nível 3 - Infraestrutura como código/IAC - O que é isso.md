@@ -1,4 +1,4 @@
-# Infra As Code
+# Infra As Code - Aula 1
 - Declaração de todos os recursos via código
 - Facilita a manutenibilidade de toda a infraestrutura
 - Automatiza todo o fluxo de criação, edição e remoção de um recurso
@@ -14,4 +14,5 @@
 	- Também proporciona versionamento, isso também é muito legal, então a gente consegue versionar a nossa infraestrutura
 
 
-# O
+# Overview - Aula 2
+- 
