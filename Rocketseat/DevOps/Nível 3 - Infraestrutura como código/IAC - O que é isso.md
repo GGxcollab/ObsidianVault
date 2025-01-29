@@ -19,4 +19,4 @@
 ![[Pasted image 20250128214533.png]]
 
 ## Modelo Declarativo
-- Define o estado desejafo
+- Define o estado desejado
