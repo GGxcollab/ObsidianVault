@@ -1,2 +1,2 @@
-# GitOps
+# Infra as Code
 - 
