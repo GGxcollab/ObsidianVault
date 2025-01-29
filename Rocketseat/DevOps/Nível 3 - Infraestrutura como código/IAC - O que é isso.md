@@ -38,3 +38,7 @@
 
 
 ## Quiz
+![[Pasted image 20250129163517.png]]
+![[Pasted image 20250129163538.png]]
+![[Pasted image 20250129163556.png]]
+![[Pasted image 20250129163614.png]]
