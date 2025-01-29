@@ -24,3 +24,4 @@
 - Define o estado desejado
 	- Basicamente, se a gente for pensar em programação, a linguagem resolve. Então a gente tem o estado representado do recurso e a gente quer que esse mesmo estado representado esteja presente na nossa nuvem ou em algum lugar
 - Engloba todos os recursos do fluxo
+- Mantém estados passados no histórico
