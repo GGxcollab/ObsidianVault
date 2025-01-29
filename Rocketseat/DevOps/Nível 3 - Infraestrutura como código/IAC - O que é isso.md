@@ -26,5 +26,5 @@
 - Engloba todos os recursos do fluxo
 - Mantém estados passados no histórico
 - Facilita possíveis deleções futuras
-## Modelo Imperativo (")
-- 
+## Modelo Imperativo ("Como fazer")
+- Define os comandos para criar o recurso
