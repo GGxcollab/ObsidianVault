@@ -18,5 +18,7 @@
 
 ![[Pasted image 20250128214533.png]]
 
+
+# Declarativo vs. Imperativo
 ## Modelo Declarativo
 - Define o estado desejado
