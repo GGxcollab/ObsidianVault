@@ -28,3 +28,4 @@
 - Facilita possíveis deleções futuras
 ## Modelo Imperativo ("Como fazer")
 - Define os comandos para criar o recurso
+- Necessário execução em ordem
