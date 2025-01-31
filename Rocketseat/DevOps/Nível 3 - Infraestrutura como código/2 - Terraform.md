@@ -18,3 +18,5 @@
 - é possivel importar um modulo pré pronto de um recurso para usar dentro da sua automação
 - funciona como um template com regras ja pré-definidas
 
+
+# CLI do Terraform - Aula 02
