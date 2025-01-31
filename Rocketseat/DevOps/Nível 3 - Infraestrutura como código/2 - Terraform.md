@@ -8,4 +8,6 @@
 - basicamente é a forma de se utilizar o terraform
 - ferramentas presentes dentro do terraform registry
 
-## Documentantion
+## Documentação
+- basicamente todos os recursos presentes da ferramenta, por exemplo AWS, estao dentro da documentação
+- 
