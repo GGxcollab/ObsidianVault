@@ -11,8 +11,8 @@
 ## Documentação
 - basicamente todos os recursos presentes da ferramenta, por exemplo AWS, estao dentro da documentação
 
->[!NOTE]ES
-- A estrutura basica é: definir o provedor -> coloca o recurso ->  roda o terraform na maquina ou uma pipeline de automação 
+>[!NOTE] Estrutura
+>A estrutura basica é: definir o provedor -> coloca o recurso ->  roda o terraform na maquina ou uma pipeline de automação 
 
 ## Modules
 - é possivel importar um modulo pré pronto de um recurso para usar dentro da sua automação
