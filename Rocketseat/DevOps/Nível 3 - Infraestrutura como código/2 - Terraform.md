@@ -10,4 +10,5 @@
 
 ## Documentação
 - basicamente todos os recursos presentes da ferramenta, por exemplo AWS, estao dentro da documentação
-- 
+
+- A estrutura basica é: define o provedor -> 
