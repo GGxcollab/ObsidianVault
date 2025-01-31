@@ -11,4 +11,4 @@
 ## Documentação
 - basicamente todos os recursos presentes da ferramenta, por exemplo AWS, estao dentro da documentação
 
-- A estrutura basica é: define o provedor -> 
+- A estrutura basica é: definir o provedor -> coloca o recurso ->  roda o terraform na maquina/ uma pipe
