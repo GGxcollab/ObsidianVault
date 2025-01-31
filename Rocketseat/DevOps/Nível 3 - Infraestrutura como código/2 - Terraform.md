@@ -14,4 +14,5 @@
 - A estrutura basica é: definir o provedor -> coloca o recurso ->  roda o terraform na maquina ou uma pipeline de automação 
 
 ## Modules
+- é possivel importar um modulo pré pronto de um recurso para usar dentro da sua automação
 - 
