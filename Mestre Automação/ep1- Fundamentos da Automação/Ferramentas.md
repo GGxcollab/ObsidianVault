@@ -5,4 +5,5 @@
 - Botconversa
 	- Se para seu cliente vc resolveu oferecer sobre pré-atendimento melhor botconversa
 
-# Preciso contratar a
+# Preciso contratar as Ferramentas? Elas são pagas?
+- 
