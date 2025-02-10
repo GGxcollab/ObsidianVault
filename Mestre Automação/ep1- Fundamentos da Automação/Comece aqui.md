@@ -13,4 +13,5 @@
 - Quanto antes fechar o primeiro cliente, mas rapido o resultado bem, mas rapido é a evolução
 
 ## O que é Automação
-- mapa mental 
+- [Mapa mental ](https://www.mindmeister.com/app/map/3259014223?t=QsCTsfsThI)
+- 
