@@ -6,4 +6,6 @@
 	-  mesmo nao sentindo 100% pronto, faça e execute 
 		- errar é normal
 	- ninguem vai estar 100% pronto
-- Estude, aplique e prospecte 
+- Estude, aplique e prospecte
+	- perder o medo
+- Quanto antes fechar o primeiro cliente, mas rapido o resultado bem
