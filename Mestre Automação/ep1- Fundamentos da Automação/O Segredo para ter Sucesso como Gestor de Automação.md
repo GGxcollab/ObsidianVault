@@ -2,4 +2,7 @@
 - Comemore cada evolução de voce tiver, mesmo que nao seja algo muito grande
 - Tenha pressa, mas tenha em paciência
 - para de olhar a grama do vizinho
-- executar mesmo sem e
+- executar mesmo sem estar pronto
+	-  mesmo nao sentindo 100% pronto, faça e execute 
+		- errar é normal
+	- 
