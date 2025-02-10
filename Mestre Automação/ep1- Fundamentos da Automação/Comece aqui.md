@@ -14,4 +14,4 @@
 
 ## O que é Automação
 - [Mapa mental ](https://www.mindmeister.com/app/map/3259014223?t=QsCTsfsThI)
-- 
+- ![[Pasted image 20250210164435.png]]
