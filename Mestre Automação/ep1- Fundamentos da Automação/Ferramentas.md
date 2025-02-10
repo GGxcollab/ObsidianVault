@@ -6,4 +6,6 @@
 	- Se para seu cliente vc resolveu oferecer sobre pré-atendimento melhor botconversa
 
 # Preciso contratar as Ferramentas? Elas são pagas?
-- 
+- Geralmente/normalmente quem paga as ferramentas são os clientes
+- repassar 100% para os clientes
+- para praticar é interessante co
