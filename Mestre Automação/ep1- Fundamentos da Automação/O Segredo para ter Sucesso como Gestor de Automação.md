@@ -5,4 +5,5 @@
 - executar mesmo sem estar pronto
 	-  mesmo nao sentindo 100% pronto, faça e execute 
 		- errar é normal
-	- 
+	- ninguem vai estar 100% pronto
+- Estude, aplique e prospecte
