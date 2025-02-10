@@ -1,3 +1,5 @@
+# Fundamentos da Automação- Comece aqui
+## O Segredo 
 - Fazer o que deve ser feito
 - Comemore cada evolução de voce tiver, mesmo que nao seja algo muito grande
 - Tenha pressa, mas tenha em paciência
@@ -9,4 +11,4 @@
 - Estude, aplique e prospecte
 	- perder o medo
 - Quanto antes fechar o primeiro cliente, mas rapido o resultado bem, mas rapido é a evolução
-- 
+
