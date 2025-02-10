@@ -8,4 +8,5 @@
 	- ninguem vai estar 100% pronto
 - Estude, aplique e prospecte
 	- perder o medo
-- Quanto antes fechar o primeiro cliente, mas rapido o resultado bem
+- Quanto antes fechar o primeiro cliente, mas rapido o resultado bem, mas rapido é a evolução
+- 
