@@ -1,2 +1,5 @@
 # Qual ferramenta aprender primeiro?
-- Man
+- Manychat 
+	- Da base para qualquer outra ferrament
+	- tem versã
+- botconversa
