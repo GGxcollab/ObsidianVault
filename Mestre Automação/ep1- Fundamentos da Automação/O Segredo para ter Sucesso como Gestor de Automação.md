@@ -1,3 +1,5 @@
 - Fazer o que deve ser feito
 - Comemore cada evolução de voce tiver, mesmo que nao seja algo muito grande
-- Tenha r
+- Tenha pressa, mas tenha em paciência
+- para de olhar a grama do vizinho
+- executar mesmo sem e
