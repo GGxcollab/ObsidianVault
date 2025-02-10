@@ -1,2 +1,3 @@
 - Fazer o que deve ser feito
+- Comemore cada evolução de voce tiver, mesmo que nao seja algo muito grande
 - 
