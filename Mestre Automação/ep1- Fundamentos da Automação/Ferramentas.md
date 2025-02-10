@@ -8,4 +8,5 @@
 # Preciso contratar as Ferramentas? Elas são pagas?
 - Geralmente/normalmente quem paga as ferramentas são os clientes
 - repassar 100% para os clientes
-- para praticar é interessante co
+- para praticar é interessante contratar as ferramentas, para melhorar a curva de aprendizagem
+	- Manychat tem versao gratuita, porem apresenta limitações como marca 
