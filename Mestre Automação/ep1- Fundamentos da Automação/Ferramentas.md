@@ -3,4 +3,6 @@
 	- Da base para qualquer outra ferramenta
 	- tem versão gratuita
 - Botconversa
-	- Se para seu cliente vc resolveu oferecer sobre autoatendimento melhor botconversa
+	- Se para seu cliente vc resolveu oferecer sobre pré-atendimento melhor botconversa
+
+# Preciso contratar a
