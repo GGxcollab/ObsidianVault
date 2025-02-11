@@ -21,3 +21,7 @@
 - **IA**
 	- Criar agentes de IA e vender o serviço
 ## Ferramentas Integradoras
+- São
+- **Mestres do Make **
+	- 
+- **Treinamento em n8n.io**
