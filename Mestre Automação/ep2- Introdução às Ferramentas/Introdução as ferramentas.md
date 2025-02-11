@@ -4,9 +4,11 @@
 - **Manychat**
 	- Serve para criar automações de instagram, whatsapp, facebook, telegram
 	- Exemplo: quando uma pessoa falar pra pessoa comentar a palavra x que vai mandar msg no direct, é usado o manychat para fazer isso
-- **Ferramentas de Whatsapp**
-	- **BotConversa**
+- **Ferramentas de Whatsapp** (API não Oficial)
+	- **BotConversa** 
+		- mais recomendado para fluxo de conversa
 	- **Sellflux**
 	- **Devzap**
 	- Ferramentas de gerenciamento de grupos:
-		- 
+		- **sendflow**
+		- **devzap**
