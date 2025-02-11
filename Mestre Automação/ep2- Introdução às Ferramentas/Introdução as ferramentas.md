@@ -9,6 +9,7 @@
 	- Exemplos:
 		- **BotConversa** 
 			- mais recomendado para fluxo de conversa
+			- paga um valor fixo mensal
 		- **Sellflux**
 		- **Devzap**
 		- Ferramentas de gerenciamento de grupos:
@@ -16,3 +17,5 @@
 			- **devzap**
 - **Whatsapp API Oficial**
 	- Da para ser conectado com o Manychat
+	- para um valor da ferramenta mais o disparo de mensagem
+	- 
