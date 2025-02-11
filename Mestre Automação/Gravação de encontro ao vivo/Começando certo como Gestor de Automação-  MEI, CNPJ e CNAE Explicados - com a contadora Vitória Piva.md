@@ -15,4 +15,5 @@
 	- Simples Nacional:
 		- 6209-1/00 - Suporte Técnico, manutenção e outros serviços em T.I
 		- 6204-0/00 - Consultoria em T.I * Anexo V*
-	- M
+	- MEI:
+		- 9511-8/00 - Técnico de manutenção de computador independente;
