@@ -12,4 +12,6 @@
 - Constituição de empresas: MEI ou ME?
 - Regime tributário para quem esta começando
 - CNAE Atividades:
-	- Simples Naci
+	- Simples Nacional:
+		- 6209-1/00 - Suporte Técnico, manutenção e outros serviços em T.I
+		- 6204-0/00 
