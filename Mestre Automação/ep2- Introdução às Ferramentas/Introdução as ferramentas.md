@@ -18,4 +18,6 @@
 - **Whatsapp API Oficial**
 	- Da para ser conectado com o Manychat
 	- para um valor da ferramenta mais o disparo de mensagem
-	- 
+- **IA**
+	- Criar agentes de IA e vender o serviço
+## Ferramentas Integradoras
