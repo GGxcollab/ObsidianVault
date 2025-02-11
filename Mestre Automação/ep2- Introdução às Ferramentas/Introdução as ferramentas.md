@@ -21,7 +21,9 @@
 - **IA**
 	- Criar agentes de IA e vender o serviço
 ## Ferramentas Integradoras
-- São
+- São ferramentas que fazem "automações impossíveis"
+- integração com mais de 1000 ferramentas
+- fazer agendamento 
 - **Mestres do Make **
 	- 
 - **Treinamento em n8n.io**
