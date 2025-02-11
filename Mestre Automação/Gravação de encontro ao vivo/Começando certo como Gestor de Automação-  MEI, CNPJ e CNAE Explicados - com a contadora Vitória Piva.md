@@ -8,4 +8,8 @@
 	- Entender que o patrimonio da empresa nao é meu patrimonio
 - Segregação do patrimônio PF x PJ
 
-# Como formalizar meu n
+# Como formalizar meu negócio de Automação?
+- Constituição de empresas: MEI ou ME?
+- Regime tributário para quem esta começando
+- CNAE Atividades:
+	- Simples Naci
