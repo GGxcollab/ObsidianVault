@@ -7,3 +7,5 @@
 	- Pensar em quais despesas meu negocio precisa pra sobreviver por um tempo durante 1 mes por exemplo, dps por 2/3meses
 	- Entender que o patrimonio da empresa nao é meu patrimonio
 - Segregação do patrimônio PF x PJ
+
+# Como formalizar meu n
