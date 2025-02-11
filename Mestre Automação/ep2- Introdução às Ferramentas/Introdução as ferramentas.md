@@ -2,4 +2,4 @@
 - Entender qual é o objetivo dessa ferramenta.
 ## Ferramentas
 - **Manychat**
-	- 
+	- Serve para criar automações de 
