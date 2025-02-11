@@ -6,4 +6,7 @@
 	- Exemplo: quando uma pessoa falar pra pessoa comentar a palavra x que vai mandar msg no direct, é usado o manychat para fazer isso
 - **Ferramentas de Whatsapp**
 	- **BotConversa**
-	- 
+	- **Sellflux**
+	- **Devzap**
+	- Ferramentas de gerenciamento de grupos:
+		- 
