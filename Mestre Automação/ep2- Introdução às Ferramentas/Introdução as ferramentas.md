@@ -12,3 +12,5 @@
 	- Ferramentas de gerenciamento de grupos:
 		- **sendflow**
 		- **devzap**
+- **Whatsapp API Oficial**
+	- 
