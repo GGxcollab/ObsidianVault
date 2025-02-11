@@ -25,5 +25,8 @@
 - integração com mais de 1000 ferramentas
 - fazer agendamento automatico, cobrança automatica, e diversas coisas tudo de uma vez e mais coisas junto, com todas essas validações
 - **Mestres do Make **
-	- 
 - **Treinamento em n8n.io**
+
+## Ferramenta de Email
+- **Act**
+- Automação de Email e marketing
