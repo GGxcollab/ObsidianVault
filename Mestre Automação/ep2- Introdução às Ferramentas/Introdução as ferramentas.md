@@ -14,7 +14,7 @@
 		- **Sellflux**
 		- **Devzap**
 		- Ferramentas de gerenciamento de grupos:
-			- **sendflow**
+			- **Sendflow**
 			- **devzap**
 - **Whatsapp API Oficial**
 	- Da para ser conectado com o Manychat
