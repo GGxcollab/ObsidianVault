@@ -5,7 +5,7 @@
 	- Serve para criar automações de instagram, whatsapp, facebook, telegram
 	- Exemplo: quando uma pessoa falar pra pessoa comentar a palavra x que vai mandar msg no direct, é usado o manychat para fazer isso
 - **Ferramentas de Whatsapp** (API não Oficial)
-	- Conecta o Wpp Business por QrCode e pronto
+	- Conecta o Wpp Business por QrCode e ta conectado
 	- Exemplos:
 		- **BotConversa** 
 			- mais recomendado para fluxo de conversa
@@ -15,4 +15,4 @@
 			- **sendflow**
 			- **devzap**
 - **Whatsapp API Oficial**
-	- 
+	- Da para ser conectado com o Manychat
