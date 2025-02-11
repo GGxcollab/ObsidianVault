@@ -4,6 +4,7 @@
 - **Manychat**
 	- Serve para criar automações de instagram, whatsapp, facebook, telegram
 	- Exemplo: quando uma pessoa falar pra pessoa comentar a palavra x que vai mandar msg no direct, é usado o manychat para fazer isso
+	- apresenta versao gratuita para começar
 - **Ferramentas de Whatsapp** (API não Oficial)
 	- Conecta o Wpp Business por QrCode e ta conectado
 	- Exemplos:
@@ -27,7 +28,8 @@
 - São ferramentas que fazem "automações impossíveis"
 - integração com mais de 1000 ferramentas
 - fazer agendamento automatico, cobrança automatica, e diversas coisas tudo de uma vez e mais coisas junto, com todas essas validações
-- **Mestres do Make **
+- **Mestres do Make**
+	- apresenta versao gratuita para começar
 - **Treinamento em n8n.io**
 
 ## Ferramenta de Email
