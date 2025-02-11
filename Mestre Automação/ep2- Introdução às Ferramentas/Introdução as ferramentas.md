@@ -20,6 +20,9 @@
 	- para um valor da ferramenta mais o disparo de mensagem
 - **IA**
 	- Criar agentes de IA e vender o serviço
+- **Typebot**
+	- fazer integração com quase tudo, excelente ferramenta tambem
+	- 
 ## Ferramentas Integradoras
 - São ferramentas que fazem "automações impossíveis"
 - integração com mais de 1000 ferramentas
@@ -28,5 +31,6 @@
 - **Treinamento em n8n.io**
 
 ## Ferramenta de Email
-- **Act**
-- Automação de Email e marketing
+- **Active Campaign**
+	- Automação de Email e marketing
+
