@@ -13,4 +13,6 @@
 			- ai sim desenhar uma proposta e entrega baseada nisso
 
 # Habilidades Necessárias
-- 
+- Aprender a como chegar e se comunicar com seu cliente
+- Ser o mais sucinto que puder
+- Estuda o que o cliente faz
