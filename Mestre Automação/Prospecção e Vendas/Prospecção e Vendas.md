@@ -2,4 +2,4 @@
 - Abra o Mapa mental e leia com atenção
 # Pensando estrategicamente para criar uma automação
 - Saber o objetivo daquela automação
-- Saber qual o resultado que aquela automação vai leva
+- Saber qual o resultado que aquela automação vai levar
