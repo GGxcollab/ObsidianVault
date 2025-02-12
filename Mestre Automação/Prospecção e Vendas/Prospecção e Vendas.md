@@ -16,3 +16,5 @@
 - Aprender a como chegar e se comunicar com seu cliente
 - Ser o mais sucinto que puder
 - Estuda o que o cliente faz
+- chegar com proposta mais assertiva e sem enrolação
+- Saber falar
