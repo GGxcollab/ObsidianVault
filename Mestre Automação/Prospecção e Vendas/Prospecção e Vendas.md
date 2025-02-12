@@ -24,4 +24,4 @@
 - Aprender a saber o valor do seu produto
 - Faça a sua agenda, nao seja agenda do outro
 - Organização de tudo e principalmente de entregas
-	- monte um checklist
+	- monte um checklist sobre o que vc precisa
