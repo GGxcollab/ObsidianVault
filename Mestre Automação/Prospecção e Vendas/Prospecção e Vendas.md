@@ -31,3 +31,5 @@
 - Nunca deixe um cliente botar preço no seu trabalho, Voce que coloca e sabe o valor do seu trabalho
 - Normalmente cliente que chora por desconto, reclama de preço e tenta botar preço no seu trabalho são os que mais te demandam
 	- nisso acontecerá o arrependimento de estar ganhando pouco por isso
+
+# Construindo Sua Prateleira de Produtos
