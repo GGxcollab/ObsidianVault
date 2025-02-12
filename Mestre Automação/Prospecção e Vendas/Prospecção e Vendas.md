@@ -28,4 +28,5 @@
 # Defina o Seu Cliente Ideal. Com quem Você Quer Trabalhar?
 - [Mapa Mental](https://www.mindmeister.com/app/map/3104263941?t=2J8aovFNH3)
 - Nunca deixe um cliente botar preço no seu trabalho, Voce que coloca e sabe o valor do seu trabalho
-- Normalmente cliente que chora por desconto
+- Normalmente cliente que chora por desconto, reclama de preço e tenta botar preço no seu trabalho são os que mais te demandam
+	- nisso acontecerá o arrependimento de estar ganhando pouco por isso
