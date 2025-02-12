@@ -40,3 +40,4 @@
 - [Modelo 2](file:///C:/Users/geova/Downloads/Modelo%20de%20proposta%20de%20automac%253Fa%253Fo_fc8fa90fc1ca8a1ec43599d9913ef3bb.pdf)
 
 # Modelo de Contrato de Prestação de Serviço
+-  [Modelo](file:///C:/Users/geova/Downloads/modelo-de-ed399e01ff5e978f72973a35354d9ca1.pdf)
