@@ -33,5 +33,5 @@
 	- nisso acontecerá o arrependimento de estar ganhando pouco por isso
 
 # Construindo Sua Prateleira de Produtos
-- [Exemplo de como construir sua propria prateleira de produtos](https://www.mindmeister.com/app/map/3054477124?t=RfChvdi2LG
-- )
+- [Exemplo de como construir sua propria prateleira de produtos](https://www.mindmeister.com/app/map/3054477124?t=RfChvdi2LG)
+- 
