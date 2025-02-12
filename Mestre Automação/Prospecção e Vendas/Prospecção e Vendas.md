@@ -25,3 +25,4 @@
 - Faça a sua agenda, nao seja agenda do outro
 - Organização de tudo e principalmente de entregas
 	- monte um checklist sobre o que vc precisa para desenvolver seu trabalho
+# Defina o Seu Cliente Ideal. Com quem Você Quer Trabalhar?
