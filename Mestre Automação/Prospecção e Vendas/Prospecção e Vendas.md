@@ -34,4 +34,7 @@
 
 # Construindo Sua Prateleira de Produtos
 - [Exemplo de como construir sua propria prateleira de produtos](https://www.mindmeister.com/app/map/3054477124?t=RfChvdi2LG)
-- 
+
+# Modelo de proposta
+- Modelo 1
+- Modelo 2
