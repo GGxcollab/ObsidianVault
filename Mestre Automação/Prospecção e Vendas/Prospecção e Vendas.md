@@ -3,3 +3,4 @@
 # Pensando estrategicamente para criar uma automação
 - Saber o objetivo daquela automação
 - Saber qual o resultado que aquela automação vai levar
+- qual automação vc precisa criar para quebrar objeções
