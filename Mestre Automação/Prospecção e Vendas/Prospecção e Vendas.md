@@ -18,4 +18,7 @@
 - Estuda o que o cliente faz
 - chegar com proposta mais assertiva e sem enrolação
 - Saber falar, aprende a escutar
-- ntregue mais do que promete
+- Entregue mais do que promete
+	- nao lata alto e morda fraco
+- Não atrase suas entregas
+- Aprender a saber 
