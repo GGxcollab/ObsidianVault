@@ -21,4 +21,7 @@
 - Entregue mais do que promete
 	- nao lata alto e morda fraco
 - Não atrase suas entregas
-- Aprender a saber 
+- Aprender a saber o valor do seu produto
+- Faça a sua agenda, nao seja agenda do outro
+- Organização de tudo e principalmente de entregas
+	- monte um checklist
