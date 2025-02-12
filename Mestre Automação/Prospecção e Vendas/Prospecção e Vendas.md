@@ -9,4 +9,5 @@
 - Pensar nos objetivos sempre antes de criar qualquer automação
 	- Pensar em "Qual é o objetivo dessa automação"
 	- Pensar em "Qual resultado o cliente quer ter"
-		- Conversar com o cliente e entender qual o resultado do cliente o que ele espera
+		- Conversar com o cliente e entender qual o resultado do cliente o que ele espera das automações
+			- ai sim desenhar uma proposta e entrega baseada nisso
