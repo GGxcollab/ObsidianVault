@@ -6,4 +6,6 @@
 - Qual automação vc precisa criar para quebrar objeções
 - Otimização
 - Ser uma profissional que sabe da parte pratica e tecnica, mas principalmente da estrategica do negocio
-- Pensar nos objetivos sempre antes de criar qualquer 
+- Pensar nos objetivos sempre antes de criar qualquer automação
+	- Pensar em "Qual é o objetivo dessa automação"
+	- 
