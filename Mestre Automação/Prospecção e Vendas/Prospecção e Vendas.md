@@ -11,6 +11,7 @@
 	- Pensar em "Qual resultado o cliente quer ter"
 		- Conversar com o cliente e entender qual o resultado do cliente o que ele espera das automações
 			- ai sim desenhar uma proposta e entrega baseada nisso
+- Listar tudo que vc vai entregar, tanto para colocar em contrato quanto para mostrar para o cliente
 
 # Habilidades Necessárias
 - Aprender a como chegar e se comunicar com seu cliente
