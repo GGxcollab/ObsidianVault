@@ -5,7 +5,7 @@
 - Saber qual o resultado que aquela automação vai levar
 - Qual automação vc precisa criar para quebrar objeções
 - Otimização
-- Ser uma profissional que sabe da parte pratica e tecnica, mas principalmente da estrategica do negocio
+- Ser uma profissional que sabe da parte pratica e técnica, mas principalmente da estratégica do negocio
 - Pensar nos objetivos sempre antes de criar qualquer automação
 	- Pensar em "Qual é o objetivo dessa automação"
 	- Pensar em "Qual resultado o cliente quer ter"
