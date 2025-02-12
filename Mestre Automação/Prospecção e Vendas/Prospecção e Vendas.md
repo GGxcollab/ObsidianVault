@@ -36,5 +36,7 @@
 - [Exemplo de como construir sua propria prateleira de produtos](https://www.mindmeister.com/app/map/3054477124?t=RfChvdi2LG)
 
 # Modelo de proposta
-- Modelo 1
-- Modelo 2
+- [Modelo 1](file:///C:/Users/geova/Downloads/Modelo%20de%20proposta.pdf)
+- [Modelo 2](file:///C:/Users/geova/Downloads/Modelo%20de%20proposta%20de%20automac%253Fa%253Fo_fc8fa90fc1ca8a1ec43599d9913ef3bb.pdf)
+
+# Modelo de Contrato de Prestação de Serviço
