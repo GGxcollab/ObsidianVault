@@ -8,4 +8,5 @@
 - Ser uma profissional que sabe da parte pratica e tecnica, mas principalmente da estrategica do negocio
 - Pensar nos objetivos sempre antes de criar qualquer automação
 	- Pensar em "Qual é o objetivo dessa automação"
-	- 
+	- Pensar em "Qual resultado o cliente quer ter"
+		- Conversar com o cliente e entender qual o resultado do cliente o que ele espera
