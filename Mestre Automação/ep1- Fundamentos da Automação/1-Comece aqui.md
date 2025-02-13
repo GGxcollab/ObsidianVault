@@ -17,5 +17,5 @@
 - ![[Pasted image 20250210164435.png]]
 
 # Mercado de Automação
-![[Pasted image 20250213163008.png]]
+![[Pasted image 20250213163148.png]]
 - https://www.folhavitoria.com.br/geral/quais-sao-as-tendencias-do-marketing-digital-para-2023/
