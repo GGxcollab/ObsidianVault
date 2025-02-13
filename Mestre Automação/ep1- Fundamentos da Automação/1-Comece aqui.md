@@ -1,6 +1,5 @@
 # Fundamentos da Automação
 [Mapa Mental](https://www.mindmeister.com/app/map/3259014223)
-
 ## O Segredo para ter Sucesso como Gestor de Automação
 - Fazer o que deve ser feito
 - Comemore cada evolução de voce tiver, mesmo que nao seja algo muito grande
