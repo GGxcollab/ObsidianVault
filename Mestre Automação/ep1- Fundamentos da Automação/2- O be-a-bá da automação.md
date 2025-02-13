@@ -5,6 +5,6 @@
 # Tipos de Negócios que Precisam de Automação
 - ![[Pasted image 20250213163505.png]]
 - ![[Pasted image 20250213163525.png]]
-# O que 
+# O que oferecer?
 
 ![[Pasted image 20250210170127.png]]
