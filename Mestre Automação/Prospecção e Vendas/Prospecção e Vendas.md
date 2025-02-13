@@ -43,3 +43,4 @@
 -  [Modelo](file:///C:/Users/geova/Downloads/modelo-de-ed399e01ff5e978f72973a35354d9ca1.pdf)
 # Otimizando Seu Tempo na Criação dos Fluxos
 - é muito importante fazer a criação de fluxograma, isso ira ajudar na criação de outras automações, pois ira servir como parametro e copia para outros processos
+- uma ferramenta que pode ser usada para a criação é o "Miro"
