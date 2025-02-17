@@ -2,4 +2,5 @@
 	- pode usar uma ferramenta chamada "LOOM"
 - Mostra o passa a passo
 	- Configuração -> conexão -> Ferramentas dispositivos conectados
-- O Cliente pode responder tanto pelo BotConversa na área de Bate
+- O Cliente pode responder tanto pelo BotConversa na área de "Bate-papo ao vivo" ou pelo proprio wpp mesmo que estiver conectado no dispositivo
+	- o legal de ser pelo bate-papo é que voce pode ter 
