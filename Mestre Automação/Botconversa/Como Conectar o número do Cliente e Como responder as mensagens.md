@@ -3,4 +3,4 @@
 - Mostra o passa a passo
 	- Configuração -> conexão -> Ferramentas dispositivos conectados
 - O Cliente pode responder tanto pelo BotConversa na área de "Bate-papo ao vivo" ou pelo proprio wpp mesmo que estiver conectado no dispositivo
-	- o legal de ser pelo bate-papo é que voce pode ter varias pessoas atribuidas ao chat, entao vamos supor que se vc tiver 5 atendentes, pode rotacionar e colocar um atendimento para cada atendent, atribuir 
+	- o legal de ser pelo bate-papo é que voce pode ter varias pessoas atribuidas ao chat, entao vamos supor que se vc tiver 5 atendentes, pode rotacionar e colocar um atendimento para cada atendent, atribuir o atendimento
