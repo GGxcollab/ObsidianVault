@@ -2,3 +2,4 @@
 	- pode usar uma ferramenta chamada "LOOM"
 - Mostra o passa a passo
 	- Configuração -> conexão -> Ferramentas dispositivos conectados
+- O Cliente pode responder tanto pelo BotConversa na área de Bate
