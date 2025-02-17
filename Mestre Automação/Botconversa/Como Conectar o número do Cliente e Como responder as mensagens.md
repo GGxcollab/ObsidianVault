@@ -1,1 +1,3 @@
-.
+- Voce pode gravar um Tutorial 
+	- pode usar uma ferramenta chamada "LOOM"
+- 
