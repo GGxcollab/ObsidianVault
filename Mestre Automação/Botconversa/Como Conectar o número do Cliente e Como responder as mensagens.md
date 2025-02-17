@@ -1,4 +1,4 @@
 - Voce pode gravar um Tutorial 
 	- pode usar uma ferramenta chamada "LOOM"
 - Mostra o passa a passo
-	- Configuração -> conexão -> vai ter uma msg de conectar por qrcode
+	- Configuração -> conexão -> Ferramentas dispositivos conectados
