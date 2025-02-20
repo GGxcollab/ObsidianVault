@@ -7,3 +7,6 @@
 - Galeria: 600 x 600 px
 - Cartão: 400 x 400 px
 # Formato Audio e Video
+- https://convertio.co/pt/
+- usar esse converto 
+- formato mp4
