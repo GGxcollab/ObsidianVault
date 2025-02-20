@@ -1,1 +1,3 @@
 ![[Pasted image 20250220143410.png]]
+
+# Tamanho de imagens
