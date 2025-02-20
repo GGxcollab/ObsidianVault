@@ -6,3 +6,4 @@
 - Imagem: 1200 x 628 px
 - Galeria: 600 x 600 px
 - Cartão: 400 x 400 px
+# Formato Audio e Video
