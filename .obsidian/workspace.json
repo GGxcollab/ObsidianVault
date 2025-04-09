@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udemy-DevOps/Introdução.md",
+                "file": "Udemy-DevSecOps/Introdução.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy-DevOps/Introdução.md",
+                "file": "Udemy-DevSecOps/Introdução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,11 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37c5462715c8244a",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
-    "Udemy-DevOps/Introdução.md",
-    "Udemy-DevOps",
+    "Udemy-DevSecOps/Introdução.md",
+    "Udemy-DevSecOps",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
     "Teste",
