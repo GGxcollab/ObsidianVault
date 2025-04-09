@@ -1,2 +1,2 @@
-# Ciclo de Desenvolvimento de Software Seguro (SSL)
+# Ciclo de Desenvolvimento de Software Seguro (SSDLC)
 - 

@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -150,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37c5462715c8244a",
+  "active": "7b9892dd6881f605",
   "lastOpenFiles": [
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
     "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
