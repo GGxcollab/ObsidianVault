@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+                "file": "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criar um modelo de compreensão da linguagem coloquial"
+              "title": "2- Criando nosso primeira imagem"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+                "file": "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Criar um modelo de compreensão da linguagem coloquial"
+              "title": "Sumário de 2- Criando nosso primeira imagem"
             }
           }
         ],
@@ -167,8 +167,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "37c5462715c8244a",
   "lastOpenFiles": [
+    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
     "Teste",
     "Entrevista/React.md",
     "Pasted image 20241112160510.png",
@@ -177,7 +179,6 @@
     "Pasted image 20241112152613.png",
     "Pasted image 20241112152357.png",
     "Pasted image 20241112151809.png",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
     "Entrevista",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
     "Pasted image 20241111135736.png",
@@ -214,7 +215,6 @@
     "SC-300/Sem título.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
     "SC-300/images",
-    "SC-300/Sem título.canvas",
-    "Excalidraw"
+    "SC-300/Sem título.canvas"
   ]
 }
