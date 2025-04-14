@@ -18,8 +18,5 @@
 - Então, o que seria então a integração contínua (CI)?
 	- Então, se a gente está passando de um ambiente de build para teste, a gente vai realizar testes integrados numa pipeline.
 	- A gente pode usar isso através de testes unitários, pode usar isso através de Selenium.
-	- Por exemplo, um teste de comportamento de vdd.
-
-Então com a gente pensa em testes de integração.
-
-São testes que a gente utiliza ali do build para o teste, para fase de teste e já na fase de seed
+	- Por exemplo, um teste de comportamento de BDD.
+	- Então com a gente pensa em testes de integração. São testes que a gente utiliza ali do build para o teste, para fase de teste e já na fase de seed
