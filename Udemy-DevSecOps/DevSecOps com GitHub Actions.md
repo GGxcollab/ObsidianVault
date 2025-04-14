@@ -10,4 +10,7 @@
 - Um desses testes poderia ser, por exemplo, o teste do teste unitário para ver se não quebrou ali a sua aplicação. Pode ser teste de comportamento para o BDD, que é através da interface da aplicação ou até mesmo teste com Keeway ou testes de segurança, mas você quebra isso em Sprint em partes menores e você descobre de forma muito mais rápida e ao mesmo tempo que você consegue validar se aquela sua integra está de acordo que é esperado com o seu cliente ou com PO (Product Owner).
 - E é por isso que é importante quebrar sprints pequenas para você ter tempo de desenvolver bem aquela funcionalidade estar na aplicação e depois passar ele pelo ambiente de teste, depois homologação, até mesmo levarem produção. Isso pode ser feito de forma automatizada ou não.
 - ![[Pasted image 20250414141138.png]]
-- 
+- Então, quando a gente pensa em DevOps, pensa muito em automação, em ferramentas. Como já comentei na fase de planejamento gira.
+- Quando a gente pensa em Pipeline, quer você ter uma esteira onde você vai realizar esses testes para você trazer a maior qualidade, pensando gente no GitHub action.
+- Quando a gente pensa em encapsular uma aplicação, fazer o build dessa aplicação, a gente pensa no Docker, pode pensar no meio. Você pode utilizar para aplicações Java.
+- Se a gente vai fazer deploy, a gente pensa em ferramentas voltadas para nuvem e que através dessas automações a gente tem ali os conceitos para trazer maior qualidade.
