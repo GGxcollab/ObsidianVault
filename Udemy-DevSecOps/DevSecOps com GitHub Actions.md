@@ -14,3 +14,12 @@
 - Quando a gente pensa em Pipeline, quer você ter uma esteira onde você vai realizar esses testes para você trazer a maior qualidade, pensando gente no GitHub action.
 - Quando a gente pensa em encapsular uma aplicação, fazer o build dessa aplicação, a gente pensa no Docker, pode pensar no meio. Você pode utilizar para aplicações Java.
 - Se a gente vai fazer deploy, a gente pensa em ferramentas voltadas para nuvem e que através dessas automações a gente tem ali os conceitos para trazer maior qualidade.
+- Então DevOps está muito ligado a você trazer qualidade para a aplicação para o seu software em um tempo menor. Através dessas sprites a gente tem ideia do que é esse dia.
+- Então, o que seria então a integração contínua (CI)?
+	- Então, se a gente está passando de um ambiente de build para teste, a gente vai realizar testes integrados numa pipeline.
+	- A gente pode usar isso através de testes unitários, pode usar isso através de Selenium.
+	- Por exemplo, um teste de comportamento de vdd.
+
+Então com a gente pensa em testes de integração.
+
+São testes que a gente utiliza ali do build para o teste, para fase de teste e já na fase de seed
