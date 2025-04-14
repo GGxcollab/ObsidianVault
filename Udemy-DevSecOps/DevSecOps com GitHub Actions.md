@@ -9,3 +9,5 @@
 - Durante aquela sprint, naquele tempo de duas semanas mais ou menos, vocês todos testaram essa e essas funcionalidades através de uma esteira que é a Pipeline, onde passariam por alguns testes.
 - Um desses testes poderia ser, por exemplo, o teste do teste unitário para ver se não quebrou ali a sua aplicação. Pode ser teste de comportamento para o BDD, que é através da interface da aplicação ou até mesmo teste com Keeway ou testes de segurança, mas você quebra isso em Sprint em partes menores e você descobre de forma muito mais rápida e ao mesmo tempo que você consegue validar se aquela sua integra está de acordo que é esperado com o seu cliente ou com PO (Product Owner).
 - E é por isso que é importante quebrar sprints pequenas para você ter tempo de desenvolver bem aquela funcionalidade estar na aplicação e depois passar ele pelo ambiente de teste, depois homologação, até mesmo levarem produção. Isso pode ser feito de forma automatizada ou não.
+- ![[Pasted image 20250414141138.png]]
+- 
