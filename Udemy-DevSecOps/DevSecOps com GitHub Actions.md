@@ -21,12 +21,8 @@
 	- Por exemplo, um teste de comportamento de BDD.
 	- Então com a gente pensa em testes de integração. São testes que a gente utiliza ali do build para o teste, para fase de teste e já na fase de seed
 - E o que seria Continuous delivery ou deploy (CD)?
-
-É a fase que a gente vai levar aplicação para produção.
-
-Então a gente pode fazer isso de forma manual ou de forma automática.
-
-Se a gente faz isso de forma manual, você tem, por exemplo, um botão que tem uma intervenção de uma
+	- É a fase que a gente vai levar aplicação para produção. Então a gente pode fazer isso de forma manual ou de forma automática.
+	- Se a gente faz isso de forma manual, você tem, por exemplo, um botão que tem uma intervenção de uma
 
 pessoa que ela viu que passou pelos testes.
 
