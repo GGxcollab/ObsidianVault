@@ -20,3 +20,24 @@
 	- A gente pode usar isso através de testes unitários, pode usar isso através de Selenium.
 	- Por exemplo, um teste de comportamento de BDD.
 	- Então com a gente pensa em testes de integração. São testes que a gente utiliza ali do build para o teste, para fase de teste e já na fase de seed
+- E o que seria Continuous delivery ou deploy (CD)?
+
+É a fase que a gente vai levar aplicação para produção.
+
+Então a gente pode fazer isso de forma manual ou de forma automática.
+
+Se a gente faz isso de forma manual, você tem, por exemplo, um botão que tem uma intervenção de uma
+
+pessoa que ela viu que passou pelos testes.
+
+Se estiver tudo ok e você clica nesse botão, você está fazendo de forma manual.
+
+Agora, se você não tem essa intervenção de nenhuma pessoa, você vai levar essa aplicação para produção.
+
+Está tudo ok.
+
+Você tem uma forma automática, então, que é o contínuo deployment.
+
+Então, essa é a diferença de si e seed.
+
+Elas estão bastante relacionadas com essa ideia do DevOps para trazer uma qualidade para a aplicação.
