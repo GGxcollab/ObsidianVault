@@ -11,14 +11,12 @@
             "id": "37c5462715c8244a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Entrevista/React.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Socbot.md"
               },
-              "icon": "lucide-file",
-              "title": "React"
+              "icon": "excalidraw-icon",
+              "title": "Socbot"
             }
           }
         ]
@@ -172,6 +170,7 @@
   },
   "active": "37c5462715c8244a",
   "lastOpenFiles": [
+    "Entrevista/React.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md",
@@ -188,7 +187,6 @@
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
     "Teste",
-    "Entrevista/React.md",
     "Pasted image 20241112160510.png",
     "Pasted image 20241112160418.png",
     "Pasted image 20241112153217.png",
