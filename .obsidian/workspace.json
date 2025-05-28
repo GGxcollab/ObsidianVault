@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Socbot"
             }
+          },
+          {
+            "id": "9183ad22e71eb6c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37c5462715c8244a",
+  "active": "37d53ba14663cc69",
   "lastOpenFiles": [
     "Entrevista/React.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
