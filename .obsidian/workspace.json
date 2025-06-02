@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80d4a2bcf3920cac",
+        "id": "5da4a049febb03c1",
         "type": "tabs",
         "children": [
           {
-            "id": "37c5462715c8244a",
+            "id": "cc898fc1158a049a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Socbot.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Socbot"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -168,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "cc898fc1158a049a",
   "lastOpenFiles": [
+    "Excalidraw/Socbot.md",
     "Entrevista/React.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
