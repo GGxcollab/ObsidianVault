@@ -15,4 +15,4 @@
 	- GitHub Copilot
 	- Cursor
 	- Claude Desktop
-	- Clau
+	- Claude Code
