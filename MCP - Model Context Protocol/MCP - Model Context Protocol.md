@@ -24,3 +24,5 @@
 	- Filesystem
 	- Docker
 	- Kubernetes
+## Arquitetura de um MCP Server
+### Tools
