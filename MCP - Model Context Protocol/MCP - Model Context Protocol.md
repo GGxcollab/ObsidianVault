@@ -12,4 +12,7 @@
 ![[Pasted image 20250604152810.png]]
 
 - Exemplos de Aplicações que implementam MCP Clients:
-	- 
+	- GitHub Copilot
+	- Cursor
+	- Claude Desktop
+	- Clau
