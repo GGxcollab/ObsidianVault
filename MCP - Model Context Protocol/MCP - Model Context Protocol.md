@@ -46,4 +46,5 @@
 # Formato de comunicação
 ### Stdio
 - O client MCP executa o servidor MCP como um subprocesso
-- O servidor recebe mensagens JSON-RPC em usa entrada padrão 
+- O servidor recebe mensagens JSON-RPC em usa entrada padrão (stdin) e escreve para sua saída padrão (stdout)
+- Comunicação local
