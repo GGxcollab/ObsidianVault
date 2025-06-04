@@ -37,4 +37,6 @@
 	- screen: //host/image1
 	- file: //caminho/file/pdf
 	- postges: /database/customers/schema
-### Pr
+### Prompts
+- Permitem que o server defina templates de prompt para que os clients possam usar.
+- Prompts são "User-Controlled", ou seja, os prompts ficam disponíveis, mas o usuário precis
