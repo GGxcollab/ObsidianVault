@@ -8,4 +8,8 @@
 - Qual produto que possui com o id 1 de acordo com minha "Tool"
  **Em determinadas situações você precisará ser mais expressivo ao solicitar**:
 
-### Componentes
+## Componentes
+![[Pasted image 20250604152810.png]]
+
+- Exemplos de Aplicações que implementam MCP Clients:
+	- 
