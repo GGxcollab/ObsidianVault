@@ -16,3 +16,6 @@
 	- Cursor
 	- Claude Desktop
 	- Claude Code
+- Exemplos de MCP Servers
+	- Postgres
+	- Google Drive
