@@ -32,7 +32,7 @@
 - Permitem que os servidores disponibilizem dados que podem ser lidos pelos clients e usado como contexto pelo LLM.
 - Resources são controlados pelo client (Application-controlled), ou seja, **o client decide quando usar e não o modelo**.
 - Diferentes tipos de dados: Arquivos, Banco de dados, respostas de API, imagens, arquivos de log
-- Prove a fonte de dados e quem uti
+- Prove a fonte de dados e quem utiliza a chamada dessa fonte de dados é o client não necessariamente o modelo que vai decidir
 - Cada resource possui seu próprio URI
 - Exemplos:
 	- screen: //host/image1
