@@ -47,4 +47,7 @@
 ### Stdio
 - O client MCP executa o servidor MCP como um subprocesso
 - O servidor recebe mensagens JSON-RPC em usa entrada padrão (stdin) e escreve para sua saída padrão (stdout)
-- Comunicação local
+- Comunicação local, onde o cliente e o servidor estão na mesma máquina.
+- Simples e o mais comum de se ver no dia a dia
+### SSE (Server Sent Events)
+- O client abre uma con
