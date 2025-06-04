@@ -45,4 +45,5 @@
 - Dependendo da ferramenta, pode ser utilizado com o "/"
 # Formato de comunicação
 ### Stdio
-- O client MCP 
+- O client MCP executa o servidor MCP como um subprocesso
+- O servidor recebe mensagens JSON-RPC em usa entrada padrão 
