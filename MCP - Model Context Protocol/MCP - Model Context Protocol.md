@@ -4,4 +4,5 @@
 		![[Pasted image 20250604151911.png]]
 ##### Exemplo de chamada:
 - Quais são os containers docker que estão sendo executados?
-- Verifique no postgres registros que tenha 
+- Verifique no postgres registros que tenho na tabela de logs
+- Qual produto que possui com o id 1 de acordo com minha <Tool>
