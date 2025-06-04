@@ -51,4 +51,5 @@
 - Simples e o mais comum de se ver no dia a dia
 ### SSE (Server Sent Events)
 - O client abre uma conexão SSE com o servidor, e o servidor envia mensagens como eventos SSE usando HTTP.
-- Forma utilizada para acessar um Servidor MCP
+- Forma utilizada para acessar um Servidor MCP de forma remota (ex.: Copilot Studio)
+- Bem mais complexo de se desenvolver pelo fato de haver diversos fatores envolvidos, como segurança, controle de acesso, re
