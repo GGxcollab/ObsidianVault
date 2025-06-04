@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCP - Model Context Protocol/Sem título.md",
+                "file": "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "MCP - Model Context Protocol"
             }
           }
         ]
@@ -172,7 +172,7 @@
   },
   "active": "cc898fc1158a049a",
   "lastOpenFiles": [
-    "MCP - Model Context Protocol/Sem título.md",
+    "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "MCP - Model Context Protocol",
     "Excalidraw/Socbot.md",
     "Entrevista/React.md",
