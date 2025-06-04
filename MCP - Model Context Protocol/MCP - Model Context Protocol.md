@@ -19,3 +19,8 @@
 - Exemplos de MCP Servers
 	- Postgres
 	- Google Drive
+	- Github
+	- Slack
+	- Filesystem
+	- Docker
+	- Kubernetes
