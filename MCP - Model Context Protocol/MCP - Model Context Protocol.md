@@ -33,3 +33,7 @@
 - Resources são controlados pelo client (Application-controlled), ou seja, **o client decide quando usar e não o modelo**.
 - Diferentes tipos de dados: Arquivos, Banco de dados, respostas de API, imagens, arquivos de log
 - Cada resource possui seu próprio URI
+- Exemplos:
+	- screen://host/image1
+	- file://caminho/file/pdf
+	- 
