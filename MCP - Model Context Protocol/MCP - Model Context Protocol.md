@@ -26,5 +26,5 @@
 	- Kubernetes
 ## Arquitetura de um MCP Server
 ### Tools
-- São ferramentas que realizam ações. Elas são controladaas pelo modelo, ou seja, a propria LLM decide quando chamar.
-- autodiscovery: LLM
+- São ferramentas que realizam ações. Elas são controladas pelo modelo, ou seja, a propria LLM decide quando chamar.
+- **Autodiscovery**: LLM possui formas de entender quais tools estão disponíveis.
