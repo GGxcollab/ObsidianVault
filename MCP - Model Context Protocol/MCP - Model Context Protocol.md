@@ -1,0 +1,2 @@
+- Protocolo que padroniza como sistemas podem prover contexto para as LLMs.
+- Padroniz
