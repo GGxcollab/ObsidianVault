@@ -5,4 +5,5 @@
 ##### Exemplo de chamada:
 - Quais são os containers docker que estão sendo executados?
 - Verifique no postgres registros que tenho na tabela de logs
-- Qual produto que possui com o id 1 de acordo com minha 
+- Qual produto que possui com o id 1 de acordo com minha "Tool"
+ **Em determinadas situações você precisará ser mais expressivo ao solicitar**
