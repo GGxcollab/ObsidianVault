@@ -39,4 +39,5 @@
 	- postges: /database/customers/schema
 ### Prompts
 - Permitem que o server defina templates de prompt para que os clients possam usar.
-- Prompts são "User-Controlled", ou seja, os prompts ficam disponíveis, mas o usuário precis
+- Prompts são "User-Controlled", ou seja, os prompts ficam disponíveis, mas o usuário precisa "selecionar".
+- Podem ser templates estáticos, dinâmicos passando parâmetros, inclusive pegando contexto de u
