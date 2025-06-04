@@ -11,10 +11,14 @@
             "id": "cc898fc1158a049a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MCP - Model Context Protocol/Sem título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -168,6 +172,8 @@
   },
   "active": "cc898fc1158a049a",
   "lastOpenFiles": [
+    "MCP - Model Context Protocol/Sem título.md",
+    "MCP - Model Context Protocol",
     "Excalidraw/Socbot.md",
     "Entrevista/React.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
@@ -212,8 +218,6 @@
     "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
     "AI-102 (Microsoft Reactor)/Imagens",
     "SC-300/Plan, implement, and manage Access Review - EP12.1.md",
-    "AI-102 (Microsoft Reactor)",
-    "SC-300/Microsoft Identity and Access Administrator EP01.md",
     "SC-300/Sem título.canvas"
   ]
 }
