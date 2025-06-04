@@ -43,3 +43,6 @@
 - Prompts são "**User-Controlled**", ou seja, os prompts ficam disponíveis, mas o usuário precisa "selecionar".
 - Podem ser templates estáticos, dinâmicos passando parâmetros, inclusive pegando contexto de um resource.
 - Dependendo da ferramenta, pode ser utilizado com o "/"
+# Formato de comunicação
+### Stdio
+- O client MCP 
