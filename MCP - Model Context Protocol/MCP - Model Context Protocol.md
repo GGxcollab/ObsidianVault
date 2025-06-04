@@ -1,2 +1,2 @@
 - Protocolo que padroniza como sistemas podem prover contexto para as LLMs.
-- Padroniz
+- Padroniza como as LLMs podem se conectar em diferentes data sources e ferramentas.
