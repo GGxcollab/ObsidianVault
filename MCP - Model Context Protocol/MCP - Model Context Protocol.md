@@ -29,3 +29,5 @@
 - São ferramentas que realizam ações. Elas são controladas pelo modelo, ou seja, a ==própria LLM decide quando chamar==.
 - **Autodiscovery**: LLM possui formas de entender quais tools estão disponíveis.
 ### Resources
+- Permitem que os servidores disponibilizem dados que podem ser lidos pelos clients e usado como contexto pelo LLM.
+- Resources são controlados pelo client
