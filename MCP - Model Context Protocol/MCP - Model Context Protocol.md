@@ -34,6 +34,7 @@
 - Diferentes tipos de dados: Arquivos, Banco de dados, respostas de API, imagens, arquivos de log
 - Cada resource possui seu próprio URI
 - Exemplos:
-	- screen://host/image1
-	- file://caminho/file/pdf
-	- 
+	- screen: //host/image1
+	- file: //caminho/file/pdf
+	- postges: /database/customers/schema
+### Pr
