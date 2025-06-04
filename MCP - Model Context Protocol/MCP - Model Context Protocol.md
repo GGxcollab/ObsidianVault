@@ -2,6 +2,11 @@
 - Protocolo que padroniza como sistemas podem prover contexto para as LLMs.
 - Padroniza como as LLMs podem se conectar em diferentes data sources e ferramentas.
 		![[Pasted image 20250604151911.png]]
+- **Hosts MCP** : programas como Claude Desktop, IDEs ou ferramentas de IA que desejam acessar dados por meio do MCP
+- **Clientes MCP** : clientes de protocolo que mantêm conexões 1:1 com servidores
+- **Servidores MCP** : programas leves que expõem cada um recursos específicos por meio do Protocolo de Contexto do Modelo padronizado
+- **Fontes de dados locais** : arquivos, bancos de dados e serviços do seu computador que os servidores MCP podem acessar com segurança
+- **Serviços remotos** : sistemas externos disponíveis pela Internet (por exemplo, por meio de APIs) aos quais os servidores MCP podem se conectar
 ##### Exemplo de chamada:
 - Quais são os containers docker que estão sendo executados?
 - Verifique no postgres registros que tenho na tabela de logs
