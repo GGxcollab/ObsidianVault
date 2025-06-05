@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
+                "file": "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implantar os serviços de IA do Azure em contêineres"
+              "title": "Preparar-se para desenvolver soluções de IA no Azure"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "cc898fc1158a049a",
   "lastOpenFiles": [
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md",
     "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "Pasted image 20250604154810.png",
@@ -189,7 +190,6 @@
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
     "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
     "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
     "Pasted image 20250414141138.png",
     "Pasted image 20250409122758.png",
