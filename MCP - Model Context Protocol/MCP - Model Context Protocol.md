@@ -42,7 +42,7 @@
 - Exemplos:
 	- screen: //host/image1
 	- file: //caminho/file/pdf
-	- postges: /database/customers/schema
+	- postgres: /database/customers/schema
 ### Prompts
 - Permitem que o server defina templates de prompt para que os clients possam usar.
 - Prompts são "**User-Controlled**", ou seja, os prompts ficam disponíveis, mas o usuário precisa "selecionar".
