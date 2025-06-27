@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
+                "file": "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analisar textos com a Linguagem de IA do Azure"
+              "title": "Preparar-se para desenvolver soluções de IA no Azure"
             }
           }
         ]
@@ -172,8 +172,13 @@
   },
   "active": "cc898fc1158a049a",
   "lastOpenFiles": [
-    "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
+    "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
@@ -197,17 +202,12 @@
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
     "Udemy-DevSecOps",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
     "Teste",
     "Pasted image 20241112160510.png",
     "Pasted image 20241112160418.png",
     "Entrevista",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure",
     "AI-102 (Learn Microsoft)/Sem título.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure",
