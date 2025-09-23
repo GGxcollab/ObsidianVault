@@ -17,7 +17,7 @@ altura = 1.70
 ```
 
 ---
-
+ 
 ### 2. O que é uma variável de ambiente?
 
 **Resposta:** É uma configuração do sistema (par chave=valor) que pode ser acessada por programas. São usadas para armazenar dados sensíveis (como senhas e chaves de API) e para configurar diferentes ambientes (dev, teste, produção).
