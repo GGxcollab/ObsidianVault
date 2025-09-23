@@ -335,7 +335,7 @@ driver.save_screenshot("print.png")
 
 ###  **Pergunta prática com foco em segurança**
 
-**"Imagine que você precisa receber dados de um usuário via uma API em Flask. Quais cuidados você tomaria para garantir que esses dados não comprometam a segurança da aplicação?"**
+"Imagine que você precisa receber dados de um usuário via uma API em Flask. Quais cuidados você tomaria para garantir que esses dados não comprometam a segurança da aplicação?"
 
 **O que observar:**
 
@@ -348,7 +348,7 @@ driver.save_screenshot("print.png")
 
 ### **3. Pergunta sobre boas práticas de código seguro**
 
-**"Você já ouviu falar sobre o princípio do menor privilégio? Como ele se aplica ao desenvolvimento de software em Python?"**
+"Você já ouviu falar sobre o princípio do menor privilégio? Como ele se aplica ao desenvolvimento de software em Python?"
 
 **O que observar:**
 
