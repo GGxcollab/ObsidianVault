@@ -332,3 +332,26 @@ driver.save_screenshot("print.png")
 ---
 
 📑 **Esse documento pode ser usado como guia de perguntas e respostas em entrevistas para avaliar candidatos a analista júnior em Python, cobrindo lógica de programação, boas práticas de segurança, ambientes virtuais, pandas e Selenium.**
+
+###  **Pergunta prática com foco em segurança**
+
+**"Imagine que você precisa receber dados de um usuário via uma API em Flask. Quais cuidados você tomaria para garantir que esses dados não comprometam a segurança da aplicação?"**
+
+**O que observar:**
+
+- Se menciona validação e sanitização de entrada.
+- Se conhece práticas como uso de `request.get_json()` com verificação de tipos.
+- Se tem noção de riscos como **injeção de código**, **XSS**, ou **CSRF**.
+- Se fala sobre uso de bibliotecas como `pydantic` ou `marshmallow` para validação.
+
+---
+
+### **3. Pergunta sobre boas práticas de código seguro**
+
+**"Você já ouviu falar sobre o princípio do menor privilégio? Como ele se aplica ao desenvolvimento de software em Python?"**
+
+**O que observar:**
+
+- Se entende que o princípio do menor privilégio significa conceder apenas as permissões necessárias.
+- Se consegue aplicar isso a exemplos como controle de acesso a arquivos, uso de variáveis de ambiente, ou configuração de permissões em APIs.
+- Se demonstra preocupação com segurança desde o design do código.
