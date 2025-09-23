@@ -355,3 +355,13 @@ driver.save_screenshot("print.png")
 - Se entende que o princípio do menor privilégio significa conceder apenas as permissões necessárias.
 - Se consegue aplicar isso a exemplos como controle de acesso a arquivos, uso de variáveis de ambiente, ou configuração de permissões em APIs.
 - Se demonstra preocupação com segurança desde o design do código.
+
+### **Explicação clara e objetiva: O que é uma API?**
+
+**API** significa **Application Programming Interface** (Interface de Programação de Aplicações). Em termos simples, é um **conjunto de regras e protocolos** que permite que diferentes sistemas ou componentes de software **se comuniquem entre si**.
+
+No contexto de desenvolvimento Python, especialmente com frameworks como Flask ou FastAPI, uma API geralmente é usada para:
+
+- Receber requisições (por exemplo, dados enviados por um usuário ou outro sistema).
+- Processar esses dados.
+- Retornar uma resposta (como um resultado, confirmação ou erro).
