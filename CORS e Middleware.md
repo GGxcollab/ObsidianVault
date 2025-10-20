@@ -43,7 +43,17 @@ Um **middleware** é uma função que intercepta a requisição **antes** de ela
 
 #### Exemplo de middleware personalizado no FastAPI:
 
-from fastapi import Requestfrom fastapi.responses import JSONResponse@app.middleware("http")async def log_requests(request: Request, call_next):    print(f"Recebendo requisição: {request.method} {request.url}")    response = await call_next(request)    print(f"Resposta com status: {response.status_code}")    return response
+````
+from fastapi import Request
+from fastapi.responses import JSONResponse
+
+@app.middleware("http")
+async def log_requests(request: Request, call_next):
+    print(f"Recebendo requisição: {request.method} {request.url}")
+    response = await call_next(request)
+    print(f"Resposta com status: {response.status_code}")
+    return response
+````
 
 Esse middleware loga cada requisição e resposta, útil para debug ou auditoria.
 
