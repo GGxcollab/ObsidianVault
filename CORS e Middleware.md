@@ -13,7 +13,20 @@ Imagine que sua API está em `https://api.meuservico.com`, e um frontend em `htt
 
 Você pode usar o middleware `CORSMiddleware` para configurar isso:
 
-from fastapi import FastAPIfrom fastapi.middleware.cors import CORSMiddlewareapp = FastAPI()app.add_middleware(    CORSMiddleware,    allow_origins=["[https://meusite.com](https://meusite.com/)"],  # ou ["_"] para permitir todas    allow_credentials=True,    allow_methods=["_"],    allow_headers=["*"],)
+````
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
+app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://meusite.com"],  # ou ["*"] para permitir todas
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+````
 
 ---
 
