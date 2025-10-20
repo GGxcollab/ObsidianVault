@@ -61,11 +61,9 @@ Esse middleware loga cada requisição e resposta, útil para debug ou auditoria
 
 ### Resumo:
 
-|Conceito|Função|
-|---|---|
-|**CORS**|Permite ou bloqueia requisições de outras origens (domínios)|
-|**Middleware**|Intercepta requisições/respostas para aplicar lógica personalizada|
+| Conceito       | Função                                                             |
+| -------------- | ------------------------------------------------------------------ |
+| **CORS**       | Permite ou bloqueia requisições de outras origens (domínios)       |
+| **Middleware** | Intercepta requisições/respostas para aplicar lógica personalizada |
 
 ---
-
-Se quiser, posso te ajudar a criar um middleware específico para autenticação, logging avançado ou até métricas com Prometheus. Quer seguir por esse caminho?
