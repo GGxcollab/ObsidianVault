@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "Sem título"
             }
+          },
+          {
+            "id": "1e757b17c671f434",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.12"
+            }
           }
         ],
         "currentTab": 1
@@ -176,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
