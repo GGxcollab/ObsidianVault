@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,13 +214,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "362825be52289d06",
+  "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
+    "CORS e Middleware.md",
     "Apresentação.md",
     "Autenticação Azure.md",
     "Entrevista.md",
     "Autenticação decisão rapida.md",
-    "CORS e Middleware.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
