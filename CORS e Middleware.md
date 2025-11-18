@@ -67,3 +67,106 @@ Esse middleware loga cada requisição e resposta, útil para debug ou auditoria
 | **Middleware** | Intercepta requisições/respostas para aplicar lógica personalizada |
 
 ---
+
+Explicando cada parâmetro do `CORSMiddleware` no FastAPI:
+
+
+[1 tool called]
+
+
+## Explicação dos parâmetros do CORSMiddleware
+
+O `CORSMiddleware` controla requisições Cross-Origin Resource Sharing (CORS) entre o frontend e o backend. Parâmetros:
+
+### 1. `allow_origins`
+```python
+allow_origins=get_settings().cors_origins
+```
+
+- O que faz: define quais origens (domínios) podem fazer requisições ao backend.
+- Exemplo: se o frontend roda em `http://localhost:3000`, essa origem deve estar na lista.
+- Valores possíveis:
+  - Lista: `["http://localhost:3000", "https://app.exemplo.com"]`
+  - `["*"]`: permite qualquer origem (não recomendado em produção)
+- Por que importa: sem isso, o navegador bloqueia requisições de origens diferentes por política de mesma origem.
+
+### 2. `allow_credentials`
+```python
+allow_credentials=True
+```
+
+- O que faz: permite enviar cookies, headers de autenticação e credenciais nas requisições.
+- Quando usar: necessário quando o frontend envia cookies (ex.: sessão) ou tokens JWT via cookies.
+- Importante: se `allow_credentials=True`, não use `allow_origins=["*"]`; especifique as origens permitidas.
+- Exemplo: se o frontend envia o token JWT em um cookie, isso precisa estar `True`.
+
+### 3. `allow_methods`
+```python
+allow_methods=["*"]
+```
+
+- O que faz: define quais métodos HTTP são permitidos.
+- Valores possíveis:
+  - `["*"]`: permite todos (GET, POST, PUT, DELETE, PATCH, OPTIONS, etc.)
+  - Lista específica: `["GET", "POST", "PUT", "DELETE"]`
+- Exemplo prático: se o frontend só faz GET e POST, pode restringir para `["GET", "POST"]`.
+
+### 4. `allow_headers`
+```python
+allow_headers=["*"]
+```
+
+- O que faz: define quais headers HTTP o frontend pode enviar.
+- Valores possíveis:
+  - `["*"]`: permite todos
+  - Lista específica: `["Content-Type", "Authorization", "X-Requested-With"]`
+- Exemplo prático: se você envia `Authorization: Bearer <token>`, esse header precisa estar permitido.
+
+## Exemplo prático da sua configuração
+
+```python
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=get_settings().cors_origins,  # Ex: ["http://localhost:3000"]
+    allow_credentials=True,                      # Permite cookies/tokens
+    allow_methods=["*"],                        # Permite todos os métodos HTTP
+    allow_headers=["*"],                         # Permite todos os headers
+)
+```
+
+## Recomendações de segurança
+
+Para produção, considere restringir:
+
+```python
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://app.exemplo.com"],  # Apenas seu domínio
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "PUT", "DELETE"],  # Apenas métodos necessários
+    allow_headers=["Content-Type", "Authorization"],  # Apenas headers necessários
+)
+```
+
+Isso reduz a superfície de ataque e segue o princípio do menor privilégio.
+
+## Resumo visual
+
+```
+Frontend (http://localhost:3000)
+    ↓
+    Requisição com:
+    - Origin: http://localhost:3000
+    - Method: POST
+    - Headers: Authorization, Content-Type
+    ↓
+CORSMiddleware verifica:
+    ✓ allow_origins → Permite?
+    ✓ allow_methods → Permite POST?
+    ✓ allow_headers → Permite Authorization?
+    ✓ allow_credentials → Permite cookies?
+    ↓
+Backend processa a requisição
+```
+
+Quer que eu verifique a configuração atual do `cors_origins` no seu `config.py`?
