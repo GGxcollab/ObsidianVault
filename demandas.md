@@ -1,6 +1,6 @@
 - O **projeto DevSecOps** tem como objetivo desenvolver uma plataforma web que facilite a aplicação automatizada de templates de CI/CD oriundos do projeto PASSC do Azure DevOps em projetos da organização
 
-- Criação e refinamento do chatbot (R3vense)
+- Criação e refinamento do chatbot R3vense que é um chatbot inteligente projetado para auxiliar e executar ações relacionadas à área de Segurança Cibernética. O sistema utiliza inteligência artificial (Azure OpenAI) com orquestração automática de ferramentas via MCP (Model Context Protocol) para fornecer respostas contextuais e executar ações em sistemas de segurança.
 
 - Integração do fluxo do Sentinel e ServiceNow, afim de fechar os incidentes criando as classificações dos mesmos baseados nos comentários de resolução escrito pelo analista e no tipo de incidente
 
@@ -15,3 +15,7 @@
 	4. Retorna o documento via API para o solicitante
 	
 	**Em outras palavras:** É uma ponte automatizada entre sistemas externos e o JusBr - você envia o número do processo, a solução busca a petição inicial no portal e devolve o documento, tudo via API.
+
+### a fazer
+
+- regf
