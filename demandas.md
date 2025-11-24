@@ -1,4 +1,4 @@
-- O **projeto DevSecOps** tem como objetivo desenvolver uma plataforma web que facilite a aplicação automatizada de templates de CI/CD oriundos do projeto PASSC do Azure DevOps em projetos da organização
+- O **projeto DevSecOps** tem como objetivo desenvolver uma plataforma web que facilite a aplicação automatizada de templates de CI/CD oriundos do projeto PASSC do Azure DevOps em projetos da organização - Aplicação do fluxo deploy do arquivo 
 
 - **R3vense** - Criação e refinamento do chatbot R3vense que é um chatbot inteligente projetado para auxiliar e executar ações relacionadas à área de Segurança Cibernética. O sistema utiliza inteligência artificial (Azure OpenAI) com orquestração automática de ferramentas via MCP (Model Context Protocol que é Um protocolo que padroniza a comunicação entre modelos de IA e serviços externos (ferramentas, bancos de dados, etc.).) para fornecer respostas contextuais e executar ações em sistemas de segurança.
 
