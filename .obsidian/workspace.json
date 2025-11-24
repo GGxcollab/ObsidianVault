@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "CORS e Middleware"
             }
+          },
+          {
+            "id": "7ce31a89a658a6ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,10 +210,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "362825be52289d06",
+  "active": "7ce31a89a658a6ec",
   "lastOpenFiles": [
-    "Apresentação.md",
     "CORS e Middleware.md",
+    "Apresentação.md",
     "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "Autenticação decisão rapida.md",
     "Autenticação Azure.md",
