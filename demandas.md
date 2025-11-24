@@ -18,4 +18,4 @@
 
 ### a fazer
 
-- regf
+- Acrescentar mais funcionalidades ao Revense, viabilizando a possibilidade de integração por área que temos dentro da cyber, para ajudar a concet
