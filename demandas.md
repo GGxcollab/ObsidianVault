@@ -19,5 +19,5 @@
 ### a fazer
 
 - Acrescentar mais funcionalidades ao Revense, viabilizando a possibilidade de integração por área que temos dentro da cyber, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
-- Correção da Classificação dos Owners ou seja quem tratou o incidente dentro do fluxo do resolução de incidente do nosso ambiente
+- Correção da Classificação dos Owners ou seja quem tratou o incidente no sysaid dentro do fluxo do resolução de incidente do nosso ambiente
 - **Plataforma Teamie** - Projeto desenvolvido pela necessidade de outras gerências, em terem os próprios bots com base no Cybernotify.
