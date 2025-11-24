@@ -1,4 +1,4 @@
-- O projeto DevSecOps tem como objetivo desenvolver uma plataforma web que facilite a aplicação automatizada de templates de CI/CD oriundos do projeto PASSC do Azure DevOps em projetos da organização
+- O **projeto DevSecOps** tem como objetivo desenvolver uma plataforma web que facilite a aplicação automatizada de templates de CI/CD oriundos do projeto PASSC do Azure DevOps em projetos da organização
 
 - Criação e refinamento do chatbot (R3vense)
 
