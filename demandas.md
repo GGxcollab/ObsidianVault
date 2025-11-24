@@ -1,6 +1,6 @@
 - O **projeto DevSecOps** - Aplicação do fluxo deploy do arquivo azure-pipeline no repositorio do usuário a partir da escolha do usuário pela plataforma web do DevSecOps
 
-- **R3vense** - Criação e refinamento do chatbot R3vense que é um chatbot inteligente projetado para auxiliar e executar ações relacionadas à área de Segurança Cibernética. O sistema utiliza inteligência artificial (Azure OpenAI) com orquestração automática de ferramentas via MCP (Model Context Protocol que é Um protocolo que padroniza a comunicação entre modelos de IA e serviços externos (ferramentas, bancos de dados, etc.).) para fornecer respostas contextuais e executar ações em sistemas de segurança.
+- **R3vense** - Criação e refinamento do chatbot R3vense que é um chatbot inteligente projetado para auxiliar e executar ações relacionadas à nossa área de Cyber. O sistema tambem utiliza inteligência artificial (Azure OpenAI) com orquestração automática de ferramentas via MCP (Model Context Protocol que é Um protocolo que padroniza a comunicação entre modelos de IA e serviços externos (ferramentas, bancos de dados, etc.).) para fornecer respostas contextuais e executar ações em sistemas de segurança.
 
 - **Integração do fluxo do Sentinel e ServiceNow,** afim de fechar os incidentes criando as classificações dos mesmos baseados nos comentários de resolução escrito pelo analista e no tipo de incidente
 
