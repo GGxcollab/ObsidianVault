@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "demandas"
             }
+          },
+          {
+            "id": "6f3ee682318501dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,7 +224,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ce31a89a658a6ec",
+  "active": "6f3ee682318501dc",
   "lastOpenFiles": [
     "demandas.md",
     "CORS e Middleware.md",
