@@ -19,3 +19,4 @@
 ### a fazer
 
 - Acrescentar mais funcionalidades ao Revense, viabilizando a possibilidade de integração por área que temos dentro da cyber, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
+- Correção de 
