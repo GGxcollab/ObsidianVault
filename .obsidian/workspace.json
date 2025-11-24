@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,11 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f3ee682318501dc",
+  "active": "362825be52289d06",
   "lastOpenFiles": [
+    "demandas.md",
     "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
-    "demandas.md",
     "CORS e Middleware.md",
     "Apresentação.md",
     "Autenticação decisão rapida.md",
