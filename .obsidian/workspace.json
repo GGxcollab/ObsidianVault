@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"## SQL injection in different parts of the queryMost SQL injection vulnerabilities occur within the `WHERE` clause of a `SELECT` query. Most experienced testers are familiar with this type of SQL injection.However, SQL injection vulnerabilities can occur at any location within the query, and within different query types. Some other common locations where SQL injection arises are:- In `UPDATE` statements, within the updated values or the `WHERE` clause.- In `INSERT` statements, within the inserted values.- In `SELECT` statements, within the table or column name.- In `SELECT` statements, within the `ORDER BY` clause.\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,10 +198,11 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-translator:Translate": false
     }
   },
-  "active": "362825be52289d06",
+  "active": "7480f0d8ca1d23fd",
   "lastOpenFiles": [
     "CORS e Middleware.md",
     "Application Security RoadMap/Web Penetration/SQL Injection.md",
