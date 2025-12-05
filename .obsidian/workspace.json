@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "47eac141c7bf6bdb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.10.6"
+            }
+          },
+          {
             "id": "362825be52289d06",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4a39800e1b07d06",
+  "active": "47eac141c7bf6bdb",
   "lastOpenFiles": [
     "CORS e Middleware.md",
     "Entrevista.md",
