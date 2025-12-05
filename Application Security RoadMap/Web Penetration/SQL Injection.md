@@ -1,7 +1,7 @@
 # Introdução
 - SQL Injection é onde um atacante insere código SQL malicioso em campos de entrada.
 
-## How to detect SQL injection vulnerabilities
+## Como detectar vulnerabilidades de injeção de SQL: 
 
 You can detect SQL injection manually using a systematic set of tests against every entry point in the application. To do this, you would typically submit:
 
