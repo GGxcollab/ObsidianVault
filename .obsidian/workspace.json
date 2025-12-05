@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security RoadMap/Web Penetration/SQL Injection.md",
+                "file": "Application Security RoadMap/Web Penetration/SQL Injection/Teoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Injection"
+              "title": "Teoria"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "b17778aabb903a9d",
   "lastOpenFiles": [
+    "Application Security RoadMap/Web Penetration/SQL Injection",
     "CORS e Middleware.md",
-    "Application Security RoadMap/Web Penetration/SQL Injection.md",
+    "Application Security RoadMap/Web Penetration/SQL Injection/Teoria.md",
     "Application Security RoadMap/Gestão",
     "Application Security RoadMap/Web Penetration",
     "Application Security RoadMap/DevSecOps",
@@ -241,7 +242,6 @@
     "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
     "Pasted image 20250414141138.png",
     "Pasted image 20250409122758.png",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
     "Udemy-DevSecOps",
     "Teste",
     "Pasted image 20241112160510.png",
