@@ -8,5 +8,5 @@ Você pode detectar injeções de SQL manualmente usando um conjunto sistemátic
 - o caractere de aspas simples `'` e procuraria por erros ou outras anomalias;
 - Alguma sintaxe específica de SQL que avalia o valor base (original) do ponto de entrada e um valor diferente, procurando por diferenças sistemáticas nas respostas do aplicativo;
 - Condições booleanas como `OR 1=1` e `OR 1=2`, procurando por diferenças nas respostas do aplicativo;
-- Payloads designed to trigger time delays when executed within a SQL query, and look for differences in the time taken to respond.
-- OAST payloads designed to trigger an out-of-band network interaction when executed within a SQL query, and monitor any resulting interactions. 
+- Payloads projetados para acionar atrasos quando executados em uma consulta SQL, procurando por diferenças no tempo de resposta;
+- Payloads OAST projetados para acionar uma interação de rede fora da banda quando executados em uma consulta SQL, monitorando quaisquer interações resultantes.
