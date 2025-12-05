@@ -1,5 +1,5 @@
 {
-  "youdaoEnable": false,
+  "youdaoEnable": true,
   "appId": "",
   "secretKey": "",
   "yFrom": "en",
