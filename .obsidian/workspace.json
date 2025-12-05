@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "47eac141c7bf6bdb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.10.6"
-            }
-          },
-          {
             "id": "362825be52289d06",
             "type": "leaf",
             "state": {
@@ -212,8 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47eac141c7bf6bdb",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
+    "Application Security RoadMap/Sem título",
+    "Application Security RoadMap",
+    "Pasted image 20250409122212.png",
     "CORS e Middleware.md",
     "Entrevista.md",
     "demandas.md",
@@ -246,10 +237,8 @@
     "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
     "Pasted image 20250414141138.png",
     "Pasted image 20250409122758.png",
-    "Pasted image 20250409122212.png",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
     "Udemy-DevSecOps",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
     "Teste",
     "Pasted image 20241112160510.png",
     "Pasted image 20241112160418.png",
@@ -259,7 +248,6 @@
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure",
     "AI-102 (Learn Microsoft)/imagens",
     "AI-102 (Learn Microsoft)",
-    "AI-102 (Microsoft Reactor)/Imagens",
     "SC-300/Sem título.canvas"
   ]
 }
