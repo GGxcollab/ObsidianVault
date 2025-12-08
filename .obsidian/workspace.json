@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/1- IAC - O que é isso.md",
+                "file": "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- IAC - O que é isso"
+              "title": "1- Iniciando com Containers"
             }
           }
         ],
@@ -203,8 +203,8 @@
   },
   "active": "362825be52289d06",
   "lastOpenFiles": [
-    "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/2 - Terraform.md",
     "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/1- IAC - O que é isso.md",
+    "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/2 - Terraform.md",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/1- Cultura.md",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
     "Application Security RoadMap/Web Penetration/SQL Injection/Teoria.md",
