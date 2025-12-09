@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering.md",
+                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering/Introduction to Security Engineering.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,9 +203,10 @@
   },
   "active": "362825be52289d06",
   "lastOpenFiles": [
+    "TryHackMe/Security Engineer/Introduction to Security Engineering",
     "TryHackMe/Security Engineer",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/1- Cultura.md",
-    "TryHackMe/Security Engineer/Introduction to Security Engineering.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering/Introduction to Security Engineering.md",
     "TryHackMe",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/3- Redes e Volumes.md",
@@ -248,7 +249,6 @@
     "Teste",
     "Pasted image 20241112160510.png",
     "Pasted image 20241112160418.png",
-    "Entrevista",
     "SC-300/Sem título.canvas"
   ]
 }
