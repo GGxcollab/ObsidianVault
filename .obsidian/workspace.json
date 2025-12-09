@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Sem título.md",
+                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Introduction to Security Engineering"
             }
           }
         ],
@@ -201,11 +201,11 @@
       "obsidian-translator:Translate": false
     }
   },
-  "active": "b17778aabb903a9d",
+  "active": "362825be52289d06",
   "lastOpenFiles": [
     "TryHackMe/Security Engineer",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/1- Cultura.md",
-    "TryHackMe/Security Engineer/Sem título.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering.md",
     "TryHackMe",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/3- Redes e Volumes.md",
