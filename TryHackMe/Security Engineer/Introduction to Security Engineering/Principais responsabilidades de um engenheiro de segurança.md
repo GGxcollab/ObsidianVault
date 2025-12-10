@@ -12,3 +12,5 @@ Um engenheiro de segurança garante que a organização seja segura desde a sua 
 ### Avaliação e Garantia de Segurança
 
 Embora projetar a rede e a infraestrutura da organização de forma segura seja um excelente primeiro passo, um engenheiro de segurança entende que seu trabalho está longe de terminar. Ele compreende que segurança é um trabalho árduo que exige esforço contínuo. Embora um engenheiro de segurança deva garantir que tudo seja feito corretamente, basta uma única brecha para que uma violação seja bem-sucedida. Para mitigar os riscos de um cenário de ameaças em constante evolução, um engenheiro de segurança planeja realizar avaliações de segurança, auditorias e exercícios de Red Team e Purple Team regularmente para aprimorar continuamente a postura de segurança. Embora os engenheiros de segurança possam não realizar avaliações e auditorias diretamente, eles estão principalmente envolvidos em ajudar a agendar essas atividades, criar Solicitações de Cotação (RFQs) para que terceiros realizem essas atividades e ajudar a priorizar e implementar as conclusões obtidas.
+
+![[Pasted image 20251210001859.png]]
