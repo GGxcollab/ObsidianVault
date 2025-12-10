@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7a58a7dc19e54c65",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,11 @@
       "obsidian-translator:Translate": false
     }
   },
-  "active": "64981e7965b6a5dc",
+  "active": "0a2816d7789eaaf0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-09 22.00.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-09 22.00.56.excalidraw.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/O que é um Engenheiro de Segurança.md"
   ]
 }
