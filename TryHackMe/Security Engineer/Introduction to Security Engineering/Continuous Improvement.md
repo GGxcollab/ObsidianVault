@@ -1,6 +1,6 @@
 A segurança de uma organização não é uma tarefa pontual, mas sim um esforço contínuo. Da mesma forma, o trabalho do engenheiro de segurança não termina quando as políticas são elaboradas e implementadas. Pelo contrário, é uma jornada rumo à melhoria contínua. Os passos a seguir auxiliam o engenheiro de segurança a desempenhar essa função.
 
-### Garantir a Conscientização![](https://tryhackme-images.s3.amazonaws.com/user-uploads/61306d87a330ed00419e22e7/room-content/c2378401279a49b88bd5e8c77fc4336e.png)
+### Garantir a Conscientização
 
 Um engenheiro de segurança pode ser encarregado de manter um certo nível de conscientização sobre segurança na organização. Os seres humanos são a base de qualquer organização e, como se costuma dizer, são o elo mais fraco na segurança de uma organização. Um engenheiro de segurança realiza periodicamente sessões de conscientização, focando principalmente em ataques de engenharia social, para garantir que os humanos não cometam erros que possam comprometer a segurança da organização. Sessões de conscientização também são organizadas para equipes específicas, a fim de garantir que elas sigam os princípios de segurança relacionados à sua área de especialização, como desenvolvimento de software seguro ou arquitetura de rede segura.
 
