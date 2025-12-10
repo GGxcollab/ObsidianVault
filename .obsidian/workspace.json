@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autenticação decisão rapida.md",
+                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Autenticação decisão rapida"
+              "title": "Continuous Improvement"
             }
           }
         ],
@@ -189,6 +189,7 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
+    "Autenticação decisão rapida.md",
     "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
     "Excalidraw/Drawing 2025-12-09 22.00.56.excalidraw.md",
     "Excalidraw/Socbot.md",
@@ -222,7 +223,6 @@
     "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
     "Apresentação.md",
-    "Autenticação decisão rapida.md",
     "Autenticação Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
