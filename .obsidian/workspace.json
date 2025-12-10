@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Autenticação decisão rapida"
             }
-          },
-          {
-            "id": "362825be52289d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continuous Improvement"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,15 +187,17 @@
       "obsidian-translator:Translate": false
     }
   },
-  "active": "362825be52289d06",
+  "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
-    "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
+    "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
+    "Excalidraw/Drawing 2025-12-09 22.00.56.excalidraw.md",
+    "Excalidraw/Socbot.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Sem título",
     "TryHackMe/images/Pasted image 20251210001859.png",
     "TryHackMe/images",
     "Excalidraw/Drawing 2025-12-09 22.00.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-09 22.00.56.excalidraw.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/O que é um Engenheiro de Segurança.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering",
     "TryHackMe/Security Engineer",
@@ -239,8 +227,6 @@
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
     "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
     "Pasted image 20250604154810.png",
     "Pasted image 20250604152810.png",
     "Pasted image 20250604151911.png",
