@@ -1,85 +1,42 @@
 {
   "main": {
-    "id": "b6f261dfd655c1fb",
+    "id": "fffb6ec25fff3b7a",
     "type": "split",
     "children": [
       {
-        "id": "5da4a049febb03c1",
+        "id": "9ca2b8a20383ca2c",
         "type": "tabs",
         "children": [
           {
-            "id": "547c5cc7cf1ec6c7",
+            "id": "64981e7965b6a5dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-<<<<<<< HEAD
-                "aFile": ".obsidian/core-plugins.json",
-                "bFile": ".obsidian/core-plugins.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json"
-=======
-                "file": "Autenticação Azure.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Autenticação Azure"
-            }
-          },
-          {
-            "id": "c4a39800e1b07d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autenticação decisão rapida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autenticação decisão rapida"
-            }
-          },
-          {
-            "id": "362825be52289d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principais responsabilidades de um engenheiro de segurança"
->>>>>>> origin/master
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6406bf46443e059d",
+    "id": "197c91a9c3a950d6",
     "type": "split",
     "children": [
       {
-        "id": "d2c5b05985d84fee",
+        "id": "9e71abd907bd6153",
         "type": "tabs",
         "children": [
           {
-            "id": "b17778aabb903a9d",
+            "id": "0a2816d7789eaaf0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -87,7 +44,7 @@
             }
           },
           {
-            "id": "7480f0d8ca1d23fd",
+            "id": "29abfde14f146d85",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +61,7 @@
             }
           },
           {
-            "id": "23e64e9b40281376",
+            "id": "a07611abf362b763",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "edc0a38074bcb555",
+    "id": "7a58a7dc19e54c65",
     "type": "split",
     "children": [
       {
-        "id": "8f04e8105069f401",
+        "id": "4a9ebb15f8a9ba09",
         "type": "tabs",
         "children": [
           {
-            "id": "4c09ad023b3e5798",
+            "id": "831ab1deae7408c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/Introdução aos Serviços de IA do Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Introdução aos Serviços de IA do Azure"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "31997d5f25d2931f",
+            "id": "5a64fe0b43c279fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/Introdução aos Serviços de IA do Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Introdução aos Serviços de IA do Azure"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "7b9892dd6881f605",
+            "id": "64c5c39572dbacbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,156 +131,54 @@
             }
           },
           {
-            "id": "5168abfb6cc3974e",
+            "id": "1d719a41abad0ab7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "d6dc06f1be07b653",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de DevSecOps com GitHub Actions"
-            }
-          },
-          {
-            "id": "f58fea827a97c835",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário"
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 4
-=======
-        "currentTab": 2
->>>>>>> origin/master
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-<<<<<<< HEAD
       "bases:Criar nova base": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
-=======
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-translator:Translate": false
->>>>>>> origin/master
     }
   },
-  "active": "362825be52289d06",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
-    "SC-300/images/Pasted image 20240820161656.png~RF43045f.TMP",
-    "SC-300/images/Pasted image 20240814113735.png~RF430171.TMP",
-    "SC-300/images/Pasted image 20240812150854.png~RF42ffea.TMP",
-    "Rocketseat/DevOps/images/Pasted image 20250128183512.png~RF42fae9.TMP",
-    "Rocketseat/DevOps/images/Pasted image 20250128171432.png~RF42f8d6.TMP",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241023114826.png~RF42eb97.TMP",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003170340.png~RF42e473.TMP",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241003143628.png~RF42e260.TMP",
-    "AI-102 (Microsoft Reactor)/Imagens/Pasted image 20241002160915.png~RF42deb6.TMP",
-    "AI-102 (Learn Microsoft)/imagens/Pasted image 20241111135736.png~RF42d494.TMP",
-    "Entrevista/React.md",
-    "Pasted image 20241112160510.png",
-    "Pasted image 20241112160418.png",
-    "Pasted image 20241112153217.png",
-    "Pasted image 20241112152613.png",
-    "Pasted image 20241112152357.png",
-    "Pasted image 20241112151809.png",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar soluções de respostas às perguntas com a Linguagem de IA do Azure.md",
-    "Pasted image 20241111135736.png",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
-    "Pasted image 20241107151552.png",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar Vídeo.md",
-    "Pasted image 20241106152304.png",
-    "Pasted image 20241106150712.png",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Analisar imagens.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Implantar os serviços de IA do Azure em contêineres.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
-    "AI-102 (Learn Microsoft)/Sem título.md",
-    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 03.md",
-    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 01.md",
-    "AI-102 (Microsoft Reactor)/Treinamento para AI-102 - Dia 02.md",
-    "Sem título.md",
-    "Excalidraw/Drawing 2024-08-16 15.46.40.excalidraw.md",
-    "SC-300/Plan, implement, and manage Access Review - EP12.1.md",
-    "SC-300/Microsoft Identity and Access Administrator EP01.md",
-    "SC-300/Implement an Identify Management Solution EP02.md",
-    "SC-300/Sem título.md",
-    "SC-300/Manage Identities in AzureAD EP04.md",
-=======
-    "TryHackMe/Security Engineer/Introduction to Security Engineering/O que é um Engenheiro de Segurança.md",
-    "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
-    "TryHackMe/Security Engineer/Introduction to Security Engineering",
-    "TryHackMe/Security Engineer",
-    "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/1- Cultura.md",
-    "TryHackMe",
-    "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/3- Redes e Volumes.md",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
-    "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/1- IAC - O que é isso.md",
-    "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/2 - Terraform.md",
-    "Application Security RoadMap/Web Penetration/SQL Injection/Teoria.md",
-    "Application Security RoadMap/Web Penetration/SQL Injection",
-    "CORS e Middleware.md",
-    "Application Security RoadMap/Gestão",
-    "Application Security RoadMap/Web Penetration",
-    "Application Security RoadMap/DevSecOps",
-    "Application Security RoadMap",
-    "Pasted image 20250409122212.png",
-    "Entrevista.md",
-    "demandas.md",
-    "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
-    "Apresentação.md",
-    "Autenticação decisão rapida.md",
-    "Autenticação Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
-    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
-    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
-    "Pasted image 20250604154810.png",
-    "Pasted image 20250604152810.png",
-    "Pasted image 20250604151911.png",
-    "Pasted image 20250604151903.png",
-    "Pasted image 20250604151900.png",
-    "MCP - Model Context Protocol",
-    "Pasted image 20250414141138.png",
-    "Pasted image 20250409122758.png",
-    "Udemy-DevSecOps",
-    "Pasted image 20241112160510.png",
-    "Pasted image 20241112160418.png",
->>>>>>> origin/master
-    "SC-300/Sem título.canvas"
-  ]
+  "active": "64981e7965b6a5dc",
+  "lastOpenFiles": []
 }
