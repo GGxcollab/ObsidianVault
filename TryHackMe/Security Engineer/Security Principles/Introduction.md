@@ -7,8 +7,8 @@ Antes de começarmos a discutir os diferentes princípios de segurança, é fund
 O objetivo desta sala é:
 
 - Explique as funções de segurança: Confidencialidade, Integridade e Disponibilidade ( CIA ).
-- Apresente o oposto da tríade de segurança, CIA : Divulgação, Alteração e Destruição/Negação ( DAD ).
+- Apresente o oposto da tríade de segurança, CIA : Disclosure, Alteration, and Destruction/Denial (DAD).
 - Apresentar os conceitos fundamentais dos modelos de segurança, como o modelo Bell-LaPadula.
-- Explique princípios de segurança como Defesa em Profundidade, Confiança Zero e Confiar, mas Verificar.
+- Explique princípios de segurança como Defence-in-Depth, Zero Trust, and Trust but Verify..
 - Apresentar a norma ISO/IEC 19249.
 - Explique a diferença entre Vulnerabilidade, Ameaça e Risc
