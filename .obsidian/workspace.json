@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80d4a2bcf3920cac",
+        "id": "5da4a049febb03c1",
         "type": "tabs",
         "children": [
           {
-            "id": "37c5462715c8244a",
+            "id": "547c5cc7cf1ec6c7",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
+<<<<<<< HEAD
                 "aFile": ".obsidian/core-plugins.json",
                 "bFile": ".obsidian/core-plugins.json",
                 "aRef": "HEAD",
@@ -20,9 +21,46 @@
               },
               "icon": "diff",
               "title": "Diff: core-plugins.json"
+=======
+                "file": "Autenticação Azure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autenticação Azure"
+            }
+          },
+          {
+            "id": "c4a39800e1b07d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autenticação decisão rapida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autenticação decisão rapida"
+            }
+          },
+          {
+            "id": "362825be52289d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principais responsabilidades de um engenheiro de segurança"
+>>>>>>> origin/master
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.50152587890625
+    "width": 200
   },
   "right": {
     "id": "edc0a38074bcb555",
@@ -129,7 +167,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -141,10 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-102 (Learn Microsoft)/Introdução aos Serviços de IA do Azure.md"
+                "file": "Udemy-DevSecOps/DevSecOps com GitHub Actions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Introdução aos Serviços de IA do Azure"
+              "title": "Sumário de DevSecOps com GitHub Actions"
             }
           },
           {
@@ -158,7 +201,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 4
+=======
+        "currentTab": 2
+>>>>>>> origin/master
       }
     ],
     "direction": "horizontal",
@@ -166,19 +213,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
+<<<<<<< HEAD
       "bases:Criar nova base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
+=======
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-translator:Translate": false
+>>>>>>> origin/master
     }
   },
-  "active": "37c5462715c8244a",
+  "active": "362825be52289d06",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
     "SC-300/images/Pasted image 20240820161656.png~RF43045f.TMP",
     "SC-300/images/Pasted image 20240814113735.png~RF430171.TMP",
@@ -224,6 +278,54 @@
     "SC-300/Implement an Identify Management Solution EP02.md",
     "SC-300/Sem título.md",
     "SC-300/Manage Identities in AzureAD EP04.md",
+=======
+    "TryHackMe/Security Engineer/Introduction to Security Engineering/O que é um Engenheiro de Segurança.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering",
+    "TryHackMe/Security Engineer",
+    "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/1- Cultura.md",
+    "TryHackMe",
+    "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
+    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/3- Redes e Volumes.md",
+    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
+    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
+    "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/1- IAC - O que é isso.md",
+    "Rocketseat/DevOps/Nível 3 - Infraestrutura como código/2 - Terraform.md",
+    "Application Security RoadMap/Web Penetration/SQL Injection/Teoria.md",
+    "Application Security RoadMap/Web Penetration/SQL Injection",
+    "CORS e Middleware.md",
+    "Application Security RoadMap/Gestão",
+    "Application Security RoadMap/Web Penetration",
+    "Application Security RoadMap/DevSecOps",
+    "Application Security RoadMap",
+    "Pasted image 20250409122212.png",
+    "Entrevista.md",
+    "demandas.md",
+    "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
+    "Apresentação.md",
+    "Autenticação decisão rapida.md",
+    "Autenticação Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Preparar-se para desenvolver soluções de IA no Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Proteger os serviços de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Classificação de imagens com modelos personalizados de Visão de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Detecte, analise e reconheça rostos.md",
+    "AI-102 (Learn Microsoft)/2. Criar soluções de pesquisa visual computacional com  Visão de IA do Azure/Ler texto em imagens e documentos com o serviço da Visão de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Criar um modelo de compreensão da linguagem coloquial.md",
+    "AI-102 (Learn Microsoft)/3. Desenvolver  soluções de processamento de linguagem natural com os Serviços de IA do Azure3. Desenvolver/Analisar textos com a Linguagem de IA do Azure.md",
+    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Monitorar os Serviços de IA do Azure.md",
+    "Pasted image 20250604154810.png",
+    "Pasted image 20250604152810.png",
+    "Pasted image 20250604151911.png",
+    "Pasted image 20250604151903.png",
+    "Pasted image 20250604151900.png",
+    "MCP - Model Context Protocol",
+    "Pasted image 20250414141138.png",
+    "Pasted image 20250409122758.png",
+    "Udemy-DevSecOps",
+    "Pasted image 20241112160510.png",
+    "Pasted image 20241112160418.png",
+>>>>>>> origin/master
     "SC-300/Sem título.canvas"
   ]
 }
