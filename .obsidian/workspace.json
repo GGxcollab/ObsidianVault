@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Security Principles/CIA.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIA"
+              "title": "Introduction"
             }
           }
         ],
@@ -189,8 +189,8 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
-    "TryHackMe/Security Engineer/Security Principles/Introduction.md",
     "TryHackMe/Security Engineer/Security Principles/CIA.md",
+    "TryHackMe/Security Engineer/Security Principles/Introduction.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Walking in Their Shoes.md",
     "TryHackMe/Security Engineer/Security Principles",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Additional Roles and Responsibilities.md",
