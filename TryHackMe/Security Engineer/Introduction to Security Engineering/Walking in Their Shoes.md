@@ -1,0 +1,4 @@
+Ao desempenharem suas funções, os engenheiros de segurança devem considerar diversos aspectos da gestão de um negócio, além de garantir sua segurança. Essas considerações podem incluir operações comerciais, custos, facilidade de implementação, facilidade de uso e muito mais. Embora o sistema mais seguro seja aquele desligado e desconectado da energia, tal sistema não atinge nenhum objetivo comercial. Portanto, um engenheiro de segurança deve considerar tanto os objetivos comerciais quanto a segurança ao tomar decisões.
+
+
+Para entender melhor as decisões que um engenheiro de segurança pode tomar no desempenho de suas funções, acesse o site estático. Você pode fazer isso clicando no botão " **Visualizar Site"** abaixo.
