@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Security Principles/Introduction.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/CIA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "CIA"
             }
           }
         ],
@@ -189,8 +189,9 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
-    "TryHackMe/Security Engineer/Introduction to Security Engineering/Walking in Their Shoes.md",
     "TryHackMe/Security Engineer/Security Principles/Introduction.md",
+    "TryHackMe/Security Engineer/Security Principles/CIA.md",
+    "TryHackMe/Security Engineer/Introduction to Security Engineering/Walking in Their Shoes.md",
     "TryHackMe/Security Engineer/Security Principles",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Additional Roles and Responsibilities.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
@@ -226,7 +227,6 @@
     "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
     "Apresentação.md",
-    "Autenticação Azure.md",
     "Pasted image 20250604154810.png",
     "Pasted image 20250604152810.png",
     "Pasted image 20250604151911.png",
