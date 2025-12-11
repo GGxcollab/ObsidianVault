@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Security Principles/CIA.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/DAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIA"
+              "title": "DAD"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TryHackMe/Security Engineer/Security Principles/CIA.md",
+    "TryHackMe/Security Engineer/Security Principles/DAD.md",
+    "conflict-files-obsidian-git.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Additional Roles and Responsibilities.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Walking in Their Shoes.md",
@@ -253,7 +254,6 @@
     "Application Security RoadMap/DevSecOps",
     "Pasted image 20250409122212.png",
     "Entrevista.md",
-    "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
     "Pasted image 20250604151911.png",
     "Pasted image 20250604151903.png",
     "Pasted image 20250604151900.png",
