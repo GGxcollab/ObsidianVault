@@ -7,9 +7,9 @@ Aprendemos que a tríade de segurança é representada por Confidencialidade, In
 
 O Modelo Bell-LaPadula visa alcançar **a confidencialidade** especificando três regras:
 
-- **Propriedade de segurança simples** : Essa propriedade é conhecida como "sem leitura ascendente"; ela estabelece que um sujeito com um nível de segurança inferior não pode ler um objeto com um nível de segurança superior. Essa regra impede o acesso a informações confidenciais acima do nível autorizado.
-- **Propriedade de Segurança Estrela** : Esta propriedade é conhecida como "não escrever"; ela estabelece que um sujeito com um nível de segurança superior não pode escrever em um objeto com um nível de segurança inferior. Esta regra impede a divulgação de informações confidenciais a um sujeito com um nível de segurança inferior.
-- **Propriedade de Segurança Discricionária** : Esta propriedade utiliza uma matriz de acesso para permitir operações de leitura e escrita. Um exemplo de matriz de acesso é mostrado na tabela abaixo e utilizado em conjunto com as duas primeiras propriedades.
+- **Propriedade de segurança simples** (**Simple Security Property**) : Essa propriedade é conhecida como "sem leitura ascendente"; ela estabelece que um sujeito com um nível de segurança inferior não pode ler um objeto com um nível de segurança superior. Essa regra impede o acesso a informações confidenciais acima do nível autorizado.
+- **Propriedade de Segurança Estrela** (**Star Security Property**): Esta propriedade é conhecida como "não escrever"; ela estabelece que um sujeito com um nível de segurança superior não pode escrever em um objeto com um nível de segurança inferior. Esta regra impede a divulgação de informações confidenciais a um sujeito com um nível de segurança inferior.
+- **Propriedade de Segurança Discricionária** (): Esta propriedade utiliza uma matriz de acesso para permitir operações de leitura e escrita. Um exemplo de matriz de acesso é mostrado na tabela abaixo e utilizado em conjunto com as duas primeiras propriedades.
 
 | Assuntos  | Objeto A   | Objeto B  |
 | --------- | ---------- | --------- |
