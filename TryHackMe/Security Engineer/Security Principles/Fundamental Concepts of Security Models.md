@@ -11,10 +11,10 @@ O Modelo Bell-LaPadula visa alcançar **a confidencialidade** especificando tr
 - **Propriedade de Segurança Estrela** : Esta propriedade é conhecida como "não escrever"; ela estabelece que um sujeito com um nível de segurança superior não pode escrever em um objeto com um nível de segurança inferior. Esta regra impede a divulgação de informações confidenciais a um sujeito com um nível de segurança inferior.
 - **Propriedade de Segurança Discricionária** : Esta propriedade utiliza uma matriz de acesso para permitir operações de leitura e escrita. Um exemplo de matriz de acesso é mostrado na tabela abaixo e utilizado em conjunto com as duas primeiras propriedades.
 
-| Assuntos  | Objeto A     | Objeto B |
-| --------- | ------------ | -------- |
-| Assunto 1 | Write        | no acess |
-| Assunto 2 | Ler/Escrever | Ler      |
+| Assuntos  | Objeto A   | Objeto B  |
+| --------- | ---------- | --------- |
+| Assunto 1 | Write      | No access |
+| Assunto 2 | Read/Write | Read      |
 
 As duas primeiras propriedades podem ser resumidas como "redigir para cima, ler para baixo". Você pode compartilhar informações confidenciais com pessoas com nível de segurança mais alto (redigir para cima) e pode receber informações confidenciais de pessoas com nível de segurança mais baixo (ler para baixo).
 
