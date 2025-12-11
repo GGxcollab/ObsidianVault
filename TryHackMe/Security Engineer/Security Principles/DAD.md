@@ -6,11 +6,11 @@ A segurança de um sistema pode ser atacada por diversos meios. Isso pode ocorre
 - **A alteração** é o oposto da integridade. Por exemplo, a integridade de um cheque é indispensável.
 - **Destruição/Negação** é o oposto de Disponibilidade.
 
-O oposto da Tríade da CIA seria a Tríade DAD : Revelação, Alteração e Destruição.
+O oposto da Tríade da CIA seria a Tríade DAD : Divulgação, Alteração e Destruição.
 
 Considere o exemplo anterior de registros de pacientes e sistemas relacionados:
 
-- Aviso: Como na maioria dos países modernos, os profissionais de saúde devem manter a confidencialidade dos registros médicos. Consequentemente, se um invasor conseguir roubar alguns desses registros e divulgá-los online para visualização pública, o profissional de saúde sofrerá prejuízos devido a esse ataque de divulgação de dados.
+- Divulgação: Como na maioria dos países modernos, os profissionais de saúde devem manter a confidencialidade dos registros médicos. Consequentemente, se um invasor conseguir roubar alguns desses registros e divulgá-los online para visualização pública, o profissional de saúde sofrerá prejuízos devido a esse ataque de divulgação de dados.
 - Alteração: Considere a gravidade da situação caso o atacante consiga modificar os registros médicos dos pacientes. Esse ataque de alteração pode levar à administração de tratamento incorreto e, consequentemente, ser fatal.
 - Destruição/Negação: Considere o caso de uma clínica médica que adotou completamente o formato digital. Se um invasor conseguir tornar os sistemas de banco de dados indisponíveis, a clínica não poderá funcionar adequadamente. Ela pode até voltar a usar papel temporariamente, mas os registros dos pacientes não estarão disponíveis. Esse ataque de negação paralisaria toda a clínica.
 
