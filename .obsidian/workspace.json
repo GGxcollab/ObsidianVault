@@ -179,9 +179,19 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "62cf3f11872477a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,11 +214,12 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "TryHackMe/Security Engineer/Security Principles/CIA.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Additional Roles and Responsibilities.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Walking in Their Shoes.md",
     "TryHackMe/Security Engineer/Security Principles/Introduction.md",
-    "TryHackMe/Security Engineer/Security Principles/CIA.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/O que é um Engenheiro de Segurança.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
     "demandas.md",
@@ -243,7 +254,6 @@
     "Pasted image 20250409122212.png",
     "Entrevista.md",
     "MCP - Model Context Protocol/MCP - Model Context Protocol.md",
-    "AI-102 (Learn Microsoft)/1. Introdução aos Serviços de IA do Azure/Criar e consumir os serviços de IA do Azure.md",
     "Pasted image 20250604151911.png",
     "Pasted image 20250604151903.png",
     "Pasted image 20250604151900.png",

@@ -37,7 +37,7 @@ No comércio eletrônico, dependendo do seu negócio, você pode tolerar tentar 
 
 Como empresa, ao receber um pedido de 1000 carros, é fundamental garantir a autenticidade do pedido; além disso, a fonte não deve poder negar ter feito tal encomenda. Sem autenticidade e garantia de não repúdio, o negócio não pode ser realizado.
 
-### Hêxade Parkeriana
+### Parkerian Hexad
 
 Em 1998, Donn Parker propôs a Hexade Parkeriana, um conjunto de seis elementos de segurança. São eles:
 
