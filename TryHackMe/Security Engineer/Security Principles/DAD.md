@@ -17,3 +17,5 @@ Considere o exemplo anterior de registros de pacientes e sistemas relacionados:
 A proteção contra divulgação, alteração e destruição/negação é de suma importância. Essa proteção equivale a trabalhar para manter a confidencialidade, a integridade e a disponibilidade.  
   
 Proteger a confidencialidade e a integridade ao extremo pode restringir a disponibilidade, e aumentar a disponibilidade ao extremo pode resultar na perda da confidencialidade e da integridade. A implementação de bons princípios de segurança requer um equilíbrio entre os três.
+
+![[Pasted image 20251211200006.png]]

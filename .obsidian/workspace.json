@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Security Principles/DAD.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/Fundamental Concepts of Security Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAD"
+              "title": "Fundamental Concepts of Security Models"
             }
           }
         ],
@@ -214,8 +214,10 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
-    "TryHackMe/Security Engineer/Security Principles/CIA.md",
     "TryHackMe/Security Engineer/Security Principles/DAD.md",
+    "TryHackMe/Security Engineer/Security Principles/Fundamental Concepts of Security Models.md",
+    "Pasted image 20251211200006.png",
+    "TryHackMe/Security Engineer/Security Principles/CIA.md",
     "conflict-files-obsidian-git.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Continuous Improvement.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Additional Roles and Responsibilities.md",
@@ -253,13 +255,11 @@
     "Application Security RoadMap/Web Penetration",
     "Application Security RoadMap/DevSecOps",
     "Pasted image 20250409122212.png",
-    "Entrevista.md",
     "Pasted image 20250604151911.png",
     "Pasted image 20250604151903.png",
     "Pasted image 20250604151900.png",
     "Pasted image 20250414141138.png",
     "Pasted image 20250409122758.png",
-    "Pasted image 20241112160510.png",
     "SC-300/Sem título.canvas"
   ]
 }
