@@ -34,4 +34,66 @@ Você pode detectar injeções de SQL manualmente usando um conjunto sistemátic
 - Payloads projetados para acionar atrasos quando executados em uma consulta SQL, procurando por diferenças no tempo de resposta;
 - Payloads OAST projetados para acionar uma interação de rede fora da banda quando executados em uma consulta SQL, monitorando quaisquer interações resultantes.
 
-a
+## Injeção de SQL em diferentes partes da consulta
+
+A maioria das vulnerabilidades de injeção de SQL ocorre dentro da `WHERE`cláusula de uma `SELECT`consulta. A maioria dos testadores experientes está familiarizada com esse tipo de injeção de SQL.
+
+No entanto, vulnerabilidades de injeção de SQL podem ocorrer em qualquer local da consulta e em diferentes tipos de consulta. Alguns outros locais comuns onde a injeção de SQL surge são:
+
+- Nas `UPDATE`declarações, dentro dos valores atualizados ou da `WHERE`cláusula.
+- Nas `INSERT`declarações, dentro dos valores inseridos.
+- Nas `SELECT`declarações, dentro do nome da tabela ou da coluna.
+- Nas `SELECT`declarações, dentro da `ORDER BY`cláusula.
+
+## exemplos de injeção de SQL
+
+Existem diversas vulnerabilidades, ataques e técnicas de injeção de SQL que ocorrem em diferentes situações. Alguns exemplos comuns de injeção de SQL incluem:
+
+- [Recuperação de dados ocultos](https://portswigger.net/web-security/sql-injection#retrieving-hidden-data) , onde você pode modificar uma consulta SQL para retornar resultados adicionais.
+- [Subverter a lógica da aplicação](https://portswigger.net/web-security/sql-injection#subverting-application-logic) , onde você pode alterar uma consulta para interferir na lógica da aplicação.
+- [Ataques UNION](https://portswigger.net/web-security/sql-injection/union-attacks) , nos quais é possível recuperar dados de diferentes tabelas do banco de dados.
+- [Injeção SQL cega](https://portswigger.net/web-security/sql-injection/blind) , onde os resultados de uma consulta que você controla não são retornados nas respostas do aplicativo.
+
+## Recuperando dados ocultos
+
+Imagine um aplicativo de compras que exibe produtos em diferentes categorias. Quando o usuário clica na categoria **Presentes** , o navegador solicita a seguinte URL:
+
+`https://insecure-website.com/products?category=Gifts`
+
+Isso faz com que o aplicativo execute uma consulta SQL para recuperar detalhes dos produtos relevantes do banco de dados:
+
+`SELECT * FROM products WHERE category = 'Gifts' AND released = 1`
+
+Esta consulta SQL solicita ao banco de dados que retorne:
+
+- todos os detalhes ( `*`)
+- da `products`tabela
+- onde `category`é`Gifts`
+- e `released`é `1`.
+
+A restrição `released = 1`está sendo usada para ocultar produtos que ainda não foram lançados. Podemos presumir que, para produtos não lançados, `released = 0`...
+
+O aplicativo não implementa nenhuma defesa contra ataques de injeção de SQL. Isso significa que um invasor pode construir o seguinte ataque, por exemplo:
+
+`https://insecure-website.com/products?category=Gifts'--`
+
+Isso resulta na seguinte consulta SQL:
+
+`SELECT * FROM products WHERE category = 'Gifts'--' AND released = 1`
+
+É importante notar que `&&` `--`é um indicador de comentário em SQL. Isso significa que o restante da consulta é interpretado como um comentário, removendo-o efetivamente. Neste exemplo, isso significa que a consulta não inclui mais `&&` `AND released = 1`. Como resultado, todos os produtos são exibidos, incluindo aqueles que ainda não foram lançados.
+
+Você pode usar um ataque semelhante para fazer com que o aplicativo exiba todos os produtos de qualquer categoria, incluindo categorias que ele desconhece:
+
+`https://insecure-website.com/products?category=Gifts'+OR+1=1--`
+
+Isso resulta na seguinte consulta SQL:
+
+`SELECT * FROM products WHERE category = 'Gifts' OR 1=1--' AND released = 1`
+
+A consulta modificada retorna todos os itens onde `is` é ` `category`true` `Gifts`, ou ` `1`is` é igual a `true` `1`. Como ` `1=1`is` é sempre verdadeiro, a consulta retorna todos os itens.
+
+#### Aviso
+
+Tenha cuidado ao inserir a condição `OR 1=1`em uma consulta SQL. Mesmo que pareça inofensiva no contexto em que está sendo inserida, é comum que aplicativos usem dados de uma única solicitação em várias consultas diferentes. Se a sua condição atingir uma instrução `UPDATE`OR `DELETE`, por exemplo, isso pode resultar em perda acidental de dados.
+
