@@ -3,6 +3,16 @@
 - A injeção de SQL (SQLi) é uma vulnerabilidade de segurança web que permite a um atacante interferir nas consultas que uma aplicação faz ao seu banco de dados. Isso pode permitir que um atacante visualize dados que normalmente não conseguiria recuperar. Esses dados podem incluir informações pertencentes a outros usuários ou quaisquer outros dados aos quais a aplicação tenha acesso. Em muitos casos, um atacante pode modificar ou excluir esses dados, causando alterações permanentes no conteúdo ou comportamento da aplicação.
 - Em algumas situações, um atacante pode escalar um ataque de injeção de SQL para comprometer o servidor subjacente ou outra infraestrutura de back-end. Isso também pode permitir a realização de ataques de negação de serviço (DoS).
 
+## Qual o impacto de um ataque de injeção de SQL bem-sucedido?
+
+Um ataque de injeção de SQL bem-sucedido pode resultar em acesso não autorizado a dados confidenciais, tais como:
+
+- Senhas.
+- Dados do cartão de crédito.
+- Informações pessoais do usuário.
+
+Ataques de injeção de SQL têm sido usados ​​em muitas violações de dados de alto perfil ao longo dos anos. Esses ataques causaram danos à reputação e multas regulatórias. Em alguns casos, um invasor pode obter uma porta dos fundos persistente nos sistemas de uma organização, levando a uma violação de segurança de longo prazo que pode passar despercebida por um longo período.
+
 ## SQL injection in different parts of the query
 
 Most SQL injection vulnerabilities occur within the `WHERE` clause of a `SELECT` query. Most experienced testers are familiar with this type of SQL injection.
