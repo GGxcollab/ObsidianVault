@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security RoadMap/Web Penetration/SQL Injection/Union.md",
+                "file": "Application Security RoadMap/Web Penetration/SQL Injection/UNION attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Union"
+              "title": "UNION attacks"
             }
           }
         ],
@@ -215,7 +215,7 @@
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
     "Application Security RoadMap/Web Penetration/SQL Injection/Teoria.md",
-    "Application Security RoadMap/Web Penetration/SQL Injection/Union.md",
+    "Application Security RoadMap/Web Penetration/SQL Injection/UNION attacks.md",
     "TryHackMe/Security Engineer/Security Principles/Fundamental Concepts of Security Models.md",
     "TryHackMe/Security Engineer/Security Principles/DAD.md",
     "Pasted image 20251211200006.png",
