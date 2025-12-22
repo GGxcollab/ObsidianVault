@@ -20,6 +20,6 @@
 
 ### a fazer
 
-- Acrescentar mais funcionalidades ao Revense, sendo elas: criação de roles baseadas nas equipes aqui de cyber, mcps travados para, viabilizando a possibilidade de integração por área que temos dentro da cyber, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
-- Correção da Classificação dos Owners no Sentinel a apartir do momento em que o incidente for tratado e solucionado pelo N2, tudo isso no nosso ambiente da BBTS
+- Acrescentar mais funcionalidades ao Revense, sendo elas: criação de roles baseadas nas equipes aqui de cyber, mcps travados para cada área, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
+- 
 - **Plataforma Teamie** - Projeto desenvolvido pela necessidade de outras gerências, em terem os próprios bots com base no Cybernotify.
