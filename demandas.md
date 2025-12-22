@@ -4,7 +4,7 @@
 
 - **Integração do fluxo do Sentinel e ServiceNow,** afim de fechar os incidentes criando as classificações dos mesmos baseados nos comentários de resolução escrito pelo analista e no tipo de incidente
 
-- **Automação JusBR** - 
+- **Automação JusBR** - (ATUALMENTE PARADA POR NÃO TER UMA SOLUÇ)
 	- **Objetivo Principal:** Automatizar a captura e entrega de petições iniciais de processos judiciais através de integração com o portal JusBr.
 
 	**Como funciona:**
