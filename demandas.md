@@ -21,5 +21,5 @@
 ### a fazer
 
 - Acrescentar mais funcionalidades ao Revense, sendo elas: criação de roles baseadas nas equipes aqui de cyber, mcps travados para cada área, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
-- 
+- Verificar as plataformas que verifica a reputação de IPs
 - **Plataforma Teamie** - Projeto desenvolvido pela necessidade de outras gerências, em terem os próprios bots com base no Cybernotify.
