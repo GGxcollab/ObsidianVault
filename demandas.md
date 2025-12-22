@@ -23,4 +23,4 @@
 - Acrescentar mais funcionalidades ao Revense, sendo elas: criação de roles baseadas nas equipes aqui de cyber, mcps travados para cada área, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
 - Analisando as plataformas/serviços que verifica a reputação de IPs afim de identificar se esses ips sao ou malicioso ou é proxy ou vpn e a partir disso identificar quais sãos as 3 melhores serviços que podemos usar e criar relatorios para elas
 - **Plataforma Teamie** - Projeto desenvolvido pela necessidade de outras gerências, em terem os próprios bots com base no Cybernotify.
-- Criação do honeypot para o BBA, que iremos pef
+- Criação do honeypot para o BBA, que iremos pegar mais informações sobre o fluxo e qual o objetivo principal com o Richard
