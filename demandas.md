@@ -1,4 +1,4 @@
-- O **Plataforma DevSecOps** - minha ultima demanda foi a aplicação do fluxo deploy do arquivo azure-pipeline no repositorio do usuário a partir da escolha do usuário pela plataforma web
+- O **Plataforma DevSecOps** -  conversamos com o carlos e vamos dar u 
 
 - **R3vense** - Criação e refinamento do chatbot R3vense que é um chatbot inteligente projetado para auxiliar e executar ações relacionadas à nossa área de Cyber. O sistema tambem utiliza inteligência artificial (Azure OpenAI) com orquestração automática de ferramentas via MCP (Model Context Protocol que é Um protocolo que padroniza a comunicação entre modelos de IA e serviços externos (ferramentas, bancos de dados, etc.).) para fornecer respostas contextuais e executar ações em sistemas de segurança.
 	- Entregue o MVP do projeto previsto na OKR, onde os usuários responsáveis ja podem logar e fazer suas consultas baseadas no Sentinel e playbook e contextos gerais relacionados a
@@ -23,4 +23,4 @@
 - Acrescentar mais funcionalidades ao Revense, sendo elas: criação de roles baseadas nas equipes aqui de cyber, mcps travados para cada área, para ajudar a centralizar so conhecimentos dentro do chatbot e ajudar os times a tomarem decisoes e fazerem suas demandas 
 - Analisando as plataformas/serviços que verifica a reputação de IPs afim de identificar se esses ips sao ou malicioso ou é proxy ou vpn e a partir disso identificar quais sãos as 3 melhores serviços que podemos usar e criar relatorios para elas
 - **Plataforma Teamie** - Projeto desenvolvido pela necessidade de outras gerências, em terem os próprios bots com base no Cybernotify.
-- Cria
+- Criação do honeypot para o BBA 
