@@ -2,7 +2,7 @@
 	- Entregue o MVP do projeto previsto na OKR, onde os usuários responsáveis ja podem logar e fazer suas consultas baseadas no Sentinel e playbook e contextos gerais relacionados a
 	- cybersegurança
 
-- **Integração do fluxo do Sentinel e ServiceNow,** afim de fechar os incidentes criando as classificações dos mesmos baseados nos comentários de resolução escrito pelo analista e no tipo de incidente.
+- **fluxo de Integração do Sentinel e ServiceNow,** afim de fechar os incidentes criando as classificações dos mesmos baseados nos comentários de resolução escrito pelo analista e no tipo de incidente.
 
 - **Automação JusBR** - (ATUALMENTE PARADA POR NÃO TER UMA SOLUÇÃO PARA O CAPTCHA)
 	- **Objetivo Principal:** Automatizar a captura e entrega de petições iniciais de processos judiciais através de integração com o portal JusBr.
