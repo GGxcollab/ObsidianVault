@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demandas.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "demandas"
+              "title": "Introduction"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
+    "demandas.md",
     "Application Security RoadMap/Web Penetration/SQL Injection/UNION attacks.md",
     "Application Security RoadMap/Web Penetration/SQL Injection/Introduction.md",
     "TryHackMe/Security Engineer/Security Principles/Fundamental Concepts of Security Models.md",
@@ -227,7 +228,6 @@
     "TryHackMe/Security Engineer/Security Principles/Introduction.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/O que é um Engenheiro de Segurança.md",
     "TryHackMe/Security Engineer/Introduction to Security Engineering/Principais responsabilidades de um engenheiro de segurança.md",
-    "demandas.md",
     "Apresentação.md",
     "Pasted image 20250604154810.png",
     "Pasted image 20250604152810.png",
