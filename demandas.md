@@ -1,6 +1,5 @@
 - **R3vense** - Criação e refinamento do chatbot R3vense que é um chatbot inteligente projetado para auxiliar e executar ações relacionadas à nossa área de Cyber. O sistema tambem utiliza inteligência artificial (Azure OpenAI) com orquestração automática de ferramentas via MCP (Model Context Protocol que é Um protocolo que padroniza a comunicação entre modelos de IA e serviços externos (ferramentas, bancos de dados, etc.).) para fornecer respostas contextuais e executar ações em sistemas de segurança.
-	- Entregue o MVP do projeto previsto na OKR, onde os usuários responsáveis ja podem logar e fazer suas consultas baseadas no Sentinel e playbook e contextos gerais relacionados a
-	- cybersegurança
+	- Entregue o MVP do projeto previsto na OKR, onde os usuários responsáveis ja podem logar e fazer suas consultas baseadas no Sentinel e playbook e contextos gerais relacionados a cybersegurança
 
 - **fluxo de Integração do Sentinel e ServiceNow,** afim de fechar os incidentes criando as classificações dos mesmos baseados nos comentários de resolução escrito pelo analista e no tipo de incidente.
 
