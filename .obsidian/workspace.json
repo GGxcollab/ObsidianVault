@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Security Principles/Threat versus Risk.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/Conclusão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threat versus Risk"
+              "title": "Conclusão"
             }
           }
         ],
@@ -212,10 +212,12 @@
       "obsidian-translator:Translate": false
     }
   },
-  "active": "c4a39800e1b07d06",
+  "active": "b17778aabb903a9d",
   "lastOpenFiles": [
-    "TryHackMe/Security Engineer/Security Principles/Zero Trust versus Trust but Verify.md",
+    "TryHackMe/Security Engineer/Sem título",
     "TryHackMe/Security Engineer/Security Principles/Threat versus Risk.md",
+    "TryHackMe/Security Engineer/Security Principles/Conclusão.md",
+    "TryHackMe/Security Engineer/Security Principles/Zero Trust versus Trust but Verify.md",
     "TryHackMe/Security Engineer/Security Principles/ISO - IEC 19249.md",
     "Pasted image 20251230153851.png",
     "TryHackMe/Security Engineer/Security Principles/Fundamental Concepts of Security Models.md",
@@ -249,8 +251,6 @@
     "TryHackMe/Security Engineer",
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/1- Cultura.md",
     "TryHackMe",
-    "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/3- Redes e Volumes.md",
     "Application Security RoadMap/Web Penetration/SQL Injection",
     "Application Security RoadMap/Gestão",
     "Application Security RoadMap/Web Penetration",
