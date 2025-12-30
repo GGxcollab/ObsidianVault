@@ -1,0 +1,3 @@
+**Defesa em Profundidade** refere-se à criação de um sistema de segurança com múltiplos níveis; por isso, também é chamado de Segurança Multinível.
+
+Considere a seguinte analogia: você tem uma gaveta trancada onde guarda seus documentos importantes e objetos de valor. A gaveta está trancada; no entanto, você quer que essa fechadura seja a única coisa que impeça um ladrão de acessar seus itens valiosos? Se pensarmos em segurança multinível, o ideal seria que a gaveta estivesse trancada, o cômodo correspondente também, a porta principal do apartamento, o portão do prédio, e talvez até mesmo algumas câmeras de segurança. Embora esses múltiplos níveis de segurança não impeçam todos os ladrões, eles bloqueariam a maioria e dificultariam a ação dos demais.
