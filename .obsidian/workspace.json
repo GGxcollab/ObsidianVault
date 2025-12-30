@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Security Engineer/Security Principles/Sem título.md",
+                "file": "TryHackMe/Security Engineer/Security Principles/Zero Trust versus Trust but Verify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Zero Trust versus Trust but Verify"
             }
           }
         ],
@@ -214,8 +214,10 @@
   },
   "active": "c4a39800e1b07d06",
   "lastOpenFiles": [
+    "TryHackMe/Security Engineer/Security Principles/ISO - IEC 19249.md",
+    "TryHackMe/Security Engineer/Security Principles/Zero Trust versus Trust but Verify.md",
+    "Pasted image 20251230153851.png",
     "TryHackMe/Security Engineer/Security Principles/Fundamental Concepts of Security Models.md",
-    "TryHackMe/Security Engineer/Security Principles/Sem título.md",
     "TryHackMe/Security Engineer/Security Principles/Defense-in-Depth.md",
     "TryHackMe/Security Engineer/Security Principles/Introduction.md",
     "demandas.md",
@@ -249,7 +251,6 @@
     "Rocketseat/DevOps/Nivel 1 - Fundamentos de DevOps/2- CALMS.md",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/3- Redes e Volumes.md",
     "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/2- Criando nosso primeira imagem.md",
-    "Rocketseat/DevOps/Nível 2- Primeiros passos com Docker/1- Iniciando com Containers.md",
     "Application Security RoadMap/Web Penetration/SQL Injection",
     "Application Security RoadMap/Gestão",
     "Application Security RoadMap/Web Penetration",
@@ -259,7 +260,6 @@
     "Pasted image 20250604151903.png",
     "Pasted image 20250604151900.png",
     "Pasted image 20250414141138.png",
-    "Pasted image 20250409122758.png",
     "SC-300/Sem título.canvas"
   ]
 }
